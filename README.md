@@ -1,3 +1,6 @@
-# Brazil
+# World
 
-Football data for Brazil (Brasil) incl.  Campeonato Brasileiro Série A / Brasileirão etc.
+Football data includes:
+
+- Brazil (Brasil) incl.  Campeonato Brasileiro Série A / Brasileirão etc.
+
