@@ -1,0 +1,48 @@
+# Clubs by Geo(graphy)
+
+- **Buenos Aires** (8): 
+  - All Boys  (1) Club Atlético All Boys
+  - Argentinos Juniors  (4) Argentinos · Argentinos Jrs · Argentinos Jun · Asociación Atlética Argentinos Juniors
+  - Boca Juniors  (3) Boca · Boca Jrs · Club Atlético Boca Juniors
+  - Huracán  (2) CA Huracán · Club Atlético Huracán
+  - Nueva Chicago  (1) Club Atlético Nueva Chicago
+  - River Plate  (3) River · CA River Plate · Club Atlético River Plate
+  - San Lorenzo  (4) San Lorenzo de Almagro · CA San Lorenzo · CA San Lorenzo de Almagro · Club Atlético San Lorenzo de Almagro
+  - Vélez Sarsfield  (6) Vélez · Vélez Sarsf · Velez Sarsfield · CA Vélez · CA Vélez Sarsfield · Club Atlético Vélez Sarsfield
+- **Avellaneda** (2): 
+  - CA Independiente de Avellaneda  (3) Independiente · CA Independiente · Club Atlético Independiente
+  - Racing Club  (2) Racing · Racing Club de Avellaneda
+- **Córdoba** (2): 
+  - Club Atlético Belgrano  (3) Belgrano · Belgrano (Córdoba) · Belgrano de Córdoba
+  - Talleres de Córdoba  (4) Talleres · Talleres C. · Talleres Cordoba · Club Atlético Talleres
+- **La Plata** (2): 
+  - Estudiantes LP  (4) Club Estudiantes de La Plata · Estudiantes de La Plata · Estudiantes · Estudiantes BA
+  - Gimnasia y Esgrima LP  (7) GELP · Gimnasia LP · Gimnasia ELP · Gimnasia y Esgrima La Plata · Club de Gimnasia y Esgrima La Plata · Gimnasia La Plata · Gimnasia y Esgrima
+- **Rosario** (2): 
+  - Newell's Old Boys  (7) Newell's · N.O. Boys · Newell's OB · Newell's Old B. · Newells Old Boys · CA Newell's Old Boys · Club Atlético Newell's Old Boys
+  - Rosario Central  (3) Rosario Cent · CA Rosario Central · Club Atlético Rosario Central
+- **San Miguel de Tucumán** (2): 
+  - Atlético Tucumán  (2) Tucumán · Atl. Tucumán
+  - San Martín de Tucumán  (5) San Martín · San Martín T. · San Martín (Tucumán) · Club Atlético San Martín · Club Atlético San Martín (Tucumán)
+- **Santa Fe** (2): 
+  - Colón Santa Fe  (5) Colón · CA Colón · Club Atlético Colón · Club Atlético Colón (Santa Fe) · Colon Santa FE
+  - Unión Santa Fe  (4) Unión · Unión de Santa Fe · CA Unión · Club Atlético Unión
+- **Bahía Blanca** (1): Olimpo Bahía Blanca  (3) Olimpo · Club Olimpo · Olimpo de Bahía Blanca
+- **Banfield** (1): Club Atlético Banfield  (2) Banfield · CA Banfield
+- **Garupá** (1): Crucero del Norte  (1) Club Mutual Crucero del Norte
+- **Gobernador Julio A. Costa** (1): Defensa y Justicia  (2) Defensa y Just · Club Social y Deportivo Defensa y Justicia
+- **Junín** (1): Sarmiento Junín  (3) Sarmiento · Club Atlético Sarmiento · Club Atlético Sarmiento (Junín)
+- **Lanús** (1): CA Lanús  (3) Lanús · Atlético Lanús · Club Atlético Lanús
+- **Mar del Plata** (1): Club Atlético Aldosivi  (1) Aldosivi
+- **Mendoza** (1): Godoy Cruz  (2) Godoy Cruz Antonio Tomba · Club Deportivo Godoy Cruz Antonio Tomba
+- **Paraná** (1): Patronato  (2) Club Atlético Patronato · Club Atlético Patronato de la Juventud Católica
+- **Quilmes** (1): Quilmes AC  (2) Quilmes · Quilmes Atlético Club
+- **Rafaela** (1): Atlético Rafaela  (4) At. de Rafaela · Atl. Rafaela · Atlético de Rafaela · Asociación Mutual Social y Deportiva Atlético de Rafaela
+- **San Juan** (1): San Martín San Juan  (3) San Martín · San Martín SJ · Club Atlético San Martín
+- **Santiago del Estero** (1): Central Córdoba  (6) CC Córdoba · CA Central Córdob · Club Atlético Central Córdoba · Central Córdoba de Santiago del Estero · Central Córdoba (SdE) · Central Córdoba (Santiago del Estero)
+- **Sarandí** (1): Arsenal de Sarandí  (4) Arsenal · Arsenal Sarandí · Arsenal FC · Arsenal Fútbol Club
+- **Turdera** (1): Temperley  (1) Club Atlético Temperley
+- **Victoria** (1): CA Tigre  (2) Tigre · Club Atlético Tigre
+- **Villa Maipú** (1): Chacarita Juniors  (1) Club Atlético Chacarita Juniors
+
+
