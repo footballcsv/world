@@ -45,39 +45,39 @@
 
 
 ```
-América MG                  
-Atlético GO                 
-Atlético MG                 
-Atlético PR                 
-Avaí FC                     
-Botafogo RJ                 
-CR Vasco da Gama            
-CSA                         
-Ceára SC                    
-Chapecoense                 
-Corinthians SP              
-Coritiba PR                 
-Criciúma EC                 
-Cruzeiro MG                 
-EC Bahia                    
-EC Vitória                  
-Figueirense                 
-Flamengo RJ                 
-Fluminense RJ               
-Fortaleza                   
-Goiás EC                    
-Grêmio RS                   
-Internacional Porto Alegre  
-Joinvile EC                 
-Náutico PE                  
-Palmeiras SP                
-Paraná Clube                
-Ponte Preta                 
-Portuguesa                  
-Santa Cruz                  
-Santos SP                   
-Sport Recife                
-São Paulo FC                
+    América MG                                              | Belo Horizonte,  Minas Gerais
+    Atlético GO                                             | Goiânia,  Goiás
+    Atlético MG                                             | Belo Horizonte,  Minas Gerais
+    Atlético PR                                             | Curitiba,  Paraná
+    Avaí FC                                                 | Florianópolis,  Santa Catarina
+    Botafogo RJ                                             | Rio de Janeiro,  Rio de Janeiro
+    CR Vasco da Gama                                        | Rio de Janeiro,  Rio de Janeiro
+    CSA                                                     | Maceió,  Alagoas
+    Ceára SC                                                | Fortaleza,  Ceará
+    Chapecoense                                             | Chapecó,  Santa Catarina
+    Corinthians SP                                          | São Paulo,  São Paulo
+    Coritiba PR                                             | Curitiba,  Paraná
+    Criciúma EC                                             | Criciúma,  Santa Catarina
+    Cruzeiro MG                                             | Belo Horizonte,  Minas Gerais
+    EC Bahia                                                | Salvador,  Bahia
+    EC Vitória                                              | Salvador,  Bahia
+    Figueirense                                             | Florianópolis,  Santa Catarina
+    Flamengo RJ                                             | Rio de Janeiro,  Rio de Janeiro
+    Fluminense RJ                                           | Rio de Janeiro,  Rio de Janeiro
+    Fortaleza                                               | Fortaleza,  Ceará
+    Goiás EC                                                | Goiânia,  Goiás
+    Grêmio RS                                               | Porto Alegre,  Rio Grande do Sul
+    Internacional Porto Alegre                              | Porto Alegre,  Rio Grande do Sul
+    Joinvile EC                                             | Joinville,  Santa Catarina
+    Náutico PE                                              | Recife,  Pernambuco
+    Palmeiras SP                                            | São Paulo,  São Paulo
+    Paraná Clube                                            | Curitiba,  Paraná
+    Ponte Preta                                             | Campinas,  São Paulo
+    Portuguesa                                              | São Paulo,  São Paulo
+    Santa Cruz                                              | Recife,  Pernambuco
+    Santos SP                                               | Santos,  São Paulo
+    Sport Recife                                            | Recife,  Pernambuco
+    São Paulo FC                                            | São Paulo,  São Paulo
 ```
 
 

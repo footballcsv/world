@@ -49,43 +49,43 @@
 
 
 ```
-All Boys                    
-Argentinos Juniors          
-Arsenal de Sarandí          
-Atlético Rafaela            
-Atlético Tucumán            
-Boca Juniors                
-CA Independiente de Avellaneda  
-CA Lanús                    
-CA Tigre                    
-Central Córdoba             
-Chacarita Juniors           
-Club Atlético Aldosivi      
-Club Atlético Banfield      
-Club Atlético Belgrano      
-Colón Santa Fe              
-Crucero del Norte           
-Defensa y Justicia          
-Estudiantes LP              
-Gimnasia y Esgrima LP       
-Godoy Cruz                  
-Huracán                     
-Newell's Old Boys           
-Nueva Chicago               
-Olimpo Bahía Blanca         
-Patronato                   
-Quilmes AC                  
-Racing Club                 
-River Plate                 
-Rosario Central             
-San Lorenzo                 
-San Martín San Juan         
-San Martín de Tucumán       
-Sarmiento Junín             
-Talleres de Córdoba         
-Temperley                   
-Unión Santa Fe              
-Vélez Sarsfield             
+    All Boys                                                | Buenos Aires,  Buenos Aires
+    Argentinos Juniors                                      | Buenos Aires,  Buenos Aires
+    Arsenal de Sarandí                                      | Sarandí,  Buenos Aires
+    Atlético Rafaela                                        | Rafaela,  Santa Fe
+    Atlético Tucumán                                        | San Miguel de Tucumán,  Tucumán
+    Boca Juniors                                            | Buenos Aires,  Buenos Aires
+    CA Independiente de Avellaneda                              | Avellaneda,  Buenos Aires
+    CA Lanús                                                | Lanús,  Buenos Aires
+    CA Tigre                                                | Victoria,  Buenos Aires
+    Central Córdoba                                         | Santiago del Estero,  Santiago del Estero
+    Chacarita Juniors                                       | Villa Maipú,  Buenos Aires
+    Club Atlético Aldosivi                                  | Mar del Plata,  Buenos Aires
+    Club Atlético Banfield                                  | Banfield,  Buenos Aires
+    Club Atlético Belgrano                                  | Córdoba,  Córdoba
+    Colón Santa Fe                                          | Santa Fe,  Santa Fe
+    Crucero del Norte                                       | Garupá,  Misiones
+    Defensa y Justicia                                      | Gobernador Julio A. Costa,  Buenos Aires
+    Estudiantes LP                                          | La Plata,  Buenos Aires
+    Gimnasia y Esgrima LP                                   | La Plata,  Buenos Aires
+    Godoy Cruz                                              | Mendoza,  Mendoza
+    Huracán                                                 | Buenos Aires,  Buenos Aires
+    Newell's Old Boys                                       | Rosario,  Santa Fe
+    Nueva Chicago                                           | Buenos Aires,  Buenos Aires
+    Olimpo Bahía Blanca                                     | Bahía Blanca,  Buenos Aires
+    Patronato                                               | Paraná,  Entre Ríos
+    Quilmes AC                                              | Quilmes,  Buenos Aires
+    Racing Club                                             | Avellaneda,  Buenos Aires
+    River Plate                                             | Buenos Aires,  Buenos Aires
+    Rosario Central                                         | Rosario,  Santa Fe
+    San Lorenzo                                             | Buenos Aires,  Buenos Aires
+    San Martín San Juan                                     | San Juan,  San Juan
+    San Martín de Tucumán                                   | San Miguel de Tucumán,  Tucumán
+    Sarmiento Junín                                         | Junín,  Buenos Aires
+    Talleres de Córdoba                                     | Córdoba,  Córdoba
+    Temperley                                               | Turdera,  Buenos Aires
+    Unión Santa Fe                                          | Santa Fe,  Santa Fe
+    Vélez Sarsfield                                         | Buenos Aires,  Buenos Aires
 ```
 
 
