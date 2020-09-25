@@ -1,0 +1,381 @@
+Round,Date,Team 1,FT,Team 2
+Rodada 1,Sat Apr 27 2019,São Paulo FC,2-0,Botafogo RJ
+Rodada 1,Sat Apr 27 2019,Chapecoense,2-0,Internacional Porto Alegre
+Rodada 1,Sat Apr 27 2019,Atlético MG,2-1,Avaí FC
+Rodada 1,Sun Apr 28 2019,Flamengo RJ,3-1,Cruzeiro MG
+Rodada 1,Sun Apr 28 2019,Grêmio RS,1-2,Santos SP
+Rodada 1,Sun Apr 28 2019,Atlético PR,4-1,CR Vasco da Gama
+Rodada 1,Sun Apr 28 2019,Ceára SC,4-0,CS Alagoano
+Rodada 1,Sun Apr 28 2019,EC Bahia,3-2,Corinthians SP
+Rodada 1,Sun Apr 28 2019,Fluminense RJ,0-1,Goiás EC
+Rodada 1,Sun Apr 28 2019,Palmeiras SP,4-0,Fortaleza EC
+Rodada 2,Wed May 1 2019,Internacional Porto Alegre,2-1,Flamengo RJ
+Rodada 2,Wed May 1 2019,Corinthians SP,1-0,Chapecoense
+Rodada 2,Wed May 1 2019,CS Alagoano,1-1,Palmeiras SP
+Rodada 2,Wed May 1 2019,Cruzeiro MG,1-0,Ceára SC
+Rodada 2,Wed May 1 2019,Avaí FC,1-1,Grêmio RS
+Rodada 2,Thu May 2 2019,CR Vasco da Gama,1-2,Atlético MG
+Rodada 2,Thu May 2 2019,Goiás EC,1-2,São Paulo FC
+Rodada 2,Thu May 2 2019,Fortaleza EC,2-1,Atlético PR
+Rodada 2,Thu May 2 2019,Santos SP,2-1,Fluminense RJ
+Rodada 2,Thu May 2 2019,Botafogo RJ,3-2,EC Bahia
+Rodada 3,Sat May 4 2019,CR Vasco da Gama,1-1,Corinthians SP
+Rodada 3,Sat May 4 2019,Palmeiras SP,1-0,Internacional Porto Alegre
+Rodada 3,Sun May 5 2019,Ceára SC,1-2,Atlético MG
+Rodada 3,Sun May 5 2019,Chapecoense,1-1,Atlético PR
+Rodada 3,Sun May 5 2019,São Paulo FC,1-1,Flamengo RJ
+Rodada 3,Sun May 5 2019,Cruzeiro MG,2-1,Goiás EC
+Rodada 3,Sun May 5 2019,Botafogo RJ,1-0,Fortaleza EC
+Rodada 3,Sun May 5 2019,CS Alagoano,0-0,Santos SP
+Rodada 3,Sun May 5 2019,Grêmio RS,4-5,Fluminense RJ
+Rodada 3,Sun May 5 2019,EC Bahia,1-0,Avaí FC
+Rodada 4,Sat May 11 2019,Fluminense RJ,0-1,Botafogo RJ
+Rodada 4,Sat May 11 2019,Corinthians SP,0-0,Grêmio RS
+Rodada 4,Sun May 12 2019,Goiás EC,2-1,Ceára SC
+Rodada 4,Sun May 12 2019,Flamengo RJ,2-1,Chapecoense
+Rodada 4,Sun May 12 2019,Internacional Porto Alegre,3-1,Cruzeiro MG
+Rodada 4,Sun May 12 2019,Santos SP,3-0,CR Vasco da Gama
+Rodada 4,Sun May 12 2019,Atlético MG,0-2,Palmeiras SP
+Rodada 4,Sun May 12 2019,Atlético PR,1-0,EC Bahia
+Rodada 4,Sun May 12 2019,Avaí FC,0-0,CS Alagoano
+Rodada 4,Sun May 12 2019,Fortaleza EC,0-1,São Paulo FC
+Rodada 5,Sat May 18 2019,Fluminense RJ,4-1,Cruzeiro MG
+Rodada 5,Sat May 18 2019,Atlético MG,2-1,Flamengo RJ
+Rodada 5,Sat May 18 2019,Palmeiras SP,4-0,Santos SP
+Rodada 5,Sun May 19 2019,São Paulo FC,0-0,EC Bahia
+Rodada 5,Sun May 19 2019,Internacional Porto Alegre,2-0,CS Alagoano
+Rodada 5,Sun May 19 2019,Atlético PR,0-2,Corinthians SP
+Rodada 5,Sun May 19 2019,Goiás EC,1-0,Botafogo RJ
+Rodada 5,Sun May 19 2019,Chapecoense,1-3,Fortaleza EC
+Rodada 5,Sun May 19 2019,CR Vasco da Gama,1-1,Avaí FC
+Rodada 5,Sun May 19 2019,Ceára SC,2-1,Grêmio RS
+Rodada 6,Sat May 25 2019,Botafogo RJ,0-1,Palmeiras SP
+Rodada 6,Sat May 25 2019,Grêmio RS,1-0,Atlético MG
+Rodada 6,Sun May 26 2019,Santos SP,0-0,Internacional Porto Alegre
+Rodada 6,Sun May 26 2019,Flamengo RJ,3-2,Atlético PR
+Rodada 6,Sun May 26 2019,Cruzeiro MG,1-2,Chapecoense
+Rodada 6,Sun May 26 2019,EC Bahia,3-2,Fluminense RJ
+Rodada 6,Sun May 26 2019,Corinthians SP,1-0,São Paulo FC
+Rodada 6,Sun May 26 2019,Fortaleza EC,1-1,CR Vasco da Gama
+Rodada 6,Mon May 27 2019,Avaí FC,1-2,Ceára SC
+Rodada 6,Mon May 27 2019,CS Alagoano,1-0,Goiás EC
+Rodada 7,Sat Jun 1 2019,Flamengo RJ,2-0,Fortaleza EC
+Rodada 7,Sat Jun 1 2019,EC Bahia,1-0,Grêmio RS
+Rodada 7,Sun Jun 2 2019,Botafogo RJ,1-0,CR Vasco da Gama
+Rodada 7,Sun Jun 2 2019,São Paulo FC,1-1,Cruzeiro MG
+Rodada 7,Sun Jun 2 2019,Atlético PR,3-0,Fluminense RJ
+Rodada 7,Sun Jun 2 2019,Ceára SC,0-1,Santos SP
+Rodada 7,Sun Jun 2 2019,Internacional Porto Alegre,2-0,Avaí FC
+Rodada 7,Sun Jun 2 2019,Atlético MG,4-0,CS Alagoano
+Rodada 7,Sun Jun 2 2019,Chapecoense,1-2,Palmeiras SP
+Rodada 8,Fri Jun 7 2019,CR Vasco da Gama,2-1,Internacional Porto Alegre
+Rodada 8,Sat Jun 8 2019,Palmeiras SP,1-0,Atlético PR
+Rodada 8,Sat Jun 8 2019,Cruzeiro MG,0-0,Corinthians SP
+Rodada 8,Sat Jun 8 2019,Grêmio RS,1-0,Fortaleza EC
+Rodada 8,Sat Jun 8 2019,Ceára SC,0-0,EC Bahia
+Rodada 8,Sun Jun 9 2019,Avaí FC,0-0,São Paulo FC
+Rodada 8,Sun Jun 9 2019,Santos SP,3-1,Atlético MG
+Rodada 8,Sun Jun 9 2019,Fluminense RJ,0-0,Flamengo RJ
+Rodada 8,Sun Jun 9 2019,CS Alagoano,1-2,Botafogo RJ
+Rodada 8,Mon Jun 10 2019,Goiás EC,3-1,Chapecoense
+Rodada 9,Wed Jun 12 2019,Botafogo RJ,0-1,Grêmio RS
+Rodada 9,Thu Jun 13 2019,Fortaleza EC,2-1,Cruzeiro MG
+Rodada 9,Thu Jun 13 2019,Internacional Porto Alegre,3-1,EC Bahia
+Rodada 9,Thu Jun 13 2019,Santos SP,1-0,Corinthians SP
+Rodada 9,Thu Jun 13 2019,CS Alagoano,0-2,Flamengo RJ
+Rodada 9,Thu Jun 13 2019,CR Vasco da Gama,1-0,Ceára SC
+Rodada 9,Thu Jun 13 2019,Atlético MG,1-1,São Paulo FC
+Rodada 9,Thu Jun 13 2019,Palmeiras SP,2-0,Avaí FC
+Rodada 9,Thu Jun 13 2019,Goiás EC,2-1,Atlético PR
+Rodada 9,Thu Jun 13 2019,Chapecoense,1-1,Fluminense RJ
+Rodada 10,Sat Jul 13 2019,Grêmio RS,2-1,CR Vasco da Gama
+Rodada 10,Sat Jul 13 2019,Fortaleza EC,2-0,Avaí FC
+Rodada 10,Sat Jul 13 2019,São Paulo FC,1-1,Palmeiras SP
+Rodada 10,Sat Jul 13 2019,EC Bahia,0-1,Santos SP
+Rodada 10,Sun Jul 14 2019,Flamengo RJ,6-1,Goiás EC
+Rodada 10,Sun Jul 14 2019,Cruzeiro MG,0-0,Botafogo RJ
+Rodada 10,Sun Jul 14 2019,Corinthians SP,1-0,CS Alagoano
+Rodada 10,Sun Jul 14 2019,Atlético PR,1-0,Internacional Porto Alegre
+Rodada 10,Sun Jul 14 2019,Chapecoense,1-2,Atlético MG
+Rodada 10,Mon Jul 15 2019,Fluminense RJ,1-1,Ceára SC
+Rodada 11,Sat Jul 20 2019,CR Vasco da Gama,2-1,Fluminense RJ
+Rodada 11,Sat Jul 20 2019,EC Bahia,0-0,Cruzeiro MG
+Rodada 11,Sat Jul 20 2019,Internacional Porto Alegre,1-1,Grêmio RS
+Rodada 11,Sat Jul 20 2019,Ceára SC,2-0,Palmeiras SP
+Rodada 11,Sat Jul 20 2019,CS Alagoano,0-4,Atlético PR
+Rodada 11,Sun Jul 21 2019,Botafogo RJ,0-1,Santos SP
+Rodada 11,Sun Jul 21 2019,Atlético MG,2-2,Fortaleza EC
+Rodada 11,Sun Jul 21 2019,Corinthians SP,1-1,Flamengo RJ
+Rodada 11,Sun Jul 21 2019,Avaí FC,0-0,Goiás EC
+Rodada 11,Mon Jul 22 2019,São Paulo FC,4-0,Chapecoense
+Rodada 12,Sat Jul 27 2019,Palmeiras SP,1-1,CR Vasco da Gama
+Rodada 12,Sat Jul 27 2019,Internacional Porto Alegre,1-0,Ceára SC
+Rodada 12,Sat Jul 27 2019,Cruzeiro MG,0-2,Atlético PR
+Rodada 12,Sat Jul 27 2019,Fluminense RJ,1-2,São Paulo FC
+Rodada 12,Sun Jul 28 2019,Chapecoense,0-0,EC Bahia
+Rodada 12,Sun Jul 28 2019,Santos SP,3-1,Avaí FC
+Rodada 12,Sun Jul 28 2019,Flamengo RJ,3-2,Botafogo RJ
+Rodada 12,Sun Jul 28 2019,Goiás EC,0-0,Atlético MG
+Rodada 12,Sun Jul 28 2019,Fortaleza EC,1-3,Corinthians SP
+Rodada 12,Mon Jul 29 2019,CS Alagoano,0-0,Grêmio RS
+Rodada 13,Sat Aug 3 2019,Fluminense RJ,2-1,Internacional Porto Alegre
+Rodada 13,Sat Aug 3 2019,Ceára SC,2-1,Fortaleza EC
+Rodada 13,Sun Aug 4 2019,Santos SP,6-1,Goiás EC
+Rodada 13,Sun Aug 4 2019,EC Bahia,3-0,Flamengo RJ
+Rodada 13,Sun Aug 4 2019,Avaí FC,0-2,Botafogo RJ
+Rodada 13,Sun Aug 4 2019,Atlético MG,2-0,Cruzeiro MG
+Rodada 13,Sun Aug 4 2019,CR Vasco da Gama,0-0,CS Alagoano
+Rodada 13,Sun Aug 4 2019,Corinthians SP,1-1,Palmeiras SP
+Rodada 13,Mon Aug 5 2019,Grêmio RS,3-3,Chapecoense
+Rodada 7,Wed Aug 7 2019,Corinthians SP,2-0,Goiás EC
+Rodada 14,Sat Aug 10 2019,São Paulo FC,3-2,Santos SP
+Rodada 14,Sat Aug 10 2019,Ceára SC,4-1,Chapecoense
+Rodada 14,Sat Aug 10 2019,Flamengo RJ,3-1,Grêmio RS
+Rodada 14,Sun Aug 11 2019,Atlético MG,2-1,Fluminense RJ
+Rodada 14,Sun Aug 11 2019,Internacional Porto Alegre,0-0,Corinthians SP
+Rodada 14,Sun Aug 11 2019,Botafogo RJ,2-1,Atlético PR
+Rodada 14,Sun Aug 11 2019,Palmeiras SP,2-2,EC Bahia
+Rodada 14,Sun Aug 11 2019,Avaí FC,2-2,Cruzeiro MG
+Rodada 14,Sun Aug 11 2019,Goiás EC,0-1,CR Vasco da Gama
+Rodada 14,Mon Aug 12 2019,CS Alagoano,0-2,Fortaleza EC
+Rodada 15,Sat Aug 17 2019,Corinthians SP,2-0,Botafogo RJ
+Rodada 15,Sat Aug 17 2019,Fortaleza EC,0-1,Internacional Porto Alegre
+Rodada 15,Sat Aug 17 2019,CR Vasco da Gama,1-4,Flamengo RJ
+Rodada 15,Sat Aug 17 2019,Atlético PR,1-0,Atlético MG
+Rodada 15,Sun Aug 18 2019,Grêmio RS,1-1,Palmeiras SP
+Rodada 15,Sun Aug 18 2019,São Paulo FC,1-0,Ceára SC
+Rodada 15,Sun Aug 18 2019,Cruzeiro MG,2-0,Santos SP
+Rodada 15,Sun Aug 18 2019,EC Bahia,1-1,Goiás EC
+Rodada 15,Sun Aug 18 2019,Fluminense RJ,0-1,CS Alagoano
+Rodada 15,Sun Aug 18 2019,Chapecoense,1-0,Avaí FC
+Rodada 13,Wed Aug 21 2019,Atlético PR,0-1,São Paulo FC
+Rodada 16,Sat Aug 24 2019,Atlético MG,0-1,EC Bahia
+Rodada 16,Sat Aug 24 2019,Grêmio RS,2-1,Atlético PR
+Rodada 16,Sun Aug 25 2019,Santos SP,3-3,Fortaleza EC
+Rodada 16,Sun Aug 25 2019,CR Vasco da Gama,2-0,São Paulo FC
+Rodada 16,Sun Aug 25 2019,Goiás EC,2-1,Internacional Porto Alegre
+Rodada 16,Sun Aug 25 2019,Ceára SC,0-3,Flamengo RJ
+Rodada 16,Sun Aug 25 2019,Avaí FC,1-1,Corinthians SP
+Rodada 16,Sun Aug 25 2019,CS Alagoano,1-1,Cruzeiro MG
+Rodada 16,Mon Aug 26 2019,Botafogo RJ,0-0,Chapecoense
+Rodada 17,Sat Aug 31 2019,São Paulo FC,0-0,Grêmio RS
+Rodada 17,Sat Aug 31 2019,EC Bahia,1-0,CS Alagoano
+Rodada 17,Sat Aug 31 2019,Atlético PR,1-0,Ceára SC
+Rodada 17,Sat Aug 31 2019,Chapecoense,0-1,Santos SP
+Rodada 17,Sun Sep 1 2019,Internacional Porto Alegre,3-2,Botafogo RJ
+Rodada 17,Sun Sep 1 2019,Flamengo RJ,3-0,Palmeiras SP
+Rodada 17,Sun Sep 1 2019,Fortaleza EC,2-0,Goiás EC
+Rodada 17,Sun Sep 1 2019,Cruzeiro MG,1-0,CR Vasco da Gama
+Rodada 17,Sun Sep 1 2019,Corinthians SP,1-0,Atlético MG
+Rodada 17,Mon Sep 2 2019,Fluminense RJ,0-1,Avaí FC
+Rodada 18,Sat Sep 7 2019,CR Vasco da Gama,0-2,EC Bahia
+Rodada 18,Sat Sep 7 2019,Corinthians SP,2-2,Ceára SC
+Rodada 18,Sat Sep 7 2019,Avaí FC,0-3,Flamengo RJ
+Rodada 18,Sat Sep 7 2019,Fortaleza EC,0-1,Fluminense RJ
+Rodada 18,Sat Sep 7 2019,Internacional Porto Alegre,1-0,São Paulo FC
+Rodada 18,Sun Sep 8 2019,Goiás EC,1-2,Palmeiras SP
+Rodada 18,Sun Sep 8 2019,Cruzeiro MG,1-4,Grêmio RS
+Rodada 18,Sun Sep 8 2019,Santos SP,1-1,Atlético PR
+Rodada 18,Sun Sep 8 2019,Botafogo RJ,2-1,Atlético MG
+Rodada 18,Sun Sep 8 2019,CS Alagoano,2-0,Chapecoense
+Rodada 16,Wed Sep 11 2019,Palmeiras SP,3-0,Fluminense RJ
+Rodada 19,Sat Sep 14 2019,Flamengo RJ,1-0,Santos SP
+Rodada 19,Sat Sep 14 2019,Palmeiras SP,1-0,Cruzeiro MG
+Rodada 19,Sat Sep 14 2019,Chapecoense,1-2,CR Vasco da Gama
+Rodada 19,Sun Sep 15 2019,Ceára SC,0-0,Botafogo RJ
+Rodada 19,Sun Sep 15 2019,Atlético MG,1-3,Internacional Porto Alegre
+Rodada 19,Sun Sep 15 2019,Atlético PR,0-1,Avaí FC
+Rodada 19,Sun Sep 15 2019,Grêmio RS,3-0,Goiás EC
+Rodada 19,Sun Sep 15 2019,EC Bahia,1-1,Fortaleza EC
+Rodada 19,Sun Sep 15 2019,Fluminense RJ,1-0,Corinthians SP
+Rodada 19,Sun Sep 15 2019,São Paulo FC,1-1,CS Alagoano
+Rodada 20,Sat Sep 21 2019,Botafogo RJ,1-2,São Paulo FC
+Rodada 20,Sat Sep 21 2019,Cruzeiro MG,1-2,Flamengo RJ
+Rodada 20,Sat Sep 21 2019,Corinthians SP,2-1,EC Bahia
+Rodada 20,Sun Sep 22 2019,Santos SP,0-3,Grêmio RS
+Rodada 20,Sun Sep 22 2019,Internacional Porto Alegre,1-0,Chapecoense
+Rodada 20,Sun Sep 22 2019,CR Vasco da Gama,1-1,Atlético PR
+Rodada 20,Sun Sep 22 2019,Fortaleza EC,0-1,Palmeiras SP
+Rodada 20,Sun Sep 22 2019,CS Alagoano,1-0,Ceára SC
+Rodada 20,Sun Sep 22 2019,Goiás EC,3-0,Fluminense RJ
+Rodada 20,Mon Sep 23 2019,Avaí FC,1-0,Atlético MG
+Rodada 21,Wed Sep 25 2019,Ceára SC,0-0,Cruzeiro MG
+Rodada 21,Thu Sep 26 2019,São Paulo FC,0-1,Goiás EC
+Rodada 21,Thu Sep 26 2019,EC Bahia,2-0,Botafogo RJ
+Rodada 21,Thu Sep 26 2019,Flamengo RJ,3-1,Internacional Porto Alegre
+Rodada 21,Thu Sep 26 2019,Palmeiras SP,6-2,CS Alagoano
+Rodada 21,Thu Sep 26 2019,Grêmio RS,6-1,Avaí FC
+Rodada 21,Thu Sep 26 2019,Fluminense RJ,1-1,Santos SP
+Rodada 21,Fri Sep 27 2019,Atlético PR,4-1,Fortaleza EC
+Rodada 22,Sat Sep 28 2019,Flamengo RJ,0-0,São Paulo FC
+Rodada 22,Sun Sep 29 2019,Corinthians SP,1-0,CR Vasco da Gama
+Rodada 22,Sun Sep 29 2019,Internacional Porto Alegre,1-1,Palmeiras SP
+Rodada 22,Sun Sep 29 2019,Santos SP,2-0,CS Alagoano
+Rodada 22,Sun Sep 29 2019,Fluminense RJ,2-1,Grêmio RS
+Rodada 22,Sun Sep 29 2019,Atlético MG,2-1,Ceára SC
+Rodada 22,Sun Sep 29 2019,Atlético PR,1-1,Chapecoense
+Rodada 22,Mon Sep 30 2019,Avaí FC,0-2,EC Bahia
+Rodada 22,Mon Sep 30 2019,Goiás EC,1-0,Cruzeiro MG
+Rodada 22,Mon Sep 30 2019,Fortaleza EC,1-0,Botafogo RJ
+Rodada 21,Wed Oct 2 2019,Atlético MG,1-2,CR Vasco da Gama
+Rodada 21,Wed Oct 2 2019,Chapecoense,0-1,Corinthians SP
+Rodada 23,Sat Oct 5 2019,São Paulo FC,2-1,Fortaleza EC
+Rodada 23,Sat Oct 5 2019,CR Vasco da Gama,0-1,Santos SP
+Rodada 23,Sat Oct 5 2019,Grêmio RS,0-0,Corinthians SP
+Rodada 23,Sat Oct 5 2019,EC Bahia,1-2,Atlético PR
+Rodada 23,Sun Oct 6 2019,Cruzeiro MG,1-1,Internacional Porto Alegre
+Rodada 23,Sun Oct 6 2019,Chapecoense,0-1,Flamengo RJ
+Rodada 23,Sun Oct 6 2019,Botafogo RJ,0-1,Fluminense RJ
+Rodada 23,Sun Oct 6 2019,Palmeiras SP,1-1,Atlético MG
+Rodada 23,Sun Oct 6 2019,Ceára SC,0-1,Goiás EC
+Rodada 23,Sun Oct 6 2019,CS Alagoano,3-1,Avaí FC
+Rodada 24,Wed Oct 9 2019,Botafogo RJ,3-1,Goiás EC
+Rodada 24,Wed Oct 9 2019,CS Alagoano,1-0,Internacional Porto Alegre
+Rodada 24,Wed Oct 9 2019,Fortaleza EC,2-0,Chapecoense
+Rodada 24,Thu Oct 10 2019,Grêmio RS,2-1,Ceára SC
+Rodada 24,Thu Oct 10 2019,EC Bahia,0-0,São Paulo FC
+Rodada 24,Thu Oct 10 2019,Cruzeiro MG,0-0,Fluminense RJ
+Rodada 24,Thu Oct 10 2019,Santos SP,2-0,Palmeiras SP
+Rodada 24,Thu Oct 10 2019,Corinthians SP,2-2,Atlético PR
+Rodada 24,Thu Oct 10 2019,Avaí FC,0-0,CR Vasco da Gama
+Rodada 24,Thu Oct 10 2019,Flamengo RJ,3-1,Atlético MG
+Rodada 25,Sat Oct 12 2019,Goiás EC,1-0,CS Alagoano
+Rodada 25,Sat Oct 12 2019,Fluminense RJ,2-0,EC Bahia
+Rodada 25,Sun Oct 13 2019,Palmeiras SP,1-0,Botafogo RJ
+Rodada 25,Sun Oct 13 2019,Internacional Porto Alegre,0-0,Santos SP
+Rodada 25,Sun Oct 13 2019,CR Vasco da Gama,1-0,Fortaleza EC
+Rodada 25,Sun Oct 13 2019,Atlético PR,0-2,Flamengo RJ
+Rodada 25,Sun Oct 13 2019,Ceára SC,1-0,Avaí FC
+Rodada 25,Sun Oct 13 2019,São Paulo FC,1-0,Corinthians SP
+Rodada 25,Sun Oct 13 2019,Atlético MG,1-4,Grêmio RS
+Rodada 25,Sun Oct 13 2019,Chapecoense,1-1,Cruzeiro MG
+Rodada 26,Wed Oct 16 2019,Grêmio RS,0-1,EC Bahia
+Rodada 26,Wed Oct 16 2019,CS Alagoano,2-2,Atlético MG
+Rodada 26,Wed Oct 16 2019,Fortaleza EC,1-2,Flamengo RJ
+Rodada 26,Thu Oct 17 2019,Cruzeiro MG,1-0,São Paulo FC
+Rodada 26,Thu Oct 17 2019,Palmeiras SP,1-0,Chapecoense
+Rodada 26,Thu Oct 17 2019,CR Vasco da Gama,2-1,Botafogo RJ
+Rodada 26,Thu Oct 17 2019,Goiás EC,2-2,Corinthians SP
+Rodada 26,Thu Oct 17 2019,Santos SP,2-1,Ceára SC
+Rodada 26,Thu Oct 17 2019,Avaí FC,0-2,Internacional Porto Alegre
+Rodada 26,Fri Oct 18 2019,Fluminense RJ,1-2,Atlético PR
+Rodada 27,Sat Oct 19 2019,Fortaleza EC,2-1,Grêmio RS
+Rodada 27,Sat Oct 19 2019,Corinthians SP,1-2,Cruzeiro MG
+Rodada 27,Sun Oct 20 2019,Atlético MG,2-0,Santos SP
+Rodada 27,Sun Oct 20 2019,São Paulo FC,1-0,Avaí FC
+Rodada 27,Sun Oct 20 2019,Internacional Porto Alegre,0-1,CR Vasco da Gama
+Rodada 27,Sun Oct 20 2019,Flamengo RJ,2-0,Fluminense RJ
+Rodada 27,Sun Oct 20 2019,Atlético PR,1-1,Palmeiras SP
+Rodada 27,Sun Oct 20 2019,Chapecoense,2-2,Goiás EC
+Rodada 27,Mon Oct 21 2019,EC Bahia,1-2,Ceára SC
+Rodada 27,Mon Oct 21 2019,Botafogo RJ,2-1,CS Alagoano
+Rodada 28,Sat Oct 26 2019,Corinthians SP,0-0,Santos SP
+Rodada 28,Sat Oct 26 2019,Ceára SC,1-1,CR Vasco da Gama
+Rodada 28,Sat Oct 26 2019,EC Bahia,2-3,Internacional Porto Alegre
+Rodada 28,Sat Oct 26 2019,Fluminense RJ,1-1,Chapecoense
+Rodada 28,Sun Oct 27 2019,Cruzeiro MG,1-1,Fortaleza EC
+Rodada 28,Sun Oct 27 2019,São Paulo FC,2-0,Atlético MG
+Rodada 28,Sun Oct 27 2019,Grêmio RS,3-0,Botafogo RJ
+Rodada 28,Sun Oct 27 2019,Atlético PR,4-1,Goiás EC
+Rodada 28,Sun Oct 27 2019,Avaí FC,1-2,Palmeiras SP
+Rodada 28,Sun Oct 27 2019,Flamengo RJ,1-0,CS Alagoano
+Rodada 29,Wed Oct 30 2019,Atlético MG,0-2,Chapecoense
+Rodada 29,Wed Oct 30 2019,Palmeiras SP,3-0,São Paulo FC
+Rodada 29,Wed Oct 30 2019,Avaí FC,1-3,Fortaleza EC
+Rodada 29,Thu Oct 31 2019,CR Vasco da Gama,1-3,Grêmio RS
+Rodada 29,Thu Oct 31 2019,Ceára SC,2-0,Fluminense RJ
+Rodada 29,Thu Oct 31 2019,CS Alagoano,2-1,Corinthians SP
+Rodada 29,Thu Oct 31 2019,Santos SP,1-0,EC Bahia
+Rodada 29,Thu Oct 31 2019,Goiás EC,2-2,Flamengo RJ
+Rodada 29,Fri Nov 1 2019,Internacional Porto Alegre,1-1,Atlético PR
+Rodada 29,Fri Nov 1 2019,Botafogo RJ,0-2,Cruzeiro MG
+Rodada 30,Sat Nov 2 2019,Fortaleza EC,2-2,Atlético MG
+Rodada 30,Sat Nov 2 2019,Fluminense RJ,0-0,CR Vasco da Gama
+Rodada 30,Sat Nov 2 2019,Palmeiras SP,1-0,Ceára SC
+Rodada 30,Sun Nov 3 2019,Chapecoense,0-3,São Paulo FC
+Rodada 30,Sun Nov 3 2019,Flamengo RJ,4-1,Corinthians SP
+Rodada 30,Sun Nov 3 2019,Grêmio RS,2-0,Internacional Porto Alegre
+Rodada 30,Sun Nov 3 2019,Atlético PR,1-0,CS Alagoano
+Rodada 30,Sun Nov 3 2019,Cruzeiro MG,1-1,EC Bahia
+Rodada 30,Sun Nov 3 2019,Santos SP,4-1,Botafogo RJ
+Rodada 30,Sun Nov 3 2019,Goiás EC,2-0,Avaí FC
+Rodada 31,Wed Nov 6 2019,Corinthians SP,3-2,Fortaleza EC
+Rodada 31,Wed Nov 6 2019,Atlético MG,2-0,Goiás EC
+Rodada 31,Thu Nov 7 2019,Avaí FC,1-2,Santos SP
+Rodada 31,Thu Nov 7 2019,EC Bahia,1-1,Chapecoense
+Rodada 31,Thu Nov 7 2019,CR Vasco da Gama,1-2,Palmeiras SP
+Rodada 31,Thu Nov 7 2019,Atlético PR,0-0,Cruzeiro MG
+Rodada 31,Thu Nov 7 2019,São Paulo FC,0-2,Fluminense RJ
+Rodada 31,Thu Nov 7 2019,Ceára SC,2-0,Internacional Porto Alegre
+Rodada 31,Thu Nov 7 2019,Botafogo RJ,0-1,Flamengo RJ
+Rodada 31,Fri Nov 8 2019,Grêmio RS,2-1,CS Alagoano
+Rodada 32,Sat Nov 9 2019,Goiás EC,0-3,Santos SP
+Rodada 32,Sat Nov 9 2019,Palmeiras SP,1-1,Corinthians SP
+Rodada 32,Sun Nov 10 2019,São Paulo FC,0-1,Atlético PR
+Rodada 32,Sun Nov 10 2019,Internacional Porto Alegre,2-1,Fluminense RJ
+Rodada 32,Sun Nov 10 2019,Cruzeiro MG,0-0,Atlético MG
+Rodada 32,Sun Nov 10 2019,Flamengo RJ,3-1,EC Bahia
+Rodada 32,Sun Nov 10 2019,Fortaleza EC,1-0,Ceára SC
+Rodada 32,Sun Nov 10 2019,Chapecoense,0-1,Grêmio RS
+Rodada 32,Sun Nov 10 2019,CS Alagoano,0-3,CR Vasco da Gama
+Rodada 32,Mon Nov 11 2019,Botafogo RJ,2-0,Avaí FC
+Rodada 34,Thu Nov 14 2019,Flamengo RJ,4-4,CR Vasco da Gama
+Rodada 33,Sat Nov 16 2019,Santos SP,1-1,São Paulo FC
+Rodada 33,Sat Nov 16 2019,Fluminense RJ,1-1,Atlético MG
+Rodada 33,Sun Nov 17 2019,Grêmio RS,0-1,Flamengo RJ
+Rodada 33,Sun Nov 17 2019,EC Bahia,1-1,Palmeiras SP
+Rodada 33,Sun Nov 17 2019,Corinthians SP,0-0,Internacional Porto Alegre
+Rodada 33,Sun Nov 17 2019,Atlético PR,1-0,Botafogo RJ
+Rodada 33,Sun Nov 17 2019,Chapecoense,1-0,Ceára SC
+Rodada 33,Sun Nov 17 2019,Fortaleza EC,3-0,CS Alagoano
+Rodada 33,Mon Nov 18 2019,CR Vasco da Gama,1-1,Goiás EC
+Rodada 33,Mon Nov 18 2019,Cruzeiro MG,0-0,Avaí FC
+Rodada 34,Sun Nov 24 2019,Santos SP,4-1,Cruzeiro MG
+Rodada 34,Sun Nov 24 2019,Atlético MG,0-1,Atlético PR
+Rodada 34,Sun Nov 24 2019,Palmeiras SP,1-2,Grêmio RS
+Rodada 34,Sun Nov 24 2019,Goiás EC,4-3,EC Bahia
+Rodada 34,Sun Nov 24 2019,Botafogo RJ,1-0,Corinthians SP
+Rodada 34,Sun Nov 24 2019,Internacional Porto Alegre,2-2,Fortaleza EC
+Rodada 34,Sun Nov 24 2019,Ceára SC,1-1,São Paulo FC
+Rodada 34,Sun Nov 24 2019,Avaí FC,0-1,Chapecoense
+Rodada 34,Mon Nov 25 2019,CS Alagoano,0-1,Fluminense RJ
+Rodada 35,Wed Nov 27 2019,Internacional Porto Alegre,1-2,Goiás EC
+Rodada 35,Wed Nov 27 2019,Chapecoense,0-1,Botafogo RJ
+Rodada 35,Thu Nov 28 2019,EC Bahia,1-1,Atlético MG
+Rodada 35,Thu Nov 28 2019,Flamengo RJ,4-1,Ceára SC
+Rodada 35,Thu Nov 28 2019,Corinthians SP,3-0,Avaí FC
+Rodada 35,Thu Nov 28 2019,Atlético PR,2-0,Grêmio RS
+Rodada 35,Thu Nov 28 2019,Fluminense RJ,1-0,Palmeiras SP
+Rodada 35,Thu Nov 28 2019,Fortaleza EC,2-1,Santos SP
+Rodada 35,Thu Nov 28 2019,São Paulo FC,1-0,CR Vasco da Gama
+Rodada 35,Fri Nov 29 2019,Cruzeiro MG,0-1,CS Alagoano
+Rodada 36,Sat Nov 30 2019,Botafogo RJ,0-1,Internacional Porto Alegre
+Rodada 36,Sat Nov 30 2019,Ceára SC,1-1,Atlético PR
+Rodada 36,Sun Dec 1 2019,Palmeiras SP,1-3,Flamengo RJ
+Rodada 36,Sun Dec 1 2019,Avaí FC,1-1,Fluminense RJ
+Rodada 36,Sun Dec 1 2019,Goiás EC,1-2,Fortaleza EC
+Rodada 36,Sun Dec 1 2019,Atlético MG,2-1,Corinthians SP
+Rodada 36,Sun Dec 1 2019,CS Alagoano,1-2,EC Bahia
+Rodada 36,Sun Dec 1 2019,Grêmio RS,3-0,São Paulo FC
+Rodada 36,Sun Dec 1 2019,Santos SP,2-0,Chapecoense
+Rodada 36,Mon Dec 2 2019,CR Vasco da Gama,1-0,Cruzeiro MG
+Rodada 37,Wed Dec 4 2019,Atlético PR,1-0,Santos SP
+Rodada 37,Wed Dec 4 2019,Atlético MG,2-0,Botafogo RJ
+Rodada 37,Wed Dec 4 2019,Ceára SC,0-1,Corinthians SP
+Rodada 37,Thu Dec 5 2019,Chapecoense,3-0,CS Alagoano
+Rodada 37,Thu Dec 5 2019,São Paulo FC,2-1,Internacional Porto Alegre
+Rodada 37,Thu Dec 5 2019,Fluminense RJ,0-0,Fortaleza EC
+Rodada 37,Thu Dec 5 2019,Grêmio RS,2-0,Cruzeiro MG
+Rodada 37,Thu Dec 5 2019,EC Bahia,1-1,CR Vasco da Gama
+Rodada 37,Thu Dec 5 2019,Palmeiras SP,5-1,Goiás EC
+Rodada 37,Thu Dec 5 2019,Flamengo RJ,6-1,Avaí FC
+Rodada 38,Sun Dec 8 2019,Internacional Porto Alegre,2-1,Atlético MG
+Rodada 38,Sun Dec 8 2019,Cruzeiro MG,0-2,Palmeiras SP
+Rodada 38,Sun Dec 8 2019,Santos SP,4-0,Flamengo RJ
+Rodada 38,Sun Dec 8 2019,Botafogo RJ,1-1,Ceára SC
+Rodada 38,Sun Dec 8 2019,CR Vasco da Gama,1-1,Chapecoense
+Rodada 38,Sun Dec 8 2019,Corinthians SP,1-2,Fluminense RJ
+Rodada 38,Sun Dec 8 2019,Avaí FC,0-0,Atlético PR
+Rodada 38,Sun Dec 8 2019,Goiás EC,3-2,Grêmio RS
+Rodada 38,Sun Dec 8 2019,Fortaleza EC,2-1,EC Bahia
+Rodada 38,Sun Dec 8 2019,CS Alagoano,1-2,São Paulo FC

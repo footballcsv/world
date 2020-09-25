@@ -1,0 +1,381 @@
+Round,Date,Team 1,FT,Team 2
+Journée 1,Fri Aug 9 2019,AS Monaco,0-3,Olympique Lyonnais
+Journée 1,Sat Aug 10 2019,Olympique de Marseille,0-2,Stade de Reims
+Journée 1,Sat Aug 10 2019,Angers SCO,3-1,Girondins de Bordeaux
+Journée 1,Sat Aug 10 2019,Stade Brestois 29,1-1,Toulouse FC
+Journée 1,Sat Aug 10 2019,OGC Nice,2-1,Amiens SC
+Journée 1,Sat Aug 10 2019,Montpellier HSC,0-1,Stade Rennais FC
+Journée 1,Sat Aug 10 2019,Dijon FCO,1-2,AS Saint-Étienne
+Journée 1,Sun Aug 11 2019,Lille OSC,2-1,FC Nantes
+Journée 1,Sun Aug 11 2019,Paris Saint-Germain,3-0,Nîmes Olympique
+Journée 1,Sun Aug 11 2019,RC Strasbourg,1-1,FC Metz
+Journée 2,Fri Aug 16 2019,Olympique Lyonnais,6-0,Angers SCO
+Journée 2,Sat Aug 17 2019,Nîmes Olympique,1-2,OGC Nice
+Journée 2,Sat Aug 17 2019,FC Metz,3-0,AS Monaco
+Journée 2,Sat Aug 17 2019,FC Nantes,0-0,Olympique de Marseille
+Journée 2,Sat Aug 17 2019,Girondins de Bordeaux,1-1,Montpellier HSC
+Journée 2,Sat Aug 17 2019,Toulouse FC,1-0,Dijon FCO
+Journée 2,Sat Aug 17 2019,Amiens SC,1-0,Lille OSC
+Journée 2,Sun Aug 18 2019,AS Saint-Étienne,1-1,Stade Brestois 29
+Journée 2,Sun Aug 18 2019,Stade de Reims,0-0,RC Strasbourg
+Journée 2,Sun Aug 18 2019,Stade Rennais FC,2-1,Paris Saint-Germain
+Journée 3,Sat Aug 24 2019,Dijon FCO,0-2,Girondins de Bordeaux
+Journée 3,Sat Aug 24 2019,Stade Brestois 29,1-0,Stade de Reims
+Journée 3,Sat Aug 24 2019,Amiens SC,1-2,FC Nantes
+Journée 3,Sat Aug 24 2019,Angers SCO,3-0,FC Metz
+Journée 3,Sun Aug 25 2019,Paris Saint-Germain,4-0,Toulouse FC
+Journée 3,Sun Aug 25 2019,RC Strasbourg,0-2,Stade Rennais FC
+Journée 3,Sun Aug 25 2019,AS Monaco,2-2,Nîmes Olympique
+Journée 3,Tue Aug 27 2019,Montpellier HSC,1-0,Olympique Lyonnais
+Journée 3,Wed Aug 28 2019,Lille OSC,3-0,AS Saint-Étienne
+Journée 3,Wed Aug 28 2019,OGC Nice,1-2,Olympique de Marseille
+Journée 4,Fri Aug 30 2019,FC Metz,0-2,Paris Saint-Germain
+Journée 4,Sat Aug 31 2019,Olympique Lyonnais,1-1,Girondins de Bordeaux
+Journée 4,Sat Aug 31 2019,Angers SCO,2-0,Dijon FCO
+Journée 4,Sat Aug 31 2019,Toulouse FC,2-0,Amiens SC
+Journée 4,Sat Aug 31 2019,FC Nantes,1-0,Montpellier HSC
+Journée 4,Sat Aug 31 2019,Nîmes Olympique,3-0,Stade Brestois 29
+Journée 4,Sun Sep 1 2019,Stade Rennais FC,1-2,OGC Nice
+Journée 4,Sun Sep 1 2019,Stade de Reims,2-0,Lille OSC
+Journée 4,Sun Sep 1 2019,Olympique de Marseille,1-0,AS Saint-Étienne
+Journée 4,Sun Sep 1 2019,RC Strasbourg,2-2,AS Monaco
+Journée 5,Fri Sep 13 2019,Lille OSC,2-1,Angers SCO
+Journée 5,Fri Sep 13 2019,Amiens SC,2-2,Olympique Lyonnais
+Journée 5,Sat Sep 14 2019,Girondins de Bordeaux,2-0,FC Metz
+Journée 5,Sat Sep 14 2019,Paris Saint-Germain,1-0,RC Strasbourg
+Journée 5,Sat Sep 14 2019,Stade Brestois 29,0-0,Stade Rennais FC
+Journée 5,Sat Sep 14 2019,Montpellier HSC,2-1,OGC Nice
+Journée 5,Sat Sep 14 2019,Dijon FCO,0-0,Nîmes Olympique
+Journée 5,Sun Sep 15 2019,FC Nantes,1-0,Stade de Reims
+Journée 5,Sun Sep 15 2019,AS Monaco,3-4,Olympique de Marseille
+Journée 5,Sun Sep 15 2019,AS Saint-Étienne,2-2,Toulouse FC
+Journée 6,Fri Sep 20 2019,RC Strasbourg,2-1,FC Nantes
+Journée 6,Sat Sep 21 2019,Olympique de Marseille,1-1,Montpellier HSC
+Journée 6,Sat Sep 21 2019,Nîmes Olympique,1-0,Toulouse FC
+Journée 6,Sat Sep 21 2019,Stade de Reims,0-0,AS Monaco
+Journée 6,Sat Sep 21 2019,FC Metz,1-2,Amiens SC
+Journée 6,Sat Sep 21 2019,OGC Nice,2-1,Dijon FCO
+Journée 6,Sat Sep 21 2019,Girondins de Bordeaux,2-2,Stade Brestois 29
+Journée 6,Sun Sep 22 2019,Stade Rennais FC,1-1,Lille OSC
+Journée 6,Sun Sep 22 2019,Angers SCO,4-1,AS Saint-Étienne
+Journée 6,Sun Sep 22 2019,Olympique Lyonnais,0-1,Paris Saint-Germain
+Journée 7,Tue Sep 24 2019,Dijon FCO,0-0,Olympique de Marseille
+Journée 7,Tue Sep 24 2019,AS Monaco,3-1,OGC Nice
+Journée 7,Wed Sep 25 2019,Stade Brestois 29,2-2,Olympique Lyonnais
+Journée 7,Wed Sep 25 2019,Paris Saint-Germain,0-2,Stade de Reims
+Journée 7,Wed Sep 25 2019,Toulouse FC,0-2,Angers SCO
+Journée 7,Wed Sep 25 2019,Lille OSC,2-0,RC Strasbourg
+Journée 7,Wed Sep 25 2019,FC Nantes,1-0,Stade Rennais FC
+Journée 7,Wed Sep 25 2019,Montpellier HSC,1-0,Nîmes Olympique
+Journée 7,Wed Sep 25 2019,Amiens SC,1-3,Girondins de Bordeaux
+Journée 7,Wed Sep 25 2019,AS Saint-Étienne,0-1,FC Metz
+Journée 8,Sat Sep 28 2019,Olympique Lyonnais,0-1,FC Nantes
+Journée 8,Sat Sep 28 2019,Girondins de Bordeaux,0-1,Paris Saint-Germain
+Journée 8,Sat Sep 28 2019,AS Monaco,4-1,Stade Brestois 29
+Journée 8,Sat Sep 28 2019,FC Metz,2-2,Toulouse FC
+Journée 8,Sat Sep 28 2019,Stade de Reims,1-2,Dijon FCO
+Journée 8,Sat Sep 28 2019,OGC Nice,1-1,Lille OSC
+Journée 8,Sat Sep 28 2019,Angers SCO,1-1,Amiens SC
+Journée 8,Sun Sep 29 2019,RC Strasbourg,1-0,Montpellier HSC
+Journée 8,Sun Sep 29 2019,Nîmes Olympique,0-1,AS Saint-Étienne
+Journée 8,Sun Sep 29 2019,Olympique de Marseille,1-1,Stade Rennais FC
+Journée 9,Fri Oct 4 2019,Amiens SC,3-1,Olympique de Marseille
+Journée 9,Sat Oct 5 2019,Paris Saint-Germain,4-0,Angers SCO
+Journée 9,Sat Oct 5 2019,Dijon FCO,1-0,RC Strasbourg
+Journée 9,Sat Oct 5 2019,Toulouse FC,1-3,Girondins de Bordeaux
+Journée 9,Sat Oct 5 2019,FC Nantes,1-0,OGC Nice
+Journée 9,Sat Oct 5 2019,Montpellier HSC,3-1,AS Monaco
+Journée 9,Sat Oct 5 2019,Stade Brestois 29,2-0,FC Metz
+Journée 9,Sun Oct 6 2019,Lille OSC,2-2,Nîmes Olympique
+Journée 9,Sun Oct 6 2019,Stade Rennais FC,0-1,Stade de Reims
+Journée 9,Sun Oct 6 2019,AS Saint-Étienne,1-0,Olympique Lyonnais
+Journée 10,Fri Oct 18 2019,OGC Nice,1-4,Paris Saint-Germain
+Journée 10,Sat Oct 19 2019,Olympique Lyonnais,0-0,Dijon FCO
+Journée 10,Sat Oct 19 2019,FC Metz,1-0,FC Nantes
+Journée 10,Sat Oct 19 2019,Stade de Reims,1-0,Montpellier HSC
+Journée 10,Sat Oct 19 2019,Angers SCO,0-1,Stade Brestois 29
+Journée 10,Sat Oct 19 2019,Nîmes Olympique,1-1,Amiens SC
+Journée 10,Sat Oct 19 2019,Toulouse FC,2-1,Lille OSC
+Journée 10,Sun Oct 20 2019,Girondins de Bordeaux,0-1,AS Saint-Étienne
+Journée 10,Sun Oct 20 2019,AS Monaco,3-2,Stade Rennais FC
+Journée 10,Sun Oct 20 2019,Olympique de Marseille,2-0,RC Strasbourg
+Journée 11,Fri Oct 25 2019,FC Nantes,0-1,AS Monaco
+Journée 11,Sat Oct 26 2019,Lille OSC,3-0,Girondins de Bordeaux
+Journée 11,Sat Oct 26 2019,Olympique Lyonnais,2-0,FC Metz
+Journée 11,Sat Oct 26 2019,Montpellier HSC,0-0,Angers SCO
+Journée 11,Sat Oct 26 2019,Stade de Reims,0-0,Nîmes Olympique
+Journée 11,Sat Oct 26 2019,Stade Brestois 29,2-0,Dijon FCO
+Journée 11,Sat Oct 26 2019,RC Strasbourg,1-0,OGC Nice
+Journée 11,Sun Oct 27 2019,Stade Rennais FC,3-2,Toulouse FC
+Journée 11,Sun Oct 27 2019,AS Saint-Étienne,2-2,Amiens SC
+Journée 11,Sun Oct 27 2019,Paris Saint-Germain,4-0,Olympique de Marseille
+Journée 12,Fri Nov 1 2019,Dijon FCO,2-1,Paris Saint-Germain
+Journée 12,Sat Nov 2 2019,Olympique de Marseille,2-1,Lille OSC
+Journée 12,Sat Nov 2 2019,FC Metz,2-2,Montpellier HSC
+Journée 12,Sat Nov 2 2019,Toulouse FC,2-3,Olympique Lyonnais
+Journée 12,Sat Nov 2 2019,Angers SCO,1-0,RC Strasbourg
+Journée 12,Sat Nov 2 2019,Amiens SC,1-0,Stade Brestois 29
+Journée 12,Sun Nov 3 2019,Girondins de Bordeaux,2-0,FC Nantes
+Journée 12,Sun Nov 3 2019,AS Saint-Étienne,1-0,AS Monaco
+Journée 12,Sun Nov 3 2019,OGC Nice,2-0,Stade de Reims
+Journée 13,Fri Nov 8 2019,OGC Nice,1-1,Girondins de Bordeaux
+Journée 13,Sat Nov 9 2019,AS Monaco,1-0,Dijon FCO
+Journée 13,Sat Nov 9 2019,Stade Brestois 29,1-2,Paris Saint-Germain
+Journée 13,Sat Nov 9 2019,Lille OSC,0-0,FC Metz
+Journée 13,Sat Nov 9 2019,RC Strasbourg,4-1,Nîmes Olympique
+Journée 13,Sat Nov 9 2019,Stade de Reims,0-0,Angers SCO
+Journée 13,Sun Nov 10 2019,Stade Rennais FC,3-1,Amiens SC
+Journée 13,Sun Nov 10 2019,Montpellier HSC,3-0,Toulouse FC
+Journée 13,Sun Nov 10 2019,Olympique de Marseille,2-1,Olympique Lyonnais
+Journée 13,Sun Nov 10 2019,FC Nantes,2-3,AS Saint-Étienne
+Journée 14,Fri Nov 22 2019,Paris Saint-Germain,2-0,Lille OSC
+Journée 14,Sat Nov 23 2019,Olympique Lyonnais,2-1,OGC Nice
+Journée 14,Sat Nov 23 2019,Dijon FCO,2-1,Stade Rennais FC
+Journée 14,Sat Nov 23 2019,Angers SCO,1-0,Nîmes Olympique
+Journée 14,Sat Nov 23 2019,FC Metz,1-1,Stade de Reims
+Journée 14,Sat Nov 23 2019,Amiens SC,0-4,RC Strasbourg
+Journée 14,Sat Nov 23 2019,Stade Brestois 29,1-1,FC Nantes
+Journée 14,Sun Nov 24 2019,Girondins de Bordeaux,2-1,AS Monaco
+Journée 14,Sun Nov 24 2019,AS Saint-Étienne,0-0,Montpellier HSC
+Journée 14,Sun Nov 24 2019,Toulouse FC,0-2,Olympique de Marseille
+Journée 15,Fri Nov 29 2019,Olympique de Marseille,2-1,Stade Brestois 29
+Journée 15,Sat Nov 30 2019,RC Strasbourg,1-2,Olympique Lyonnais
+Journée 15,Sat Nov 30 2019,OGC Nice,3-1,Angers SCO
+Journée 15,Sat Nov 30 2019,Montpellier HSC,4-2,Amiens SC
+Journée 15,Sat Nov 30 2019,Lille OSC,1-0,Dijon FCO
+Journée 15,Sat Nov 30 2019,Nîmes Olympique,1-1,FC Metz
+Journée 15,Sat Nov 30 2019,Stade de Reims,1-1,Girondins de Bordeaux
+Journée 15,Sun Dec 1 2019,FC Nantes,2-1,Toulouse FC
+Journée 15,Sun Dec 1 2019,Stade Rennais FC,2-1,AS Saint-Étienne
+Journée 16,Tue Dec 3 2019,Angers SCO,0-2,Olympique de Marseille
+Journée 16,Tue Dec 3 2019,Stade Brestois 29,5-0,RC Strasbourg
+Journée 16,Tue Dec 3 2019,Girondins de Bordeaux,6-0,Nîmes Olympique
+Journée 16,Tue Dec 3 2019,Olympique Lyonnais,0-1,Lille OSC
+Journée 16,Wed Dec 4 2019,FC Metz,0-1,Stade Rennais FC
+Journée 16,Wed Dec 4 2019,AS Saint-Étienne,4-1,OGC Nice
+Journée 16,Wed Dec 4 2019,Paris Saint-Germain,2-0,FC Nantes
+Journée 16,Wed Dec 4 2019,Dijon FCO,2-2,Montpellier HSC
+Journée 16,Wed Dec 4 2019,Toulouse FC,1-2,AS Monaco
+Journée 17,Fri Dec 6 2019,Lille OSC,1-0,Stade Brestois 29
+Journée 17,Fri Dec 6 2019,Nîmes Olympique,0-4,Olympique Lyonnais
+Journée 17,Sat Dec 7 2019,AS Monaco,3-0,Amiens SC
+Journée 17,Sat Dec 7 2019,RC Strasbourg,4-2,Toulouse FC
+Journée 17,Sat Dec 7 2019,Stade Rennais FC,2-1,Angers SCO
+Journée 17,Sat Dec 7 2019,OGC Nice,4-1,FC Metz
+Journée 17,Sat Dec 7 2019,Montpellier HSC,1-3,Paris Saint-Germain
+Journée 17,Sun Dec 8 2019,Stade de Reims,3-1,AS Saint-Étienne
+Journée 17,Sun Dec 8 2019,FC Nantes,1-0,Dijon FCO
+Journée 17,Sun Dec 8 2019,Olympique de Marseille,3-1,Girondins de Bordeaux
+Journée 18,Fri Dec 13 2019,Lille OSC,2-1,Montpellier HSC
+Journée 18,Sat Dec 14 2019,FC Metz,1-1,Olympique de Marseille
+Journée 18,Sat Dec 14 2019,Amiens SC,1-1,Dijon FCO
+Journée 18,Sat Dec 14 2019,Nîmes Olympique,0-1,FC Nantes
+Journée 18,Sat Dec 14 2019,Toulouse FC,0-1,Stade de Reims
+Journée 18,Sat Dec 14 2019,Angers SCO,0-0,AS Monaco
+Journée 18,Sat Dec 14 2019,Stade Brestois 29,0-0,OGC Nice
+Journée 18,Sun Dec 15 2019,Girondins de Bordeaux,0-1,RC Strasbourg
+Journée 18,Sun Dec 15 2019,Olympique Lyonnais,0-1,Stade Rennais FC
+Journée 18,Sun Dec 15 2019,AS Saint-Étienne,0-4,Paris Saint-Germain
+Journée 19,Sat Dec 21 2019,OGC Nice,3-0,Toulouse FC
+Journée 19,Sat Dec 21 2019,Paris Saint-Germain,4-1,Amiens SC
+Journée 19,Sat Dec 21 2019,Stade de Reims,1-1,Olympique Lyonnais
+Journée 19,Sat Dec 21 2019,Montpellier HSC,4-0,Stade Brestois 29
+Journée 19,Sat Dec 21 2019,FC Nantes,1-2,Angers SCO
+Journée 19,Sat Dec 21 2019,AS Monaco,5-1,Lille OSC
+Journée 19,Sat Dec 21 2019,Dijon FCO,2-2,FC Metz
+Journée 19,Sat Dec 21 2019,Olympique de Marseille,3-1,Nîmes Olympique
+Journée 19,Sat Dec 21 2019,Stade Rennais FC,1-0,Girondins de Bordeaux
+Journée 19,Sat Dec 21 2019,RC Strasbourg,2-1,AS Saint-Étienne
+Journée 20,Fri Jan 10 2020,Stade Rennais FC,0-1,Olympique de Marseille
+Journée 20,Sat Jan 11 2020,Amiens SC,1-2,Montpellier HSC
+Journée 20,Sat Jan 11 2020,FC Metz,1-0,RC Strasbourg
+Journée 20,Sat Jan 11 2020,Girondins de Bordeaux,1-2,Olympique Lyonnais
+Journée 20,Sat Jan 11 2020,Toulouse FC,2-5,Stade Brestois 29
+Journée 20,Sat Jan 11 2020,Nîmes Olympique,2-0,Stade de Reims
+Journée 20,Sat Jan 11 2020,Angers SCO,1-1,OGC Nice
+Journée 20,Sun Jan 12 2020,AS Saint-Étienne,0-2,FC Nantes
+Journée 20,Sun Jan 12 2020,Dijon FCO,1-0,Lille OSC
+Journée 20,Sun Jan 12 2020,Paris Saint-Germain,3-3,AS Monaco
+Journée 12,Wed Jan 15 2020,Nîmes Olympique,0-1,Stade Rennais FC
+Journée 15,Wed Jan 15 2020,AS Monaco,1-4,Paris Saint-Germain
+Journée 16,Wed Jan 15 2020,Amiens SC,1-1,Stade de Reims
+Journée 21,Fri Jan 24 2020,OGC Nice,1-1,Stade Rennais FC
+Journée 21,Sat Jan 25 2020,Olympique de Marseille,0-0,Angers SCO
+Journée 21,Sat Jan 25 2020,AS Monaco,1-3,RC Strasbourg
+Journée 21,Sat Jan 25 2020,Stade de Reims,0-1,FC Metz
+Journée 21,Sat Jan 25 2020,AS Saint-Étienne,2-1,Nîmes Olympique
+Journée 21,Sat Jan 25 2020,Stade Brestois 29,2-1,Amiens SC
+Journée 21,Sat Jan 25 2020,Montpellier HSC,2-1,Dijon FCO
+Journée 21,Sun Jan 26 2020,Olympique Lyonnais,3-0,Toulouse FC
+Journée 21,Sun Jan 26 2020,FC Nantes,0-1,Girondins de Bordeaux
+Journée 21,Sun Jan 26 2020,Lille OSC,0-2,Paris Saint-Germain
+Journée 22,Fri Jan 31 2020,Stade Rennais FC,3-2,FC Nantes
+Journée 22,Sat Feb 1 2020,Paris Saint-Germain,5-0,Montpellier HSC
+Journée 22,Sat Feb 1 2020,Dijon FCO,3-0,Stade Brestois 29
+Journée 22,Sat Feb 1 2020,Nîmes Olympique,3-1,AS Monaco
+Journée 22,Sat Feb 1 2020,RC Strasbourg,1-2,Lille OSC
+Journée 22,Sat Feb 1 2020,Angers SCO,1-4,Stade de Reims
+Journée 22,Sat Feb 1 2020,Amiens SC,0-0,Toulouse FC
+Journée 22,Sun Feb 2 2020,OGC Nice,2-1,Olympique Lyonnais
+Journée 22,Sun Feb 2 2020,FC Metz,3-1,AS Saint-Étienne
+Journée 22,Sun Feb 2 2020,Girondins de Bordeaux,0-0,Olympique de Marseille
+Journée 23,Tue Feb 4 2020,Lille OSC,1-0,Stade Rennais FC
+Journée 23,Tue Feb 4 2020,AS Monaco,1-0,Angers SCO
+Journée 23,Tue Feb 4 2020,FC Nantes,1-2,Paris Saint-Germain
+Journée 23,Wed Feb 5 2020,Olympique Lyonnais,0-0,Amiens SC
+Journée 23,Wed Feb 5 2020,Toulouse FC,0-1,RC Strasbourg
+Journée 23,Wed Feb 5 2020,Nîmes Olympique,2-0,Dijon FCO
+Journée 23,Wed Feb 5 2020,Stade Brestois 29,1-1,Girondins de Bordeaux
+Journée 23,Wed Feb 5 2020,Montpellier HSC,1-1,FC Metz
+Journée 23,Wed Feb 5 2020,AS Saint-Étienne,0-2,Olympique de Marseille
+Journée 23,Wed Feb 5 2020,Stade de Reims,1-1,OGC Nice
+Journée 24,Fri Feb 7 2020,Angers SCO,0-2,Lille OSC
+Journée 24,Sat Feb 8 2020,Amiens SC,1-2,AS Monaco
+Journée 24,Sat Feb 8 2020,Dijon FCO,3-3,FC Nantes
+Journée 24,Sat Feb 8 2020,Olympique de Marseille,1-0,Toulouse FC
+Journée 24,Sat Feb 8 2020,Stade Rennais FC,0-0,Stade Brestois 29
+Journée 24,Sat Feb 8 2020,FC Metz,1-2,Girondins de Bordeaux
+Journée 24,Sat Feb 8 2020,OGC Nice,1-3,Nîmes Olympique
+Journée 24,Sun Feb 9 2020,Montpellier HSC,1-0,AS Saint-Étienne
+Journée 24,Sun Feb 9 2020,RC Strasbourg,3-0,Stade de Reims
+Journée 24,Sun Feb 9 2020,Paris Saint-Germain,4-2,Olympique Lyonnais
+Journée 25,Fri Feb 14 2020,AS Monaco,1-0,Montpellier HSC
+Journée 25,Sat Feb 15 2020,Nîmes Olympique,1-0,Angers SCO
+Journée 25,Sat Feb 15 2020,FC Nantes,0-0,FC Metz
+Journée 25,Sat Feb 15 2020,Girondins de Bordeaux,2-2,Dijon FCO
+Journée 25,Sat Feb 15 2020,Toulouse FC,0-2,OGC Nice
+Journée 25,Sat Feb 15 2020,Amiens SC,4-4,Paris Saint-Germain
+Journée 25,Sun Feb 16 2020,Olympique Lyonnais,1-1,RC Strasbourg
+Journée 25,Sun Feb 16 2020,Stade Brestois 29,3-2,AS Saint-Étienne
+Journée 25,Sun Feb 16 2020,Lille OSC,1-2,Olympique de Marseille
+Journée 25,Sun Feb 16 2020,Stade de Reims,1-0,Stade Rennais FC
+Journée 26,Fri Feb 21 2020,OGC Nice,2-2,Stade Brestois 29
+Journée 26,Fri Feb 21 2020,FC Metz,0-2,Olympique Lyonnais
+Journée 26,Sat Feb 22 2020,Angers SCO,1-0,Montpellier HSC
+Journée 26,Sat Feb 22 2020,Lille OSC,3-0,Toulouse FC
+Journée 26,Sat Feb 22 2020,RC Strasbourg,0-0,Amiens SC
+Journée 26,Sat Feb 22 2020,Dijon FCO,1-1,AS Monaco
+Journée 26,Sat Feb 22 2020,Olympique de Marseille,1-3,FC Nantes
+Journée 26,Sun Feb 23 2020,Paris Saint-Germain,4-3,Girondins de Bordeaux
+Journée 26,Sun Feb 23 2020,Stade Rennais FC,2-1,Nîmes Olympique
+Journée 26,Sun Feb 23 2020,AS Saint-Étienne,1-1,Stade de Reims
+Journée 27,Fri Feb 28 2020,Nîmes Olympique,2-3,Olympique de Marseille
+Journée 27,Sat Feb 29 2020,Paris Saint-Germain,4-0,Dijon FCO
+Journée 27,Sat Feb 29 2020,Stade Brestois 29,0-1,Angers SCO
+Journée 27,Sat Feb 29 2020,AS Monaco,1-1,Stade de Reims
+Journée 27,Sat Feb 29 2020,Toulouse FC,0-2,Stade Rennais FC
+Journée 27,Sat Feb 29 2020,Amiens SC,0-1,FC Metz
+Journée 27,Sat Feb 29 2020,Montpellier HSC,3-0,RC Strasbourg
+Journée 27,Sun Mar 1 2020,Olympique Lyonnais,2-0,AS Saint-Étienne
+Journée 27,Sun Mar 1 2020,Girondins de Bordeaux,1-1,OGC Nice
+Journée 27,Sun Mar 1 2020,FC Nantes,0-1,Lille OSC
+Journée 28,Fri Mar 6 2020,Olympique de Marseille,2-2,Amiens SC
+Journée 28,Sat Mar 7 2020,FC Metz,2-1,Nîmes Olympique
+Journée 28,Sat Mar 7 2020,Stade de Reims,1-0,Stade Brestois 29
+Journée 28,Sat Mar 7 2020,OGC Nice,2-1,AS Monaco
+Journée 28,Sat Mar 7 2020,Dijon FCO,2-1,Toulouse FC
+Journée 28,Sat Mar 7 2020,Angers SCO,2-0,FC Nantes
+Journée 28,Sun Mar 8 2020,AS Saint-Étienne,1-1,Girondins de Bordeaux
+Journée 28,Sun Mar 8 2020,Stade Rennais FC,5-0,Montpellier HSC
+Journée 28,Sun Mar 8 2020,Lille OSC,1-0,Olympique Lyonnais
+Journée 29,Fri Mar 13 2020,Olympique Lyonnais,,Stade de Reims
+Journée 29,Sat Mar 14 2020,Montpellier HSC,,Olympique de Marseille
+Journée 29,Sat Mar 14 2020,Stade Brestois 29,,Lille OSC
+Journée 29,Sat Mar 14 2020,Toulouse FC,,FC Metz
+Journée 29,Sat Mar 14 2020,Amiens SC,,Angers SCO
+Journée 29,Sat Mar 14 2020,RC Strasbourg,,Dijon FCO
+Journée 29,Sat Mar 14 2020,FC Nantes,,Nîmes Olympique
+Journée 29,Sun Mar 15 2020,Girondins de Bordeaux,,Stade Rennais FC
+Journée 29,Sun Mar 15 2020,Paris Saint-Germain,,OGC Nice
+Journée 29,Sun Mar 15 2020,AS Monaco,,AS Saint-Étienne
+Journée 28,Wed Mar 18 2020,RC Strasbourg,,Paris Saint-Germain
+Journée 30,Fri Mar 20 2020,Lille OSC,,AS Monaco
+Journée 30,Sat Mar 21 2020,Nîmes Olympique,,Girondins de Bordeaux
+Journée 30,Sat Mar 21 2020,Stade Rennais FC,,Olympique Lyonnais
+Journée 30,Sat Mar 21 2020,Angers SCO,,Toulouse FC
+Journée 30,Sat Mar 21 2020,FC Metz,,Stade Brestois 29
+Journée 30,Sat Mar 21 2020,OGC Nice,,Montpellier HSC
+Journée 30,Sat Mar 21 2020,Dijon FCO,,Amiens SC
+Journée 30,Sun Mar 22 2020,AS Saint-Étienne,,RC Strasbourg
+Journée 30,Sun Mar 22 2020,Stade de Reims,,FC Nantes
+Journée 30,Sun Mar 22 2020,Olympique de Marseille,,Paris Saint-Germain
+Journée 31,Sat Apr 4 2020,Montpellier HSC,,Lille OSC
+Journée 31,Sat Apr 4 2020,Toulouse FC,,AS Saint-Étienne
+Journée 31,Sun Apr 5 2020,Stade Brestois 29,,Olympique de Marseille
+Journée 31,Sun Apr 5 2020,Olympique Lyonnais,,Nîmes Olympique
+Journée 31,Sun Apr 5 2020,Paris Saint-Germain,,FC Metz
+Journée 31,Sun Apr 5 2020,Amiens SC,,Stade Rennais FC
+Journée 31,Sun Apr 5 2020,RC Strasbourg,,Angers SCO
+Journée 31,Sun Apr 5 2020,Dijon FCO,,OGC Nice
+Journée 31,Sun Apr 5 2020,Girondins de Bordeaux,,Stade de Reims
+Journée 31,Sun Apr 5 2020,AS Monaco,,FC Nantes
+Journée 32,Sat Apr 11 2020,OGC Nice,,RC Strasbourg
+Journée 32,Sat Apr 11 2020,Nîmes Olympique,,Montpellier HSC
+Journée 32,Sat Apr 11 2020,FC Metz,,Lille OSC
+Journée 32,Sat Apr 11 2020,Angers SCO,,Paris Saint-Germain
+Journée 32,Sat Apr 11 2020,Stade de Reims,,Toulouse FC
+Journée 32,Sat Apr 11 2020,Stade Brestois 29,,AS Monaco
+Journée 32,Sat Apr 11 2020,AS Saint-Étienne,,Stade Rennais FC
+Journée 32,Sat Apr 11 2020,Girondins de Bordeaux,,Amiens SC
+Journée 32,Sat Apr 11 2020,FC Nantes,,Olympique Lyonnais
+Journée 32,Sat Apr 11 2020,Olympique de Marseille,,Dijon FCO
+Journée 33,Sat Apr 18 2020,Lille OSC,,OGC Nice
+Journée 33,Sat Apr 18 2020,Stade Rennais FC,,FC Metz
+Journée 33,Sat Apr 18 2020,Toulouse FC,,FC Nantes
+Journée 33,Sat Apr 18 2020,Olympique Lyonnais,,Olympique de Marseille
+Journée 33,Sat Apr 18 2020,AS Monaco,,Girondins de Bordeaux
+Journée 33,Sat Apr 18 2020,Montpellier HSC,,Stade de Reims
+Journée 33,Sat Apr 18 2020,Paris Saint-Germain,,AS Saint-Étienne
+Journée 33,Sat Apr 18 2020,RC Strasbourg,,Stade Brestois 29
+Journée 33,Sat Apr 18 2020,Dijon FCO,,Angers SCO
+Journée 33,Sat Apr 18 2020,Amiens SC,,Nîmes Olympique
+Journée 34,Sun Apr 26 2020,FC Nantes,,Amiens SC
+Journée 34,Sun Apr 26 2020,Stade Rennais FC,,RC Strasbourg
+Journée 34,Sun Apr 26 2020,AS Saint-Étienne,,Angers SCO
+Journée 34,Sun Apr 26 2020,Nîmes Olympique,,Lille OSC
+Journée 34,Sun Apr 26 2020,Stade Brestois 29,,Montpellier HSC
+Journée 34,Sun Apr 26 2020,FC Metz,,Dijon FCO
+Journée 34,Sun Apr 26 2020,Girondins de Bordeaux,,Toulouse FC
+Journée 34,Sun Apr 26 2020,Stade de Reims,,Paris Saint-Germain
+Journée 34,Sun Apr 26 2020,Olympique de Marseille,,OGC Nice
+Journée 34,Sun Apr 26 2020,Olympique Lyonnais,,AS Monaco
+Journée 35,Sat May 2 2020,Paris Saint-Germain,,Stade Brestois 29
+Journée 35,Sat May 2 2020,RC Strasbourg,,Olympique de Marseille
+Journée 35,Sat May 2 2020,AS Monaco,,FC Metz
+Journée 35,Sat May 2 2020,Dijon FCO,,Olympique Lyonnais
+Journée 35,Sat May 2 2020,Toulouse FC,,Nîmes Olympique
+Journée 35,Sat May 2 2020,Montpellier HSC,,Girondins de Bordeaux
+Journée 35,Sat May 2 2020,OGC Nice,,FC Nantes
+Journée 35,Sat May 2 2020,Lille OSC,,Stade de Reims
+Journée 35,Sat May 2 2020,Amiens SC,,AS Saint-Étienne
+Journée 35,Sat May 2 2020,Angers SCO,,Stade Rennais FC
+Journée 36,Sat May 9 2020,Stade Rennais FC,,Dijon FCO
+Journée 36,Sat May 9 2020,Girondins de Bordeaux,,Angers SCO
+Journée 36,Sat May 9 2020,Stade de Reims,,Amiens SC
+Journée 36,Sat May 9 2020,AS Saint-Étienne,,Lille OSC
+Journée 36,Sat May 9 2020,Olympique Lyonnais,,Montpellier HSC
+Journée 36,Sat May 9 2020,Olympique de Marseille,,AS Monaco
+Journée 36,Sat May 9 2020,Toulouse FC,,Paris Saint-Germain
+Journée 36,Sat May 9 2020,Nîmes Olympique,,RC Strasbourg
+Journée 36,Sat May 9 2020,FC Metz,,OGC Nice
+Journée 36,Sat May 9 2020,FC Nantes,,Stade Brestois 29
+Journée 37,Sat May 16 2020,RC Strasbourg,,Girondins de Bordeaux
+Journée 37,Sat May 16 2020,OGC Nice,,AS Saint-Étienne
+Journée 37,Sat May 16 2020,Lille OSC,,Amiens SC
+Journée 37,Sat May 16 2020,Montpellier HSC,,FC Nantes
+Journée 37,Sat May 16 2020,Stade Brestois 29,,Nîmes Olympique
+Journée 37,Sat May 16 2020,AS Monaco,,Toulouse FC
+Journée 37,Sat May 16 2020,Angers SCO,,Olympique Lyonnais
+Journée 37,Sat May 16 2020,Dijon FCO,,Stade de Reims
+Journée 37,Sat May 16 2020,Olympique de Marseille,,FC Metz
+Journée 37,Sat May 16 2020,Paris Saint-Germain,,Stade Rennais FC
+Journée 38,Sat May 23 2020,Nîmes Olympique,,Paris Saint-Germain
+Journée 38,Sat May 23 2020,Stade Rennais FC,,AS Monaco
+Journée 38,Sat May 23 2020,AS Saint-Étienne,,Dijon FCO
+Journée 38,Sat May 23 2020,FC Metz,,Angers SCO
+Journée 38,Sat May 23 2020,Amiens SC,,OGC Nice
+Journée 38,Sat May 23 2020,Girondins de Bordeaux,,Lille OSC
+Journée 38,Sat May 23 2020,Stade de Reims,,Olympique de Marseille
+Journée 38,Sat May 23 2020,Toulouse FC,,Montpellier HSC
+Journée 38,Sat May 23 2020,Olympique Lyonnais,,Stade Brestois 29
+Journée 38,Sat May 23 2020,FC Nantes,,RC Strasbourg

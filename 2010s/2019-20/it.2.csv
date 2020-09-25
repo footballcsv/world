@@ -1,0 +1,381 @@
+Round,Date,Team 1,FT,Team 2
+1^ Giornata,Fri Aug 23 2019,AC Pisa,0-0,Benevento
+1^ Giornata,Sat Aug 24 2019,FC Crotone,0-0,Cosenza Calcio
+1^ Giornata,Sat Aug 24 2019,Salernitana,3-1,Pescara
+1^ Giornata,Sat Aug 24 2019,Ascoli,3-1,Trapani Calcio
+1^ Giornata,Sat Aug 24 2019,Virtus Entella,1-0,AS Livorno Calcio
+1^ Giornata,Sat Aug 24 2019,Venezia,1-2,US Cremonese
+1^ Giornata,Sat Aug 24 2019,Cittadella,0-3,Spezia
+1^ Giornata,Sun Aug 25 2019,Empoli,2-1,SS Juve Stabia
+1^ Giornata,Sun Aug 25 2019,AC Perugia,2-1,AC Chievo Verona
+1^ Giornata,Mon Aug 26 2019,Pordenone Calcio,3-0,Frosinone
+2^ Giornata,Fri Aug 30 2019,AC Chievo Verona,1-1,Empoli
+2^ Giornata,Sat Aug 31 2019,Trapani Calcio,0-1,Venezia
+2^ Giornata,Sat Aug 31 2019,Benevento,4-1,Cittadella
+2^ Giornata,Sat Aug 31 2019,Cosenza Calcio,0-1,Salernitana
+2^ Giornata,Sat Aug 31 2019,US Cremonese,0-1,Virtus Entella
+2^ Giornata,Sat Aug 31 2019,AS Livorno Calcio,0-1,AC Perugia
+2^ Giornata,Sat Aug 31 2019,Spezia,1-2,FC Crotone
+2^ Giornata,Sun Sep 1 2019,SS Juve Stabia,0-2,AC Pisa
+2^ Giornata,Sun Sep 1 2019,Pescara,4-2,Pordenone Calcio
+2^ Giornata,Sun Sep 1 2019,Frosinone,2-1,Ascoli
+3^ Giornata,Fri Sep 13 2019,Pordenone Calcio,1-0,Spezia
+3^ Giornata,Sat Sep 14 2019,Ascoli,2-0,AS Livorno Calcio
+3^ Giornata,Sat Sep 14 2019,Cittadella,2-0,Trapani Calcio
+3^ Giornata,Sat Sep 14 2019,AC Perugia,0-0,SS Juve Stabia
+3^ Giornata,Sat Sep 14 2019,Venezia,0-2,AC Chievo Verona
+3^ Giornata,Sat Sep 14 2019,Virtus Entella,1-0,Frosinone
+3^ Giornata,Sun Sep 15 2019,Cosenza Calcio,1-2,Pescara
+3^ Giornata,Sun Sep 15 2019,FC Crotone,0-0,Empoli
+3^ Giornata,Sun Sep 15 2019,AC Pisa,4-1,US Cremonese
+3^ Giornata,Mon Sep 16 2019,Salernitana,0-2,Benevento
+4^ Giornata,Fri Sep 20 2019,Frosinone,1-1,Venezia
+4^ Giornata,Sat Sep 21 2019,US Cremonese,2-1,FC Crotone
+4^ Giornata,Sat Sep 21 2019,Benevento,1-0,Cosenza Calcio
+4^ Giornata,Sat Sep 21 2019,Empoli,1-0,Cittadella
+4^ Giornata,Sat Sep 21 2019,SS Juve Stabia,1-5,Ascoli
+4^ Giornata,Sat Sep 21 2019,AS Livorno Calcio,2-1,Pordenone Calcio
+4^ Giornata,Sat Sep 21 2019,Pescara,1-1,Virtus Entella
+4^ Giornata,Sat Sep 21 2019,AC Chievo Verona,2-2,AC Pisa
+4^ Giornata,Sat Sep 21 2019,Spezia,2-2,AC Perugia
+4^ Giornata,Sun Sep 22 2019,Trapani Calcio,0-1,Salernitana
+5^ Giornata,Tue Sep 24 2019,Ascoli,3-0,Spezia
+5^ Giornata,Tue Sep 24 2019,Cittadella,2-1,Pescara
+5^ Giornata,Tue Sep 24 2019,Cosenza Calcio,1-1,AS Livorno Calcio
+5^ Giornata,Tue Sep 24 2019,FC Crotone,2-0,SS Juve Stabia
+5^ Giornata,Tue Sep 24 2019,Virtus Entella,0-2,Venezia
+5^ Giornata,Tue Sep 24 2019,AC Pisa,2-3,Empoli
+5^ Giornata,Tue Sep 24 2019,Pordenone Calcio,1-1,Benevento
+5^ Giornata,Tue Sep 24 2019,AC Perugia,3-1,Frosinone
+5^ Giornata,Wed Sep 25 2019,Salernitana,1-1,AC Chievo Verona
+5^ Giornata,Wed Sep 25 2019,Trapani Calcio,0-0,US Cremonese
+6^ Giornata,Fri Sep 27 2019,Pescara,0-3,FC Crotone
+6^ Giornata,Sat Sep 28 2019,Frosinone,1-1,Cosenza Calcio
+6^ Giornata,Sat Sep 28 2019,SS Juve Stabia,0-1,Cittadella
+6^ Giornata,Sat Sep 28 2019,Venezia,1-1,AC Pisa
+6^ Giornata,Sat Sep 28 2019,Empoli,3-0,AC Perugia
+6^ Giornata,Sun Sep 29 2019,Benevento,1-1,Virtus Entella
+6^ Giornata,Sun Sep 29 2019,AC Chievo Verona,1-1,Pordenone Calcio
+6^ Giornata,Sun Sep 29 2019,Spezia,2-4,Trapani Calcio
+6^ Giornata,Sun Sep 29 2019,AS Livorno Calcio,2-3,Salernitana
+6^ Giornata,Mon Sep 30 2019,US Cremonese,1-0,Ascoli
+7^ Giornata,Fri Oct 4 2019,AC Perugia,1-0,AC Pisa
+7^ Giornata,Sat Oct 5 2019,Trapani Calcio,1-2,SS Juve Stabia
+7^ Giornata,Sat Oct 5 2019,Cosenza Calcio,1-1,Venezia
+7^ Giornata,Sat Oct 5 2019,AS Livorno Calcio,3-4,AC Chievo Verona
+7^ Giornata,Sat Oct 5 2019,Pordenone Calcio,2-0,Empoli
+7^ Giornata,Sat Oct 5 2019,Spezia,0-1,Benevento
+7^ Giornata,Sat Oct 5 2019,FC Crotone,3-1,Virtus Entella
+7^ Giornata,Sun Oct 6 2019,US Cremonese,0-2,Cittadella
+7^ Giornata,Sun Oct 6 2019,Salernitana,1-1,Frosinone
+7^ Giornata,Sun Oct 6 2019,Ascoli,0-2,Pescara
+8^ Giornata,Fri Oct 18 2019,Cittadella,1-3,Cosenza Calcio
+8^ Giornata,Sat Oct 19 2019,SS Juve Stabia,4-2,Pordenone Calcio
+8^ Giornata,Sat Oct 19 2019,Pescara,1-2,Spezia
+8^ Giornata,Sat Oct 19 2019,Benevento,1-0,AC Perugia
+8^ Giornata,Sat Oct 19 2019,Virtus Entella,1-1,Trapani Calcio
+8^ Giornata,Sat Oct 19 2019,Venezia,1-0,Salernitana
+8^ Giornata,Sun Oct 20 2019,AC Chievo Verona,2-0,Ascoli
+8^ Giornata,Sun Oct 20 2019,AC Pisa,1-1,FC Crotone
+8^ Giornata,Sun Oct 20 2019,Empoli,1-1,US Cremonese
+8^ Giornata,Mon Oct 21 2019,Frosinone,1-0,AS Livorno Calcio
+9^ Giornata,Fri Oct 25 2019,Ascoli,2-1,Virtus Entella
+9^ Giornata,Sat Oct 26 2019,FC Crotone,3-2,Venezia
+9^ Giornata,Sat Oct 26 2019,Cosenza Calcio,1-1,AC Chievo Verona
+9^ Giornata,Sat Oct 26 2019,Pescara,4-0,Benevento
+9^ Giornata,Sat Oct 26 2019,Pordenone Calcio,0-0,Cittadella
+9^ Giornata,Sat Oct 26 2019,Salernitana,1-1,AC Perugia
+9^ Giornata,Sat Oct 26 2019,AS Livorno Calcio,1-0,AC Pisa
+9^ Giornata,Sat Oct 26 2019,Trapani Calcio,2-2,Empoli
+9^ Giornata,Sat Oct 26 2019,Spezia,2-0,SS Juve Stabia
+9^ Giornata,Sun Oct 27 2019,US Cremonese,1-1,Frosinone
+10^ Giornata,Tue Oct 29 2019,SS Juve Stabia,2-1,Pescara
+10^ Giornata,Tue Oct 29 2019,Cittadella,1-0,AS Livorno Calcio
+10^ Giornata,Tue Oct 29 2019,Empoli,1-1,Spezia
+10^ Giornata,Tue Oct 29 2019,AC Chievo Verona,2-1,FC Crotone
+10^ Giornata,Tue Oct 29 2019,Virtus Entella,1-0,Cosenza Calcio
+10^ Giornata,Tue Oct 29 2019,AC Pisa,2-1,Salernitana
+10^ Giornata,Tue Oct 29 2019,Venezia,1-2,Pordenone Calcio
+10^ Giornata,Tue Oct 29 2019,AC Perugia,1-1,Ascoli
+10^ Giornata,Wed Oct 30 2019,Benevento,2-0,US Cremonese
+10^ Giornata,Wed Oct 30 2019,Frosinone,3-0,Trapani Calcio
+11^ Giornata,Fri Nov 1 2019,Spezia,0-0,AC Chievo Verona
+11^ Giornata,Sat Nov 2 2019,Ascoli,1-1,Venezia
+11^ Giornata,Sat Nov 2 2019,FC Crotone,2-3,AC Perugia
+11^ Giornata,Sat Nov 2 2019,Salernitana,2-1,Virtus Entella
+11^ Giornata,Sat Nov 2 2019,Pescara,3-0,AC Pisa
+11^ Giornata,Sat Nov 2 2019,AS Livorno Calcio,2-1,SS Juve Stabia
+11^ Giornata,Sun Nov 3 2019,Cittadella,0-0,Frosinone
+11^ Giornata,Sun Nov 3 2019,Benevento,2-0,Empoli
+11^ Giornata,Sun Nov 3 2019,Pordenone Calcio,2-1,Trapani Calcio
+11^ Giornata,Mon Nov 4 2019,Cosenza Calcio,2-0,US Cremonese
+12^ Giornata,Fri Nov 8 2019,FC Crotone,3-1,Ascoli
+12^ Giornata,Sat Nov 9 2019,AC Perugia,0-2,Cittadella
+12^ Giornata,Sat Nov 9 2019,Empoli,1-2,Pescara
+12^ Giornata,Sat Nov 9 2019,AC Pisa,3-2,Spezia
+12^ Giornata,Sat Nov 9 2019,Venezia,1-0,AS Livorno Calcio
+12^ Giornata,Sat Nov 9 2019,Virtus Entella,1-1,Pordenone Calcio
+12^ Giornata,Sat Nov 9 2019,SS Juve Stabia,1-1,Benevento
+12^ Giornata,Sun Nov 10 2019,US Cremonese,1-0,Salernitana
+12^ Giornata,Sun Nov 10 2019,Trapani Calcio,2-2,Cosenza Calcio
+12^ Giornata,Sun Nov 10 2019,Frosinone,2-0,AC Chievo Verona
+13^ Giornata,Fri Nov 22 2019,Pescara,1-1,US Cremonese
+13^ Giornata,Sat Nov 23 2019,Empoli,1-1,Venezia
+13^ Giornata,Sat Nov 23 2019,SS Juve Stabia,2-0,Salernitana
+13^ Giornata,Sat Nov 23 2019,AS Livorno Calcio,1-2,Trapani Calcio
+13^ Giornata,Sat Nov 23 2019,Pordenone Calcio,3-0,AC Perugia
+13^ Giornata,Sat Nov 23 2019,Benevento,2-0,FC Crotone
+13^ Giornata,Sun Nov 24 2019,Ascoli,3-2,Cosenza Calcio
+13^ Giornata,Sun Nov 24 2019,Cittadella,1-1,AC Pisa
+13^ Giornata,Sun Nov 24 2019,Spezia,2-0,Frosinone
+13^ Giornata,Mon Nov 25 2019,AC Chievo Verona,2-1,Virtus Entella
+14^ Giornata,Fri Nov 29 2019,Cosenza Calcio,1-1,Spezia
+14^ Giornata,Sat Nov 30 2019,US Cremonese,0-0,AS Livorno Calcio
+14^ Giornata,Sat Nov 30 2019,FC Crotone,1-1,Cittadella
+14^ Giornata,Sat Nov 30 2019,Frosinone,4-0,Empoli
+14^ Giornata,Sat Nov 30 2019,Venezia,0-2,Benevento
+14^ Giornata,Sat Nov 30 2019,Salernitana,1-1,Ascoli
+14^ Giornata,Sun Dec 1 2019,Trapani Calcio,1-0,AC Chievo Verona
+14^ Giornata,Sun Dec 1 2019,Virtus Entella,2-0,SS Juve Stabia
+14^ Giornata,Sun Dec 1 2019,AC Perugia,3-1,Pescara
+14^ Giornata,Mon Dec 2 2019,AC Pisa,2-0,Pordenone Calcio
+15^ Giornata,Fri Dec 6 2019,Benevento,5-0,Trapani Calcio
+15^ Giornata,Sat Dec 7 2019,Cittadella,4-3,Salernitana
+15^ Giornata,Sat Dec 7 2019,Empoli,2-1,Ascoli
+15^ Giornata,Sat Dec 7 2019,AC Chievo Verona,1-0,US Cremonese
+15^ Giornata,Sat Dec 7 2019,Spezia,2-0,AS Livorno Calcio
+15^ Giornata,Sat Dec 7 2019,Pescara,2-2,Venezia
+15^ Giornata,Sun Dec 8 2019,SS Juve Stabia,0-2,Frosinone
+15^ Giornata,Sun Dec 8 2019,AC Pisa,0-2,Virtus Entella
+15^ Giornata,Sun Dec 8 2019,Pordenone Calcio,1-0,FC Crotone
+15^ Giornata,Mon Dec 9 2019,AC Perugia,2-2,Cosenza Calcio
+16^ Giornata,Fri Dec 13 2019,AC Chievo Verona,2-3,SS Juve Stabia
+16^ Giornata,Sat Dec 14 2019,Ascoli,1-0,Cittadella
+16^ Giornata,Sat Dec 14 2019,AS Livorno Calcio,0-2,Benevento
+16^ Giornata,Sat Dec 14 2019,Venezia,0-0,Spezia
+16^ Giornata,Sat Dec 14 2019,Virtus Entella,2-0,Empoli
+16^ Giornata,Sat Dec 14 2019,Frosinone,2-0,Pescara
+16^ Giornata,Sun Dec 15 2019,Cosenza Calcio,1-2,Pordenone Calcio
+16^ Giornata,Sun Dec 15 2019,Salernitana,3-2,FC Crotone
+16^ Giornata,Sun Dec 15 2019,US Cremonese,2-1,AC Perugia
+16^ Giornata,Mon Dec 16 2019,Trapani Calcio,1-3,AC Pisa
+17^ Giornata,Sat Dec 21 2019,Cittadella,1-1,AC Chievo Verona
+17^ Giornata,Sat Dec 21 2019,FC Crotone,2-1,AS Livorno Calcio
+17^ Giornata,Sat Dec 21 2019,Empoli,1-1,Salernitana
+17^ Giornata,Sat Dec 21 2019,Benevento,1-0,Frosinone
+17^ Giornata,Sat Dec 21 2019,AC Perugia,2-0,Virtus Entella
+17^ Giornata,Sat Dec 21 2019,SS Juve Stabia,2-0,Venezia
+17^ Giornata,Sun Dec 22 2019,Pescara,1-1,Trapani Calcio
+17^ Giornata,Sun Dec 22 2019,Pordenone Calcio,2-1,Ascoli
+17^ Giornata,Sun Dec 22 2019,AC Pisa,1-3,Cosenza Calcio
+18^ Giornata,Thu Dec 26 2019,Virtus Entella,0-0,Spezia
+18^ Giornata,Thu Dec 26 2019,Cosenza Calcio,1-0,Empoli
+18^ Giornata,Thu Dec 26 2019,AC Chievo Verona,1-2,Benevento
+18^ Giornata,Thu Dec 26 2019,US Cremonese,1-1,SS Juve Stabia
+18^ Giornata,Thu Dec 26 2019,Frosinone,1-2,FC Crotone
+18^ Giornata,Thu Dec 26 2019,AS Livorno Calcio,0-2,Pescara
+18^ Giornata,Thu Dec 26 2019,Salernitana,4-0,Pordenone Calcio
+18^ Giornata,Thu Dec 26 2019,Trapani Calcio,2-2,AC Perugia
+18^ Giornata,Thu Dec 26 2019,Venezia,1-2,Cittadella
+18^ Giornata,Thu Dec 26 2019,Ascoli,1-0,AC Pisa
+19^ Giornata,Sun Dec 29 2019,Empoli,1-1,AS Livorno Calcio
+19^ Giornata,Sun Dec 29 2019,Pescara,0-0,AC Chievo Verona
+19^ Giornata,Sun Dec 29 2019,Cittadella,1-3,Virtus Entella
+19^ Giornata,Sun Dec 29 2019,FC Crotone,3-0,Trapani Calcio
+19^ Giornata,Sun Dec 29 2019,SS Juve Stabia,1-0,Cosenza Calcio
+19^ Giornata,Sun Dec 29 2019,AC Perugia,0-1,Venezia
+19^ Giornata,Sun Dec 29 2019,AC Pisa,0-0,Frosinone
+19^ Giornata,Sun Dec 29 2019,Pordenone Calcio,1-0,US Cremonese
+19^ Giornata,Sun Dec 29 2019,Spezia,2-1,Salernitana
+19^ Giornata,Sun Dec 29 2019,Benevento,4-0,Ascoli
+20^ Giornata,Fri Jan 17 2020,Frosinone,2-2,Pordenone Calcio
+20^ Giornata,Sat Jan 18 2020,AS Livorno Calcio,4-4,Virtus Entella
+20^ Giornata,Sat Jan 18 2020,Trapani Calcio,3-1,Ascoli
+20^ Giornata,Sat Jan 18 2020,SS Juve Stabia,1-0,Empoli
+20^ Giornata,Sat Jan 18 2020,AC Chievo Verona,2-0,AC Perugia
+20^ Giornata,Sat Jan 18 2020,US Cremonese,0-0,Venezia
+20^ Giornata,Sun Jan 19 2020,Pescara,1-2,Salernitana
+20^ Giornata,Sun Jan 19 2020,Spezia,1-1,Cittadella
+20^ Giornata,Sun Jan 19 2020,Benevento,1-1,AC Pisa
+20^ Giornata,Mon Jan 20 2020,Cosenza Calcio,0-1,FC Crotone
+21^ Giornata,Fri Jan 24 2020,Empoli,1-1,AC Chievo Verona
+21^ Giornata,Sat Jan 25 2020,Pordenone Calcio,0-2,Pescara
+21^ Giornata,Sat Jan 25 2020,Cittadella,1-2,Benevento
+21^ Giornata,Sat Jan 25 2020,Virtus Entella,1-1,US Cremonese
+21^ Giornata,Sat Jan 25 2020,AC Pisa,1-1,SS Juve Stabia
+21^ Giornata,Sat Jan 25 2020,Salernitana,2-1,Cosenza Calcio
+21^ Giornata,Sun Jan 26 2020,Ascoli,0-1,Frosinone
+21^ Giornata,Sun Jan 26 2020,FC Crotone,1-2,Spezia
+21^ Giornata,Sun Jan 26 2020,Venezia,1-1,Trapani Calcio
+21^ Giornata,Mon Jan 27 2020,AC Perugia,1-0,AS Livorno Calcio
+22^ Giornata,Fri Jan 31 2020,US Cremonese,3-4,AC Pisa
+22^ Giornata,Sat Feb 1 2020,Frosinone,1-0,Virtus Entella
+22^ Giornata,Sat Feb 1 2020,AS Livorno Calcio,0-3,Ascoli
+22^ Giornata,Sat Feb 1 2020,Trapani Calcio,0-3,Cittadella
+22^ Giornata,Sat Feb 1 2020,Spezia,1-0,Pordenone Calcio
+22^ Giornata,Sat Feb 1 2020,Empoli,3-1,FC Crotone
+22^ Giornata,Sun Feb 2 2020,Benevento,1-1,Salernitana
+22^ Giornata,Sun Feb 2 2020,SS Juve Stabia,1-2,AC Perugia
+22^ Giornata,Sun Feb 2 2020,AC Chievo Verona,0-1,Venezia
+22^ Giornata,Mon Feb 3 2020,Pescara,2-1,Cosenza Calcio
+23^ Giornata,Fri Feb 7 2020,Ascoli,2-2,SS Juve Stabia
+23^ Giornata,Sat Feb 8 2020,Pordenone Calcio,2-2,AS Livorno Calcio
+23^ Giornata,Sat Feb 8 2020,FC Crotone,1-0,US Cremonese
+23^ Giornata,Sat Feb 8 2020,Cittadella,1-2,Empoli
+23^ Giornata,Sat Feb 8 2020,AC Perugia,0-3,Spezia
+23^ Giornata,Sat Feb 8 2020,Venezia,0-1,Frosinone
+23^ Giornata,Sun Feb 9 2020,Virtus Entella,2-0,Pescara
+23^ Giornata,Sun Feb 9 2020,AC Pisa,1-1,AC Chievo Verona
+23^ Giornata,Sun Feb 9 2020,Cosenza Calcio,0-1,Benevento
+23^ Giornata,Mon Feb 10 2020,Salernitana,1-0,Trapani Calcio
+17^ Giornata,Tue Feb 11 2020,Spezia,3-2,US Cremonese
+24^ Giornata,Fri Feb 14 2020,Pescara,1-2,Cittadella
+24^ Giornata,Sat Feb 15 2020,AS Livorno Calcio,0-3,Cosenza Calcio
+24^ Giornata,Sat Feb 15 2020,SS Juve Stabia,3-2,FC Crotone
+24^ Giornata,Sat Feb 15 2020,Benevento,2-1,Pordenone Calcio
+24^ Giornata,Sat Feb 15 2020,Spezia,3-1,Ascoli
+24^ Giornata,Sat Feb 15 2020,Venezia,2-2,Virtus Entella
+24^ Giornata,Sun Feb 16 2020,Frosinone,1-0,AC Perugia
+24^ Giornata,Sun Feb 16 2020,US Cremonese,5-0,Trapani Calcio
+24^ Giornata,Sun Feb 16 2020,Empoli,2-1,AC Pisa
+24^ Giornata,Mon Feb 17 2020,AC Chievo Verona,2-0,Salernitana
+25^ Giornata,Fri Feb 21 2020,Cosenza Calcio,0-2,Frosinone
+25^ Giornata,Sat Feb 22 2020,Virtus Entella,0-4,Benevento
+25^ Giornata,Sat Feb 22 2020,Cittadella,3-0,SS Juve Stabia
+25^ Giornata,Sat Feb 22 2020,AC Pisa,1-2,Venezia
+25^ Giornata,Sat Feb 22 2020,Trapani Calcio,1-1,Spezia
+25^ Giornata,Sun Feb 23 2020,Pordenone Calcio,0-1,AC Chievo Verona
+25^ Giornata,Sun Feb 23 2020,Salernitana,1-0,AS Livorno Calcio
+25^ Giornata,Sun Feb 23 2020,FC Crotone,4-1,Pescara
+25^ Giornata,Mon Feb 24 2020,AC Perugia,0-1,Empoli
+26^ Giornata,Fri Feb 28 2020,Virtus Entella,1-2,FC Crotone
+26^ Giornata,Sat Feb 29 2020,AC Pisa,1-0,AC Perugia
+26^ Giornata,Sat Feb 29 2020,Venezia,1-1,Cosenza Calcio
+26^ Giornata,Sat Feb 29 2020,AC Chievo Verona,0-1,AS Livorno Calcio
+26^ Giornata,Sat Feb 29 2020,Frosinone,1-0,Salernitana
+26^ Giornata,Sat Feb 29 2020,Empoli,0-1,Pordenone Calcio
+26^ Giornata,Sat Feb 29 2020,Benevento,3-1,Spezia
+26^ Giornata,Sat Feb 29 2020,SS Juve Stabia,2-2,Trapani Calcio
+26^ Giornata,Sat Feb 29 2020,Cittadella,0-0,US Cremonese
+26^ Giornata,Sun Mar 1 2020,Pescara,2-1,Ascoli
+27^ Giornata,Tue Mar 3 2020,US Cremonese,2-3,Empoli
+27^ Giornata,Tue Mar 3 2020,AC Perugia,1-2,Benevento
+27^ Giornata,Tue Mar 3 2020,Cosenza Calcio,1-2,Cittadella
+27^ Giornata,Tue Mar 3 2020,Trapani Calcio,4-1,Virtus Entella
+27^ Giornata,Tue Mar 3 2020,Salernitana,2-0,Venezia
+27^ Giornata,Tue Mar 3 2020,Pordenone Calcio,2-1,SS Juve Stabia
+27^ Giornata,Tue Mar 3 2020,FC Crotone,1-0,AC Pisa
+27^ Giornata,Tue Mar 3 2020,AS Livorno Calcio,2-2,Frosinone
+27^ Giornata,Wed Mar 4 2020,Ascoli,1-1,AC Chievo Verona
+27^ Giornata,Wed Mar 4 2020,Spezia,2-0,Pescara
+28^ Giornata,Sat Mar 7 2020,Frosinone,0-2,US Cremonese
+28^ Giornata,Sat Mar 7 2020,Cittadella,0-2,Pordenone Calcio
+28^ Giornata,Sat Mar 7 2020,AC Perugia,1-0,Salernitana
+28^ Giornata,Sat Mar 7 2020,Venezia,1-3,FC Crotone
+28^ Giornata,Sat Mar 7 2020,AC Pisa,1-0,AS Livorno Calcio
+28^ Giornata,Sat Mar 7 2020,Empoli,1-1,Trapani Calcio
+28^ Giornata,Sun Mar 8 2020,SS Juve Stabia,3-1,Spezia
+28^ Giornata,Sun Mar 8 2020,Virtus Entella,3-0,Ascoli
+28^ Giornata,Sun Mar 8 2020,Benevento,4-0,Pescara
+28^ Giornata,Mon Mar 9 2020,AC Chievo Verona,2-0,Cosenza Calcio
+25^ Giornata,Wed Jun 17 2020,Ascoli,1-3,US Cremonese
+29^ Giornata,Fri Jun 19 2020,Spezia,1-0,Empoli
+29^ Giornata,Sat Jun 20 2020,Trapani Calcio,0-0,Frosinone
+29^ Giornata,Sat Jun 20 2020,AS Livorno Calcio,0-2,Cittadella
+29^ Giornata,Sat Jun 20 2020,FC Crotone,1-1,AC Chievo Verona
+29^ Giornata,Sat Jun 20 2020,Pescara,3-1,SS Juve Stabia
+29^ Giornata,Sat Jun 20 2020,Pordenone Calcio,0-0,Venezia
+29^ Giornata,Sat Jun 20 2020,Cosenza Calcio,2-1,Virtus Entella
+29^ Giornata,Sat Jun 20 2020,Salernitana,1-1,AC Pisa
+29^ Giornata,Sun Jun 21 2020,US Cremonese,0-1,Benevento
+29^ Giornata,Sun Jun 21 2020,Ascoli,0-1,AC Perugia
+30^ Giornata,Fri Jun 26 2020,Frosinone,0-2,Cittadella
+30^ Giornata,Fri Jun 26 2020,Venezia,2-1,Ascoli
+30^ Giornata,Fri Jun 26 2020,Empoli,0-0,Benevento
+30^ Giornata,Fri Jun 26 2020,Trapani Calcio,3-0,Pordenone Calcio
+30^ Giornata,Fri Jun 26 2020,US Cremonese,0-2,Cosenza Calcio
+30^ Giornata,Fri Jun 26 2020,AC Perugia,0-0,FC Crotone
+30^ Giornata,Fri Jun 26 2020,SS Juve Stabia,2-3,AS Livorno Calcio
+30^ Giornata,Fri Jun 26 2020,AC Pisa,2-1,Pescara
+30^ Giornata,Fri Jun 26 2020,AC Chievo Verona,1-3,Spezia
+30^ Giornata,Fri Jun 26 2020,Virtus Entella,1-0,Salernitana
+31^ Giornata,Mon Jun 29 2020,Salernitana,3-3,US Cremonese
+31^ Giornata,Mon Jun 29 2020,Ascoli,1-1,FC Crotone
+31^ Giornata,Mon Jun 29 2020,Pescara,1-1,Empoli
+31^ Giornata,Mon Jun 29 2020,Pordenone Calcio,2-0,Virtus Entella
+31^ Giornata,Mon Jun 29 2020,Benevento,1-0,SS Juve Stabia
+31^ Giornata,Mon Jun 29 2020,Cittadella,2-0,AC Perugia
+31^ Giornata,Mon Jun 29 2020,Spezia,1-2,AC Pisa
+31^ Giornata,Mon Jun 29 2020,Cosenza Calcio,2-2,Trapani Calcio
+31^ Giornata,Mon Jun 29 2020,AS Livorno Calcio,0-2,Venezia
+31^ Giornata,Mon Jun 29 2020,AC Chievo Verona,2-0,Frosinone
+32^ Giornata,Fri Jul 3 2020,AC Pisa,2-0,Cittadella
+32^ Giornata,Fri Jul 3 2020,Cosenza Calcio,0-1,Ascoli
+32^ Giornata,Fri Jul 3 2020,FC Crotone,3-0,Benevento
+32^ Giornata,Fri Jul 3 2020,Frosinone,2-1,Spezia
+32^ Giornata,Fri Jul 3 2020,Venezia,0-2,Empoli
+32^ Giornata,Fri Jul 3 2020,Salernitana,2-1,SS Juve Stabia
+32^ Giornata,Fri Jul 3 2020,Trapani Calcio,2-1,AS Livorno Calcio
+32^ Giornata,Fri Jul 3 2020,US Cremonese,1-0,Pescara
+32^ Giornata,Fri Jul 3 2020,AC Perugia,1-2,Pordenone Calcio
+32^ Giornata,Fri Jul 3 2020,Virtus Entella,1-1,AC Chievo Verona
+33^ Giornata,Fri Jul 10 2020,SS Juve Stabia,,Virtus Entella
+33^ Giornata,Fri Jul 10 2020,Spezia,,Cosenza Calcio
+33^ Giornata,Fri Jul 10 2020,AS Livorno Calcio,,US Cremonese
+33^ Giornata,Fri Jul 10 2020,Cittadella,,FC Crotone
+33^ Giornata,Fri Jul 10 2020,Empoli,,Frosinone
+33^ Giornata,Fri Jul 10 2020,Pescara,,AC Perugia
+33^ Giornata,Fri Jul 10 2020,Pordenone Calcio,,AC Pisa
+33^ Giornata,Fri Jul 10 2020,Ascoli,,Salernitana
+33^ Giornata,Fri Jul 10 2020,AC Chievo Verona,,Trapani Calcio
+33^ Giornata,Fri Jul 10 2020,Benevento,,Venezia
+34^ Giornata,Mon Jul 13 2020,Cosenza Calcio,,AC Perugia
+34^ Giornata,Mon Jul 13 2020,Trapani Calcio,,Benevento
+34^ Giornata,Mon Jul 13 2020,US Cremonese,,AC Chievo Verona
+34^ Giornata,Mon Jul 13 2020,Salernitana,,Cittadella
+34^ Giornata,Mon Jul 13 2020,AS Livorno Calcio,,Spezia
+34^ Giornata,Mon Jul 13 2020,Frosinone,,SS Juve Stabia
+34^ Giornata,Mon Jul 13 2020,Venezia,,Pescara
+34^ Giornata,Mon Jul 13 2020,Virtus Entella,,AC Pisa
+34^ Giornata,Mon Jul 13 2020,FC Crotone,,Pordenone Calcio
+34^ Giornata,Mon Jul 13 2020,Ascoli,,Empoli
+35^ Giornata,Fri Jul 17 2020,Pescara,,Frosinone
+35^ Giornata,Fri Jul 17 2020,Cittadella,,Ascoli
+35^ Giornata,Fri Jul 17 2020,SS Juve Stabia,,AC Chievo Verona
+35^ Giornata,Fri Jul 17 2020,Pordenone Calcio,,Cosenza Calcio
+35^ Giornata,Fri Jul 17 2020,AC Perugia,,US Cremonese
+35^ Giornata,Fri Jul 17 2020,Benevento,,AS Livorno Calcio
+35^ Giornata,Fri Jul 17 2020,FC Crotone,,Salernitana
+35^ Giornata,Fri Jul 17 2020,AC Pisa,,Trapani Calcio
+35^ Giornata,Fri Jul 17 2020,Spezia,,Venezia
+35^ Giornata,Fri Jul 17 2020,Empoli,,Virtus Entella
+36^ Giornata,Fri Jul 24 2020,AS Livorno Calcio,,FC Crotone
+36^ Giornata,Fri Jul 24 2020,Frosinone,,Benevento
+36^ Giornata,Fri Jul 24 2020,AC Chievo Verona,,Cittadella
+36^ Giornata,Fri Jul 24 2020,Salernitana,,Empoli
+36^ Giornata,Fri Jul 24 2020,US Cremonese,,Spezia
+36^ Giornata,Fri Jul 24 2020,Virtus Entella,,AC Perugia
+36^ Giornata,Fri Jul 24 2020,Trapani Calcio,,Pescara
+36^ Giornata,Fri Jul 24 2020,Cosenza Calcio,,AC Pisa
+36^ Giornata,Fri Jul 24 2020,Ascoli,,Pordenone Calcio
+36^ Giornata,Fri Jul 24 2020,Venezia,,SS Juve Stabia
+37^ Giornata,Mon Jul 27 2020,Spezia,,Virtus Entella
+37^ Giornata,Mon Jul 27 2020,Benevento,,AC Chievo Verona
+37^ Giornata,Mon Jul 27 2020,Empoli,,Cosenza Calcio
+37^ Giornata,Mon Jul 27 2020,SS Juve Stabia,,US Cremonese
+37^ Giornata,Mon Jul 27 2020,FC Crotone,,Frosinone
+37^ Giornata,Mon Jul 27 2020,Pescara,,AS Livorno Calcio
+37^ Giornata,Mon Jul 27 2020,Pordenone Calcio,,Salernitana
+37^ Giornata,Mon Jul 27 2020,AC Perugia,,Trapani Calcio
+37^ Giornata,Mon Jul 27 2020,Cittadella,,Venezia
+37^ Giornata,Mon Jul 27 2020,AC Pisa,,Ascoli
+38^ Giornata,Fri Jul 31 2020,Ascoli,,Benevento
+38^ Giornata,Fri Jul 31 2020,Virtus Entella,,Cittadella
+38^ Giornata,Fri Jul 31 2020,Trapani Calcio,,FC Crotone
+38^ Giornata,Fri Jul 31 2020,AS Livorno Calcio,,Empoli
+38^ Giornata,Fri Jul 31 2020,Cosenza Calcio,,SS Juve Stabia
+38^ Giornata,Fri Jul 31 2020,Venezia,,AC Perugia
+38^ Giornata,Fri Jul 31 2020,AC Chievo Verona,,Pescara
+38^ Giornata,Fri Jul 31 2020,Frosinone,,AC Pisa
+38^ Giornata,Fri Jul 31 2020,US Cremonese,,Pordenone Calcio
+38^ Giornata,Fri Jul 31 2020,Salernitana,,Spezia

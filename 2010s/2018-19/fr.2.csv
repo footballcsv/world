@@ -1,0 +1,381 @@
+Round,Date,Team 1,FT,Team 2
+Journée 1,Fri Jul 27 2018,AC Ajaccio,0-1,ES Troyes AC
+Journée 1,Fri Jul 27 2018,GFC Ajaccio,1-1,Paris FC
+Journée 1,Fri Jul 27 2018,Clermont Foot 63,0-0,LB Châteauroux
+Journée 1,Fri Jul 27 2018,Grenoble Foot 38,1-0,FC Sochaux-Montbéliard
+Journée 1,Fri Jul 27 2018,AS Nancy Lorraine,0-2,AS Béziers
+Journée 1,Fri Jul 27 2018,US Orléans,0-2,RC Lens
+Journée 1,Fri Jul 27 2018,Red Star FC,1-2,Chamois Niortais FC
+Journée 1,Fri Jul 27 2018,Valenciennes FC,3-1,AJ Auxerre
+Journée 1,Sat Jul 28 2018,FC Lorient,0-0,Le Havre AC
+Journée 1,Mon Jul 30 2018,Stade Brestois 29,0-1,FC Metz
+Journée 2,Fri Aug 3 2018,FC Metz,5-1,US Orléans
+Journée 2,Fri Aug 3 2018,AS Béziers,0-1,AC Ajaccio
+Journée 2,Fri Aug 3 2018,Le Havre AC,1-1,Grenoble Foot 38
+Journée 2,Fri Aug 3 2018,AJ Auxerre,2-3,GFC Ajaccio
+Journée 2,Fri Aug 3 2018,ES Troyes AC,1-2,Stade Brestois 29
+Journée 2,Fri Aug 3 2018,Paris FC,2-0,AS Nancy Lorraine
+Journée 2,Fri Aug 3 2018,FC Sochaux-Montbéliard,0-1,Valenciennes FC
+Journée 2,Fri Aug 3 2018,Chamois Niortais FC,4-2,Clermont Foot 63
+Journée 2,Sat Aug 4 2018,RC Lens,1-0,Red Star FC
+Journée 2,Mon Aug 6 2018,LB Châteauroux,1-2,FC Lorient
+Journée 3,Fri Aug 10 2018,Grenoble Foot 38,1-0,Chamois Niortais FC
+Journée 3,Fri Aug 10 2018,GFC Ajaccio,1-3,FC Lorient
+Journée 3,Fri Aug 10 2018,Stade Brestois 29,1-1,Paris FC
+Journée 3,Fri Aug 10 2018,AC Ajaccio,2-3,FC Sochaux-Montbéliard
+Journée 3,Fri Aug 10 2018,Valenciennes FC,1-1,LB Châteauroux
+Journée 3,Fri Aug 10 2018,US Orléans,0-3,AJ Auxerre
+Journée 3,Fri Aug 10 2018,Red Star FC,0-1,Le Havre AC
+Journée 3,Fri Aug 10 2018,ES Troyes AC,0-1,AS Béziers
+Journée 3,Fri Aug 10 2018,AS Nancy Lorraine,0-3,RC Lens
+Journée 3,Sat Aug 11 2018,Clermont Foot 63,2-3,FC Metz
+Journée 4,Fri Aug 17 2018,Le Havre AC,0-0,Clermont Foot 63
+Journée 4,Fri Aug 17 2018,AJ Auxerre,1-0,AS Nancy Lorraine
+Journée 4,Fri Aug 17 2018,LB Châteauroux,1-1,Red Star FC
+Journée 4,Fri Aug 17 2018,GFC Ajaccio,2-0,Grenoble Foot 38
+Journée 4,Fri Aug 17 2018,FC Lorient,3-1,Valenciennes FC
+Journée 4,Fri Aug 17 2018,Chamois Niortais FC,1-1,US Orléans
+Journée 4,Fri Aug 17 2018,Paris FC,1-0,AS Béziers
+Journée 4,Fri Aug 17 2018,FC Sochaux-Montbéliard,2-0,Stade Brestois 29
+Journée 4,Sat Aug 18 2018,RC Lens,2-0,ES Troyes AC
+Journée 4,Mon Aug 20 2018,FC Metz,3-1,AC Ajaccio
+Journée 5,Fri Aug 24 2018,Grenoble Foot 38,0-0,LB Châteauroux
+Journée 5,Fri Aug 24 2018,Stade Brestois 29,1-0,Le Havre AC
+Journée 5,Fri Aug 24 2018,Clermont Foot 63,1-0,FC Sochaux-Montbéliard
+Journée 5,Fri Aug 24 2018,AC Ajaccio,0-0,FC Lorient
+Journée 5,Fri Aug 24 2018,AS Nancy Lorraine,0-1,Chamois Niortais FC
+Journée 5,Fri Aug 24 2018,US Orléans,4-0,Paris FC
+Journée 5,Fri Aug 24 2018,Red Star FC,1-0,AJ Auxerre
+Journée 5,Fri Aug 24 2018,ES Troyes AC,0-1,FC Metz
+Journée 5,Mon Aug 27 2018,Valenciennes FC,0-0,GFC Ajaccio
+Journée 6,Fri Aug 31 2018,Valenciennes FC,0-4,Clermont Foot 63
+Journée 6,Fri Aug 31 2018,GFC Ajaccio,2-1,Red Star FC
+Journée 6,Fri Aug 31 2018,AJ Auxerre,0-2,Stade Brestois 29
+Journée 6,Fri Aug 31 2018,LB Châteauroux,1-0,AS Nancy Lorraine
+Journée 6,Fri Aug 31 2018,FC Sochaux-Montbéliard,1-0,AS Béziers
+Journée 6,Fri Aug 31 2018,Chamois Niortais FC,2-0,AC Ajaccio
+Journée 6,Fri Aug 31 2018,Paris FC,2-0,ES Troyes AC
+Journée 6,Fri Aug 31 2018,Le Havre AC,3-1,US Orléans
+Journée 6,Sat Sep 1 2018,FC Metz,2-0,RC Lens
+Journée 6,Mon Sep 3 2018,FC Lorient,1-0,Grenoble Foot 38
+Journée 7,Fri Sep 14 2018,ES Troyes AC,2-0,Chamois Niortais FC
+Journée 7,Fri Sep 14 2018,AC Ajaccio,0-0,Paris FC
+Journée 7,Fri Sep 14 2018,Stade Brestois 29,4-1,GFC Ajaccio
+Journée 7,Fri Sep 14 2018,Clermont Foot 63,2-0,AJ Auxerre
+Journée 7,Fri Sep 14 2018,Grenoble Foot 38,4-2,Valenciennes FC
+Journée 7,Fri Sep 14 2018,AS Nancy Lorraine,0-1,Le Havre AC
+Journée 7,Fri Sep 14 2018,US Orléans,2-0,LB Châteauroux
+Journée 7,Fri Sep 14 2018,Red Star FC,0-3,FC Lorient
+Journée 7,Sat Sep 15 2018,RC Lens,2-0,FC Sochaux-Montbéliard
+Journée 7,Mon Sep 17 2018,AS Béziers,1-3,FC Metz
+Journée 8,Fri Sep 21 2018,Grenoble Foot 38,1-2,Stade Brestois 29
+Journée 8,Fri Sep 21 2018,GFC Ajaccio,0-1,AS Nancy Lorraine
+Journée 8,Fri Sep 21 2018,AJ Auxerre,0-0,AC Ajaccio
+Journée 8,Fri Sep 21 2018,LB Châteauroux,2-0,AS Béziers
+Journée 8,Fri Sep 21 2018,Valenciennes FC,4-1,Red Star FC
+Journée 8,Fri Sep 21 2018,FC Sochaux-Montbéliard,0-1,US Orléans
+Journée 8,Fri Sep 21 2018,FC Lorient,0-0,Clermont Foot 63
+Journée 8,Fri Sep 21 2018,Le Havre AC,1-1,ES Troyes AC
+Journée 8,Sat Sep 22 2018,Paris FC,2-1,FC Metz
+Journée 8,Mon Sep 24 2018,Chamois Niortais FC,1-2,RC Lens
+Journée 9,Fri Sep 28 2018,RC Lens,0-0,Paris FC
+Journée 9,Fri Sep 28 2018,AC Ajaccio,3-1,Valenciennes FC
+Journée 9,Fri Sep 28 2018,AS Béziers,1-1,Chamois Niortais FC
+Journée 9,Fri Sep 28 2018,Stade Brestois 29,5-1,LB Châteauroux
+Journée 9,Fri Sep 28 2018,Clermont Foot 63,1-1,GFC Ajaccio
+Journée 9,Fri Sep 28 2018,Red Star FC,2-3,Grenoble Foot 38
+Journée 9,Fri Sep 28 2018,AS Nancy Lorraine,0-0,FC Sochaux-Montbéliard
+Journée 9,Fri Sep 28 2018,US Orléans,2-0,FC Lorient
+Journée 9,Sat Sep 29 2018,FC Metz,0-1,Le Havre AC
+Journée 9,Mon Oct 1 2018,ES Troyes AC,1-0,AJ Auxerre
+Journée 5,Tue Oct 2 2018,AS Béziers,0-0,RC Lens
+Journée 10,Fri Oct 5 2018,GFC Ajaccio,0-2,US Orléans
+Journée 10,Fri Oct 5 2018,LB Châteauroux,0-3,ES Troyes AC
+Journée 10,Fri Oct 5 2018,Grenoble Foot 38,1-0,Clermont Foot 63
+Journée 10,Fri Oct 5 2018,Le Havre AC,2-3,AS Béziers
+Journée 10,Fri Oct 5 2018,FC Lorient,4-1,AS Nancy Lorraine
+Journée 10,Fri Oct 5 2018,Chamois Niortais FC,1-0,Paris FC
+Journée 10,Fri Oct 5 2018,Red Star FC,2-0,AC Ajaccio
+Journée 10,Fri Oct 5 2018,Valenciennes FC,1-3,Stade Brestois 29
+Journée 10,Sat Oct 6 2018,AJ Auxerre,1-2,RC Lens
+Journée 10,Mon Oct 8 2018,FC Sochaux-Montbéliard,1-2,FC Metz
+Journée 11,Fri Oct 19 2018,Clermont Foot 63,0-0,Red Star FC
+Journée 11,Fri Oct 19 2018,AJ Auxerre,2-0,AS Béziers
+Journée 11,Fri Oct 19 2018,AC Ajaccio,3-2,Le Havre AC
+Journée 11,Fri Oct 19 2018,FC Metz,3-0,Chamois Niortais FC
+Journée 11,Fri Oct 19 2018,AS Nancy Lorraine,1-2,Grenoble Foot 38
+Journée 11,Fri Oct 19 2018,US Orléans,1-0,Valenciennes FC
+Journée 11,Fri Oct 19 2018,Paris FC,0-0,LB Châteauroux
+Journée 11,Fri Oct 19 2018,ES Troyes AC,1-2,FC Sochaux-Montbéliard
+Journée 11,Sat Oct 20 2018,Stade Brestois 29,3-2,FC Lorient
+Journée 11,Mon Oct 22 2018,RC Lens,5-0,GFC Ajaccio
+Journée 12,Fri Oct 26 2018,LB Châteauroux,2-2,AC Ajaccio
+Journée 12,Fri Oct 26 2018,AJ Auxerre,0-2,Paris FC
+Journée 12,Fri Oct 26 2018,Valenciennes FC,1-1,AS Nancy Lorraine
+Journée 12,Fri Oct 26 2018,Grenoble Foot 38,0-2,ES Troyes AC
+Journée 12,Fri Oct 26 2018,FC Lorient,0-0,FC Metz
+Journée 12,Fri Oct 26 2018,Red Star FC,0-4,US Orléans
+Journée 12,Fri Oct 26 2018,FC Sochaux-Montbéliard,0-3,Chamois Niortais FC
+Journée 12,Fri Oct 26 2018,GFC Ajaccio,0-1,AS Béziers
+Journée 12,Sat Oct 27 2018,Le Havre AC,2-1,RC Lens
+Journée 12,Mon Oct 29 2018,Clermont Foot 63,2-2,Stade Brestois 29
+Journée 13,Fri Nov 2 2018,AC Ajaccio,1-2,GFC Ajaccio
+Journée 13,Fri Nov 2 2018,Stade Brestois 29,1-1,Red Star FC
+Journée 13,Fri Nov 2 2018,Paris FC,0-0,FC Sochaux-Montbéliard
+Journée 13,Fri Nov 2 2018,AS Nancy Lorraine,0-1,Clermont Foot 63
+Journée 13,Sat Nov 3 2018,AS Béziers,0-1,FC Lorient
+Journée 13,Sat Nov 3 2018,RC Lens,0-1,LB Châteauroux
+Journée 13,Sat Nov 3 2018,Chamois Niortais FC,1-0,Le Havre AC
+Journée 13,Sat Nov 3 2018,ES Troyes AC,4-2,Valenciennes FC
+Journée 13,Sat Nov 3 2018,US Orléans,0-3,Grenoble Foot 38
+Journée 13,Mon Nov 5 2018,FC Metz,0-1,AJ Auxerre
+Journée 14,Fri Nov 9 2018,GFC Ajaccio,2-1,ES Troyes AC
+Journée 14,Fri Nov 9 2018,AJ Auxerre,0-0,Chamois Niortais FC
+Journée 14,Fri Nov 9 2018,LB Châteauroux,1-2,FC Metz
+Journée 14,Fri Nov 9 2018,Clermont Foot 63,3-0,US Orléans
+Journée 14,Fri Nov 9 2018,Grenoble Foot 38,2-0,AC Ajaccio
+Journée 14,Fri Nov 9 2018,Red Star FC,0-3,AS Béziers
+Journée 14,Fri Nov 9 2018,FC Lorient,2-1,Paris FC
+Journée 14,Fri Nov 9 2018,Le Havre AC,3-2,FC Sochaux-Montbéliard
+Journée 14,Sat Nov 10 2018,Valenciennes FC,4-2,RC Lens
+Journée 14,Mon Nov 12 2018,Stade Brestois 29,2-1,AS Nancy Lorraine
+Journée 15,Fri Nov 23 2018,AS Nancy Lorraine,1-0,Red Star FC
+Journée 15,Fri Nov 23 2018,AS Béziers,1-1,Valenciennes FC
+Journée 15,Fri Nov 23 2018,AC Ajaccio,0-0,Clermont Foot 63
+Journée 15,Fri Nov 23 2018,Chamois Niortais FC,0-1,LB Châteauroux
+Journée 15,Fri Nov 23 2018,US Orléans,0-0,Stade Brestois 29
+Journée 15,Fri Nov 23 2018,Paris FC,1-0,Le Havre AC
+Journée 15,Fri Nov 23 2018,ES Troyes AC,2-0,FC Lorient
+Journée 15,Fri Nov 23 2018,FC Sochaux-Montbéliard,1-4,AJ Auxerre
+Journée 15,Sat Nov 24 2018,RC Lens,0-0,Grenoble Foot 38
+Journée 15,Mon Nov 26 2018,FC Metz,1-0,GFC Ajaccio
+Journée 16,Fri Nov 30 2018,Clermont Foot 63,2-0,AS Béziers
+Journée 16,Fri Nov 30 2018,Stade Brestois 29,2-0,AC Ajaccio
+Journée 16,Fri Nov 30 2018,LB Châteauroux,1-0,FC Sochaux-Montbéliard
+Journée 16,Fri Nov 30 2018,GFC Ajaccio,0-1,Chamois Niortais FC
+Journée 16,Fri Nov 30 2018,Le Havre AC,1-1,AJ Auxerre
+Journée 16,Fri Nov 30 2018,FC Lorient,2-2,RC Lens
+Journée 16,Fri Nov 30 2018,US Orléans,1-2,AS Nancy Lorraine
+Journée 16,Fri Nov 30 2018,Red Star FC,0-3,ES Troyes AC
+Journée 16,Fri Nov 30 2018,Valenciennes FC,0-0,Paris FC
+Journée 16,Sat Dec 1 2018,Grenoble Foot 38,1-1,FC Metz
+Journée 17,Mon Dec 3 2018,AJ Auxerre,0-0,FC Lorient
+Journée 17,Tue Dec 4 2018,RC Lens,2-1,Stade Brestois 29
+Journée 17,Tue Dec 4 2018,ES Troyes AC,3-2,US Orléans
+Journée 17,Tue Dec 4 2018,Le Havre AC,2-1,LB Châteauroux
+Journée 17,Tue Dec 4 2018,AC Ajaccio,1-1,AS Nancy Lorraine
+Journée 17,Tue Dec 4 2018,FC Metz,2-0,Red Star FC
+Journée 17,Tue Dec 4 2018,Chamois Niortais FC,1-0,Valenciennes FC
+Journée 17,Tue Dec 4 2018,Paris FC,3-0,Clermont Foot 63
+Journée 17,Tue Dec 4 2018,FC Sochaux-Montbéliard,2-0,GFC Ajaccio
+Journée 17,Tue Dec 4 2018,AS Béziers,0-3,Grenoble Foot 38
+Journée 18,Fri Dec 14 2018,GFC Ajaccio,1-1,Le Havre AC
+Journée 18,Fri Dec 14 2018,Red Star FC,3-0,FC Sochaux-Montbéliard
+Journée 18,Fri Dec 14 2018,LB Châteauroux,0-0,AJ Auxerre
+Journée 18,Fri Dec 14 2018,Grenoble Foot 38,0-1,Paris FC
+Journée 18,Fri Dec 14 2018,FC Lorient,1-1,Chamois Niortais FC
+Journée 18,Fri Dec 14 2018,AS Nancy Lorraine,1-1,ES Troyes AC
+Journée 18,Fri Dec 14 2018,US Orléans,1-3,AC Ajaccio
+Journée 18,Fri Dec 14 2018,Stade Brestois 29,3-0,AS Béziers
+Journée 18,Sat Dec 15 2018,Clermont Foot 63,0-0,RC Lens
+Journée 18,Mon Dec 17 2018,Valenciennes FC,0-2,FC Metz
+Journée 19,Fri Dec 21 2018,AS Béziers,1-2,US Orléans
+Journée 19,Fri Dec 21 2018,AJ Auxerre,4-0,Grenoble Foot 38
+Journée 19,Fri Dec 21 2018,ES Troyes AC,0-1,Clermont Foot 63
+Journée 19,Fri Dec 21 2018,Chamois Niortais FC,1-1,Stade Brestois 29
+Journée 19,Fri Dec 21 2018,Paris FC,1-1,Red Star FC
+Journée 19,Fri Dec 21 2018,LB Châteauroux,0-1,GFC Ajaccio
+Journée 19,Sat Dec 22 2018,FC Sochaux-Montbéliard,1-0,FC Lorient
+Journée 19,Sat Dec 22 2018,RC Lens,1-2,AC Ajaccio
+Journée 20,Fri Jan 11 2019,Valenciennes FC,1-0,FC Sochaux-Montbéliard
+Journée 20,Fri Jan 11 2019,US Orléans,0-1,FC Metz
+Journée 20,Fri Jan 11 2019,AS Nancy Lorraine,1-2,Paris FC
+Journée 20,Fri Jan 11 2019,GFC Ajaccio,0-4,AJ Auxerre
+Journée 20,Fri Jan 11 2019,Clermont Foot 63,3-2,Chamois Niortais FC
+Journée 20,Fri Jan 11 2019,FC Lorient,2-1,LB Châteauroux
+Journée 20,Fri Jan 11 2019,AC Ajaccio,2-1,AS Béziers
+Journée 20,Sat Jan 12 2019,Grenoble Foot 38,0-0,Le Havre AC
+Journée 20,Sat Jan 12 2019,Stade Brestois 29,1-1,ES Troyes AC
+Journée 20,Mon Jan 14 2019,Red Star FC,1-0,RC Lens
+Journée 19,Tue Jan 15 2019,Le Havre AC,4-3,Valenciennes FC
+Journée 21,Fri Jan 18 2019,AJ Auxerre,3-0,US Orléans
+Journée 21,Fri Jan 18 2019,LB Châteauroux,1-1,Valenciennes FC
+Journée 21,Fri Jan 18 2019,AS Béziers,0-0,ES Troyes AC
+Journée 21,Fri Jan 18 2019,FC Sochaux-Montbéliard,0-0,AC Ajaccio
+Journée 21,Fri Jan 18 2019,FC Lorient,0-1,GFC Ajaccio
+Journée 21,Fri Jan 18 2019,FC Metz,1-2,Clermont Foot 63
+Journée 21,Sat Jan 19 2019,Chamois Niortais FC,1-1,Grenoble Foot 38
+Journée 21,Sat Jan 19 2019,RC Lens,2-1,AS Nancy Lorraine
+Journée 21,Mon Jan 21 2019,Le Havre AC,1-0,Red Star FC
+Journée 21,Mon Jan 21 2019,Paris FC,0-1,Stade Brestois 29
+Journée 22,Fri Jan 25 2019,Grenoble Foot 38,1-1,GFC Ajaccio
+Journée 22,Fri Jan 25 2019,AC Ajaccio,0-0,FC Metz
+Journée 22,Fri Jan 25 2019,Red Star FC,1-3,LB Châteauroux
+Journée 22,Fri Jan 25 2019,AS Nancy Lorraine,1-0,AJ Auxerre
+Journée 22,Fri Jan 25 2019,Valenciennes FC,1-2,FC Lorient
+Journée 22,Sat Jan 26 2019,US Orléans,1-0,Chamois Niortais FC
+Journée 22,Sat Jan 26 2019,Stade Brestois 29,1-0,FC Sochaux-Montbéliard
+Journée 22,Mon Jan 28 2019,ES Troyes AC,1-0,RC Lens
+Journée 22,Mon Jan 28 2019,AS Béziers,0-1,Paris FC
+Journée 22,Mon Jan 28 2019,Clermont Foot 63,0-0,Le Havre AC
+Journée 19,Tue Jan 29 2019,FC Metz,3-0,AS Nancy Lorraine
+Journée 23,Fri Feb 1 2019,AJ Auxerre,0-0,Red Star FC
+Journée 23,Fri Feb 1 2019,FC Sochaux-Montbéliard,2-1,Clermont Foot 63
+Journée 23,Fri Feb 1 2019,Le Havre AC,1-1,Stade Brestois 29
+Journée 23,Fri Feb 1 2019,FC Lorient,1-0,AC Ajaccio
+Journée 23,Fri Feb 1 2019,FC Metz,1-1,ES Troyes AC
+Journée 23,Fri Feb 1 2019,Chamois Niortais FC,1-1,AS Nancy Lorraine
+Journée 23,Fri Feb 1 2019,Paris FC,0-0,US Orléans
+Journée 23,Fri Feb 1 2019,LB Châteauroux,2-2,Grenoble Foot 38
+Journée 23,Mon Feb 4 2019,GFC Ajaccio,0-0,Valenciennes FC
+Journée 23,Mon Feb 4 2019,RC Lens,3-0,AS Béziers
+Journée 24,Fri Feb 8 2019,Clermont Foot 63,0-1,Valenciennes FC
+Journée 24,Fri Feb 8 2019,AS Béziers,0-0,FC Sochaux-Montbéliard
+Journée 24,Fri Feb 8 2019,AC Ajaccio,1-0,Chamois Niortais FC
+Journée 24,Fri Feb 8 2019,Grenoble Foot 38,0-1,FC Lorient
+Journée 24,Fri Feb 8 2019,AS Nancy Lorraine,0-1,LB Châteauroux
+Journée 24,Fri Feb 8 2019,US Orléans,1-1,Le Havre AC
+Journée 24,Fri Feb 8 2019,Red Star FC,1-1,GFC Ajaccio
+Journée 24,Fri Feb 8 2019,ES Troyes AC,0-1,Paris FC
+Journée 24,Sat Feb 9 2019,RC Lens,0-0,FC Metz
+Journée 24,Mon Feb 11 2019,Stade Brestois 29,1-0,AJ Auxerre
+Journée 25,Fri Feb 15 2019,LB Châteauroux,1-2,US Orléans
+Journée 25,Fri Feb 15 2019,Valenciennes FC,3-2,Grenoble Foot 38
+Journée 25,Fri Feb 15 2019,GFC Ajaccio,1-1,Stade Brestois 29
+Journée 25,Fri Feb 15 2019,Le Havre AC,0-2,AS Nancy Lorraine
+Journée 25,Fri Feb 15 2019,FC Lorient,2-1,Red Star FC
+Journée 25,Fri Feb 15 2019,Chamois Niortais FC,1-1,ES Troyes AC
+Journée 25,Fri Feb 15 2019,Paris FC,1-1,AC Ajaccio
+Journée 25,Fri Feb 15 2019,AJ Auxerre,1-0,Clermont Foot 63
+Journée 25,Sun Feb 17 2019,FC Sochaux-Montbéliard,0-1,RC Lens
+Journée 25,Mon Feb 18 2019,FC Metz,1-0,AS Béziers
+Journée 26,Fri Feb 22 2019,Clermont Foot 63,0-1,FC Lorient
+Journée 26,Fri Feb 22 2019,AS Béziers,1-1,LB Châteauroux
+Journée 26,Fri Feb 22 2019,Stade Brestois 29,3-1,Grenoble Foot 38
+Journée 26,Fri Feb 22 2019,AC Ajaccio,2-1,AJ Auxerre
+Journée 26,Fri Feb 22 2019,FC Metz,2-0,Paris FC
+Journée 26,Fri Feb 22 2019,AS Nancy Lorraine,3-1,GFC Ajaccio
+Journée 26,Fri Feb 22 2019,US Orléans,2-0,FC Sochaux-Montbéliard
+Journée 26,Fri Feb 22 2019,ES Troyes AC,2-1,Le Havre AC
+Journée 26,Fri Feb 22 2019,Red Star FC,1-0,Valenciennes FC
+Journée 26,Mon Feb 25 2019,RC Lens,4-1,Chamois Niortais FC
+Journée 27,Fri Mar 1 2019,Grenoble Foot 38,2-0,Red Star FC
+Journée 27,Fri Mar 1 2019,AJ Auxerre,0-2,ES Troyes AC
+Journée 27,Fri Mar 1 2019,LB Châteauroux,2-2,Stade Brestois 29
+Journée 27,Fri Mar 1 2019,GFC Ajaccio,0-3,Clermont Foot 63
+Journée 27,Fri Mar 1 2019,Chamois Niortais FC,0-0,AS Béziers
+Journée 27,Fri Mar 1 2019,FC Sochaux-Montbéliard,0-4,AS Nancy Lorraine
+Journée 27,Fri Mar 1 2019,Valenciennes FC,4-0,AC Ajaccio
+Journée 27,Sat Mar 2 2019,FC Lorient,1-3,US Orléans
+Journée 27,Sun Mar 3 2019,Paris FC,2-0,RC Lens
+Journée 27,Mon Mar 4 2019,Le Havre AC,2-2,FC Metz
+Journée 28,Fri Mar 8 2019,Stade Brestois 29,2-5,Valenciennes FC
+Journée 28,Fri Mar 8 2019,AS Béziers,1-1,Le Havre AC
+Journée 28,Fri Mar 8 2019,AC Ajaccio,0-0,Red Star FC
+Journée 28,Fri Mar 8 2019,Clermont Foot 63,1-1,Grenoble Foot 38
+Journée 28,Fri Mar 8 2019,AS Nancy Lorraine,3-2,FC Lorient
+Journée 28,Fri Mar 8 2019,US Orléans,2-2,GFC Ajaccio
+Journée 28,Fri Mar 8 2019,Paris FC,0-0,Chamois Niortais FC
+Journée 28,Fri Mar 8 2019,ES Troyes AC,1-0,LB Châteauroux
+Journée 28,Sat Mar 9 2019,RC Lens,2-0,AJ Auxerre
+Journée 28,Mon Mar 11 2019,FC Metz,1-1,FC Sochaux-Montbéliard
+Journée 29,Fri Mar 15 2019,Grenoble Foot 38,1-0,AS Nancy Lorraine
+Journée 29,Fri Mar 15 2019,LB Châteauroux,0-1,Paris FC
+Journée 29,Fri Mar 15 2019,AS Béziers,1-0,AJ Auxerre
+Journée 29,Fri Mar 15 2019,Le Havre AC,3-1,AC Ajaccio
+Journée 29,Fri Mar 15 2019,Chamois Niortais FC,0-3,FC Metz
+Journée 29,Fri Mar 15 2019,Red Star FC,0-4,Clermont Foot 63
+Journée 29,Fri Mar 15 2019,FC Sochaux-Montbéliard,0-0,ES Troyes AC
+Journée 29,Fri Mar 15 2019,Valenciennes FC,1-4,US Orléans
+Journée 29,Sat Mar 16 2019,FC Lorient,1-1,Stade Brestois 29
+Journée 29,Mon Mar 18 2019,GFC Ajaccio,1-0,RC Lens
+Journée 30,Fri Mar 29 2019,Stade Brestois 29,0-0,Clermont Foot 63
+Journée 30,Fri Mar 29 2019,AS Béziers,0-0,GFC Ajaccio
+Journée 30,Fri Mar 29 2019,AC Ajaccio,1-1,LB Châteauroux
+Journée 30,Fri Mar 29 2019,AS Nancy Lorraine,0-2,Valenciennes FC
+Journée 30,Fri Mar 29 2019,Chamois Niortais FC,0-1,FC Sochaux-Montbéliard
+Journée 30,Fri Mar 29 2019,US Orléans,2-2,Red Star FC
+Journée 30,Fri Mar 29 2019,Paris FC,3-0,AJ Auxerre
+Journée 30,Fri Mar 29 2019,ES Troyes AC,2-1,Grenoble Foot 38
+Journée 30,Sun Mar 31 2019,FC Metz,2-1,FC Lorient
+Journée 30,Mon Apr 1 2019,RC Lens,0-0,Le Havre AC
+Journée 31,Fri Apr 5 2019,Grenoble Foot 38,0-4,US Orléans
+Journée 31,Fri Apr 5 2019,Clermont Foot 63,2-3,AS Nancy Lorraine
+Journée 31,Fri Apr 5 2019,GFC Ajaccio,1-0,AC Ajaccio
+Journée 31,Fri Apr 5 2019,Valenciennes FC,0-1,ES Troyes AC
+Journée 31,Fri Apr 5 2019,FC Lorient,3-1,AS Béziers
+Journée 31,Fri Apr 5 2019,Red Star FC,0-2,Stade Brestois 29
+Journée 31,Fri Apr 5 2019,FC Sochaux-Montbéliard,1-0,Paris FC
+Journée 31,Fri Apr 5 2019,Le Havre AC,0-0,Chamois Niortais FC
+Journée 31,Sat Apr 6 2019,AJ Auxerre,0-0,FC Metz
+Journée 31,Mon Apr 8 2019,LB Châteauroux,0-0,RC Lens
+Journée 32,Fri Apr 12 2019,ES Troyes AC,1-0,GFC Ajaccio
+Journée 32,Fri Apr 12 2019,AS Béziers,1-3,Red Star FC
+Journée 32,Fri Apr 12 2019,RC Lens,0-0,Valenciennes FC
+Journée 32,Fri Apr 12 2019,AC Ajaccio,1-2,Grenoble Foot 38
+Journée 32,Fri Apr 12 2019,AS Nancy Lorraine,2-3,Stade Brestois 29
+Journée 32,Fri Apr 12 2019,Chamois Niortais FC,0-0,AJ Auxerre
+Journée 32,Fri Apr 12 2019,US Orléans,2-1,Clermont Foot 63
+Journée 32,Fri Apr 12 2019,FC Sochaux-Montbéliard,1-3,Le Havre AC
+Journée 32,Fri Apr 12 2019,FC Metz,2-1,LB Châteauroux
+Journée 32,Mon Apr 15 2019,Paris FC,2-2,FC Lorient
+Journée 33,Fri Apr 19 2019,Clermont Foot 63,0-0,AC Ajaccio
+Journée 33,Fri Apr 19 2019,AJ Auxerre,1-0,FC Sochaux-Montbéliard
+Journée 33,Fri Apr 19 2019,Stade Brestois 29,3-1,US Orléans
+Journée 33,Fri Apr 19 2019,LB Châteauroux,2-1,Chamois Niortais FC
+Journée 33,Fri Apr 19 2019,GFC Ajaccio,0-2,FC Metz
+Journée 33,Fri Apr 19 2019,Le Havre AC,2-1,Paris FC
+Journée 33,Fri Apr 19 2019,FC Lorient,0-3,ES Troyes AC
+Journée 33,Fri Apr 19 2019,Red Star FC,1-1,AS Nancy Lorraine
+Journée 33,Fri Apr 19 2019,Valenciennes FC,5-6,AS Béziers
+Journée 33,Sat Apr 20 2019,Grenoble Foot 38,0-2,RC Lens
+Journée 34,Mon Apr 22 2019,Paris FC,0-0,Valenciennes FC
+Journée 34,Tue Apr 23 2019,ES Troyes AC,2-0,Red Star FC
+Journée 34,Tue Apr 23 2019,AJ Auxerre,0-1,Le Havre AC
+Journée 34,Tue Apr 23 2019,AS Béziers,1-1,Clermont Foot 63
+Journée 34,Tue Apr 23 2019,AC Ajaccio,0-2,Stade Brestois 29
+Journée 34,Tue Apr 23 2019,FC Metz,1-1,Grenoble Foot 38
+Journée 34,Tue Apr 23 2019,AS Nancy Lorraine,1-0,US Orléans
+Journée 34,Tue Apr 23 2019,Chamois Niortais FC,1-1,GFC Ajaccio
+Journée 34,Tue Apr 23 2019,FC Sochaux-Montbéliard,0-0,LB Châteauroux
+Journée 34,Tue Apr 23 2019,RC Lens,0-1,FC Lorient
+Journée 35,Fri Apr 26 2019,GFC Ajaccio,0-2,FC Sochaux-Montbéliard
+Journée 35,Fri Apr 26 2019,LB Châteauroux,1-0,Le Havre AC
+Journée 35,Fri Apr 26 2019,Clermont Foot 63,1-1,Paris FC
+Journée 35,Fri Apr 26 2019,Grenoble Foot 38,4-2,AS Béziers
+Journée 35,Fri Apr 26 2019,AS Nancy Lorraine,1-0,AC Ajaccio
+Journée 35,Fri Apr 26 2019,US Orléans,0-1,ES Troyes AC
+Journée 35,Fri Apr 26 2019,Red Star FC,1-2,FC Metz
+Journée 35,Fri Apr 26 2019,Valenciennes FC,1-2,Chamois Niortais FC
+Journée 35,Sat Apr 27 2019,Stade Brestois 29,2-0,RC Lens
+Journée 35,Mon Apr 29 2019,FC Lorient,2-2,AJ Auxerre
+Journée 36,Fri May 3 2019,Le Havre AC,2-2,GFC Ajaccio
+Journée 36,Fri May 3 2019,AJ Auxerre,1-2,LB Châteauroux
+Journée 36,Fri May 3 2019,AS Béziers,1-0,Stade Brestois 29
+Journée 36,Fri May 3 2019,AC Ajaccio,1-0,US Orléans
+Journée 36,Fri May 3 2019,ES Troyes AC,2-1,AS Nancy Lorraine
+Journée 36,Fri May 3 2019,Paris FC,1-0,Grenoble Foot 38
+Journée 36,Fri May 3 2019,FC Sochaux-Montbéliard,1-2,Red Star FC
+Journée 36,Fri May 3 2019,FC Metz,3-0,Valenciennes FC
+Journée 36,Sat May 4 2019,RC Lens,1-0,Clermont Foot 63
+Journée 36,Mon May 6 2019,Chamois Niortais FC,2-2,FC Lorient
+Journée 37,Fri May 10 2019,Clermont Foot 63,2-4,ES Troyes AC
+Journée 37,Fri May 10 2019,GFC Ajaccio,1-2,LB Châteauroux
+Journée 37,Fri May 10 2019,Stade Brestois 29,3-0,Chamois Niortais FC
+Journée 37,Fri May 10 2019,Valenciennes FC,1-0,Le Havre AC
+Journée 37,Fri May 10 2019,Grenoble Foot 38,0-0,AJ Auxerre
+Journée 37,Fri May 10 2019,FC Lorient,0-0,FC Sochaux-Montbéliard
+Journée 37,Fri May 10 2019,AS Nancy Lorraine,1-0,FC Metz
+Journée 37,Fri May 10 2019,US Orléans,0-0,AS Béziers
+Journée 37,Fri May 10 2019,Red Star FC,0-1,Paris FC
+Journée 37,Fri May 10 2019,AC Ajaccio,0-2,RC Lens
+Journée 38,Fri May 17 2019,AJ Auxerre,1-1,Valenciennes FC
+Journée 38,Fri May 17 2019,AS Béziers,3-0,AS Nancy Lorraine
+Journée 38,Fri May 17 2019,LB Châteauroux,2-2,Clermont Foot 63
+Journée 38,Fri May 17 2019,Le Havre AC,2-3,FC Lorient
+Journée 38,Fri May 17 2019,RC Lens,5-2,US Orléans
+Journée 38,Fri May 17 2019,FC Metz,1-0,Stade Brestois 29
+Journée 38,Fri May 17 2019,Chamois Niortais FC,1-0,Red Star FC
+Journée 38,Fri May 17 2019,Paris FC,1-0,GFC Ajaccio
+Journée 38,Fri May 17 2019,FC Sochaux-Montbéliard,3-1,Grenoble Foot 38
+Journée 38,Fri May 17 2019,ES Troyes AC,0-0,AC Ajaccio

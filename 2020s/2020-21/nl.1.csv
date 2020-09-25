@@ -1,0 +1,307 @@
+Round,Date,Team 1,FT,Team 2
+1,Sat Sep 12 2020,FC Utrecht,,AZ Alkmaar
+1,Sat Sep 12 2020,SC Heerenveen,,Willem II Tilburg
+1,Sat Sep 12 2020,PEC Zwolle,,Feyenoord Rotterdam
+1,Sat Sep 12 2020,FC Twente,,Fortuna Sittard
+1,Sun Sep 13 2020,FC Emmen,,VVV Venlo
+1,Sun Sep 13 2020,Heracles Almelo,,ADO Den Haag
+1,Sun Sep 13 2020,Sparta Rotterdam,,Ajax Amsterdam
+1,Sun Sep 13 2020,FC Groningen,,PSV Eindhoven
+1,Sun Sep 13 2020,RKC Waalwijk,,Vitesse Arnhem
+2,Fri Sep 18 2020,VVV Venlo,,FC Utrecht
+2,Sat Sep 19 2020,AZ Alkmaar,,PEC Zwolle
+2,Sat Sep 19 2020,Vitesse Arnhem,,Sparta Rotterdam
+2,Sat Sep 19 2020,Fortuna Sittard,,SC Heerenveen
+2,Sun Sep 20 2020,ADO Den Haag,,FC Groningen
+2,Sun Sep 20 2020,Feyenoord Rotterdam,,FC Twente
+2,Sun Sep 20 2020,Willem II Tilburg,,Heracles Almelo
+2,Sun Sep 20 2020,Ajax Amsterdam,,RKC Waalwijk
+2,Sun Sep 20 2020,PSV Eindhoven,,FC Emmen
+3,Fri Sep 25 2020,FC Twente,,FC Groningen
+3,Sat Sep 26 2020,PEC Zwolle,,Sparta Rotterdam
+3,Sat Sep 26 2020,Fortuna Sittard,,AZ Alkmaar
+3,Sat Sep 26 2020,SC Heerenveen,,VVV Venlo
+3,Sat Sep 26 2020,Ajax Amsterdam,,Vitesse Arnhem
+3,Sun Sep 27 2020,Feyenoord Rotterdam,,ADO Den Haag
+3,Sun Sep 27 2020,FC Utrecht,,RKC Waalwijk
+3,Sun Sep 27 2020,Heracles Almelo,,PSV Eindhoven
+3,Sun Sep 27 2020,FC Emmen,,Willem II Tilburg
+4,Fri Oct 2 2020,FC Utrecht,,SC Heerenveen
+4,Sat Oct 3 2020,Vitesse Arnhem,,Heracles Almelo
+4,Sat Oct 3 2020,RKC Waalwijk,,PEC Zwolle
+4,Sat Oct 3 2020,VVV Venlo,,ADO Den Haag
+4,Sat Oct 3 2020,FC Twente,,FC Emmen
+4,Sun Oct 4 2020,FC Groningen,,Ajax Amsterdam
+4,Sun Oct 4 2020,Sparta Rotterdam,,AZ Alkmaar
+4,Sun Oct 4 2020,Willem II Tilburg,,Feyenoord Rotterdam
+4,Sun Oct 4 2020,PSV Eindhoven,,Fortuna Sittard
+5,Sat Oct 17 2020,Ajax Amsterdam,,SC Heerenveen
+5,Sat Oct 17 2020,Willem II Tilburg,,FC Twente
+5,Sat Oct 17 2020,Heracles Almelo,,RKC Waalwijk
+5,Sat Oct 17 2020,AZ Alkmaar,,VVV Venlo
+5,Sun Oct 18 2020,Feyenoord Rotterdam,,Sparta Rotterdam
+5,Sun Oct 18 2020,ADO Den Haag,,Vitesse Arnhem
+5,Sun Oct 18 2020,FC Emmen,,Fortuna Sittard
+5,Sun Oct 18 2020,FC Groningen,,FC Utrecht
+5,Sun Oct 18 2020,PEC Zwolle,,PSV Eindhoven
+6,Sat Oct 24 2020,VVV Venlo,,Ajax Amsterdam
+6,Sat Oct 24 2020,FC Utrecht,,FC Twente
+6,Sat Oct 24 2020,ADO Den Haag,,AZ Alkmaar
+6,Sat Oct 24 2020,SC Heerenveen,,FC Emmen
+6,Sun Oct 25 2020,RKC Waalwijk,,Feyenoord Rotterdam
+6,Sun Oct 25 2020,Fortuna Sittard,,FC Groningen
+6,Sun Oct 25 2020,Vitesse Arnhem,,PSV Eindhoven
+6,Sun Oct 25 2020,PEC Zwolle,,Willem II Tilburg
+6,Sun Oct 25 2020,Sparta Rotterdam,,Heracles Almelo
+7,Sat Oct 31 2020,Ajax Amsterdam,,Fortuna Sittard
+7,Sat Oct 31 2020,FC Groningen,,VVV Venlo
+7,Sat Oct 31 2020,FC Twente,,PEC Zwolle
+7,Sat Oct 31 2020,AZ Alkmaar,,RKC Waalwijk
+7,Sun Nov 1 2020,Heracles Almelo,,FC Utrecht
+7,Sun Nov 1 2020,PSV Eindhoven,,ADO Den Haag
+7,Sun Nov 1 2020,Sparta Rotterdam,,SC Heerenveen
+7,Sun Nov 1 2020,FC Emmen,,Feyenoord Rotterdam
+7,Sun Nov 1 2020,Willem II Tilburg,,Vitesse Arnhem
+8,Fri Nov 6 2020,Fortuna Sittard,,PEC Zwolle
+8,Sat Nov 7 2020,ADO Den Haag,,FC Twente
+8,Sat Nov 7 2020,VVV Venlo,,Heracles Almelo
+8,Sat Nov 7 2020,SC Heerenveen,,AZ Alkmaar
+8,Sat Nov 7 2020,Vitesse Arnhem,,FC Emmen
+8,Sun Nov 8 2020,FC Utrecht,,Ajax Amsterdam
+8,Sun Nov 8 2020,PSV Eindhoven,,Willem II Tilburg
+8,Sun Nov 8 2020,RKC Waalwijk,,Sparta Rotterdam
+8,Sun Nov 8 2020,Feyenoord Rotterdam,,FC Groningen
+9,Sat Nov 21 2020,Ajax Amsterdam,,Heracles Almelo
+9,Sat Nov 21 2020,Willem II Tilburg,,VVV Venlo
+9,Sat Nov 21 2020,AZ Alkmaar,,FC Emmen
+9,Sat Nov 21 2020,PEC Zwolle,,FC Utrecht
+9,Sun Nov 22 2020,Sparta Rotterdam,,ADO Den Haag
+9,Sun Nov 22 2020,FC Groningen,,Vitesse Arnhem
+9,Sun Nov 22 2020,Fortuna Sittard,,Feyenoord Rotterdam
+9,Sun Nov 22 2020,FC Twente,,PSV Eindhoven
+9,Sun Nov 22 2020,RKC Waalwijk,,SC Heerenveen
+10,Fri Nov 27 2020,FC Twente,,RKC Waalwijk
+10,Sat Nov 28 2020,ADO Den Haag,,SC Heerenveen
+10,Sat Nov 28 2020,FC Emmen,,Ajax Amsterdam
+10,Sat Nov 28 2020,Heracles Almelo,,AZ Alkmaar
+10,Sat Nov 28 2020,VVV Venlo,,PEC Zwolle
+10,Sun Nov 29 2020,Vitesse Arnhem,,Fortuna Sittard
+10,Sun Nov 29 2020,FC Groningen,,Willem II Tilburg
+10,Sun Nov 29 2020,Feyenoord Rotterdam,,FC Utrecht
+10,Sun Nov 29 2020,PSV Eindhoven,,Sparta Rotterdam
+11,Fri Dec 4 2020,PEC Zwolle,,Vitesse Arnhem
+11,Sat Dec 5 2020,RKC Waalwijk,,VVV Venlo
+11,Sat Dec 5 2020,AZ Alkmaar,,FC Groningen
+11,Sat Dec 5 2020,Sparta Rotterdam,,FC Emmen
+11,Sat Dec 5 2020,Ajax Amsterdam,,FC Twente
+11,Sun Dec 6 2020,FC Utrecht,,ADO Den Haag
+11,Sun Dec 6 2020,Feyenoord Rotterdam,,Heracles Almelo
+11,Sun Dec 6 2020,Fortuna Sittard,,Willem II Tilburg
+11,Sun Dec 6 2020,SC Heerenveen,,PSV Eindhoven
+12,Fri Dec 11 2020,Heracles Almelo,,Fortuna Sittard
+12,Sat Dec 12 2020,FC Twente,,AZ Alkmaar
+12,Sat Dec 12 2020,FC Emmen,,ADO Den Haag
+12,Sat Dec 12 2020,Ajax Amsterdam,,PEC Zwolle
+12,Sat Dec 12 2020,FC Groningen,,RKC Waalwijk
+12,Sun Dec 13 2020,PSV Eindhoven,,FC Utrecht
+12,Sun Dec 13 2020,Vitesse Arnhem,,SC Heerenveen
+12,Sun Dec 13 2020,VVV Venlo,,Feyenoord Rotterdam
+12,Sun Dec 13 2020,Willem II Tilburg,,Sparta Rotterdam
+13,Fri Dec 18 2020,PEC Zwolle,,FC Emmen
+13,Sat Dec 19 2020,Sparta Rotterdam,,FC Groningen
+13,Sat Dec 19 2020,VVV Venlo,,FC Twente
+13,Sat Dec 19 2020,RKC Waalwijk,,PSV Eindhoven
+13,Sat Dec 19 2020,FC Utrecht,,Fortuna Sittard
+13,Sun Dec 20 2020,Vitesse Arnhem,,Feyenoord Rotterdam
+13,Sun Dec 20 2020,ADO Den Haag,,Ajax Amsterdam
+13,Sun Dec 20 2020,SC Heerenveen,,Heracles Almelo
+13,Sun Dec 20 2020,AZ Alkmaar,,Willem II Tilburg
+14,Tue Dec 22 2020,Fortuna Sittard,,RKC Waalwijk
+14,Tue Dec 22 2020,FC Emmen,,FC Utrecht
+14,Tue Dec 22 2020,PSV Eindhoven,,VVV Venlo
+14,Tue Dec 22 2020,FC Twente,,Sparta Rotterdam
+14,Wed Dec 23 2020,AZ Alkmaar,,Vitesse Arnhem
+14,Wed Dec 23 2020,Willem II Tilburg,,Ajax Amsterdam
+14,Wed Dec 23 2020,FC Groningen,,Heracles Almelo
+14,Wed Dec 23 2020,ADO Den Haag,,PEC Zwolle
+14,Wed Dec 23 2020,Feyenoord Rotterdam,,SC Heerenveen
+15,Sat Jan 9 2021,RKC Waalwijk,,ADO Den Haag
+15,Sat Jan 9 2021,FC Emmen,,FC Twente
+15,Sat Jan 9 2021,Heracles Almelo,,Vitesse Arnhem
+15,Sat Jan 9 2021,PEC Zwolle,,AZ Alkmaar
+15,Sat Jan 9 2021,FC Utrecht,,FC Groningen
+15,Sun Jan 10 2021,Sparta Rotterdam,,Feyenoord Rotterdam
+15,Sun Jan 10 2021,SC Heerenveen,,Fortuna Sittard
+15,Sun Jan 10 2021,VVV Venlo,,Willem II Tilburg
+15,Sun Jan 10 2021,Ajax Amsterdam,,PSV Eindhoven
+16,Tue Jan 12 2021,Vitesse Arnhem,,FC Utrecht
+16,Tue Jan 12 2021,Heracles Almelo,,FC Emmen
+16,Wed Jan 13 2021,PSV Eindhoven,,AZ Alkmaar
+16,Wed Jan 13 2021,Fortuna Sittard,,Sparta Rotterdam
+16,Wed Jan 13 2021,ADO Den Haag,,VVV Venlo
+16,Wed Jan 13 2021,Feyenoord Rotterdam,,PEC Zwolle
+16,Thu Jan 14 2021,SC Heerenveen,,RKC Waalwijk
+16,Thu Jan 14 2021,FC Twente,,Ajax Amsterdam
+16,Thu Jan 14 2021,Willem II Tilburg,,FC Groningen
+17,Sat Jan 16 2021,FC Emmen,,Vitesse Arnhem
+17,Sat Jan 16 2021,FC Utrecht,,Heracles Almelo
+17,Sat Jan 16 2021,AZ Alkmaar,,ADO Den Haag
+17,Sat Jan 16 2021,PEC Zwolle,,Fortuna Sittard
+17,Sun Jan 17 2021,RKC Waalwijk,,Willem II Tilburg
+17,Sun Jan 17 2021,FC Groningen,,FC Twente
+17,Sun Jan 17 2021,Sparta Rotterdam,,PSV Eindhoven
+17,Sun Jan 17 2021,Ajax Amsterdam,,Feyenoord Rotterdam
+17,Sun Jan 17 2021,VVV Venlo,,SC Heerenveen
+18,Fri Jan 22 2021,ADO Den Haag,,FC Emmen
+18,Sat Jan 23 2021,Willem II Tilburg,,PEC Zwolle
+18,Sat Jan 23 2021,Vitesse Arnhem,,FC Groningen
+18,Sat Jan 23 2021,PSV Eindhoven,,RKC Waalwijk
+18,Sat Jan 23 2021,Heracles Almelo,,SC Heerenveen
+18,Sun Jan 24 2021,Fortuna Sittard,,Ajax Amsterdam
+18,Sun Jan 24 2021,FC Twente,,VVV Venlo
+18,Sun Jan 24 2021,FC Utrecht,,Sparta Rotterdam
+18,Sun Jan 24 2021,Feyenoord Rotterdam,,AZ Alkmaar
+19,Tue Jan 26 2021,PEC Zwolle,,Heracles Almelo
+19,Tue Jan 26 2021,FC Emmen,,PSV Eindhoven
+19,Tue Jan 26 2021,FC Groningen,,ADO Den Haag
+19,Wed Jan 27 2021,AZ Alkmaar,,FC Utrecht
+19,Wed Jan 27 2021,RKC Waalwijk,,Fortuna Sittard
+19,Wed Jan 27 2021,VVV Venlo,,Vitesse Arnhem
+19,Wed Jan 27 2021,SC Heerenveen,,Feyenoord Rotterdam
+19,Thu Jan 28 2021,Sparta Rotterdam,,FC Twente
+19,Thu Jan 28 2021,Ajax Amsterdam,,Willem II Tilburg
+20,Sat Jan 30 2021,Heracles Almelo,,FC Groningen
+20,Sat Jan 30 2021,FC Utrecht,,PEC Zwolle
+20,Sat Jan 30 2021,Fortuna Sittard,,VVV Venlo
+20,Sat Jan 30 2021,Vitesse Arnhem,,RKC Waalwijk
+20,Sun Jan 31 2021,FC Twente,,SC Heerenveen
+20,Sun Jan 31 2021,Feyenoord Rotterdam,,PSV Eindhoven
+20,Sun Jan 31 2021,Willem II Tilburg,,FC Emmen
+20,Sun Jan 31 2021,AZ Alkmaar,,Ajax Amsterdam
+20,Sun Jan 31 2021,ADO Den Haag,,Sparta Rotterdam
+21,Fri Feb 5 2021,Fortuna Sittard,,Heracles Almelo
+21,Sat Feb 6 2021,PSV Eindhoven,,FC Twente
+21,Sat Feb 6 2021,PEC Zwolle,,RKC Waalwijk
+21,Sat Feb 6 2021,FC Emmen,,AZ Alkmaar
+21,Sat Feb 6 2021,SC Heerenveen,,Vitesse Arnhem
+21,Sun Feb 7 2021,FC Groningen,,Feyenoord Rotterdam
+21,Sun Feb 7 2021,Ajax Amsterdam,,FC Utrecht
+21,Sun Feb 7 2021,Willem II Tilburg,,ADO Den Haag
+21,Sun Feb 7 2021,VVV Venlo,,Sparta Rotterdam
+22,Sun Feb 14 2021,ADO Den Haag,,PSV Eindhoven
+22,Sun Feb 14 2021,AZ Alkmaar,,SC Heerenveen
+22,Sun Feb 14 2021,FC Groningen,,PEC Zwolle
+22,Sun Feb 14 2021,FC Utrecht,,VVV Venlo
+22,Sun Feb 14 2021,Feyenoord Rotterdam,,Willem II Tilburg
+22,Sun Feb 14 2021,Heracles Almelo,,Ajax Amsterdam
+22,Sun Feb 14 2021,RKC Waalwijk,,FC Emmen
+22,Sun Feb 14 2021,Sparta Rotterdam,,Fortuna Sittard
+22,Sun Feb 14 2021,Vitesse Arnhem,,FC Twente
+23,Sun Feb 21 2021,Ajax Amsterdam,,Sparta Rotterdam
+23,Sun Feb 21 2021,FC Emmen,,PEC Zwolle
+23,Sun Feb 21 2021,FC Twente,,Feyenoord Rotterdam
+23,Sun Feb 21 2021,Fortuna Sittard,,ADO Den Haag
+23,Sun Feb 21 2021,PSV Eindhoven,,Vitesse Arnhem
+23,Sun Feb 21 2021,RKC Waalwijk,,Heracles Almelo
+23,Sun Feb 21 2021,SC Heerenveen,,FC Groningen
+23,Sun Feb 21 2021,VVV Venlo,,AZ Alkmaar
+23,Sun Feb 21 2021,Willem II Tilburg,,FC Utrecht
+24,Sun Feb 28 2021,ADO Den Haag,,RKC Waalwijk
+24,Sun Feb 28 2021,AZ Alkmaar,,Feyenoord Rotterdam
+24,Sun Feb 28 2021,FC Groningen,,Fortuna Sittard
+24,Sun Feb 28 2021,FC Utrecht,,FC Emmen
+24,Sun Feb 28 2021,Heracles Almelo,,FC Twente
+24,Sun Feb 28 2021,PEC Zwolle,,SC Heerenveen
+24,Sun Feb 28 2021,PSV Eindhoven,,Ajax Amsterdam
+24,Sun Feb 28 2021,Sparta Rotterdam,,Willem II Tilburg
+24,Sun Feb 28 2021,Vitesse Arnhem,,VVV Venlo
+25,Sun Mar 7 2021,Ajax Amsterdam,,FC Groningen
+25,Sun Mar 7 2021,FC Emmen,,Sparta Rotterdam
+25,Sun Mar 7 2021,FC Twente,,Willem II Tilburg
+25,Sun Mar 7 2021,Feyenoord Rotterdam,,VVV Venlo
+25,Sun Mar 7 2021,Fortuna Sittard,,PSV Eindhoven
+25,Sun Mar 7 2021,Heracles Almelo,,PEC Zwolle
+25,Sun Mar 7 2021,RKC Waalwijk,,FC Utrecht
+25,Sun Mar 7 2021,SC Heerenveen,,ADO Den Haag
+25,Sun Mar 7 2021,Vitesse Arnhem,,AZ Alkmaar
+26,Sun Mar 14 2021,ADO Den Haag,,Heracles Almelo
+26,Sun Mar 14 2021,AZ Alkmaar,,FC Twente
+26,Sun Mar 14 2021,FC Groningen,,FC Emmen
+26,Sun Mar 14 2021,FC Utrecht,,Vitesse Arnhem
+26,Sun Mar 14 2021,PEC Zwolle,,Ajax Amsterdam
+26,Sun Mar 14 2021,PSV Eindhoven,,Feyenoord Rotterdam
+26,Sun Mar 14 2021,Sparta Rotterdam,,RKC Waalwijk
+26,Sun Mar 14 2021,VVV Venlo,,Fortuna Sittard
+26,Sun Mar 14 2021,Willem II Tilburg,,SC Heerenveen
+27,Sun Mar 21 2021,Ajax Amsterdam,,ADO Den Haag
+27,Sun Mar 21 2021,AZ Alkmaar,,PSV Eindhoven
+27,Sun Mar 21 2021,Feyenoord Rotterdam,,FC Emmen
+27,Sun Mar 21 2021,Fortuna Sittard,,FC Utrecht
+27,Sun Mar 21 2021,Heracles Almelo,,Sparta Rotterdam
+27,Sun Mar 21 2021,PEC Zwolle,,VVV Venlo
+27,Sun Mar 21 2021,RKC Waalwijk,,FC Groningen
+27,Sun Mar 21 2021,SC Heerenveen,,FC Twente
+27,Sun Mar 21 2021,Vitesse Arnhem,,Willem II Tilburg
+28,Sun Apr 4 2021,ADO Den Haag,,FC Utrecht
+28,Sun Apr 4 2021,FC Emmen,,RKC Waalwijk
+28,Sun Apr 4 2021,FC Twente,,Vitesse Arnhem
+28,Sun Apr 4 2021,Feyenoord Rotterdam,,Fortuna Sittard
+28,Sun Apr 4 2021,PSV Eindhoven,,Heracles Almelo
+28,Sun Apr 4 2021,SC Heerenveen,,Ajax Amsterdam
+28,Sun Apr 4 2021,Sparta Rotterdam,,PEC Zwolle
+28,Sun Apr 4 2021,VVV Venlo,,FC Groningen
+28,Sun Apr 4 2021,Willem II Tilburg,,AZ Alkmaar
+29,Sun Apr 11 2021,AZ Alkmaar,,Sparta Rotterdam
+29,Sun Apr 11 2021,FC Groningen,,SC Heerenveen
+29,Sun Apr 11 2021,FC Utrecht,,Feyenoord Rotterdam
+29,Sun Apr 11 2021,Fortuna Sittard,,FC Emmen
+29,Sun Apr 11 2021,Heracles Almelo,,Willem II Tilburg
+29,Sun Apr 11 2021,PEC Zwolle,,FC Twente
+29,Sun Apr 11 2021,RKC Waalwijk,,Ajax Amsterdam
+29,Sun Apr 11 2021,Vitesse Arnhem,,ADO Den Haag
+29,Sun Apr 11 2021,VVV Venlo,,PSV Eindhoven
+30,Sun Apr 25 2021,ADO Den Haag,,Fortuna Sittard
+30,Sun Apr 25 2021,Ajax Amsterdam,,AZ Alkmaar
+30,Sun Apr 25 2021,FC Emmen,,Heracles Almelo
+30,Sun Apr 25 2021,FC Twente,,FC Utrecht
+30,Sun Apr 25 2021,Feyenoord Rotterdam,,Vitesse Arnhem
+30,Sun Apr 25 2021,PSV Eindhoven,,FC Groningen
+30,Sun Apr 25 2021,SC Heerenveen,,PEC Zwolle
+30,Sun Apr 25 2021,Sparta Rotterdam,,VVV Venlo
+30,Sun Apr 25 2021,Willem II Tilburg,,RKC Waalwijk
+31,Sun May 2 2021,ADO Den Haag,,Feyenoord Rotterdam
+31,Sun May 2 2021,Ajax Amsterdam,,FC Emmen
+31,Sun May 2 2021,FC Groningen,,Sparta Rotterdam
+31,Sun May 2 2021,FC Utrecht,,Willem II Tilburg
+31,Sun May 2 2021,Fortuna Sittard,,FC Twente
+31,Sun May 2 2021,Heracles Almelo,,VVV Venlo
+31,Sun May 2 2021,PSV Eindhoven,,SC Heerenveen
+31,Sun May 2 2021,RKC Waalwijk,,AZ Alkmaar
+31,Sun May 2 2021,Vitesse Arnhem,,PEC Zwolle
+32,Sun May 9 2021,AZ Alkmaar,,Fortuna Sittard
+32,Sun May 9 2021,FC Emmen,,FC Groningen
+32,Sun May 9 2021,FC Twente,,Heracles Almelo
+32,Sun May 9 2021,Feyenoord Rotterdam,,Ajax Amsterdam
+32,Sun May 9 2021,PEC Zwolle,,ADO Den Haag
+32,Sun May 9 2021,SC Heerenveen,,FC Utrecht
+32,Sun May 9 2021,Sparta Rotterdam,,Vitesse Arnhem
+32,Sun May 9 2021,VVV Venlo,,RKC Waalwijk
+32,Sun May 9 2021,Willem II Tilburg,,PSV Eindhoven
+33,Thu May 13 2021,ADO Den Haag,,Willem II Tilburg
+33,Thu May 13 2021,Ajax Amsterdam,,VVV Venlo
+33,Thu May 13 2021,FC Emmen,,SC Heerenveen
+33,Thu May 13 2021,FC Groningen,,AZ Alkmaar
+33,Thu May 13 2021,Fortuna Sittard,,Vitesse Arnhem
+33,Thu May 13 2021,Heracles Almelo,,Feyenoord Rotterdam
+33,Thu May 13 2021,PSV Eindhoven,,PEC Zwolle
+33,Thu May 13 2021,RKC Waalwijk,,FC Twente
+33,Thu May 13 2021,Sparta Rotterdam,,FC Utrecht
+34,Sun May 16 2021,AZ Alkmaar,,Heracles Almelo
+34,Sun May 16 2021,FC Twente,,ADO Den Haag
+34,Sun May 16 2021,FC Utrecht,,PSV Eindhoven
+34,Sun May 16 2021,Feyenoord Rotterdam,,RKC Waalwijk
+34,Sun May 16 2021,PEC Zwolle,,FC Groningen
+34,Sun May 16 2021,SC Heerenveen,,Sparta Rotterdam
+34,Sun May 16 2021,Vitesse Arnhem,,Ajax Amsterdam
+34,Sun May 16 2021,VVV Venlo,,FC Emmen
+34,Sun May 16 2021,Willem II Tilburg,,Fortuna Sittard

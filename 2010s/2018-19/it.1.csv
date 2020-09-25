@@ -1,0 +1,381 @@
+Round,Date,Team 1,FT,Team 2
+1^ Giornata,Sat Aug 18 2018,AC Chievo Verona,2-3,Juventus
+1^ Giornata,Sat Aug 18 2018,SS Lazio,1-2,SSC Napoli
+1^ Giornata,Sun Aug 19 2018,Torino FC,0-1,AS Roma
+1^ Giornata,Sun Aug 19 2018,Empoli,2-0,Cagliari Calcio
+1^ Giornata,Sun Aug 19 2018,US Sassuolo Calcio,1-0,FC Internazionale Milano
+1^ Giornata,Sun Aug 19 2018,Parma,2-2,Udinese Calcio
+1^ Giornata,Sun Aug 19 2018,Bologna FC,0-1,SPAL Ferrara
+1^ Giornata,Mon Aug 20 2018,Atalanta Bergamo,4-0,Frosinone
+2^ Giornata,Sat Aug 25 2018,Juventus,2-0,SS Lazio
+2^ Giornata,Sat Aug 25 2018,SSC Napoli,3-2,AC Milan
+2^ Giornata,Sun Aug 26 2018,SPAL Ferrara,1-0,Parma
+2^ Giornata,Sun Aug 26 2018,Udinese Calcio,1-0,UC Sampdoria
+2^ Giornata,Sun Aug 26 2018,Cagliari Calcio,2-2,US Sassuolo Calcio
+2^ Giornata,Sun Aug 26 2018,ACF Fiorentina,6-1,AC Chievo Verona
+2^ Giornata,Sun Aug 26 2018,FC Internazionale Milano,2-2,Torino FC
+2^ Giornata,Sun Aug 26 2018,Genoa CFC,2-1,Empoli
+2^ Giornata,Sun Aug 26 2018,Frosinone,0-0,Bologna FC
+2^ Giornata,Mon Aug 27 2018,AS Roma,3-3,Atalanta Bergamo
+3^ Giornata,Fri Aug 31 2018,AC Milan,2-1,AS Roma
+3^ Giornata,Sat Sep 1 2018,Bologna FC,0-3,FC Internazionale Milano
+3^ Giornata,Sat Sep 1 2018,Parma,1-2,Juventus
+3^ Giornata,Sun Sep 2 2018,ACF Fiorentina,1-0,Udinese Calcio
+3^ Giornata,Sun Sep 2 2018,AC Chievo Verona,0-0,Empoli
+3^ Giornata,Sun Sep 2 2018,SS Lazio,1-0,Frosinone
+3^ Giornata,Sun Sep 2 2018,Atalanta Bergamo,0-1,Cagliari Calcio
+3^ Giornata,Sun Sep 2 2018,Torino FC,1-0,SPAL Ferrara
+3^ Giornata,Sun Sep 2 2018,UC Sampdoria,3-0,SSC Napoli
+3^ Giornata,Sun Sep 2 2018,US Sassuolo Calcio,5-3,Genoa CFC
+4^ Giornata,Sat Sep 15 2018,FC Internazionale Milano,0-1,Parma
+4^ Giornata,Sat Sep 15 2018,SSC Napoli,1-0,ACF Fiorentina
+4^ Giornata,Sat Sep 15 2018,Frosinone,0-5,UC Sampdoria
+4^ Giornata,Sun Sep 16 2018,AS Roma,2-2,AC Chievo Verona
+4^ Giornata,Sun Sep 16 2018,Udinese Calcio,1-1,Torino FC
+4^ Giornata,Sun Sep 16 2018,Genoa CFC,1-0,Bologna FC
+4^ Giornata,Sun Sep 16 2018,Juventus,2-1,US Sassuolo Calcio
+4^ Giornata,Sun Sep 16 2018,Empoli,0-1,SS Lazio
+4^ Giornata,Sun Sep 16 2018,Cagliari Calcio,1-1,AC Milan
+4^ Giornata,Mon Sep 17 2018,SPAL Ferrara,2-0,Atalanta Bergamo
+1^ Giornata,Wed Sep 19 2018,UC Sampdoria,1-1,ACF Fiorentina
+5^ Giornata,Fri Sep 21 2018,US Sassuolo Calcio,3-1,Empoli
+5^ Giornata,Sat Sep 22 2018,Parma,2-0,Cagliari Calcio
+5^ Giornata,Sat Sep 22 2018,ACF Fiorentina,3-0,SPAL Ferrara
+5^ Giornata,Sat Sep 22 2018,UC Sampdoria,0-1,FC Internazionale Milano
+5^ Giornata,Sun Sep 23 2018,Torino FC,1-3,SSC Napoli
+5^ Giornata,Sun Sep 23 2018,AC Chievo Verona,0-2,Udinese Calcio
+5^ Giornata,Sun Sep 23 2018,SS Lazio,4-1,Genoa CFC
+5^ Giornata,Sun Sep 23 2018,Bologna FC,2-0,AS Roma
+5^ Giornata,Sun Sep 23 2018,AC Milan,2-2,Atalanta Bergamo
+5^ Giornata,Sun Sep 23 2018,Frosinone,0-2,Juventus
+6^ Giornata,Tue Sep 25 2018,FC Internazionale Milano,2-1,ACF Fiorentina
+6^ Giornata,Wed Sep 26 2018,Udinese Calcio,1-2,SS Lazio
+6^ Giornata,Wed Sep 26 2018,Juventus,2-0,Bologna FC
+6^ Giornata,Wed Sep 26 2018,Atalanta Bergamo,0-0,Torino FC
+6^ Giornata,Wed Sep 26 2018,SSC Napoli,3-0,Parma
+6^ Giornata,Wed Sep 26 2018,AS Roma,4-0,Frosinone
+6^ Giornata,Wed Sep 26 2018,Genoa CFC,2-0,AC Chievo Verona
+6^ Giornata,Wed Sep 26 2018,Cagliari Calcio,0-0,UC Sampdoria
+6^ Giornata,Thu Sep 27 2018,SPAL Ferrara,0-2,US Sassuolo Calcio
+6^ Giornata,Thu Sep 27 2018,Empoli,1-1,AC Milan
+7^ Giornata,Sat Sep 29 2018,AS Roma,3-1,SS Lazio
+7^ Giornata,Sat Sep 29 2018,Juventus,3-1,SSC Napoli
+7^ Giornata,Sat Sep 29 2018,FC Internazionale Milano,2-0,Cagliari Calcio
+7^ Giornata,Sun Sep 30 2018,Bologna FC,2-1,Udinese Calcio
+7^ Giornata,Sun Sep 30 2018,ACF Fiorentina,2-0,Atalanta Bergamo
+7^ Giornata,Sun Sep 30 2018,Frosinone,1-2,Genoa CFC
+7^ Giornata,Sun Sep 30 2018,AC Chievo Verona,0-1,Torino FC
+7^ Giornata,Sun Sep 30 2018,Parma,1-0,Empoli
+7^ Giornata,Sun Sep 30 2018,US Sassuolo Calcio,1-4,AC Milan
+7^ Giornata,Mon Oct 1 2018,UC Sampdoria,2-1,SPAL Ferrara
+8^ Giornata,Fri Oct 5 2018,Torino FC,3-2,Frosinone
+8^ Giornata,Sat Oct 6 2018,Cagliari Calcio,2-0,Bologna FC
+8^ Giornata,Sat Oct 6 2018,Udinese Calcio,0-2,Juventus
+8^ Giornata,Sat Oct 6 2018,Empoli,0-2,AS Roma
+8^ Giornata,Sun Oct 7 2018,Genoa CFC,1-3,Parma
+8^ Giornata,Sun Oct 7 2018,Atalanta Bergamo,0-1,UC Sampdoria
+8^ Giornata,Sun Oct 7 2018,AC Milan,3-1,AC Chievo Verona
+8^ Giornata,Sun Oct 7 2018,SS Lazio,1-0,ACF Fiorentina
+8^ Giornata,Sun Oct 7 2018,SSC Napoli,2-0,US Sassuolo Calcio
+8^ Giornata,Sun Oct 7 2018,SPAL Ferrara,1-2,FC Internazionale Milano
+9^ Giornata,Sat Oct 20 2018,AS Roma,0-2,SPAL Ferrara
+9^ Giornata,Sat Oct 20 2018,Juventus,1-1,Genoa CFC
+9^ Giornata,Sat Oct 20 2018,Udinese Calcio,0-3,SSC Napoli
+9^ Giornata,Sun Oct 21 2018,Frosinone,3-3,Empoli
+9^ Giornata,Sun Oct 21 2018,Parma,0-2,SS Lazio
+9^ Giornata,Sun Oct 21 2018,AC Chievo Verona,1-5,Atalanta Bergamo
+9^ Giornata,Sun Oct 21 2018,Bologna FC,2-2,Torino FC
+9^ Giornata,Sun Oct 21 2018,ACF Fiorentina,1-1,Cagliari Calcio
+9^ Giornata,Sun Oct 21 2018,FC Internazionale Milano,1-0,AC Milan
+9^ Giornata,Mon Oct 22 2018,UC Sampdoria,0-0,US Sassuolo Calcio
+10^ Giornata,Sat Oct 27 2018,Atalanta Bergamo,3-0,Parma
+10^ Giornata,Sat Oct 27 2018,Empoli,1-2,Juventus
+10^ Giornata,Sat Oct 27 2018,Torino FC,1-1,ACF Fiorentina
+10^ Giornata,Sun Oct 28 2018,US Sassuolo Calcio,2-2,Bologna FC
+10^ Giornata,Sun Oct 28 2018,SPAL Ferrara,0-3,Frosinone
+10^ Giornata,Sun Oct 28 2018,Genoa CFC,2-2,Udinese Calcio
+10^ Giornata,Sun Oct 28 2018,Cagliari Calcio,2-1,AC Chievo Verona
+10^ Giornata,Sun Oct 28 2018,AC Milan,3-2,UC Sampdoria
+10^ Giornata,Sun Oct 28 2018,SSC Napoli,1-1,AS Roma
+10^ Giornata,Mon Oct 29 2018,SS Lazio,0-3,FC Internazionale Milano
+1^ Giornata,Wed Oct 31 2018,AC Milan,2-1,Genoa CFC
+11^ Giornata,Fri Nov 2 2018,SSC Napoli,5-1,Empoli
+11^ Giornata,Sat Nov 3 2018,FC Internazionale Milano,5-0,Genoa CFC
+11^ Giornata,Sat Nov 3 2018,ACF Fiorentina,1-1,AS Roma
+11^ Giornata,Sat Nov 3 2018,Juventus,3-1,Cagliari Calcio
+11^ Giornata,Sun Nov 4 2018,SS Lazio,4-1,SPAL Ferrara
+11^ Giornata,Sun Nov 4 2018,UC Sampdoria,1-4,Torino FC
+11^ Giornata,Sun Nov 4 2018,AC Chievo Verona,0-2,US Sassuolo Calcio
+11^ Giornata,Sun Nov 4 2018,Parma,0-0,Frosinone
+11^ Giornata,Sun Nov 4 2018,Bologna FC,1-2,Atalanta Bergamo
+11^ Giornata,Sun Nov 4 2018,Udinese Calcio,0-1,AC Milan
+12^ Giornata,Fri Nov 9 2018,Frosinone,1-1,ACF Fiorentina
+12^ Giornata,Sat Nov 10 2018,Torino FC,1-2,Parma
+12^ Giornata,Sat Nov 10 2018,SPAL Ferrara,2-2,Cagliari Calcio
+12^ Giornata,Sat Nov 10 2018,Genoa CFC,1-2,SSC Napoli
+12^ Giornata,Sun Nov 11 2018,Atalanta Bergamo,4-1,FC Internazionale Milano
+12^ Giornata,Sun Nov 11 2018,AC Chievo Verona,2-2,Bologna FC
+12^ Giornata,Sun Nov 11 2018,AS Roma,4-1,UC Sampdoria
+12^ Giornata,Sun Nov 11 2018,Empoli,2-1,Udinese Calcio
+12^ Giornata,Sun Nov 11 2018,US Sassuolo Calcio,1-1,SS Lazio
+12^ Giornata,Sun Nov 11 2018,AC Milan,0-2,Juventus
+13^ Giornata,Sat Nov 24 2018,Udinese Calcio,1-0,AS Roma
+13^ Giornata,Sat Nov 24 2018,Juventus,2-0,SPAL Ferrara
+13^ Giornata,Sat Nov 24 2018,FC Internazionale Milano,3-0,Frosinone
+13^ Giornata,Sun Nov 25 2018,Parma,2-1,US Sassuolo Calcio
+13^ Giornata,Sun Nov 25 2018,Bologna FC,0-0,ACF Fiorentina
+13^ Giornata,Sun Nov 25 2018,SSC Napoli,0-0,AC Chievo Verona
+13^ Giornata,Sun Nov 25 2018,Empoli,3-2,Atalanta Bergamo
+13^ Giornata,Sun Nov 25 2018,SS Lazio,1-1,AC Milan
+13^ Giornata,Sun Nov 25 2018,Genoa CFC,1-1,UC Sampdoria
+13^ Giornata,Mon Nov 26 2018,Cagliari Calcio,0-0,Torino FC
+14^ Giornata,Sat Dec 1 2018,SPAL Ferrara,2-2,Empoli
+14^ Giornata,Sat Dec 1 2018,ACF Fiorentina,0-3,Juventus
+14^ Giornata,Sat Dec 1 2018,UC Sampdoria,4-1,Bologna FC
+14^ Giornata,Sun Dec 2 2018,AC Milan,2-1,Parma
+14^ Giornata,Sun Dec 2 2018,US Sassuolo Calcio,0-0,Udinese Calcio
+14^ Giornata,Sun Dec 2 2018,Frosinone,1-1,Cagliari Calcio
+14^ Giornata,Sun Dec 2 2018,Torino FC,2-1,Genoa CFC
+14^ Giornata,Sun Dec 2 2018,AC Chievo Verona,1-1,SS Lazio
+14^ Giornata,Sun Dec 2 2018,AS Roma,2-2,FC Internazionale Milano
+14^ Giornata,Mon Dec 3 2018,Atalanta Bergamo,1-2,SSC Napoli
+15^ Giornata,Fri Dec 7 2018,Juventus,1-0,FC Internazionale Milano
+15^ Giornata,Sat Dec 8 2018,SSC Napoli,4-0,Frosinone
+15^ Giornata,Sat Dec 8 2018,Cagliari Calcio,2-2,AS Roma
+15^ Giornata,Sat Dec 8 2018,SS Lazio,2-2,UC Sampdoria
+15^ Giornata,Sun Dec 9 2018,US Sassuolo Calcio,3-3,ACF Fiorentina
+15^ Giornata,Sun Dec 9 2018,Udinese Calcio,1-3,Atalanta Bergamo
+15^ Giornata,Sun Dec 9 2018,Empoli,2-1,Bologna FC
+15^ Giornata,Sun Dec 9 2018,Parma,1-1,AC Chievo Verona
+15^ Giornata,Sun Dec 9 2018,Genoa CFC,1-1,SPAL Ferrara
+15^ Giornata,Sun Dec 9 2018,AC Milan,0-0,Torino FC
+16^ Giornata,Sat Dec 15 2018,FC Internazionale Milano,1-0,Udinese Calcio
+16^ Giornata,Sat Dec 15 2018,Torino FC,0-1,Juventus
+16^ Giornata,Sun Dec 16 2018,SPAL Ferrara,0-0,AC Chievo Verona
+16^ Giornata,Sun Dec 16 2018,ACF Fiorentina,3-1,Empoli
+16^ Giornata,Sun Dec 16 2018,UC Sampdoria,2-0,Parma
+16^ Giornata,Sun Dec 16 2018,Frosinone,0-2,US Sassuolo Calcio
+16^ Giornata,Sun Dec 16 2018,Cagliari Calcio,0-1,SSC Napoli
+16^ Giornata,Sun Dec 16 2018,AS Roma,3-2,Genoa CFC
+16^ Giornata,Mon Dec 17 2018,Atalanta Bergamo,1-0,SS Lazio
+16^ Giornata,Tue Dec 18 2018,Bologna FC,0-0,AC Milan
+17^ Giornata,Sat Dec 22 2018,SS Lazio,3-1,Cagliari Calcio
+17^ Giornata,Sat Dec 22 2018,Genoa CFC,3-1,Atalanta Bergamo
+17^ Giornata,Sat Dec 22 2018,US Sassuolo Calcio,1-1,Torino FC
+17^ Giornata,Sat Dec 22 2018,AC Milan,0-1,ACF Fiorentina
+17^ Giornata,Sat Dec 22 2018,SSC Napoli,1-0,SPAL Ferrara
+17^ Giornata,Sat Dec 22 2018,Empoli,2-4,UC Sampdoria
+17^ Giornata,Sat Dec 22 2018,Udinese Calcio,1-1,Frosinone
+17^ Giornata,Sat Dec 22 2018,Parma,0-0,Bologna FC
+17^ Giornata,Sat Dec 22 2018,AC Chievo Verona,1-1,FC Internazionale Milano
+17^ Giornata,Sat Dec 22 2018,Juventus,1-0,AS Roma
+18^ Giornata,Wed Dec 26 2018,Frosinone,0-0,AC Milan
+18^ Giornata,Wed Dec 26 2018,Atalanta Bergamo,2-2,Juventus
+18^ Giornata,Wed Dec 26 2018,Bologna FC,0-2,SS Lazio
+18^ Giornata,Wed Dec 26 2018,UC Sampdoria,2-0,AC Chievo Verona
+18^ Giornata,Wed Dec 26 2018,Cagliari Calcio,1-0,Genoa CFC
+18^ Giornata,Wed Dec 26 2018,ACF Fiorentina,0-1,Parma
+18^ Giornata,Wed Dec 26 2018,Torino FC,3-0,Empoli
+18^ Giornata,Wed Dec 26 2018,AS Roma,3-1,US Sassuolo Calcio
+18^ Giornata,Wed Dec 26 2018,SPAL Ferrara,0-0,Udinese Calcio
+18^ Giornata,Wed Dec 26 2018,FC Internazionale Milano,1-0,SSC Napoli
+19^ Giornata,Sat Dec 29 2018,Juventus,2-1,UC Sampdoria
+19^ Giornata,Sat Dec 29 2018,Parma,0-2,AS Roma
+19^ Giornata,Sat Dec 29 2018,US Sassuolo Calcio,2-6,Atalanta Bergamo
+19^ Giornata,Sat Dec 29 2018,SS Lazio,1-1,Torino FC
+19^ Giornata,Sat Dec 29 2018,Empoli,0-1,FC Internazionale Milano
+19^ Giornata,Sat Dec 29 2018,Genoa CFC,0-0,ACF Fiorentina
+19^ Giornata,Sat Dec 29 2018,AC Chievo Verona,1-0,Frosinone
+19^ Giornata,Sat Dec 29 2018,Udinese Calcio,2-0,Cagliari Calcio
+19^ Giornata,Sat Dec 29 2018,SSC Napoli,3-2,Bologna FC
+19^ Giornata,Sat Dec 29 2018,AC Milan,2-1,SPAL Ferrara
+20^ Giornata,Sat Jan 19 2019,AS Roma,3-2,Torino FC
+20^ Giornata,Sat Jan 19 2019,Udinese Calcio,1-2,Parma
+20^ Giornata,Sat Jan 19 2019,FC Internazionale Milano,0-0,US Sassuolo Calcio
+20^ Giornata,Sun Jan 20 2019,Frosinone,0-5,Atalanta Bergamo
+20^ Giornata,Sun Jan 20 2019,ACF Fiorentina,3-3,UC Sampdoria
+20^ Giornata,Sun Jan 20 2019,SPAL Ferrara,1-1,Bologna FC
+20^ Giornata,Sun Jan 20 2019,Cagliari Calcio,2-2,Empoli
+20^ Giornata,Sun Jan 20 2019,SSC Napoli,2-1,SS Lazio
+20^ Giornata,Mon Jan 21 2019,Genoa CFC,0-2,AC Milan
+20^ Giornata,Mon Jan 21 2019,Juventus,3-0,AC Chievo Verona
+21^ Giornata,Sat Jan 26 2019,US Sassuolo Calcio,3-0,Cagliari Calcio
+21^ Giornata,Sat Jan 26 2019,UC Sampdoria,4-0,Udinese Calcio
+21^ Giornata,Sat Jan 26 2019,AC Milan,0-0,SSC Napoli
+21^ Giornata,Sun Jan 27 2019,AC Chievo Verona,3-4,ACF Fiorentina
+21^ Giornata,Sun Jan 27 2019,Parma,2-3,SPAL Ferrara
+21^ Giornata,Sun Jan 27 2019,Atalanta Bergamo,3-3,AS Roma
+21^ Giornata,Sun Jan 27 2019,Bologna FC,0-4,Frosinone
+21^ Giornata,Sun Jan 27 2019,Torino FC,1-0,FC Internazionale Milano
+21^ Giornata,Sun Jan 27 2019,SS Lazio,1-2,Juventus
+21^ Giornata,Mon Jan 28 2019,Empoli,1-3,Genoa CFC
+22^ Giornata,Sat Feb 2 2019,Empoli,2-2,AC Chievo Verona
+22^ Giornata,Sat Feb 2 2019,SSC Napoli,3-0,UC Sampdoria
+22^ Giornata,Sat Feb 2 2019,Juventus,3-3,Parma
+22^ Giornata,Sun Feb 3 2019,SPAL Ferrara,0-0,Torino FC
+22^ Giornata,Sun Feb 3 2019,Udinese Calcio,1-1,ACF Fiorentina
+22^ Giornata,Sun Feb 3 2019,Genoa CFC,1-1,US Sassuolo Calcio
+22^ Giornata,Sun Feb 3 2019,FC Internazionale Milano,0-1,Bologna FC
+22^ Giornata,Sun Feb 3 2019,AS Roma,1-1,AC Milan
+22^ Giornata,Mon Feb 4 2019,Frosinone,0-1,SS Lazio
+22^ Giornata,Mon Feb 4 2019,Cagliari Calcio,0-1,Atalanta Bergamo
+23^ Giornata,Thu Feb 7 2019,SS Lazio,1-0,Empoli
+23^ Giornata,Fri Feb 8 2019,AC Chievo Verona,0-3,AS Roma
+23^ Giornata,Sat Feb 9 2019,ACF Fiorentina,0-0,SSC Napoli
+23^ Giornata,Sat Feb 9 2019,Parma,0-1,FC Internazionale Milano
+23^ Giornata,Sun Feb 10 2019,Bologna FC,1-1,Genoa CFC
+23^ Giornata,Sun Feb 10 2019,Torino FC,1-0,Udinese Calcio
+23^ Giornata,Sun Feb 10 2019,UC Sampdoria,0-1,Frosinone
+23^ Giornata,Sun Feb 10 2019,Atalanta Bergamo,2-1,SPAL Ferrara
+23^ Giornata,Sun Feb 10 2019,US Sassuolo Calcio,0-3,Juventus
+23^ Giornata,Sun Feb 10 2019,AC Milan,3-0,Cagliari Calcio
+24^ Giornata,Fri Feb 15 2019,Juventus,3-0,Frosinone
+24^ Giornata,Sat Feb 16 2019,Cagliari Calcio,2-1,Parma
+24^ Giornata,Sat Feb 16 2019,Atalanta Bergamo,1-3,AC Milan
+24^ Giornata,Sun Feb 17 2019,SPAL Ferrara,1-4,ACF Fiorentina
+24^ Giornata,Sun Feb 17 2019,Genoa CFC,2-1,SS Lazio
+24^ Giornata,Sun Feb 17 2019,Empoli,3-0,US Sassuolo Calcio
+24^ Giornata,Sun Feb 17 2019,Udinese Calcio,1-0,AC Chievo Verona
+24^ Giornata,Sun Feb 17 2019,FC Internazionale Milano,2-1,UC Sampdoria
+24^ Giornata,Sun Feb 17 2019,SSC Napoli,0-0,Torino FC
+24^ Giornata,Mon Feb 18 2019,AS Roma,2-1,Bologna FC
+25^ Giornata,Fri Feb 22 2019,AC Milan,3-0,Empoli
+25^ Giornata,Sat Feb 23 2019,Torino FC,2-0,Atalanta Bergamo
+25^ Giornata,Sat Feb 23 2019,Frosinone,2-3,AS Roma
+25^ Giornata,Sun Feb 24 2019,UC Sampdoria,1-0,Cagliari Calcio
+25^ Giornata,Sun Feb 24 2019,US Sassuolo Calcio,1-1,SPAL Ferrara
+25^ Giornata,Sun Feb 24 2019,AC Chievo Verona,0-0,Genoa CFC
+25^ Giornata,Sun Feb 24 2019,Bologna FC,0-1,Juventus
+25^ Giornata,Sun Feb 24 2019,Parma,0-4,SSC Napoli
+25^ Giornata,Sun Feb 24 2019,ACF Fiorentina,3-3,FC Internazionale Milano
+26^ Giornata,Fri Mar 1 2019,Cagliari Calcio,2-1,FC Internazionale Milano
+26^ Giornata,Sat Mar 2 2019,Empoli,3-3,Parma
+26^ Giornata,Sat Mar 2 2019,AC Milan,1-0,US Sassuolo Calcio
+26^ Giornata,Sat Mar 2 2019,SS Lazio,3-0,AS Roma
+26^ Giornata,Sun Mar 3 2019,Torino FC,3-0,AC Chievo Verona
+26^ Giornata,Sun Mar 3 2019,Udinese Calcio,2-1,Bologna FC
+26^ Giornata,Sun Mar 3 2019,Genoa CFC,0-0,Frosinone
+26^ Giornata,Sun Mar 3 2019,SPAL Ferrara,1-2,UC Sampdoria
+26^ Giornata,Sun Mar 3 2019,Atalanta Bergamo,3-1,ACF Fiorentina
+26^ Giornata,Sun Mar 3 2019,SSC Napoli,1-2,Juventus
+27^ Giornata,Fri Mar 8 2019,Juventus,4-1,Udinese Calcio
+27^ Giornata,Sat Mar 9 2019,Parma,1-0,Genoa CFC
+27^ Giornata,Sat Mar 9 2019,AC Chievo Verona,1-2,AC Milan
+27^ Giornata,Sun Mar 10 2019,Bologna FC,2-0,Cagliari Calcio
+27^ Giornata,Sun Mar 10 2019,UC Sampdoria,1-2,Atalanta Bergamo
+27^ Giornata,Sun Mar 10 2019,Frosinone,1-2,Torino FC
+27^ Giornata,Sun Mar 10 2019,FC Internazionale Milano,2-0,SPAL Ferrara
+27^ Giornata,Sun Mar 10 2019,US Sassuolo Calcio,1-1,SSC Napoli
+27^ Giornata,Sun Mar 10 2019,ACF Fiorentina,1-1,SS Lazio
+27^ Giornata,Mon Mar 11 2019,AS Roma,2-1,Empoli
+28^ Giornata,Fri Mar 15 2019,Cagliari Calcio,2-1,ACF Fiorentina
+28^ Giornata,Sat Mar 16 2019,US Sassuolo Calcio,3-5,UC Sampdoria
+28^ Giornata,Sat Mar 16 2019,SPAL Ferrara,2-1,AS Roma
+28^ Giornata,Sat Mar 16 2019,Torino FC,2-3,Bologna FC
+28^ Giornata,Sun Mar 17 2019,Genoa CFC,2-0,Juventus
+28^ Giornata,Sun Mar 17 2019,SS Lazio,4-1,Parma
+28^ Giornata,Sun Mar 17 2019,Empoli,2-1,Frosinone
+28^ Giornata,Sun Mar 17 2019,Atalanta Bergamo,1-1,AC Chievo Verona
+28^ Giornata,Sun Mar 17 2019,SSC Napoli,4-2,Udinese Calcio
+28^ Giornata,Sun Mar 17 2019,AC Milan,2-3,FC Internazionale Milano
+29^ Giornata,Fri Mar 29 2019,AC Chievo Verona,0-3,Cagliari Calcio
+29^ Giornata,Sat Mar 30 2019,Udinese Calcio,2-0,Genoa CFC
+29^ Giornata,Sat Mar 30 2019,Juventus,1-0,Empoli
+29^ Giornata,Sat Mar 30 2019,UC Sampdoria,1-0,AC Milan
+29^ Giornata,Sun Mar 31 2019,Parma,1-3,Atalanta Bergamo
+29^ Giornata,Sun Mar 31 2019,ACF Fiorentina,1-1,Torino FC
+29^ Giornata,Sun Mar 31 2019,AS Roma,1-4,SSC Napoli
+29^ Giornata,Sun Mar 31 2019,Frosinone,0-1,SPAL Ferrara
+29^ Giornata,Sun Mar 31 2019,Bologna FC,2-1,US Sassuolo Calcio
+29^ Giornata,Sun Mar 31 2019,FC Internazionale Milano,0-1,SS Lazio
+30^ Giornata,Tue Apr 2 2019,AC Milan,1-1,Udinese Calcio
+30^ Giornata,Tue Apr 2 2019,Cagliari Calcio,0-2,Juventus
+30^ Giornata,Wed Apr 3 2019,Empoli,2-1,SSC Napoli
+30^ Giornata,Wed Apr 3 2019,AS Roma,2-2,ACF Fiorentina
+30^ Giornata,Wed Apr 3 2019,Torino FC,2-1,UC Sampdoria
+30^ Giornata,Wed Apr 3 2019,SPAL Ferrara,1-0,SS Lazio
+30^ Giornata,Wed Apr 3 2019,Frosinone,3-2,Parma
+30^ Giornata,Wed Apr 3 2019,Genoa CFC,0-4,FC Internazionale Milano
+30^ Giornata,Thu Apr 4 2019,US Sassuolo Calcio,4-0,AC Chievo Verona
+30^ Giornata,Thu Apr 4 2019,Atalanta Bergamo,4-1,Bologna FC
+31^ Giornata,Sat Apr 6 2019,Parma,0-0,Torino FC
+31^ Giornata,Sat Apr 6 2019,Juventus,2-1,AC Milan
+31^ Giornata,Sat Apr 6 2019,UC Sampdoria,0-1,AS Roma
+31^ Giornata,Sun Apr 7 2019,ACF Fiorentina,0-1,Frosinone
+31^ Giornata,Sun Apr 7 2019,Udinese Calcio,3-2,Empoli
+31^ Giornata,Sun Apr 7 2019,Cagliari Calcio,2-1,SPAL Ferrara
+31^ Giornata,Sun Apr 7 2019,SS Lazio,2-2,US Sassuolo Calcio
+31^ Giornata,Sun Apr 7 2019,FC Internazionale Milano,0-0,Atalanta Bergamo
+31^ Giornata,Sun Apr 7 2019,SSC Napoli,1-1,Genoa CFC
+31^ Giornata,Mon Apr 8 2019,Bologna FC,3-0,AC Chievo Verona
+32^ Giornata,Sat Apr 13 2019,SPAL Ferrara,2-1,Juventus
+32^ Giornata,Sat Apr 13 2019,AS Roma,1-0,Udinese Calcio
+32^ Giornata,Sat Apr 13 2019,AC Milan,1-0,SS Lazio
+32^ Giornata,Sun Apr 14 2019,Torino FC,1-1,Cagliari Calcio
+32^ Giornata,Sun Apr 14 2019,UC Sampdoria,2-0,Genoa CFC
+32^ Giornata,Sun Apr 14 2019,ACF Fiorentina,0-0,Bologna FC
+32^ Giornata,Sun Apr 14 2019,US Sassuolo Calcio,0-0,Parma
+32^ Giornata,Sun Apr 14 2019,AC Chievo Verona,1-3,SSC Napoli
+32^ Giornata,Sun Apr 14 2019,Frosinone,1-3,FC Internazionale Milano
+32^ Giornata,Mon Apr 15 2019,Atalanta Bergamo,0-0,Empoli
+25^ Giornata,Wed Apr 17 2019,SS Lazio,2-0,Udinese Calcio
+33^ Giornata,Sat Apr 20 2019,Parma,1-1,AC Milan
+33^ Giornata,Sat Apr 20 2019,Cagliari Calcio,1-0,Frosinone
+33^ Giornata,Sat Apr 20 2019,Genoa CFC,0-1,Torino FC
+33^ Giornata,Sat Apr 20 2019,Empoli,2-4,SPAL Ferrara
+33^ Giornata,Sat Apr 20 2019,SS Lazio,1-2,AC Chievo Verona
+33^ Giornata,Sat Apr 20 2019,Bologna FC,3-0,UC Sampdoria
+33^ Giornata,Sat Apr 20 2019,Udinese Calcio,1-1,US Sassuolo Calcio
+33^ Giornata,Sat Apr 20 2019,Juventus,2-1,ACF Fiorentina
+33^ Giornata,Sat Apr 20 2019,FC Internazionale Milano,1-1,AS Roma
+33^ Giornata,Mon Apr 22 2019,SSC Napoli,1-2,Atalanta Bergamo
+34^ Giornata,Sat Apr 27 2019,Bologna FC,3-1,Empoli
+34^ Giornata,Sat Apr 27 2019,AS Roma,3-0,Cagliari Calcio
+34^ Giornata,Sat Apr 27 2019,FC Internazionale Milano,1-1,Juventus
+34^ Giornata,Sun Apr 28 2019,Frosinone,0-2,SSC Napoli
+34^ Giornata,Sun Apr 28 2019,SPAL Ferrara,1-1,Genoa CFC
+34^ Giornata,Sun Apr 28 2019,AC Chievo Verona,1-1,Parma
+34^ Giornata,Sun Apr 28 2019,UC Sampdoria,1-2,SS Lazio
+34^ Giornata,Sun Apr 28 2019,Torino FC,2-0,AC Milan
+34^ Giornata,Mon Apr 29 2019,Atalanta Bergamo,2-0,Udinese Calcio
+34^ Giornata,Mon Apr 29 2019,ACF Fiorentina,0-1,US Sassuolo Calcio
+35^ Giornata,Fri May 3 2019,Juventus,1-1,Torino FC
+35^ Giornata,Sat May 4 2019,AC Chievo Verona,0-4,SPAL Ferrara
+35^ Giornata,Sat May 4 2019,Udinese Calcio,0-0,FC Internazionale Milano
+35^ Giornata,Sun May 5 2019,Empoli,1-0,ACF Fiorentina
+35^ Giornata,Sun May 5 2019,Parma,3-3,UC Sampdoria
+35^ Giornata,Sun May 5 2019,SS Lazio,1-3,Atalanta Bergamo
+35^ Giornata,Sun May 5 2019,US Sassuolo Calcio,2-2,Frosinone
+35^ Giornata,Sun May 5 2019,Genoa CFC,1-1,AS Roma
+35^ Giornata,Sun May 5 2019,SSC Napoli,2-1,Cagliari Calcio
+35^ Giornata,Mon May 6 2019,AC Milan,2-1,Bologna FC
+36^ Giornata,Sat May 11 2019,Atalanta Bergamo,2-1,Genoa CFC
+36^ Giornata,Sat May 11 2019,Cagliari Calcio,1-2,SS Lazio
+36^ Giornata,Sat May 11 2019,ACF Fiorentina,0-1,AC Milan
+36^ Giornata,Sun May 12 2019,Torino FC,3-2,US Sassuolo Calcio
+36^ Giornata,Sun May 12 2019,UC Sampdoria,1-2,Empoli
+36^ Giornata,Sun May 12 2019,Frosinone,1-3,Udinese Calcio
+36^ Giornata,Sun May 12 2019,SPAL Ferrara,1-2,SSC Napoli
+36^ Giornata,Sun May 12 2019,AS Roma,2-0,Juventus
+36^ Giornata,Mon May 13 2019,Bologna FC,4-1,Parma
+36^ Giornata,Mon May 13 2019,FC Internazionale Milano,2-0,AC Chievo Verona
+37^ Giornata,Sat May 18 2019,Udinese Calcio,3-2,SPAL Ferrara
+37^ Giornata,Sat May 18 2019,Genoa CFC,1-1,Cagliari Calcio
+37^ Giornata,Sat May 18 2019,US Sassuolo Calcio,0-0,AS Roma
+37^ Giornata,Sun May 19 2019,AC Chievo Verona,0-0,UC Sampdoria
+37^ Giornata,Sun May 19 2019,Empoli,4-1,Torino FC
+37^ Giornata,Sun May 19 2019,Parma,1-0,ACF Fiorentina
+37^ Giornata,Sun May 19 2019,AC Milan,2-0,Frosinone
+37^ Giornata,Sun May 19 2019,SSC Napoli,4-1,FC Internazionale Milano
+37^ Giornata,Sun May 19 2019,Juventus,1-1,Atalanta Bergamo
+37^ Giornata,Mon May 20 2019,SS Lazio,3-3,Bologna FC
+38^ Giornata,Sat May 25 2019,Frosinone,0-0,AC Chievo Verona
+38^ Giornata,Sat May 25 2019,Bologna FC,3-2,SSC Napoli
+38^ Giornata,Sun May 26 2019,Torino FC,3-1,SS Lazio
+38^ Giornata,Sun May 26 2019,UC Sampdoria,2-0,Juventus
+38^ Giornata,Sun May 26 2019,ACF Fiorentina,0-0,Genoa CFC
+38^ Giornata,Sun May 26 2019,Atalanta Bergamo,3-1,US Sassuolo Calcio
+38^ Giornata,Sun May 26 2019,SPAL Ferrara,2-3,AC Milan
+38^ Giornata,Sun May 26 2019,AS Roma,2-1,Parma
+38^ Giornata,Sun May 26 2019,FC Internazionale Milano,2-1,Empoli
+38^ Giornata,Sun May 26 2019,Cagliari Calcio,1-2,Udinese Calcio

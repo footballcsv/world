@@ -1,0 +1,381 @@
+Round,Date,Team 1,FT,Team 2
+1^ Giornata,Sun Sep 20 2020,Benevento,,FC Internazionale Milano
+1^ Giornata,Sun Sep 20 2020,ACF Fiorentina,,Torino FC
+1^ Giornata,Sun Sep 20 2020,Genoa CFC,,FC Crotone
+1^ Giornata,Sun Sep 20 2020,Juventus,,UC Sampdoria
+1^ Giornata,Sun Sep 20 2020,SS Lazio,,Atalanta Bergamo
+1^ Giornata,Sun Sep 20 2020,AC Milan,,Bologna FC
+1^ Giornata,Sun Sep 20 2020,Parma,,SSC Napoli
+1^ Giornata,Sun Sep 20 2020,US Sassuolo Calcio,,Cagliari Calcio
+1^ Giornata,Sun Sep 20 2020,Udinese Calcio,,Spezia
+1^ Giornata,Sun Sep 20 2020,Hellas Verona,,AS Roma
+2^ Giornata,Sun Sep 27 2020,Bologna FC,,Parma
+2^ Giornata,Sun Sep 27 2020,Cagliari Calcio,,SS Lazio
+2^ Giornata,Sun Sep 27 2020,FC Crotone,,AC Milan
+2^ Giornata,Sun Sep 27 2020,FC Internazionale Milano,,ACF Fiorentina
+2^ Giornata,Sun Sep 27 2020,SSC Napoli,,Genoa CFC
+2^ Giornata,Sun Sep 27 2020,AS Roma,,Juventus
+2^ Giornata,Sun Sep 27 2020,UC Sampdoria,,Benevento
+2^ Giornata,Sun Sep 27 2020,Spezia,,US Sassuolo Calcio
+2^ Giornata,Sun Sep 27 2020,Torino FC,,Atalanta Bergamo
+2^ Giornata,Sun Sep 27 2020,Hellas Verona,,Udinese Calcio
+3^ Giornata,Sun Oct 4 2020,Atalanta Bergamo,,Cagliari Calcio
+3^ Giornata,Sun Oct 4 2020,Benevento,,Bologna FC
+3^ Giornata,Sun Oct 4 2020,ACF Fiorentina,,UC Sampdoria
+3^ Giornata,Sun Oct 4 2020,Genoa CFC,,Torino FC
+3^ Giornata,Sun Oct 4 2020,Juventus,,SSC Napoli
+3^ Giornata,Sun Oct 4 2020,SS Lazio,,FC Internazionale Milano
+3^ Giornata,Sun Oct 4 2020,AC Milan,,Spezia
+3^ Giornata,Sun Oct 4 2020,Parma,,Hellas Verona
+3^ Giornata,Sun Oct 4 2020,US Sassuolo Calcio,,FC Crotone
+3^ Giornata,Sun Oct 4 2020,Udinese Calcio,,AS Roma
+4^ Giornata,Sun Oct 18 2020,Bologna FC,,US Sassuolo Calcio
+4^ Giornata,Sun Oct 18 2020,FC Crotone,,Juventus
+4^ Giornata,Sun Oct 18 2020,FC Internazionale Milano,,AC Milan
+4^ Giornata,Sun Oct 18 2020,SSC Napoli,,Atalanta Bergamo
+4^ Giornata,Sun Oct 18 2020,AS Roma,,Benevento
+4^ Giornata,Sun Oct 18 2020,UC Sampdoria,,SS Lazio
+4^ Giornata,Sun Oct 18 2020,Spezia,,ACF Fiorentina
+4^ Giornata,Sun Oct 18 2020,Torino FC,,Cagliari Calcio
+4^ Giornata,Sun Oct 18 2020,Udinese Calcio,,Parma
+4^ Giornata,Sun Oct 18 2020,Hellas Verona,,Genoa CFC
+5^ Giornata,Sun Oct 25 2020,Atalanta Bergamo,,UC Sampdoria
+5^ Giornata,Sun Oct 25 2020,Benevento,,SSC Napoli
+5^ Giornata,Sun Oct 25 2020,Cagliari Calcio,,FC Crotone
+5^ Giornata,Sun Oct 25 2020,ACF Fiorentina,,Udinese Calcio
+5^ Giornata,Sun Oct 25 2020,Genoa CFC,,FC Internazionale Milano
+5^ Giornata,Sun Oct 25 2020,Juventus,,Hellas Verona
+5^ Giornata,Sun Oct 25 2020,SS Lazio,,Bologna FC
+5^ Giornata,Sun Oct 25 2020,AC Milan,,AS Roma
+5^ Giornata,Sun Oct 25 2020,Parma,,Spezia
+5^ Giornata,Sun Oct 25 2020,US Sassuolo Calcio,,Torino FC
+6^ Giornata,Sun Nov 1 2020,Bologna FC,,Cagliari Calcio
+6^ Giornata,Sun Nov 1 2020,FC Crotone,,Atalanta Bergamo
+6^ Giornata,Sun Nov 1 2020,FC Internazionale Milano,,Parma
+6^ Giornata,Sun Nov 1 2020,SSC Napoli,,US Sassuolo Calcio
+6^ Giornata,Sun Nov 1 2020,AS Roma,,ACF Fiorentina
+6^ Giornata,Sun Nov 1 2020,Spezia,,Juventus
+6^ Giornata,Sun Nov 1 2020,Torino FC,,SS Lazio
+6^ Giornata,Sun Nov 1 2020,Udinese Calcio,,AC Milan
+6^ Giornata,Sun Nov 1 2020,Hellas Verona,,Benevento
+6^ Giornata,Sun Nov 1 2020,UC Sampdoria,,Genoa CFC
+7^ Giornata,Sun Nov 8 2020,Atalanta Bergamo,,FC Internazionale Milano
+7^ Giornata,Sun Nov 8 2020,Benevento,,Spezia
+7^ Giornata,Sun Nov 8 2020,Bologna FC,,SSC Napoli
+7^ Giornata,Sun Nov 8 2020,Cagliari Calcio,,UC Sampdoria
+7^ Giornata,Sun Nov 8 2020,Genoa CFC,,AS Roma
+7^ Giornata,Sun Nov 8 2020,SS Lazio,,Juventus
+7^ Giornata,Sun Nov 8 2020,AC Milan,,Hellas Verona
+7^ Giornata,Sun Nov 8 2020,Parma,,ACF Fiorentina
+7^ Giornata,Sun Nov 8 2020,US Sassuolo Calcio,,Udinese Calcio
+7^ Giornata,Sun Nov 8 2020,Torino FC,,FC Crotone
+8^ Giornata,Sun Nov 22 2020,FC Crotone,,SS Lazio
+8^ Giornata,Sun Nov 22 2020,ACF Fiorentina,,Benevento
+8^ Giornata,Sun Nov 22 2020,FC Internazionale Milano,,Torino FC
+8^ Giornata,Sun Nov 22 2020,Juventus,,Cagliari Calcio
+8^ Giornata,Sun Nov 22 2020,SSC Napoli,,AC Milan
+8^ Giornata,Sun Nov 22 2020,AS Roma,,Parma
+8^ Giornata,Sun Nov 22 2020,UC Sampdoria,,Bologna FC
+8^ Giornata,Sun Nov 22 2020,Spezia,,Atalanta Bergamo
+8^ Giornata,Sun Nov 22 2020,Udinese Calcio,,Genoa CFC
+8^ Giornata,Sun Nov 22 2020,Hellas Verona,,US Sassuolo Calcio
+9^ Giornata,Sun Nov 29 2020,Atalanta Bergamo,,Hellas Verona
+9^ Giornata,Sun Nov 29 2020,Benevento,,Juventus
+9^ Giornata,Sun Nov 29 2020,Bologna FC,,FC Crotone
+9^ Giornata,Sun Nov 29 2020,Cagliari Calcio,,Spezia
+9^ Giornata,Sun Nov 29 2020,Genoa CFC,,Parma
+9^ Giornata,Sun Nov 29 2020,SS Lazio,,Udinese Calcio
+9^ Giornata,Sun Nov 29 2020,AC Milan,,ACF Fiorentina
+9^ Giornata,Sun Nov 29 2020,SSC Napoli,,AS Roma
+9^ Giornata,Sun Nov 29 2020,US Sassuolo Calcio,,FC Internazionale Milano
+9^ Giornata,Sun Nov 29 2020,Torino FC,,UC Sampdoria
+10^ Giornata,Sun Dec 6 2020,FC Crotone,,SSC Napoli
+10^ Giornata,Sun Dec 6 2020,ACF Fiorentina,,Genoa CFC
+10^ Giornata,Sun Dec 6 2020,FC Internazionale Milano,,Bologna FC
+10^ Giornata,Sun Dec 6 2020,Juventus,,Torino FC
+10^ Giornata,Sun Dec 6 2020,Parma,,Benevento
+10^ Giornata,Sun Dec 6 2020,AS Roma,,US Sassuolo Calcio
+10^ Giornata,Sun Dec 6 2020,UC Sampdoria,,AC Milan
+10^ Giornata,Sun Dec 6 2020,Spezia,,SS Lazio
+10^ Giornata,Sun Dec 6 2020,Udinese Calcio,,Atalanta Bergamo
+10^ Giornata,Sun Dec 6 2020,Hellas Verona,,Cagliari Calcio
+11^ Giornata,Sun Dec 13 2020,Atalanta Bergamo,,ACF Fiorentina
+11^ Giornata,Sun Dec 13 2020,Bologna FC,,AS Roma
+11^ Giornata,Sun Dec 13 2020,Cagliari Calcio,,FC Internazionale Milano
+11^ Giornata,Sun Dec 13 2020,FC Crotone,,Spezia
+11^ Giornata,Sun Dec 13 2020,Genoa CFC,,Juventus
+11^ Giornata,Sun Dec 13 2020,SS Lazio,,Hellas Verona
+11^ Giornata,Sun Dec 13 2020,AC Milan,,Parma
+11^ Giornata,Sun Dec 13 2020,SSC Napoli,,UC Sampdoria
+11^ Giornata,Sun Dec 13 2020,US Sassuolo Calcio,,Benevento
+11^ Giornata,Sun Dec 13 2020,Torino FC,,Udinese Calcio
+12^ Giornata,Wed Dec 16 2020,Benevento,,SS Lazio
+12^ Giornata,Wed Dec 16 2020,ACF Fiorentina,,US Sassuolo Calcio
+12^ Giornata,Wed Dec 16 2020,Genoa CFC,,AC Milan
+12^ Giornata,Wed Dec 16 2020,FC Internazionale Milano,,SSC Napoli
+12^ Giornata,Wed Dec 16 2020,Juventus,,Atalanta Bergamo
+12^ Giornata,Wed Dec 16 2020,Parma,,Cagliari Calcio
+12^ Giornata,Wed Dec 16 2020,AS Roma,,Torino FC
+12^ Giornata,Wed Dec 16 2020,Spezia,,Bologna FC
+12^ Giornata,Wed Dec 16 2020,Udinese Calcio,,FC Crotone
+12^ Giornata,Wed Dec 16 2020,Hellas Verona,,UC Sampdoria
+13^ Giornata,Sun Dec 20 2020,Atalanta Bergamo,,AS Roma
+13^ Giornata,Sun Dec 20 2020,Benevento,,Genoa CFC
+13^ Giornata,Sun Dec 20 2020,Cagliari Calcio,,Udinese Calcio
+13^ Giornata,Sun Dec 20 2020,ACF Fiorentina,,Hellas Verona
+13^ Giornata,Sun Dec 20 2020,FC Internazionale Milano,,Spezia
+13^ Giornata,Sun Dec 20 2020,SS Lazio,,SSC Napoli
+13^ Giornata,Sun Dec 20 2020,Parma,,Juventus
+13^ Giornata,Sun Dec 20 2020,UC Sampdoria,,FC Crotone
+13^ Giornata,Sun Dec 20 2020,US Sassuolo Calcio,,AC Milan
+13^ Giornata,Sun Dec 20 2020,Torino FC,,Bologna FC
+14^ Giornata,Wed Dec 23 2020,Bologna FC,,Atalanta Bergamo
+14^ Giornata,Wed Dec 23 2020,FC Crotone,,Parma
+14^ Giornata,Wed Dec 23 2020,Juventus,,ACF Fiorentina
+14^ Giornata,Wed Dec 23 2020,AC Milan,,SS Lazio
+14^ Giornata,Wed Dec 23 2020,SSC Napoli,,Torino FC
+14^ Giornata,Wed Dec 23 2020,AS Roma,,Cagliari Calcio
+14^ Giornata,Wed Dec 23 2020,UC Sampdoria,,US Sassuolo Calcio
+14^ Giornata,Wed Dec 23 2020,Spezia,,Genoa CFC
+14^ Giornata,Wed Dec 23 2020,Udinese Calcio,,Benevento
+14^ Giornata,Wed Dec 23 2020,Hellas Verona,,FC Internazionale Milano
+15^ Giornata,Sun Jan 3 2021,Atalanta Bergamo,,US Sassuolo Calcio
+15^ Giornata,Sun Jan 3 2021,Benevento,,AC Milan
+15^ Giornata,Sun Jan 3 2021,Cagliari Calcio,,SSC Napoli
+15^ Giornata,Sun Jan 3 2021,ACF Fiorentina,,Bologna FC
+15^ Giornata,Sun Jan 3 2021,Genoa CFC,,SS Lazio
+15^ Giornata,Sun Jan 3 2021,FC Internazionale Milano,,FC Crotone
+15^ Giornata,Sun Jan 3 2021,Juventus,,Udinese Calcio
+15^ Giornata,Sun Jan 3 2021,Parma,,Torino FC
+15^ Giornata,Sun Jan 3 2021,AS Roma,,UC Sampdoria
+15^ Giornata,Sun Jan 3 2021,Spezia,,Hellas Verona
+16^ Giornata,Wed Jan 6 2021,Atalanta Bergamo,,Parma
+16^ Giornata,Wed Jan 6 2021,Bologna FC,,Udinese Calcio
+16^ Giornata,Wed Jan 6 2021,Cagliari Calcio,,Benevento
+16^ Giornata,Wed Jan 6 2021,FC Crotone,,AS Roma
+16^ Giornata,Wed Jan 6 2021,SS Lazio,,ACF Fiorentina
+16^ Giornata,Wed Jan 6 2021,AC Milan,,Juventus
+16^ Giornata,Wed Jan 6 2021,SSC Napoli,,Spezia
+16^ Giornata,Wed Jan 6 2021,UC Sampdoria,,FC Internazionale Milano
+16^ Giornata,Wed Jan 6 2021,US Sassuolo Calcio,,Genoa CFC
+16^ Giornata,Wed Jan 6 2021,Torino FC,,Hellas Verona
+17^ Giornata,Sun Jan 10 2021,Benevento,,Atalanta Bergamo
+17^ Giornata,Sun Jan 10 2021,ACF Fiorentina,,Cagliari Calcio
+17^ Giornata,Sun Jan 10 2021,Genoa CFC,,Bologna FC
+17^ Giornata,Sun Jan 10 2021,Juventus,,US Sassuolo Calcio
+17^ Giornata,Sun Jan 10 2021,AC Milan,,Torino FC
+17^ Giornata,Sun Jan 10 2021,Parma,,SS Lazio
+17^ Giornata,Sun Jan 10 2021,AS Roma,,FC Internazionale Milano
+17^ Giornata,Sun Jan 10 2021,Spezia,,UC Sampdoria
+17^ Giornata,Sun Jan 10 2021,Udinese Calcio,,SSC Napoli
+17^ Giornata,Sun Jan 10 2021,Hellas Verona,,FC Crotone
+18^ Giornata,Sun Jan 17 2021,Atalanta Bergamo,,Genoa CFC
+18^ Giornata,Sun Jan 17 2021,Bologna FC,,Hellas Verona
+18^ Giornata,Sun Jan 17 2021,Cagliari Calcio,,AC Milan
+18^ Giornata,Sun Jan 17 2021,FC Crotone,,Benevento
+18^ Giornata,Sun Jan 17 2021,FC Internazionale Milano,,Juventus
+18^ Giornata,Sun Jan 17 2021,SS Lazio,,AS Roma
+18^ Giornata,Sun Jan 17 2021,SSC Napoli,,ACF Fiorentina
+18^ Giornata,Sun Jan 17 2021,UC Sampdoria,,Udinese Calcio
+18^ Giornata,Sun Jan 17 2021,US Sassuolo Calcio,,Parma
+18^ Giornata,Sun Jan 17 2021,Torino FC,,Spezia
+19^ Giornata,Sun Jan 24 2021,Benevento,,Torino FC
+19^ Giornata,Sun Jan 24 2021,ACF Fiorentina,,FC Crotone
+19^ Giornata,Sun Jan 24 2021,Genoa CFC,,Cagliari Calcio
+19^ Giornata,Sun Jan 24 2021,Juventus,,Bologna FC
+19^ Giornata,Sun Jan 24 2021,SS Lazio,,US Sassuolo Calcio
+19^ Giornata,Sun Jan 24 2021,AC Milan,,Atalanta Bergamo
+19^ Giornata,Sun Jan 24 2021,Parma,,UC Sampdoria
+19^ Giornata,Sun Jan 24 2021,AS Roma,,Spezia
+19^ Giornata,Sun Jan 24 2021,Udinese Calcio,,FC Internazionale Milano
+19^ Giornata,Sun Jan 24 2021,Hellas Verona,,SSC Napoli
+20^ Giornata,Sun Jan 31 2021,FC Internazionale Milano,,Benevento
+20^ Giornata,Sun Jan 31 2021,Torino FC,,ACF Fiorentina
+20^ Giornata,Sun Jan 31 2021,FC Crotone,,Genoa CFC
+20^ Giornata,Sun Jan 31 2021,UC Sampdoria,,Juventus
+20^ Giornata,Sun Jan 31 2021,Atalanta Bergamo,,SS Lazio
+20^ Giornata,Sun Jan 31 2021,Bologna FC,,AC Milan
+20^ Giornata,Sun Jan 31 2021,SSC Napoli,,Parma
+20^ Giornata,Sun Jan 31 2021,Cagliari Calcio,,US Sassuolo Calcio
+20^ Giornata,Sun Jan 31 2021,Spezia,,Udinese Calcio
+20^ Giornata,Sun Jan 31 2021,AS Roma,,Hellas Verona
+21^ Giornata,Sun Feb 7 2021,Parma,,Bologna FC
+21^ Giornata,Sun Feb 7 2021,SS Lazio,,Cagliari Calcio
+21^ Giornata,Sun Feb 7 2021,AC Milan,,FC Crotone
+21^ Giornata,Sun Feb 7 2021,ACF Fiorentina,,FC Internazionale Milano
+21^ Giornata,Sun Feb 7 2021,Genoa CFC,,SSC Napoli
+21^ Giornata,Sun Feb 7 2021,Juventus,,AS Roma
+21^ Giornata,Sun Feb 7 2021,Benevento,,UC Sampdoria
+21^ Giornata,Sun Feb 7 2021,US Sassuolo Calcio,,Spezia
+21^ Giornata,Sun Feb 7 2021,Atalanta Bergamo,,Torino FC
+21^ Giornata,Sun Feb 7 2021,Udinese Calcio,,Hellas Verona
+22^ Giornata,Sun Feb 14 2021,Cagliari Calcio,,Atalanta Bergamo
+22^ Giornata,Sun Feb 14 2021,Bologna FC,,Benevento
+22^ Giornata,Sun Feb 14 2021,UC Sampdoria,,ACF Fiorentina
+22^ Giornata,Sun Feb 14 2021,Torino FC,,Genoa CFC
+22^ Giornata,Sun Feb 14 2021,SSC Napoli,,Juventus
+22^ Giornata,Sun Feb 14 2021,FC Internazionale Milano,,SS Lazio
+22^ Giornata,Sun Feb 14 2021,Spezia,,AC Milan
+22^ Giornata,Sun Feb 14 2021,Hellas Verona,,Parma
+22^ Giornata,Sun Feb 14 2021,FC Crotone,,US Sassuolo Calcio
+22^ Giornata,Sun Feb 14 2021,AS Roma,,Udinese Calcio
+23^ Giornata,Sun Feb 21 2021,US Sassuolo Calcio,,Bologna FC
+23^ Giornata,Sun Feb 21 2021,Juventus,,FC Crotone
+23^ Giornata,Sun Feb 21 2021,AC Milan,,FC Internazionale Milano
+23^ Giornata,Sun Feb 21 2021,Atalanta Bergamo,,SSC Napoli
+23^ Giornata,Sun Feb 21 2021,Benevento,,AS Roma
+23^ Giornata,Sun Feb 21 2021,SS Lazio,,UC Sampdoria
+23^ Giornata,Sun Feb 21 2021,ACF Fiorentina,,Spezia
+23^ Giornata,Sun Feb 21 2021,Cagliari Calcio,,Torino FC
+23^ Giornata,Sun Feb 21 2021,Parma,,Udinese Calcio
+23^ Giornata,Sun Feb 21 2021,Genoa CFC,,Hellas Verona
+24^ Giornata,Sun Feb 28 2021,UC Sampdoria,,Atalanta Bergamo
+24^ Giornata,Sun Feb 28 2021,SSC Napoli,,Benevento
+24^ Giornata,Sun Feb 28 2021,FC Crotone,,Cagliari Calcio
+24^ Giornata,Sun Feb 28 2021,Udinese Calcio,,ACF Fiorentina
+24^ Giornata,Sun Feb 28 2021,FC Internazionale Milano,,Genoa CFC
+24^ Giornata,Sun Feb 28 2021,Hellas Verona,,Juventus
+24^ Giornata,Sun Feb 28 2021,Bologna FC,,SS Lazio
+24^ Giornata,Sun Feb 28 2021,AS Roma,,AC Milan
+24^ Giornata,Sun Feb 28 2021,Spezia,,Parma
+24^ Giornata,Sun Feb 28 2021,Torino FC,,US Sassuolo Calcio
+25^ Giornata,Wed Mar 3 2021,Cagliari Calcio,,Bologna FC
+25^ Giornata,Wed Mar 3 2021,Atalanta Bergamo,,FC Crotone
+25^ Giornata,Wed Mar 3 2021,Parma,,FC Internazionale Milano
+25^ Giornata,Wed Mar 3 2021,US Sassuolo Calcio,,SSC Napoli
+25^ Giornata,Wed Mar 3 2021,ACF Fiorentina,,AS Roma
+25^ Giornata,Wed Mar 3 2021,Juventus,,Spezia
+25^ Giornata,Wed Mar 3 2021,SS Lazio,,Torino FC
+25^ Giornata,Wed Mar 3 2021,AC Milan,,Udinese Calcio
+25^ Giornata,Wed Mar 3 2021,Benevento,,Hellas Verona
+25^ Giornata,Wed Mar 3 2021,Genoa CFC,,UC Sampdoria
+26^ Giornata,Sun Mar 7 2021,FC Internazionale Milano,,Atalanta Bergamo
+26^ Giornata,Sun Mar 7 2021,Spezia,,Benevento
+26^ Giornata,Sun Mar 7 2021,SSC Napoli,,Bologna FC
+26^ Giornata,Sun Mar 7 2021,UC Sampdoria,,Cagliari Calcio
+26^ Giornata,Sun Mar 7 2021,AS Roma,,Genoa CFC
+26^ Giornata,Sun Mar 7 2021,Juventus,,SS Lazio
+26^ Giornata,Sun Mar 7 2021,Hellas Verona,,AC Milan
+26^ Giornata,Sun Mar 7 2021,ACF Fiorentina,,Parma
+26^ Giornata,Sun Mar 7 2021,Udinese Calcio,,US Sassuolo Calcio
+26^ Giornata,Sun Mar 7 2021,FC Crotone,,Torino FC
+27^ Giornata,Sun Mar 14 2021,SS Lazio,,FC Crotone
+27^ Giornata,Sun Mar 14 2021,Benevento,,ACF Fiorentina
+27^ Giornata,Sun Mar 14 2021,Torino FC,,FC Internazionale Milano
+27^ Giornata,Sun Mar 14 2021,Cagliari Calcio,,Juventus
+27^ Giornata,Sun Mar 14 2021,AC Milan,,SSC Napoli
+27^ Giornata,Sun Mar 14 2021,Parma,,AS Roma
+27^ Giornata,Sun Mar 14 2021,Bologna FC,,UC Sampdoria
+27^ Giornata,Sun Mar 14 2021,Atalanta Bergamo,,Spezia
+27^ Giornata,Sun Mar 14 2021,Genoa CFC,,Udinese Calcio
+27^ Giornata,Sun Mar 14 2021,US Sassuolo Calcio,,Hellas Verona
+28^ Giornata,Sun Mar 21 2021,Hellas Verona,,Atalanta Bergamo
+28^ Giornata,Sun Mar 21 2021,Juventus,,Benevento
+28^ Giornata,Sun Mar 21 2021,FC Crotone,,Bologna FC
+28^ Giornata,Sun Mar 21 2021,Spezia,,Cagliari Calcio
+28^ Giornata,Sun Mar 21 2021,Parma,,Genoa CFC
+28^ Giornata,Sun Mar 21 2021,Udinese Calcio,,SS Lazio
+28^ Giornata,Sun Mar 21 2021,ACF Fiorentina,,AC Milan
+28^ Giornata,Sun Mar 21 2021,AS Roma,,SSC Napoli
+28^ Giornata,Sun Mar 21 2021,FC Internazionale Milano,,US Sassuolo Calcio
+28^ Giornata,Sun Mar 21 2021,UC Sampdoria,,Torino FC
+29^ Giornata,Sat Apr 3 2021,SSC Napoli,,FC Crotone
+29^ Giornata,Sat Apr 3 2021,Genoa CFC,,ACF Fiorentina
+29^ Giornata,Sat Apr 3 2021,Bologna FC,,FC Internazionale Milano
+29^ Giornata,Sat Apr 3 2021,Torino FC,,Juventus
+29^ Giornata,Sat Apr 3 2021,Benevento,,Parma
+29^ Giornata,Sat Apr 3 2021,US Sassuolo Calcio,,AS Roma
+29^ Giornata,Sat Apr 3 2021,AC Milan,,UC Sampdoria
+29^ Giornata,Sat Apr 3 2021,SS Lazio,,Spezia
+29^ Giornata,Sat Apr 3 2021,Atalanta Bergamo,,Udinese Calcio
+29^ Giornata,Sat Apr 3 2021,Cagliari Calcio,,Hellas Verona
+30^ Giornata,Sun Apr 11 2021,ACF Fiorentina,,Atalanta Bergamo
+30^ Giornata,Sun Apr 11 2021,AS Roma,,Bologna FC
+30^ Giornata,Sun Apr 11 2021,FC Internazionale Milano,,Cagliari Calcio
+30^ Giornata,Sun Apr 11 2021,Spezia,,FC Crotone
+30^ Giornata,Sun Apr 11 2021,Juventus,,Genoa CFC
+30^ Giornata,Sun Apr 11 2021,Hellas Verona,,SS Lazio
+30^ Giornata,Sun Apr 11 2021,Parma,,AC Milan
+30^ Giornata,Sun Apr 11 2021,UC Sampdoria,,SSC Napoli
+30^ Giornata,Sun Apr 11 2021,Benevento,,US Sassuolo Calcio
+30^ Giornata,Sun Apr 11 2021,Udinese Calcio,,Torino FC
+31^ Giornata,Sun Apr 18 2021,SS Lazio,,Benevento
+31^ Giornata,Sun Apr 18 2021,US Sassuolo Calcio,,ACF Fiorentina
+31^ Giornata,Sun Apr 18 2021,AC Milan,,Genoa CFC
+31^ Giornata,Sun Apr 18 2021,SSC Napoli,,FC Internazionale Milano
+31^ Giornata,Sun Apr 18 2021,Atalanta Bergamo,,Juventus
+31^ Giornata,Sun Apr 18 2021,Cagliari Calcio,,Parma
+31^ Giornata,Sun Apr 18 2021,Torino FC,,AS Roma
+31^ Giornata,Sun Apr 18 2021,Bologna FC,,Spezia
+31^ Giornata,Sun Apr 18 2021,FC Crotone,,Udinese Calcio
+31^ Giornata,Sun Apr 18 2021,UC Sampdoria,,Hellas Verona
+32^ Giornata,Wed Apr 21 2021,AS Roma,,Atalanta Bergamo
+32^ Giornata,Wed Apr 21 2021,Genoa CFC,,Benevento
+32^ Giornata,Wed Apr 21 2021,Udinese Calcio,,Cagliari Calcio
+32^ Giornata,Wed Apr 21 2021,Hellas Verona,,ACF Fiorentina
+32^ Giornata,Wed Apr 21 2021,Spezia,,FC Internazionale Milano
+32^ Giornata,Wed Apr 21 2021,SSC Napoli,,SS Lazio
+32^ Giornata,Wed Apr 21 2021,Juventus,,Parma
+32^ Giornata,Wed Apr 21 2021,FC Crotone,,UC Sampdoria
+32^ Giornata,Wed Apr 21 2021,AC Milan,,US Sassuolo Calcio
+32^ Giornata,Wed Apr 21 2021,Bologna FC,,Torino FC
+33^ Giornata,Sun Apr 25 2021,Atalanta Bergamo,,Bologna FC
+33^ Giornata,Sun Apr 25 2021,Parma,,FC Crotone
+33^ Giornata,Sun Apr 25 2021,ACF Fiorentina,,Juventus
+33^ Giornata,Sun Apr 25 2021,SS Lazio,,AC Milan
+33^ Giornata,Sun Apr 25 2021,Torino FC,,SSC Napoli
+33^ Giornata,Sun Apr 25 2021,Cagliari Calcio,,AS Roma
+33^ Giornata,Sun Apr 25 2021,US Sassuolo Calcio,,UC Sampdoria
+33^ Giornata,Sun Apr 25 2021,Genoa CFC,,Spezia
+33^ Giornata,Sun Apr 25 2021,Benevento,,Udinese Calcio
+33^ Giornata,Sun Apr 25 2021,FC Internazionale Milano,,Hellas Verona
+34^ Giornata,Sun May 2 2021,US Sassuolo Calcio,,Atalanta Bergamo
+34^ Giornata,Sun May 2 2021,AC Milan,,Benevento
+34^ Giornata,Sun May 2 2021,SSC Napoli,,Cagliari Calcio
+34^ Giornata,Sun May 2 2021,Bologna FC,,ACF Fiorentina
+34^ Giornata,Sun May 2 2021,SS Lazio,,Genoa CFC
+34^ Giornata,Sun May 2 2021,FC Crotone,,FC Internazionale Milano
+34^ Giornata,Sun May 2 2021,Udinese Calcio,,Juventus
+34^ Giornata,Sun May 2 2021,Torino FC,,Parma
+34^ Giornata,Sun May 2 2021,UC Sampdoria,,AS Roma
+34^ Giornata,Sun May 2 2021,Hellas Verona,,Spezia
+35^ Giornata,Sun May 9 2021,Parma,,Atalanta Bergamo
+35^ Giornata,Sun May 9 2021,Udinese Calcio,,Bologna FC
+35^ Giornata,Sun May 9 2021,Benevento,,Cagliari Calcio
+35^ Giornata,Sun May 9 2021,AS Roma,,FC Crotone
+35^ Giornata,Sun May 9 2021,ACF Fiorentina,,SS Lazio
+35^ Giornata,Sun May 9 2021,Juventus,,AC Milan
+35^ Giornata,Sun May 9 2021,Spezia,,SSC Napoli
+35^ Giornata,Sun May 9 2021,FC Internazionale Milano,,UC Sampdoria
+35^ Giornata,Sun May 9 2021,Genoa CFC,,US Sassuolo Calcio
+35^ Giornata,Sun May 9 2021,Hellas Verona,,Torino FC
+36^ Giornata,Wed May 12 2021,Atalanta Bergamo,,Benevento
+36^ Giornata,Wed May 12 2021,Cagliari Calcio,,ACF Fiorentina
+36^ Giornata,Wed May 12 2021,Bologna FC,,Genoa CFC
+36^ Giornata,Wed May 12 2021,US Sassuolo Calcio,,Juventus
+36^ Giornata,Wed May 12 2021,Torino FC,,AC Milan
+36^ Giornata,Wed May 12 2021,SS Lazio,,Parma
+36^ Giornata,Wed May 12 2021,FC Internazionale Milano,,AS Roma
+36^ Giornata,Wed May 12 2021,UC Sampdoria,,Spezia
+36^ Giornata,Wed May 12 2021,SSC Napoli,,Udinese Calcio
+36^ Giornata,Wed May 12 2021,FC Crotone,,Hellas Verona
+37^ Giornata,Sun May 16 2021,Genoa CFC,,Atalanta Bergamo
+37^ Giornata,Sun May 16 2021,Hellas Verona,,Bologna FC
+37^ Giornata,Sun May 16 2021,AC Milan,,Cagliari Calcio
+37^ Giornata,Sun May 16 2021,Benevento,,FC Crotone
+37^ Giornata,Sun May 16 2021,Juventus,,FC Internazionale Milano
+37^ Giornata,Sun May 16 2021,AS Roma,,SS Lazio
+37^ Giornata,Sun May 16 2021,ACF Fiorentina,,SSC Napoli
+37^ Giornata,Sun May 16 2021,Udinese Calcio,,UC Sampdoria
+37^ Giornata,Sun May 16 2021,Parma,,US Sassuolo Calcio
+37^ Giornata,Sun May 16 2021,Spezia,,Torino FC
+38^ Giornata,Sun May 23 2021,Torino FC,,Benevento
+38^ Giornata,Sun May 23 2021,FC Crotone,,ACF Fiorentina
+38^ Giornata,Sun May 23 2021,Cagliari Calcio,,Genoa CFC
+38^ Giornata,Sun May 23 2021,Bologna FC,,Juventus
+38^ Giornata,Sun May 23 2021,US Sassuolo Calcio,,SS Lazio
+38^ Giornata,Sun May 23 2021,Atalanta Bergamo,,AC Milan
+38^ Giornata,Sun May 23 2021,UC Sampdoria,,Parma
+38^ Giornata,Sun May 23 2021,Spezia,,AS Roma
+38^ Giornata,Sun May 23 2021,FC Internazionale Milano,,Udinese Calcio
+38^ Giornata,Sun May 23 2021,SSC Napoli,,Hellas Verona

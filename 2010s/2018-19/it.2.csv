@@ -1,0 +1,343 @@
+Round,Date,Team 1,FT,Team 2
+1^ Giornata,Fri Aug 24 2018,Brescia Calcio,1-1,AC Perugia
+1^ Giornata,Sat Aug 25 2018,US Cremonese,1-1,Pescara
+1^ Giornata,Sat Aug 25 2018,Salernitana,0-0,Palermo
+1^ Giornata,Sat Aug 25 2018,Venezia,1-0,Spezia
+1^ Giornata,Sun Aug 26 2018,Hellas Verona,1-1,Calcio Padova
+1^ Giornata,Sun Aug 26 2018,Ascoli,1-1,Cosenza Calcio
+1^ Giornata,Sun Aug 26 2018,Calcio Foggia 1920,4-2,Carpi
+1^ Giornata,Sun Aug 26 2018,Cittadella,3-0,FC Crotone
+1^ Giornata,Mon Aug 27 2018,Benevento,3-3,US Lecce
+2^ Giornata,Fri Aug 31 2018,Palermo,2-2,US Cremonese
+2^ Giornata,Sat Sep 1 2018,Carpi,0-1,Cittadella
+2^ Giornata,Sat Sep 1 2018,Spezia,3-2,Brescia Calcio
+2^ Giornata,Sat Sep 1 2018,Calcio Padova,1-0,Venezia
+2^ Giornata,Sat Sep 1 2018,Cosenza Calcio,,Hellas Verona
+2^ Giornata,Sun Sep 2 2018,Pescara,2-1,AS Livorno Calcio
+2^ Giornata,Sun Sep 2 2018,FC Crotone,4-1,Calcio Foggia 1920
+2^ Giornata,Sun Sep 2 2018,US Lecce,2-2,Salernitana
+2^ Giornata,Sun Sep 2 2018,AC Perugia,2-0,Ascoli
+3^ Giornata,Fri Sep 14 2018,Venezia,2-3,Benevento
+3^ Giornata,Sat Sep 15 2018,Ascoli,1-0,US Lecce
+3^ Giornata,Sat Sep 15 2018,Brescia Calcio,1-1,Pescara
+3^ Giornata,Sat Sep 15 2018,Cittadella,2-0,Cosenza Calcio
+3^ Giornata,Sat Sep 15 2018,US Cremonese,2-0,Spezia
+3^ Giornata,Sun Sep 16 2018,Salernitana,3-0,Calcio Padova
+3^ Giornata,Sun Sep 16 2018,Hellas Verona,4-1,Carpi
+3^ Giornata,Sun Sep 16 2018,Calcio Foggia 1920,1-2,Palermo
+3^ Giornata,Mon Sep 17 2018,AS Livorno Calcio,0-1,FC Crotone
+4^ Giornata,Fri Sep 21 2018,Benevento,4-0,Salernitana
+4^ Giornata,Sat Sep 22 2018,Carpi,1-1,Brescia Calcio
+4^ Giornata,Sat Sep 22 2018,FC Crotone,1-2,Hellas Verona
+4^ Giornata,Sat Sep 22 2018,US Lecce,2-1,Venezia
+4^ Giornata,Sat Sep 22 2018,Palermo,4-1,AC Perugia
+4^ Giornata,Sat Sep 22 2018,Pescara,1-0,Calcio Foggia 1920
+4^ Giornata,Sat Sep 22 2018,Cosenza Calcio,1-1,AS Livorno Calcio
+4^ Giornata,Sat Sep 22 2018,Spezia,1-0,Cittadella
+4^ Giornata,Sun Sep 23 2018,Calcio Padova,1-1,US Cremonese
+5^ Giornata,Tue Sep 25 2018,Brescia Calcio,2-1,Palermo
+5^ Giornata,Tue Sep 25 2018,Cittadella,0-1,Benevento
+5^ Giornata,Tue Sep 25 2018,AS Livorno Calcio,0-3,US Lecce
+5^ Giornata,Tue Sep 25 2018,Hellas Verona,2-1,Spezia
+5^ Giornata,Tue Sep 25 2018,Pescara,2-1,FC Crotone
+5^ Giornata,Tue Sep 25 2018,Salernitana,1-1,Ascoli
+5^ Giornata,Tue Sep 25 2018,AC Perugia,0-1,Carpi
+5^ Giornata,Wed Sep 26 2018,Calcio Foggia 1920,2-1,Calcio Padova
+5^ Giornata,Wed Sep 26 2018,US Cremonese,2-0,Cosenza Calcio
+6^ Giornata,Fri Sep 28 2018,FC Crotone,2-2,Brescia Calcio
+6^ Giornata,Sat Sep 29 2018,US Lecce,1-1,Cittadella
+6^ Giornata,Sat Sep 29 2018,Salernitana,1-0,Hellas Verona
+6^ Giornata,Sat Sep 29 2018,Venezia,1-1,AS Livorno Calcio
+6^ Giornata,Sat Sep 29 2018,Spezia,2-1,Carpi
+6^ Giornata,Sun Sep 30 2018,Ascoli,0-0,US Cremonese
+6^ Giornata,Sun Sep 30 2018,Cosenza Calcio,1-1,AC Perugia
+6^ Giornata,Sun Sep 30 2018,Benevento,1-3,Calcio Foggia 1920
+6^ Giornata,Tue Oct 2 2018,Calcio Padova,2-2,Pescara
+7^ Giornata,Fri Oct 5 2018,Hellas Verona,0-2,US Lecce
+7^ Giornata,Sat Oct 6 2018,AC Perugia,1-0,Venezia
+7^ Giornata,Sat Oct 6 2018,Carpi,1-1,Cosenza Calcio
+7^ Giornata,Sat Oct 6 2018,Calcio Foggia 1920,3-2,Ascoli
+7^ Giornata,Sat Oct 6 2018,Pescara,2-1,Benevento
+7^ Giornata,Sat Oct 6 2018,US Cremonese,0-0,Salernitana
+7^ Giornata,Sun Oct 7 2018,Brescia Calcio,4-1,Calcio Padova
+7^ Giornata,Sun Oct 7 2018,AS Livorno Calcio,1-3,Spezia
+7^ Giornata,Sun Oct 7 2018,Palermo,1-0,FC Crotone
+8^ Giornata,Fri Oct 19 2018,Spezia,1-3,Pescara
+8^ Giornata,Sat Oct 20 2018,Ascoli,1-0,Carpi
+8^ Giornata,Sat Oct 20 2018,FC Crotone,2-1,Calcio Padova
+8^ Giornata,Sat Oct 20 2018,Cosenza Calcio,2-0,Calcio Foggia 1920
+8^ Giornata,Sat Oct 20 2018,Cittadella,2-2,Brescia Calcio
+8^ Giornata,Sun Oct 21 2018,Salernitana,2-1,AC Perugia
+8^ Giornata,Sun Oct 21 2018,Venezia,1-1,Hellas Verona
+8^ Giornata,Sun Oct 21 2018,US Lecce,1-2,Palermo
+8^ Giornata,Mon Oct 22 2018,Benevento,1-0,AS Livorno Calcio
+9^ Giornata,Fri Oct 26 2018,Palermo,1-1,Venezia
+9^ Giornata,Sat Oct 27 2018,Benevento,2-1,US Cremonese
+9^ Giornata,Sat Oct 27 2018,Brescia Calcio,1-0,Cosenza Calcio
+9^ Giornata,Sat Oct 27 2018,Calcio Foggia 1920,2-2,US Lecce
+9^ Giornata,Sat Oct 27 2018,AS Livorno Calcio,1-0,Ascoli
+9^ Giornata,Sat Oct 27 2018,Hellas Verona,2-1,AC Perugia
+9^ Giornata,Sat Oct 27 2018,Pescara,0-1,Cittadella
+9^ Giornata,Sat Oct 27 2018,Calcio Padova,0-0,Spezia
+9^ Giornata,Sun Oct 28 2018,FC Crotone,1-1,Salernitana
+10^ Giornata,Tue Oct 30 2018,Cittadella,1-1,Calcio Foggia 1920
+10^ Giornata,Tue Oct 30 2018,Carpi,0-3,Palermo
+10^ Giornata,Tue Oct 30 2018,Ascoli,1-0,Hellas Verona
+10^ Giornata,Tue Oct 30 2018,Cosenza Calcio,1-1,Pescara
+10^ Giornata,Tue Oct 30 2018,AC Perugia,3-2,Calcio Padova
+10^ Giornata,Tue Oct 30 2018,US Cremonese,0-1,Venezia
+10^ Giornata,Wed Oct 31 2018,Salernitana,3-1,AS Livorno Calcio
+10^ Giornata,Wed Oct 31 2018,US Lecce,1-0,FC Crotone
+11^ Giornata,Fri Nov 2 2018,Hellas Verona,1-1,US Cremonese
+11^ Giornata,Sat Nov 3 2018,Benevento,1-2,Ascoli
+11^ Giornata,Sat Nov 3 2018,Palermo,2-1,Cosenza Calcio
+11^ Giornata,Sat Nov 3 2018,Calcio Padova,0-0,Cittadella
+11^ Giornata,Sat Nov 3 2018,Calcio Foggia 1920,2-2,Brescia Calcio
+11^ Giornata,Sun Nov 4 2018,Venezia,1-0,Salernitana
+11^ Giornata,Sun Nov 4 2018,FC Crotone,1-1,Carpi
+11^ Giornata,Sun Nov 4 2018,AS Livorno Calcio,2-3,AC Perugia
+11^ Giornata,Mon Nov 5 2018,Pescara,4-2,US Lecce
+12^ Giornata,Fri Nov 9 2018,AC Perugia,2-1,FC Crotone
+12^ Giornata,Sat Nov 10 2018,Ascoli,2-3,Calcio Padova
+12^ Giornata,Sat Nov 10 2018,US Cremonese,1-0,AS Livorno Calcio
+12^ Giornata,Sat Nov 10 2018,Salernitana,1-0,Spezia
+12^ Giornata,Sat Nov 10 2018,Cosenza Calcio,2-3,US Lecce
+12^ Giornata,Sat Nov 10 2018,Carpi,2-2,Benevento
+12^ Giornata,Sun Nov 11 2018,Cittadella,3-2,Venezia
+12^ Giornata,Sun Nov 11 2018,Brescia Calcio,4-2,Hellas Verona
+12^ Giornata,Sun Nov 11 2018,Palermo,3-0,Pescara
+10^ Giornata,Sun Nov 18 2018,Spezia,3-1,Benevento
+13^ Giornata,Fri Nov 23 2018,Hellas Verona,1-1,Palermo
+13^ Giornata,Sat Nov 24 2018,AS Livorno Calcio,0-0,Cittadella
+13^ Giornata,Sat Nov 24 2018,Calcio Padova,0-1,Carpi
+13^ Giornata,Sat Nov 24 2018,Venezia,2-1,Brescia Calcio
+13^ Giornata,Sat Nov 24 2018,Benevento,2-1,AC Perugia
+13^ Giornata,Sun Nov 25 2018,Pescara,1-1,Ascoli
+13^ Giornata,Sun Nov 25 2018,Spezia,0-0,Calcio Foggia 1920
+13^ Giornata,Sun Nov 25 2018,US Lecce,2-0,US Cremonese
+13^ Giornata,Mon Nov 26 2018,FC Crotone,0-1,Cosenza Calcio
+14^ Giornata,Fri Nov 30 2018,Palermo,0-0,Benevento
+14^ Giornata,Sat Dec 1 2018,Cittadella,3-1,Salernitana
+14^ Giornata,Sat Dec 1 2018,Ascoli,3-1,Spezia
+14^ Giornata,Sat Dec 1 2018,US Cremonese,1-0,FC Crotone
+14^ Giornata,Sat Dec 1 2018,Cosenza Calcio,2-1,Calcio Padova
+14^ Giornata,Sun Dec 2 2018,Brescia Calcio,2-0,AS Livorno Calcio
+14^ Giornata,Sun Dec 2 2018,Carpi,0-1,US Lecce
+14^ Giornata,Sun Dec 2 2018,AC Perugia,2-1,Pescara
+14^ Giornata,Mon Dec 3 2018,Calcio Foggia 1920,1-1,Venezia
+15^ Giornata,Fri Dec 7 2018,Pescara,2-0,Carpi
+15^ Giornata,Sat Dec 8 2018,Calcio Padova,1-3,Palermo
+15^ Giornata,Sat Dec 8 2018,US Lecce,0-0,AC Perugia
+15^ Giornata,Sat Dec 8 2018,Venezia,1-0,Ascoli
+15^ Giornata,Sat Dec 8 2018,Spezia,4-0,Cosenza Calcio
+15^ Giornata,Sun Dec 9 2018,US Cremonese,0-0,Cittadella
+15^ Giornata,Sun Dec 9 2018,AS Livorno Calcio,3-1,Calcio Foggia 1920
+15^ Giornata,Sun Dec 9 2018,Benevento,0-1,Hellas Verona
+15^ Giornata,Mon Dec 10 2018,Salernitana,1-3,Brescia Calcio
+16^ Giornata,Fri Dec 14 2018,Calcio Foggia 1920,3-1,US Cremonese
+16^ Giornata,Sat Dec 15 2018,AC Perugia,1-1,Spezia
+16^ Giornata,Sat Dec 15 2018,Palermo,1-1,AS Livorno Calcio
+16^ Giornata,Sat Dec 15 2018,Ascoli,1-1,Cittadella
+16^ Giornata,Sun Dec 16 2018,Carpi,3-2,Salernitana
+16^ Giornata,Sun Dec 16 2018,FC Crotone,1-1,Venezia
+16^ Giornata,Sun Dec 16 2018,Brescia Calcio,2-1,US Lecce
+16^ Giornata,Sun Dec 16 2018,Cosenza Calcio,0-0,Benevento
+16^ Giornata,Mon Dec 17 2018,Hellas Verona,3-1,Pescara
+17^ Giornata,Fri Dec 21 2018,Ascoli,1-1,Brescia Calcio
+17^ Giornata,Sat Dec 22 2018,US Cremonese,1-2,Carpi
+17^ Giornata,Sat Dec 22 2018,AS Livorno Calcio,0-0,Hellas Verona
+17^ Giornata,Sun Dec 23 2018,Salernitana,1-0,Calcio Foggia 1920
+17^ Giornata,Sun Dec 23 2018,Cittadella,2-2,AC Perugia
+17^ Giornata,Sun Dec 23 2018,US Lecce,3-2,Calcio Padova
+17^ Giornata,Sun Dec 23 2018,Venezia,0-1,Cosenza Calcio
+17^ Giornata,Sun Dec 23 2018,Benevento,3-0,FC Crotone
+17^ Giornata,Sun Dec 23 2018,Spezia,1-1,Palermo
+18^ Giornata,Wed Dec 26 2018,Brescia Calcio,3-2,US Cremonese
+18^ Giornata,Wed Dec 26 2018,Carpi,1-4,AS Livorno Calcio
+18^ Giornata,Thu Dec 27 2018,FC Crotone,0-3,Spezia
+18^ Giornata,Thu Dec 27 2018,Cosenza Calcio,0-0,Salernitana
+18^ Giornata,Thu Dec 27 2018,Pescara,1-0,Venezia
+18^ Giornata,Thu Dec 27 2018,Calcio Padova,0-1,Benevento
+18^ Giornata,Thu Dec 27 2018,Palermo,3-0,Ascoli
+18^ Giornata,Thu Dec 27 2018,AC Perugia,3-0,Calcio Foggia 1920
+18^ Giornata,Thu Dec 27 2018,Hellas Verona,4-0,Cittadella
+19^ Giornata,Sun Dec 30 2018,Calcio Foggia 1920,2-2,Hellas Verona
+19^ Giornata,Sun Dec 30 2018,Ascoli,3-2,FC Crotone
+19^ Giornata,Sun Dec 30 2018,Cittadella,0-1,Palermo
+19^ Giornata,Sun Dec 30 2018,US Cremonese,4-0,AC Perugia
+19^ Giornata,Sun Dec 30 2018,Salernitana,2-4,Pescara
+19^ Giornata,Sun Dec 30 2018,Venezia,1-1,Carpi
+19^ Giornata,Sun Dec 30 2018,Benevento,1-1,Brescia Calcio
+19^ Giornata,Sun Dec 30 2018,AS Livorno Calcio,1-1,Calcio Padova
+19^ Giornata,Sun Dec 30 2018,Spezia,1-1,US Lecce
+20^ Giornata,Fri Jan 18 2019,Palermo,1-2,Salernitana
+20^ Giornata,Sat Jan 19 2019,Carpi,0-2,Calcio Foggia 1920
+20^ Giornata,Sat Jan 19 2019,FC Crotone,0-0,Cittadella
+20^ Giornata,Sat Jan 19 2019,US Lecce,1-1,Benevento
+20^ Giornata,Sat Jan 19 2019,AC Perugia,0-2,Brescia Calcio
+20^ Giornata,Sun Jan 20 2019,Cosenza Calcio,0-0,Ascoli
+20^ Giornata,Sun Jan 20 2019,Calcio Padova,3-0,Hellas Verona
+20^ Giornata,Sun Jan 20 2019,Pescara,0-0,US Cremonese
+20^ Giornata,Mon Jan 21 2019,Spezia,1-1,Venezia
+21^ Giornata,Fri Jan 25 2019,Calcio Foggia 1920,0-2,FC Crotone
+21^ Giornata,Sat Jan 26 2019,Ascoli,0-3,AC Perugia
+21^ Giornata,Sat Jan 26 2019,Salernitana,1-2,US Lecce
+21^ Giornata,Sat Jan 26 2019,US Cremonese,2-0,Palermo
+21^ Giornata,Sat Jan 26 2019,Cittadella,3-1,Carpi
+21^ Giornata,Sun Jan 27 2019,AS Livorno Calcio,0-0,Pescara
+21^ Giornata,Sun Jan 27 2019,Venezia,2-1,Calcio Padova
+21^ Giornata,Sun Jan 27 2019,Brescia Calcio,4-4,Spezia
+21^ Giornata,Mon Jan 28 2019,Hellas Verona,2-2,Cosenza Calcio
+22^ Giornata,Sat Feb 2 2019,Carpi,1-1,Hellas Verona
+22^ Giornata,Sat Feb 2 2019,Cosenza Calcio,2-0,Cittadella
+22^ Giornata,Sat Feb 2 2019,Calcio Padova,0-0,Salernitana
+22^ Giornata,Sat Feb 2 2019,Spezia,2-0,US Cremonese
+22^ Giornata,Sun Feb 3 2019,Benevento,3-0,Venezia
+22^ Giornata,Sun Feb 3 2019,FC Crotone,1-1,AS Livorno Calcio
+22^ Giornata,Sun Feb 3 2019,Pescara,1-5,Brescia Calcio
+22^ Giornata,Mon Feb 4 2019,Palermo,0-0,Calcio Foggia 1920
+23^ Giornata,Fri Feb 8 2019,Salernitana,0-1,Benevento
+23^ Giornata,Sat Feb 9 2019,AC Perugia,1-2,Palermo
+23^ Giornata,Sat Feb 9 2019,Cittadella,0-1,Spezia
+23^ Giornata,Sat Feb 9 2019,US Cremonese,0-0,Calcio Padova
+23^ Giornata,Sat Feb 9 2019,Brescia Calcio,3-1,Carpi
+23^ Giornata,Sun Feb 10 2019,Hellas Verona,1-1,FC Crotone
+23^ Giornata,Sun Feb 10 2019,AS Livorno Calcio,2-0,Cosenza Calcio
+23^ Giornata,Sun Feb 10 2019,Calcio Foggia 1920,1-1,Pescara
+23^ Giornata,Mon Feb 11 2019,Venezia,1-1,US Lecce
+24^ Giornata,Fri Feb 15 2019,Palermo,1-1,Brescia Calcio
+24^ Giornata,Sat Feb 16 2019,Benevento,1-0,Cittadella
+24^ Giornata,Sat Feb 16 2019,Carpi,0-1,AC Perugia
+24^ Giornata,Sat Feb 16 2019,Ascoli,2-4,Salernitana
+24^ Giornata,Sat Feb 16 2019,Calcio Padova,1-1,Calcio Foggia 1920
+24^ Giornata,Sun Feb 17 2019,US Lecce,3-2,AS Livorno Calcio
+24^ Giornata,Sun Feb 17 2019,Cosenza Calcio,2-0,US Cremonese
+24^ Giornata,Sun Feb 17 2019,Spezia,1-2,Hellas Verona
+24^ Giornata,Mon Feb 18 2019,FC Crotone,0-2,Pescara
+25^ Giornata,Fri Feb 22 2019,Hellas Verona,1-0,Salernitana
+25^ Giornata,Sat Feb 23 2019,Carpi,3-2,Spezia
+25^ Giornata,Sat Feb 23 2019,Brescia Calcio,2-0,FC Crotone
+25^ Giornata,Sat Feb 23 2019,Pescara,2-0,Calcio Padova
+25^ Giornata,Sat Feb 23 2019,Cittadella,4-1,US Lecce
+25^ Giornata,Sat Feb 23 2019,US Cremonese,0-1,Ascoli
+25^ Giornata,Sat Feb 23 2019,AC Perugia,0-1,Cosenza Calcio
+25^ Giornata,Sat Feb 23 2019,Calcio Foggia 1920,1-1,Benevento
+25^ Giornata,Sun Feb 24 2019,AS Livorno Calcio,1-0,Venezia
+26^ Giornata,Tue Feb 26 2019,Salernitana,2-0,US Cremonese
+26^ Giornata,Tue Feb 26 2019,Benevento,2-1,Pescara
+26^ Giornata,Tue Feb 26 2019,Ascoli,2-2,Calcio Foggia 1920
+26^ Giornata,Tue Feb 26 2019,Cosenza Calcio,1-0,Carpi
+26^ Giornata,Tue Feb 26 2019,FC Crotone,3-0,Palermo
+26^ Giornata,Tue Feb 26 2019,US Lecce,2-1,Hellas Verona
+26^ Giornata,Tue Feb 26 2019,Calcio Padova,1-1,Brescia Calcio
+26^ Giornata,Wed Feb 27 2019,Spezia,3-0,AS Livorno Calcio
+26^ Giornata,Wed Feb 27 2019,Venezia,2-3,AC Perugia
+27^ Giornata,Fri Mar 1 2019,Calcio Foggia 1920,1-0,Cosenza Calcio
+27^ Giornata,Sat Mar 2 2019,Brescia Calcio,0-1,Cittadella
+27^ Giornata,Sat Mar 2 2019,Palermo,2-1,US Lecce
+27^ Giornata,Sat Mar 2 2019,Carpi,1-1,Ascoli
+27^ Giornata,Sat Mar 2 2019,Calcio Padova,0-0,FC Crotone
+27^ Giornata,Sun Mar 3 2019,Pescara,2-0,Spezia
+27^ Giornata,Sun Mar 3 2019,AC Perugia,3-1,Salernitana
+27^ Giornata,Sun Mar 3 2019,Hellas Verona,1-0,Venezia
+27^ Giornata,Mon Mar 4 2019,AS Livorno Calcio,2-0,Benevento
+28^ Giornata,Fri Mar 8 2019,AC Perugia,1-2,Hellas Verona
+28^ Giornata,Sat Mar 9 2019,US Lecce,1-0,Calcio Foggia 1920
+28^ Giornata,Sat Mar 9 2019,Cittadella,4-1,Pescara
+28^ Giornata,Sat Mar 9 2019,Cosenza Calcio,2-3,Brescia Calcio
+28^ Giornata,Sat Mar 9 2019,Spezia,0-2,Calcio Padova
+28^ Giornata,Sun Mar 10 2019,Salernitana,0-2,FC Crotone
+28^ Giornata,Sun Mar 10 2019,Ascoli,1-1,AS Livorno Calcio
+28^ Giornata,Sun Mar 10 2019,US Cremonese,1-0,Benevento
+28^ Giornata,Mon Mar 11 2019,Venezia,1-1,Palermo
+29^ Giornata,Fri Mar 15 2019,Pescara,1-1,Cosenza Calcio
+29^ Giornata,Sat Mar 16 2019,Calcio Padova,0-1,AC Perugia
+29^ Giornata,Sat Mar 16 2019,Benevento,2-3,Spezia
+29^ Giornata,Sat Mar 16 2019,Calcio Foggia 1920,1-1,Cittadella
+29^ Giornata,Sat Mar 16 2019,AS Livorno Calcio,1-0,Salernitana
+29^ Giornata,Sat Mar 16 2019,Hellas Verona,1-1,Ascoli
+29^ Giornata,Sun Mar 17 2019,Venezia,1-1,US Cremonese
+29^ Giornata,Sun Mar 17 2019,Palermo,4-1,Carpi
+29^ Giornata,Sun Mar 17 2019,FC Crotone,2-2,US Lecce
+22^ Giornata,Sat Mar 23 2019,US Lecce,7-0,Ascoli
+30^ Giornata,Fri Mar 29 2019,US Cremonese,1-1,Hellas Verona
+30^ Giornata,Sat Mar 30 2019,Ascoli,2-2,Benevento
+30^ Giornata,Sat Mar 30 2019,Carpi,1-2,FC Crotone
+30^ Giornata,Sat Mar 30 2019,Cittadella,1-1,Calcio Padova
+30^ Giornata,Sat Mar 30 2019,Cosenza Calcio,1-1,Palermo
+30^ Giornata,Sat Mar 30 2019,Brescia Calcio,2-1,Calcio Foggia 1920
+30^ Giornata,Sat Mar 30 2019,Salernitana,1-1,Venezia
+30^ Giornata,Sat Mar 30 2019,AC Perugia,3-1,AS Livorno Calcio
+30^ Giornata,Sun Mar 31 2019,US Lecce,2-0,Pescara
+31^ Giornata,Tue Apr 2 2019,AS Livorno Calcio,1-3,US Cremonese
+31^ Giornata,Tue Apr 2 2019,FC Crotone,2-0,AC Perugia
+31^ Giornata,Tue Apr 2 2019,Hellas Verona,2-2,Brescia Calcio
+31^ Giornata,Tue Apr 2 2019,Calcio Padova,1-2,Ascoli
+31^ Giornata,Tue Apr 2 2019,Spezia,2-1,Salernitana
+31^ Giornata,Tue Apr 2 2019,Venezia,1-1,Cittadella
+31^ Giornata,Tue Apr 2 2019,Benevento,3-1,Carpi
+31^ Giornata,Wed Apr 3 2019,US Lecce,3-1,Cosenza Calcio
+31^ Giornata,Wed Apr 3 2019,Pescara,3-2,Palermo
+32^ Giornata,Fri Apr 5 2019,Brescia Calcio,2-0,Venezia
+32^ Giornata,Sat Apr 6 2019,Carpi,2-1,Calcio Padova
+32^ Giornata,Sat Apr 6 2019,AC Perugia,2-4,Benevento
+32^ Giornata,Sat Apr 6 2019,Calcio Foggia 1920,1-0,Spezia
+32^ Giornata,Sat Apr 6 2019,Cittadella,4-0,AS Livorno Calcio
+32^ Giornata,Sun Apr 7 2019,Ascoli,2-1,Pescara
+32^ Giornata,Sun Apr 7 2019,US Cremonese,2-0,US Lecce
+32^ Giornata,Sun Apr 7 2019,Cosenza Calcio,1-0,FC Crotone
+32^ Giornata,Mon Apr 8 2019,Palermo,1-0,Hellas Verona
+33^ Giornata,Fri Apr 12 2019,Pescara,1-1,AC Perugia
+33^ Giornata,Sat Apr 13 2019,Venezia,1-0,Calcio Foggia 1920
+33^ Giornata,Sat Apr 13 2019,US Lecce,4-1,Carpi
+33^ Giornata,Sat Apr 13 2019,Salernitana,4-2,Cittadella
+33^ Giornata,Sat Apr 13 2019,FC Crotone,0-0,US Cremonese
+33^ Giornata,Sun Apr 14 2019,Calcio Padova,0-0,Cosenza Calcio
+33^ Giornata,Sun Apr 14 2019,Benevento,1-2,Palermo
+33^ Giornata,Sun Apr 14 2019,Spezia,3-2,Ascoli
+33^ Giornata,Mon Apr 15 2019,AS Livorno Calcio,0-1,Brescia Calcio
+34^ Giornata,Mon Apr 22 2019,Carpi,0-0,Pescara
+34^ Giornata,Mon Apr 22 2019,Brescia Calcio,3-0,Salernitana
+34^ Giornata,Mon Apr 22 2019,AC Perugia,1-2,US Lecce
+34^ Giornata,Mon Apr 22 2019,Hellas Verona,0-3,Benevento
+34^ Giornata,Mon Apr 22 2019,Cittadella,1-3,US Cremonese
+34^ Giornata,Mon Apr 22 2019,Cosenza Calcio,1-0,Spezia
+34^ Giornata,Mon Apr 22 2019,Calcio Foggia 1920,2-2,AS Livorno Calcio
+34^ Giornata,Mon Apr 22 2019,Palermo,1-1,Calcio Padova
+34^ Giornata,Mon Apr 22 2019,Ascoli,1-0,Venezia
+35^ Giornata,Fri Apr 26 2019,Benevento,4-2,Cosenza Calcio
+35^ Giornata,Sat Apr 27 2019,AS Livorno Calcio,2-2,Palermo
+35^ Giornata,Sat Apr 27 2019,Pescara,1-1,Hellas Verona
+35^ Giornata,Sat Apr 27 2019,Salernitana,2-5,Carpi
+35^ Giornata,Sat Apr 27 2019,Spezia,1-1,AC Perugia
+35^ Giornata,Sat Apr 27 2019,Venezia,1-4,FC Crotone
+35^ Giornata,Sun Apr 28 2019,Cittadella,2-2,Ascoli
+35^ Giornata,Sun Apr 28 2019,US Cremonese,1-0,Calcio Foggia 1920
+35^ Giornata,Sun Apr 28 2019,US Lecce,1-0,Brescia Calcio
+36^ Giornata,Wed May 1 2019,Palermo,2-2,Spezia
+36^ Giornata,Wed May 1 2019,Carpi,1-2,US Cremonese
+36^ Giornata,Wed May 1 2019,Brescia Calcio,1-0,Ascoli
+36^ Giornata,Wed May 1 2019,FC Crotone,1-0,Benevento
+36^ Giornata,Wed May 1 2019,Calcio Foggia 1920,3-1,Salernitana
+36^ Giornata,Wed May 1 2019,Calcio Padova,2-1,US Lecce
+36^ Giornata,Wed May 1 2019,AC Perugia,0-0,Cittadella
+36^ Giornata,Wed May 1 2019,Hellas Verona,2-3,AS Livorno Calcio
+36^ Giornata,Wed May 1 2019,Cosenza Calcio,1-1,Venezia
+37^ Giornata,Sat May 4 2019,Cittadella,3-0,Hellas Verona
+37^ Giornata,Sat May 4 2019,US Cremonese,0-0,Brescia Calcio
+37^ Giornata,Sat May 4 2019,Spezia,2-0,FC Crotone
+37^ Giornata,Sat May 4 2019,Venezia,2-2,Pescara
+37^ Giornata,Sat May 4 2019,Ascoli,1-2,Palermo
+37^ Giornata,Sun May 5 2019,Benevento,3-3,Calcio Padova
+37^ Giornata,Sun May 5 2019,AS Livorno Calcio,1-0,Carpi
+37^ Giornata,Sun May 5 2019,Salernitana,1-2,Cosenza Calcio
+37^ Giornata,Mon May 6 2019,Calcio Foggia 1920,1-0,AC Perugia
+38^ Giornata,Sat May 11 2019,FC Crotone,3-0,Ascoli
+38^ Giornata,Sat May 11 2019,Carpi,2-3,Venezia
+38^ Giornata,Sat May 11 2019,Brescia Calcio,2-3,Benevento
+38^ Giornata,Sat May 11 2019,US Lecce,2-1,Spezia
+38^ Giornata,Sat May 11 2019,Calcio Padova,1-1,AS Livorno Calcio
+38^ Giornata,Sat May 11 2019,Palermo,2-2,Cittadella
+38^ Giornata,Sat May 11 2019,AC Perugia,3-1,US Cremonese
+38^ Giornata,Sat May 11 2019,Pescara,2-0,Salernitana
+38^ Giornata,Sat May 11 2019,Hellas Verona,2-1,Calcio Foggia 1920

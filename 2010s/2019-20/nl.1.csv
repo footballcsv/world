@@ -1,0 +1,307 @@
+Round,Date,Team 1,FT,Team 2
+1,Fri Aug 2 2019,PEC Zwolle,1-3,Willem II Tilburg
+1,Sat Aug 3 2019,Vitesse Arnhem,2-2,Ajax Amsterdam
+1,Sat Aug 3 2019,FC Emmen,0-1,FC Groningen
+1,Sat Aug 3 2019,FC Twente,1-1,PSV Eindhoven
+1,Sat Aug 3 2019,VVV Venlo,3-1,RKC Waalwijk
+1,Sun Aug 4 2019,Heracles Almelo,0-4,SC Heerenveen
+1,Sun Aug 4 2019,Feyenoord Rotterdam,2-2,Sparta Rotterdam
+1,Sun Aug 4 2019,ADO Den Haag,2-4,FC Utrecht
+1,Sun Aug 4 2019,AZ Alkmaar,4-0,Fortuna Sittard
+2,Fri Aug 9 2019,Sparta Rotterdam,4-1,VVV Venlo
+2,Sat Aug 10 2019,FC Groningen,1-3,FC Twente
+2,Sat Aug 10 2019,Ajax Amsterdam,5-0,FC Emmen
+2,Sat Aug 10 2019,Willem II Tilburg,0-2,Vitesse Arnhem
+2,Sun Aug 11 2019,Fortuna Sittard,1-1,Heracles Almelo
+2,Sun Aug 11 2019,SC Heerenveen,1-1,Feyenoord Rotterdam
+2,Sun Aug 11 2019,RKC Waalwijk,0-2,AZ Alkmaar
+2,Sun Aug 11 2019,FC Utrecht,3-1,PEC Zwolle
+2,Sun Aug 11 2019,PSV Eindhoven,3-1,ADO Den Haag
+3,Fri Aug 16 2019,Vitesse Arnhem,3-0,PEC Zwolle
+3,Sat Aug 17 2019,ADO Den Haag,1-2,Sparta Rotterdam
+3,Sat Aug 17 2019,VVV Venlo,1-4,Ajax Amsterdam
+3,Sat Aug 17 2019,FC Emmen,2-0,SC Heerenveen
+3,Sun Aug 18 2019,Fortuna Sittard,2-3,Willem II Tilburg
+3,Sun Aug 18 2019,FC Twente,3-3,RKC Waalwijk
+3,Sun Aug 18 2019,Feyenoord Rotterdam,1-1,FC Utrecht
+3,Sun Aug 18 2019,AZ Alkmaar,0-0,FC Groningen
+3,Sun Aug 18 2019,Heracles Almelo,0-2,PSV Eindhoven
+4,Sat Aug 24 2019,Willem II Tilburg,2-1,FC Emmen
+4,Sat Aug 24 2019,Heracles Almelo,1-1,Vitesse Arnhem
+4,Sat Aug 24 2019,SC Heerenveen,0-0,FC Twente
+4,Sun Aug 25 2019,RKC Waalwijk,0-3,ADO Den Haag
+4,Sun Aug 25 2019,FC Utrecht,1-2,VVV Venlo
+4,Sun Aug 25 2019,PEC Zwolle,2-2,Sparta Rotterdam
+5,Fri Aug 30 2019,FC Emmen,1-3,PEC Zwolle
+5,Sat Aug 31 2019,SC Heerenveen,1-1,Fortuna Sittard
+5,Sat Aug 31 2019,FC Groningen,1-2,Heracles Almelo
+5,Sat Aug 31 2019,ADO Den Haag,1-0,VVV Venlo
+5,Sun Sep 1 2019,FC Twente,3-1,FC Utrecht
+5,Sun Sep 1 2019,Sparta Rotterdam,1-4,Ajax Amsterdam
+5,Sun Sep 1 2019,Willem II Tilburg,0-1,Feyenoord Rotterdam
+5,Sun Sep 1 2019,Vitesse Arnhem,2-1,AZ Alkmaar
+5,Sun Sep 1 2019,RKC Waalwijk,1-3,PSV Eindhoven
+6,Sat Sep 14 2019,AZ Alkmaar,5-1,Sparta Rotterdam
+6,Sat Sep 14 2019,Ajax Amsterdam,4-1,SC Heerenveen
+6,Sat Sep 14 2019,VVV Venlo,2-1,FC Groningen
+6,Sat Sep 14 2019,PSV Eindhoven,5-0,Vitesse Arnhem
+6,Sat Sep 14 2019,FC Utrecht,3-1,FC Emmen
+6,Sun Sep 15 2019,PEC Zwolle,6-2,RKC Waalwijk
+6,Sun Sep 15 2019,Feyenoord Rotterdam,3-2,ADO Den Haag
+6,Sun Sep 15 2019,Heracles Almelo,4-1,Willem II Tilburg
+6,Sun Sep 15 2019,Fortuna Sittard,2-3,FC Twente
+7,Fri Sep 20 2019,FC Twente,2-3,Heracles Almelo
+7,Sat Sep 21 2019,Sparta Rotterdam,4-0,RKC Waalwijk
+7,Sat Sep 21 2019,FC Groningen,2-0,PEC Zwolle
+7,Sat Sep 21 2019,Willem II Tilburg,1-0,VVV Venlo
+7,Sat Sep 21 2019,Vitesse Arnhem,4-2,Fortuna Sittard
+7,Sun Sep 22 2019,SC Heerenveen,1-1,FC Utrecht
+7,Sun Sep 22 2019,FC Emmen,3-3,Feyenoord Rotterdam
+7,Sun Sep 22 2019,ADO Den Haag,0-1,AZ Alkmaar
+7,Sun Sep 22 2019,PSV Eindhoven,1-1,Ajax Amsterdam
+4,Wed Sep 25 2019,PSV Eindhoven,3-1,FC Groningen
+4,Wed Sep 25 2019,Ajax Amsterdam,5-0,Fortuna Sittard
+4,Thu Sep 26 2019,Feyenoord Rotterdam,0-3,AZ Alkmaar
+8,Fri Sep 27 2019,FC Emmen,3-0,ADO Den Haag
+8,Sat Sep 28 2019,VVV Venlo,0-3,SC Heerenveen
+8,Sat Sep 28 2019,Ajax Amsterdam,2-0,FC Groningen
+8,Sat Sep 28 2019,Fortuna Sittard,0-0,Sparta Rotterdam
+8,Sun Sep 29 2019,RKC Waalwijk,1-2,Vitesse Arnhem
+8,Sun Sep 29 2019,PEC Zwolle,0-4,PSV Eindhoven
+8,Sun Sep 29 2019,FC Utrecht,2-0,Willem II Tilburg
+8,Sun Sep 29 2019,AZ Alkmaar,2-0,Heracles Almelo
+8,Sun Sep 29 2019,Feyenoord Rotterdam,5-1,FC Twente
+9,Fri Oct 4 2019,FC Groningen,3-0,RKC Waalwijk
+9,Sat Oct 5 2019,Heracles Almelo,2-0,FC Emmen
+9,Sat Oct 5 2019,Sparta Rotterdam,2-1,FC Twente
+9,Sat Oct 5 2019,Vitesse Arnhem,2-1,FC Utrecht
+9,Sat Oct 5 2019,SC Heerenveen,1-0,PEC Zwolle
+9,Sun Oct 6 2019,ADO Den Haag,0-2,Ajax Amsterdam
+9,Sun Oct 6 2019,Fortuna Sittard,4-2,Feyenoord Rotterdam
+9,Sun Oct 6 2019,PSV Eindhoven,4-1,VVV Venlo
+9,Sun Oct 6 2019,Willem II Tilburg,1-1,AZ Alkmaar
+10,Sat Oct 19 2019,AZ Alkmaar,2-4,SC Heerenveen
+10,Sat Oct 19 2019,RKC Waalwijk,1-2,Ajax Amsterdam
+10,Sat Oct 19 2019,FC Twente,0-1,Willem II Tilburg
+10,Sat Oct 19 2019,FC Utrecht,3-0,PSV Eindhoven
+10,Sat Oct 19 2019,VVV Venlo,0-4,Vitesse Arnhem
+10,Sun Oct 20 2019,PEC Zwolle,3-1,ADO Den Haag
+10,Sun Oct 20 2019,FC Emmen,2-1,Fortuna Sittard
+10,Sun Oct 20 2019,FC Groningen,2-0,Sparta Rotterdam
+10,Sun Oct 20 2019,Feyenoord Rotterdam,1-1,Heracles Almelo
+11,Fri Oct 25 2019,FC Twente,4-1,FC Emmen
+11,Sat Oct 26 2019,Willem II Tilburg,2-1,RKC Waalwijk
+11,Sat Oct 26 2019,Vitesse Arnhem,0-2,ADO Den Haag
+11,Sat Oct 26 2019,Fortuna Sittard,4-1,VVV Venlo
+11,Sat Oct 26 2019,Heracles Almelo,4-0,PEC Zwolle
+11,Sun Oct 27 2019,SC Heerenveen,1-1,FC Groningen
+11,Sun Oct 27 2019,PSV Eindhoven,0-4,AZ Alkmaar
+11,Sun Oct 27 2019,Sparta Rotterdam,1-2,FC Utrecht
+11,Sun Oct 27 2019,Ajax Amsterdam,4-0,Feyenoord Rotterdam
+12,Fri Nov 1 2019,PEC Zwolle,2-4,Ajax Amsterdam
+12,Sat Nov 2 2019,RKC Waalwijk,2-0,Heracles Almelo
+12,Sat Nov 2 2019,Sparta Rotterdam,2-2,PSV Eindhoven
+12,Sat Nov 2 2019,AZ Alkmaar,3-0,FC Twente
+12,Sun Nov 3 2019,FC Emmen,2-1,Vitesse Arnhem
+12,Sun Nov 3 2019,FC Utrecht,6-0,Fortuna Sittard
+12,Sun Nov 3 2019,VVV Venlo,0-3,Feyenoord Rotterdam
+12,Sun Nov 3 2019,FC Groningen,2-0,Willem II Tilburg
+12,Sun Nov 3 2019,ADO Den Haag,1-1,SC Heerenveen
+13,Fri Nov 8 2019,Vitesse Arnhem,1-2,FC Groningen
+13,Sat Nov 9 2019,SC Heerenveen,2-1,Sparta Rotterdam
+13,Sat Nov 9 2019,Fortuna Sittard,1-0,ADO Den Haag
+13,Sat Nov 9 2019,Heracles Almelo,6-1,VVV Venlo
+13,Sun Nov 10 2019,Ajax Amsterdam,4-0,FC Utrecht
+13,Sun Nov 10 2019,Willem II Tilburg,2-1,PSV Eindhoven
+13,Sun Nov 10 2019,FC Twente,2-1,PEC Zwolle
+13,Sun Nov 10 2019,Feyenoord Rotterdam,3-2,RKC Waalwijk
+13,Sun Nov 10 2019,AZ Alkmaar,3-0,FC Emmen
+14,Sat Nov 23 2019,FC Utrecht,0-3,AZ Alkmaar
+14,Sat Nov 23 2019,PEC Zwolle,3-1,Fortuna Sittard
+14,Sat Nov 23 2019,Ajax Amsterdam,4-1,Heracles Almelo
+14,Sat Nov 23 2019,ADO Den Haag,3-3,Willem II Tilburg
+14,Sun Nov 24 2019,FC Groningen,1-1,Feyenoord Rotterdam
+14,Sun Nov 24 2019,PSV Eindhoven,2-1,SC Heerenveen
+14,Sun Nov 24 2019,RKC Waalwijk,1-1,FC Emmen
+14,Sun Nov 24 2019,VVV Venlo,2-1,FC Twente
+14,Sun Nov 24 2019,Sparta Rotterdam,2-0,Vitesse Arnhem
+15,Fri Nov 29 2019,SC Heerenveen,3-2,Vitesse Arnhem
+15,Sat Nov 30 2019,Willem II Tilburg,4-0,Sparta Rotterdam
+15,Sat Nov 30 2019,Fortuna Sittard,1-0,FC Groningen
+15,Sat Nov 30 2019,Heracles Almelo,4-0,ADO Den Haag
+15,Sun Dec 1 2019,FC Twente,2-5,Ajax Amsterdam
+15,Sun Dec 1 2019,FC Utrecht,0-1,RKC Waalwijk
+15,Sun Dec 1 2019,Feyenoord Rotterdam,1-0,PEC Zwolle
+15,Sun Dec 1 2019,AZ Alkmaar,1-0,VVV Venlo
+15,Sun Dec 1 2019,FC Emmen,1-1,PSV Eindhoven
+16,Fri Dec 6 2019,Ajax Amsterdam,0-2,Willem II Tilburg
+16,Sat Dec 7 2019,ADO Den Haag,0-0,FC Twente
+16,Sat Dec 7 2019,PSV Eindhoven,5-0,Fortuna Sittard
+16,Sat Dec 7 2019,VVV Venlo,2-0,FC Emmen
+16,Sat Dec 7 2019,PEC Zwolle,0-3,AZ Alkmaar
+16,Sun Dec 8 2019,Vitesse Arnhem,0-0,Feyenoord Rotterdam
+16,Sun Dec 8 2019,RKC Waalwijk,1-3,SC Heerenveen
+16,Sun Dec 8 2019,FC Groningen,0-1,FC Utrecht
+16,Sun Dec 8 2019,Sparta Rotterdam,0-0,Heracles Almelo
+17,Fri Dec 13 2019,SC Heerenveen,1-2,Willem II Tilburg
+17,Sat Dec 14 2019,ADO Den Haag,1-1,FC Groningen
+17,Sat Dec 14 2019,VVV Venlo,1-2,PEC Zwolle
+17,Sat Dec 14 2019,Fortuna Sittard,3-2,RKC Waalwijk
+17,Sat Dec 14 2019,FC Twente,0-3,Vitesse Arnhem
+17,Sun Dec 15 2019,FC Emmen,2-0,Sparta Rotterdam
+17,Sun Dec 15 2019,Feyenoord Rotterdam,3-1,PSV Eindhoven
+17,Sun Dec 15 2019,AZ Alkmaar,1-0,Ajax Amsterdam
+17,Sun Dec 15 2019,Heracles Almelo,1-3,FC Utrecht
+18,Fri Dec 20 2019,RKC Waalwijk,3-0,FC Twente
+18,Sat Dec 21 2019,SC Heerenveen,1-1,Heracles Almelo
+18,Sat Dec 21 2019,PSV Eindhoven,4-1,PEC Zwolle
+18,Sat Dec 21 2019,Sparta Rotterdam,3-0,AZ Alkmaar
+18,Sat Dec 21 2019,Willem II Tilburg,0-0,Fortuna Sittard
+18,Sun Dec 22 2019,Ajax Amsterdam,6-1,ADO Den Haag
+18,Sun Dec 22 2019,FC Utrecht,1-2,Feyenoord Rotterdam
+18,Sun Dec 22 2019,FC Groningen,2-0,FC Emmen
+18,Sun Dec 22 2019,Vitesse Arnhem,3-0,VVV Venlo
+19,Fri Jan 17 2020,PEC Zwolle,3-3,FC Utrecht
+19,Sat Jan 18 2020,Fortuna Sittard,1-3,Vitesse Arnhem
+19,Sat Jan 18 2020,FC Twente,0-0,FC Groningen
+19,Sat Jan 18 2020,Feyenoord Rotterdam,3-1,SC Heerenveen
+19,Sat Jan 18 2020,AZ Alkmaar,1-3,Willem II Tilburg
+19,Sun Jan 19 2020,VVV Venlo,1-1,PSV Eindhoven
+19,Sun Jan 19 2020,Ajax Amsterdam,2-1,Sparta Rotterdam
+19,Sun Jan 19 2020,FC Emmen,1-0,Heracles Almelo
+19,Sun Jan 19 2020,ADO Den Haag,2-0,RKC Waalwijk
+20,Fri Jan 24 2020,FC Utrecht,4-0,ADO Den Haag
+20,Sat Jan 25 2020,SC Heerenveen,1-2,AZ Alkmaar
+20,Sat Jan 25 2020,RKC Waalwijk,1-2,VVV Venlo
+20,Sat Jan 25 2020,Heracles Almelo,2-3,Feyenoord Rotterdam
+20,Sat Jan 25 2020,Sparta Rotterdam,1-1,Fortuna Sittard
+20,Sun Jan 26 2020,Vitesse Arnhem,1-1,FC Emmen
+20,Sun Jan 26 2020,FC Groningen,2-1,Ajax Amsterdam
+20,Sun Jan 26 2020,Willem II Tilburg,0-0,PEC Zwolle
+20,Sun Jan 26 2020,PSV Eindhoven,1-1,FC Twente
+21,Fri Jan 31 2020,AZ Alkmaar,4-0,RKC Waalwijk
+21,Sat Feb 1 2020,ADO Den Haag,0-0,Vitesse Arnhem
+21,Sat Feb 1 2020,Feyenoord Rotterdam,3-0,FC Emmen
+21,Sat Feb 1 2020,FC Twente,2-0,Sparta Rotterdam
+21,Sat Feb 1 2020,PEC Zwolle,1-0,FC Groningen
+21,Sun Feb 2 2020,Willem II Tilburg,1-0,Heracles Almelo
+21,Sun Feb 2 2020,VVV Venlo,1-1,FC Utrecht
+21,Sun Feb 2 2020,Fortuna Sittard,2-1,SC Heerenveen
+21,Sun Feb 2 2020,Ajax Amsterdam,1-0,PSV Eindhoven
+22,Fri Feb 7 2020,Heracles Almelo,2-0,Fortuna Sittard
+22,Sat Feb 8 2020,FC Groningen,1-0,Vitesse Arnhem
+22,Sat Feb 8 2020,PSV Eindhoven,3-0,Willem II Tilburg
+22,Sat Feb 8 2020,SC Heerenveen,1-1,VVV Venlo
+22,Sat Feb 8 2020,RKC Waalwijk,0-0,PEC Zwolle
+22,Tue Feb 11 2020,FC Emmen,2-0,FC Twente
+22,Tue Feb 11 2020,Sparta Rotterdam,4-2,ADO Den Haag
+23,Fri Feb 14 2020,VVV Venlo,1-0,Heracles Almelo
+23,Sat Feb 15 2020,FC Twente,2-0,AZ Alkmaar
+23,Sat Feb 15 2020,ADO Den Haag,0-3,PSV Eindhoven
+23,Sat Feb 15 2020,Fortuna Sittard,0-0,FC Emmen
+23,Sun Feb 16 2020,Vitesse Arnhem,4-2,SC Heerenveen
+23,Sun Feb 16 2020,Ajax Amsterdam,3-0,RKC Waalwijk
+23,Sun Feb 16 2020,Sparta Rotterdam,1-2,FC Groningen
+23,Sun Feb 16 2020,Willem II Tilburg,1-1,FC Utrecht
+23,Sun Feb 16 2020,PEC Zwolle,3-4,Feyenoord Rotterdam
+24,Fri Feb 21 2020,RKC Waalwijk,0-1,Sparta Rotterdam
+24,Sat Feb 22 2020,FC Emmen,4-2,Willem II Tilburg
+24,Sat Feb 22 2020,Feyenoord Rotterdam,2-1,Fortuna Sittard
+24,Sat Feb 22 2020,SC Heerenveen,2-2,ADO Den Haag
+24,Sat Feb 22 2020,FC Groningen,0-1,VVV Venlo
+24,Sun Feb 23 2020,FC Utrecht,2-1,FC Twente
+24,Sun Feb 23 2020,AZ Alkmaar,2-0,PEC Zwolle
+24,Sun Feb 23 2020,Vitesse Arnhem,1-2,PSV Eindhoven
+24,Sun Feb 23 2020,Heracles Almelo,1-0,Ajax Amsterdam
+25,Fri Feb 28 2020,Willem II Tilburg,3-1,FC Groningen
+25,Sat Feb 29 2020,ADO Den Haag,0-0,Heracles Almelo
+25,Sat Feb 29 2020,VVV Venlo,0-0,Fortuna Sittard
+25,Sat Feb 29 2020,PEC Zwolle,4-3,Vitesse Arnhem
+25,Sat Feb 29 2020,FC Twente,2-3,SC Heerenveen
+25,Sun Mar 1 2020,RKC Waalwijk,2-1,FC Utrecht
+25,Sun Mar 1 2020,PSV Eindhoven,1-1,Feyenoord Rotterdam
+25,Sun Mar 1 2020,Sparta Rotterdam,5-1,FC Emmen
+25,Sun Mar 1 2020,Ajax Amsterdam,0-2,AZ Alkmaar
+26,Fri Mar 6 2020,Fortuna Sittard,1-1,PEC Zwolle
+26,Sat Mar 7 2020,AZ Alkmaar,4-0,ADO Den Haag
+26,Sat Mar 7 2020,FC Emmen,3-0,VVV Venlo
+26,Sat Mar 7 2020,Vitesse Arnhem,1-0,FC Twente
+26,Sat Mar 7 2020,SC Heerenveen,1-3,Ajax Amsterdam
+26,Sun Mar 8 2020,FC Utrecht,5-1,Sparta Rotterdam
+26,Sun Mar 8 2020,Feyenoord Rotterdam,2-0,Willem II Tilburg
+26,Sun Mar 8 2020,Heracles Almelo,4-2,RKC Waalwijk
+26,Sun Mar 8 2020,FC Groningen,0-1,PSV Eindhoven
+27,Fri Mar 13 2020,ADO Den Haag,,Fortuna Sittard
+27,Sat Mar 14 2020,Willem II Tilburg,,SC Heerenveen
+27,Sat Mar 14 2020,PEC Zwolle,,Heracles Almelo
+27,Sat Mar 14 2020,PSV Eindhoven,,FC Emmen
+27,Sat Mar 14 2020,FC Utrecht,,Vitesse Arnhem
+27,Sun Mar 15 2020,Sparta Rotterdam,,Feyenoord Rotterdam
+27,Sun Mar 15 2020,Ajax Amsterdam,,FC Twente
+27,Sun Mar 15 2020,RKC Waalwijk,,FC Groningen
+27,Sun Mar 15 2020,VVV Venlo,,AZ Alkmaar
+28,Fri Mar 20 2020,Heracles Almelo,,Sparta Rotterdam
+28,Sat Mar 21 2020,FC Twente,,ADO Den Haag
+28,Sat Mar 21 2020,Vitesse Arnhem,,Willem II Tilburg
+28,Sat Mar 21 2020,PEC Zwolle,,VVV Venlo
+28,Sat Mar 21 2020,SC Heerenveen,,RKC Waalwijk
+28,Sun Mar 22 2020,Fortuna Sittard,,PSV Eindhoven
+28,Sun Mar 22 2020,Feyenoord Rotterdam,,Ajax Amsterdam
+28,Sun Mar 22 2020,FC Emmen,,FC Utrecht
+28,Sun Mar 22 2020,FC Groningen,,AZ Alkmaar
+29,Sat Apr 4 2020,Sparta Rotterdam,,SC Heerenveen
+29,Sat Apr 4 2020,PSV Eindhoven,,Heracles Almelo
+29,Sat Apr 4 2020,VVV Venlo,,Willem II Tilburg
+29,Sat Apr 4 2020,AZ Alkmaar,,Vitesse Arnhem
+29,Sat Apr 4 2020,FC Utrecht,,FC Groningen
+29,Sun Apr 5 2020,RKC Waalwijk,,Feyenoord Rotterdam
+29,Sun Apr 5 2020,Ajax Amsterdam,,PEC Zwolle
+29,Sun Apr 5 2020,ADO Den Haag,,FC Emmen
+29,Sun Apr 5 2020,FC Twente,,Fortuna Sittard
+22,Wed Apr 8 2020,AZ Alkmaar,,Feyenoord Rotterdam
+22,Thu Apr 9 2020,FC Utrecht,,Ajax Amsterdam
+30,Fri Apr 10 2020,FC Groningen,,SC Heerenveen
+30,Sat Apr 11 2020,Vitesse Arnhem,,RKC Waalwijk
+30,Sat Apr 11 2020,Feyenoord Rotterdam,,VVV Venlo
+30,Sat Apr 11 2020,Heracles Almelo,,AZ Alkmaar
+30,Sat Apr 11 2020,Willem II Tilburg,,ADO Den Haag
+30,Sun Apr 12 2020,PSV Eindhoven,,Sparta Rotterdam
+30,Sun Apr 12 2020,Fortuna Sittard,,FC Utrecht
+30,Sun Apr 12 2020,FC Emmen,,Ajax Amsterdam
+30,Sun Apr 12 2020,PEC Zwolle,,FC Twente
+31,Tue Apr 21 2020,AZ Alkmaar,,PSV Eindhoven
+31,Tue Apr 21 2020,Sparta Rotterdam,,PEC Zwolle
+31,Wed Apr 22 2020,RKC Waalwijk,,Willem II Tilburg
+31,Wed Apr 22 2020,ADO Den Haag,,Feyenoord Rotterdam
+31,Wed Apr 22 2020,FC Groningen,,Fortuna Sittard
+31,Wed Apr 22 2020,SC Heerenveen,,FC Emmen
+31,Wed Apr 22 2020,FC Utrecht,,Heracles Almelo
+31,Thu Apr 23 2020,FC Twente,,VVV Venlo
+31,Thu Apr 23 2020,Ajax Amsterdam,,Vitesse Arnhem
+32,Sat Apr 25 2020,PSV Eindhoven,,FC Utrecht
+32,Sat Apr 25 2020,Fortuna Sittard,,AZ Alkmaar
+32,Sat Apr 25 2020,FC Emmen,,RKC Waalwijk
+32,Sat Apr 25 2020,Feyenoord Rotterdam,,FC Groningen
+32,Sat Apr 25 2020,PEC Zwolle,,SC Heerenveen
+32,Sun Apr 26 2020,Heracles Almelo,,FC Twente
+32,Sun Apr 26 2020,VVV Venlo,,ADO Den Haag
+32,Sun Apr 26 2020,Willem II Tilburg,,Ajax Amsterdam
+32,Sun Apr 26 2020,Vitesse Arnhem,,Sparta Rotterdam
+33,Sun May 3 2020,Ajax Amsterdam,,VVV Venlo
+33,Sun May 3 2020,AZ Alkmaar,,FC Utrecht
+33,Sun May 3 2020,SC Heerenveen,,PSV Eindhoven
+33,Sun May 3 2020,FC Twente,,Feyenoord Rotterdam
+33,Sun May 3 2020,Vitesse Arnhem,,Heracles Almelo
+33,Sun May 3 2020,RKC Waalwijk,,Fortuna Sittard
+33,Sun May 3 2020,FC Groningen,,ADO Den Haag
+33,Sun May 3 2020,PEC Zwolle,,FC Emmen
+33,Sun May 3 2020,Sparta Rotterdam,,Willem II Tilburg
+34,Sun May 10 2020,PSV Eindhoven,,RKC Waalwijk
+34,Sun May 10 2020,Feyenoord Rotterdam,,Vitesse Arnhem
+34,Sun May 10 2020,FC Utrecht,,SC Heerenveen
+34,Sun May 10 2020,Heracles Almelo,,FC Groningen
+34,Sun May 10 2020,ADO Den Haag,,PEC Zwolle
+34,Sun May 10 2020,VVV Venlo,,Sparta Rotterdam
+34,Sun May 10 2020,Willem II Tilburg,,FC Twente
+34,Sun May 10 2020,Fortuna Sittard,,Ajax Amsterdam
+34,Sun May 10 2020,FC Emmen,,AZ Alkmaar
