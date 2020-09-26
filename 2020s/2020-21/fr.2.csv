@@ -1,9 +1,9 @@
 Round,Date,Team 1,FT,Team 2
 Journée 1,Sat Aug 22 2020,Toulouse FC,0-1,USL Dunkerque
-Journée 1,Sat Aug 22 2020,AC Ajaccio,0-1,LB Châteauroux
+Journée 1,Sat Aug 22 2020,EA Guingamp,0-1,Chamois Niortais FC
 Journée 1,Sat Aug 22 2020,AJ Auxerre,0-2,FC Sochaux-Montbéliard
 Journée 1,Sat Aug 22 2020,Clermont Foot 63,0-0,Stade Malherbe Caen
-Journée 1,Sat Aug 22 2020,EA Guingamp,0-1,Chamois Niortais FC
+Journée 1,Sat Aug 22 2020,AC Ajaccio,0-1,LB Châteauroux
 Journée 1,Sat Aug 22 2020,FC Chambly,0-3,Paris FC
 Journée 1,Sat Aug 22 2020,Valenciennes FC,3-0,Pau FC
 Journée 1,Sat Aug 22 2020,Rodez AF,1-0,Grenoble Foot 38
@@ -11,54 +11,54 @@ Journée 1,Sat Aug 22 2020,Amiens SC,1-0,AS Nancy Lorraine
 Journée 1,Mon Aug 24 2020,ES Troyes AC,2-0,Le Havre AC
 Journée 2,Sat Aug 29 2020,AS Nancy Lorraine,2-2,EA Guingamp
 Journée 2,Sat Aug 29 2020,Stade Malherbe Caen,1-0,AC Ajaccio
-Journée 2,Sat Aug 29 2020,Le Havre AC,1-0,Amiens SC
-Journée 2,Sat Aug 29 2020,Chamois Niortais FC,1-1,FC Chambly
 Journée 2,Sat Aug 29 2020,Paris FC,1-0,Valenciennes FC
+Journée 2,Sat Aug 29 2020,Chamois Niortais FC,1-1,FC Chambly
+Journée 2,Sat Aug 29 2020,Le Havre AC,1-0,Amiens SC
 Journée 2,Sat Aug 29 2020,Pau FC,1-1,Rodez AF
 Journée 2,Sat Aug 29 2020,FC Sochaux-Montbéliard,2-1,ES Troyes AC
 Journée 2,Sat Aug 29 2020,Grenoble Foot 38,5-3,Toulouse FC
 Journée 2,Sat Aug 29 2020,LB Châteauroux,1-2,AJ Auxerre
 Journée 2,Sat Aug 29 2020,USL Dunkerque,1-1,Clermont Foot 63
-Journée 3,Sat Sep 12 2020,AC Ajaccio,,USL Dunkerque
 Journée 3,Sat Sep 12 2020,EA Guingamp,1-3,Le Havre AC
-Journée 3,Sat Sep 12 2020,AJ Auxerre,0-1,Clermont Foot 63
-Journée 3,Sat Sep 12 2020,ES Troyes AC,2-0,Pau FC
 Journée 3,Sat Sep 12 2020,FC Chambly,1-2,Grenoble Foot 38
+Journée 3,Sat Sep 12 2020,ES Troyes AC,2-0,Pau FC
+Journée 3,Sat Sep 12 2020,AJ Auxerre,0-1,Clermont Foot 63
 Journée 3,Sat Sep 12 2020,Chamois Niortais FC,1-0,AS Nancy Lorraine
 Journée 3,Sat Sep 12 2020,Valenciennes FC,1-0,LB Châteauroux
 Journée 3,Sat Sep 12 2020,Rodez AF,0-3,Stade Malherbe Caen
 Journée 3,Sat Sep 12 2020,Amiens SC,1-2,Paris FC
 Journée 3,Mon Sep 14 2020,Toulouse FC,0-0,FC Sochaux-Montbéliard
-Journée 4,Sat Sep 19 2020,Clermont Foot 63,,Toulouse FC
-Journée 4,Sat Sep 19 2020,Le Havre AC,,Chamois Niortais FC
-Journée 4,Sat Sep 19 2020,Paris FC,,AS Nancy Lorraine
-Journée 4,Sat Sep 19 2020,Pau FC,,EA Guingamp
-Journée 4,Sat Sep 19 2020,FC Sochaux-Montbéliard,,Rodez AF
-Journée 4,Sat Sep 19 2020,Grenoble Foot 38,,AC Ajaccio
-Journée 4,Sat Sep 19 2020,LB Châteauroux,,Amiens SC
-Journée 4,Sat Sep 19 2020,Stade Malherbe Caen,,FC Chambly
-Journée 4,Sat Sep 19 2020,USL Dunkerque,,Valenciennes FC
-Journée 4,Mon Sep 21 2020,AJ Auxerre,,ES Troyes AC
+Journée 4,Sat Sep 19 2020,Clermont Foot 63,1-1,Toulouse FC
+Journée 4,Sat Sep 19 2020,Pau FC,0-1,EA Guingamp
+Journée 4,Sat Sep 19 2020,Le Havre AC,0-1,Chamois Niortais FC
+Journée 4,Sat Sep 19 2020,Paris FC,0-2,AS Nancy Lorraine
+Journée 4,Sat Sep 19 2020,Stade Malherbe Caen,0-0,FC Chambly
+Journée 4,Sat Sep 19 2020,FC Sochaux-Montbéliard,2-2,Rodez AF
+Journée 4,Sat Sep 19 2020,Grenoble Foot 38,2-0,AC Ajaccio
+Journée 4,Sat Sep 19 2020,LB Châteauroux,0-0,Amiens SC
+Journée 4,Sat Sep 19 2020,USL Dunkerque,1-0,Valenciennes FC
+Journée 4,Mon Sep 21 2020,AJ Auxerre,2-1,ES Troyes AC
 Journée 5,Sat Sep 26 2020,Toulouse FC,,AJ Auxerre
+Journée 5,Sat Sep 26 2020,Amiens SC,,Pau FC
 Journée 5,Sat Sep 26 2020,AC Ajaccio,,FC Sochaux-Montbéliard
 Journée 5,Sat Sep 26 2020,AS Nancy Lorraine,,Le Havre AC
 Journée 5,Sat Sep 26 2020,EA Guingamp,,Grenoble Foot 38
-Journée 5,Sat Sep 26 2020,FC Chambly,,LB Châteauroux
+Journée 5,Sat Sep 26 2020,Rodez AF,,USL Dunkerque
 Journée 5,Sat Sep 26 2020,Chamois Niortais FC,,Paris FC
 Journée 5,Sat Sep 26 2020,Valenciennes FC,,Stade Malherbe Caen
-Journée 5,Sat Sep 26 2020,Rodez AF,,USL Dunkerque
-Journée 5,Sat Sep 26 2020,Amiens SC,,Pau FC
+Journée 5,Sat Sep 26 2020,FC Chambly,,LB Châteauroux
 Journée 5,Mon Sep 28 2020,ES Troyes AC,,Clermont Foot 63
+Journée 3,Wed Sep 30 2020,AC Ajaccio,,USL Dunkerque
 Journée 6,Sat Oct 3 2020,Toulouse FC,,ES Troyes AC
 Journée 6,Sat Oct 3 2020,Stade Malherbe Caen,,Amiens SC
-Journée 6,Sat Oct 3 2020,AJ Auxerre,,AC Ajaccio
-Journée 6,Sat Oct 3 2020,Clermont Foot 63,,Rodez AF
 Journée 6,Sat Oct 3 2020,Paris FC,,Le Havre AC
+Journée 6,Sat Oct 3 2020,Clermont Foot 63,,Rodez AF
+Journée 6,Sat Oct 3 2020,AJ Auxerre,,AC Ajaccio
 Journée 6,Sat Oct 3 2020,Pau FC,,AS Nancy Lorraine
 Journée 6,Sat Oct 3 2020,FC Sochaux-Montbéliard,,FC Chambly
 Journée 6,Sat Oct 3 2020,Grenoble Foot 38,,Valenciennes FC
-Journée 6,Sat Oct 3 2020,LB Châteauroux,,Chamois Niortais FC
 Journée 6,Sat Oct 3 2020,USL Dunkerque,,EA Guingamp
+Journée 6,Sat Oct 3 2020,LB Châteauroux,,Chamois Niortais FC
 Journée 7,Sat Oct 17 2020,AC Ajaccio,,Toulouse FC
 Journée 7,Sat Oct 17 2020,Le Havre AC,,LB Châteauroux
 Journée 7,Sat Oct 17 2020,AS Nancy Lorraine,,USL Dunkerque
@@ -69,16 +69,16 @@ Journée 7,Sat Oct 17 2020,Valenciennes FC,,FC Sochaux-Montbéliard
 Journée 7,Sat Oct 17 2020,Rodez AF,,ES Troyes AC
 Journée 7,Sat Oct 17 2020,Amiens SC,,Grenoble Foot 38
 Journée 7,Mon Oct 19 2020,EA Guingamp,,AJ Auxerre
-Journée 8,Sat Oct 24 2020,AJ Auxerre,,FC Chambly
+Journée 8,Sat Oct 24 2020,FC Sochaux-Montbéliard,,Amiens SC
 Journée 8,Sat Oct 24 2020,Clermont Foot 63,,AC Ajaccio
 Journée 8,Sat Oct 24 2020,ES Troyes AC,,Valenciennes FC
 Journée 8,Sat Oct 24 2020,Pau FC,,Chamois Niortais FC
-Journée 8,Sat Oct 24 2020,FC Sochaux-Montbéliard,,Amiens SC
+Journée 8,Sat Oct 24 2020,USL Dunkerque,,Le Havre AC
 Journée 8,Sat Oct 24 2020,Toulouse FC,,Rodez AF
 Journée 8,Sat Oct 24 2020,Grenoble Foot 38,,AS Nancy Lorraine
 Journée 8,Sat Oct 24 2020,LB Châteauroux,,Paris FC
 Journée 8,Sat Oct 24 2020,Stade Malherbe Caen,,EA Guingamp
-Journée 8,Sat Oct 24 2020,USL Dunkerque,,Le Havre AC
+Journée 8,Sat Oct 24 2020,AJ Auxerre,,FC Chambly
 Journée 9,Sat Oct 31 2020,AC Ajaccio,,ES Troyes AC
 Journée 9,Sat Oct 31 2020,Le Havre AC,,Pau FC
 Journée 9,Sat Oct 31 2020,AS Nancy Lorraine,,LB Châteauroux
