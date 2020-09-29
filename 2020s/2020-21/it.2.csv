@@ -1,0 +1,381 @@
+Round,Date,Team 1,FT,Team 2
+1^ Giornata,Fri Sep 25 2020,SS Monza,0-0,SPAL Ferrara
+1^ Giornata,Sat Sep 26 2020,Pescara,0-0,AC Chievo Verona
+1^ Giornata,Sat Sep 26 2020,Cosenza Calcio,0-0,Virtus Entella
+1^ Giornata,Sat Sep 26 2020,Brescia Calcio,1-1,Ascoli
+1^ Giornata,Sat Sep 26 2020,Frosinone,0-2,Empoli
+1^ Giornata,Sat Sep 26 2020,US Lecce,0-0,Pordenone Calcio
+1^ Giornata,Sat Sep 26 2020,Salernitana,1-1,Reggina 1914
+1^ Giornata,Sat Sep 26 2020,Venezia,1-0,LR Vicenza Virtus
+1^ Giornata,Sun Sep 27 2020,US Cremonese,,Cittadella
+1^ Giornata,Sun Sep 27 2020,AC Reggiana,,AC Pisa
+2^ Giornata,Sat Oct 3 2020,AC Chievo Verona,,Salernitana
+2^ Giornata,Sat Oct 3 2020,Ascoli,,US Lecce
+2^ Giornata,Sat Oct 3 2020,Empoli,,SS Monza
+2^ Giornata,Sat Oct 3 2020,Venezia,,Frosinone
+2^ Giornata,Sat Oct 3 2020,LR Vicenza Virtus,,Pordenone Calcio
+2^ Giornata,Sat Oct 3 2020,Reggina 1914,,Pescara
+2^ Giornata,Sat Oct 3 2020,SPAL Ferrara,,Cosenza Calcio
+2^ Giornata,Sat Oct 3 2020,Virtus Entella,,AC Reggiana
+2^ Giornata,Sun Oct 4 2020,AC Pisa,,US Cremonese
+2^ Giornata,Sun Oct 4 2020,Cittadella,,Brescia Calcio
+3^ Giornata,Sat Oct 17 2020,Brescia Calcio,,US Lecce
+3^ Giornata,Sat Oct 17 2020,Cosenza Calcio,,Cittadella
+3^ Giornata,Sat Oct 17 2020,Pescara,,Empoli
+3^ Giornata,Sat Oct 17 2020,Frosinone,,Ascoli
+3^ Giornata,Sat Oct 17 2020,Pordenone Calcio,,SPAL Ferrara
+3^ Giornata,Sat Oct 17 2020,AC Reggiana,,AC Chievo Verona
+3^ Giornata,Sat Oct 17 2020,SS Monza,,LR Vicenza Virtus
+3^ Giornata,Sat Oct 17 2020,US Cremonese,,Venezia
+3^ Giornata,Sat Oct 17 2020,Salernitana,,AC Pisa
+3^ Giornata,Sat Oct 17 2020,Virtus Entella,,Reggina 1914
+4^ Giornata,Tue Oct 20 2020,Venezia,,Pescara
+4^ Giornata,Tue Oct 20 2020,Cittadella,,Pordenone Calcio
+4^ Giornata,Tue Oct 20 2020,Ascoli,,AC Reggiana
+4^ Giornata,Tue Oct 20 2020,AC Chievo Verona,,Brescia Calcio
+4^ Giornata,Tue Oct 20 2020,Empoli,,SPAL Ferrara
+4^ Giornata,Tue Oct 20 2020,US Lecce,,US Cremonese
+4^ Giornata,Tue Oct 20 2020,Frosinone,,Virtus Entella
+4^ Giornata,Tue Oct 20 2020,LR Vicenza Virtus,,Salernitana
+4^ Giornata,Tue Oct 20 2020,Reggina 1914,,Cosenza Calcio
+4^ Giornata,Tue Oct 20 2020,AC Pisa,,SS Monza
+5^ Giornata,Sat Oct 24 2020,Cosenza Calcio,,US Lecce
+5^ Giornata,Sat Oct 24 2020,Pescara,,Frosinone
+5^ Giornata,Sat Oct 24 2020,Empoli,,AC Pisa
+5^ Giornata,Sat Oct 24 2020,Pordenone Calcio,,Reggina 1914
+5^ Giornata,Sat Oct 24 2020,AC Reggiana,,Cittadella
+5^ Giornata,Sat Oct 24 2020,SPAL Ferrara,,LR Vicenza Virtus
+5^ Giornata,Sat Oct 24 2020,SS Monza,,AC Chievo Verona
+5^ Giornata,Sat Oct 24 2020,US Cremonese,,Brescia Calcio
+5^ Giornata,Sat Oct 24 2020,Salernitana,,Ascoli
+5^ Giornata,Sat Oct 24 2020,Virtus Entella,,Venezia
+6^ Giornata,Sat Oct 31 2020,Salernitana,,AC Reggiana
+7^ Giornata,Sat Nov 7 2020,Virtus Entella,,US Lecce
+7^ Giornata,Sat Nov 7 2020,SS Monza,,Frosinone
+7^ Giornata,Sat Nov 7 2020,SPAL Ferrara,,Salernitana
+7^ Giornata,Sat Nov 7 2020,AC Reggiana,,Venezia
+7^ Giornata,Sat Nov 7 2020,AC Pisa,,Ascoli
+7^ Giornata,Sat Nov 7 2020,Pordenone Calcio,,AC Chievo Verona
+7^ Giornata,Sat Nov 7 2020,Empoli,,Reggina 1914
+7^ Giornata,Sat Nov 7 2020,Pescara,,Cittadella
+7^ Giornata,Sat Nov 7 2020,Cosenza Calcio,,Brescia Calcio
+7^ Giornata,Sat Nov 7 2020,US Cremonese,,LR Vicenza Virtus
+8^ Giornata,Sat Nov 21 2020,Ascoli,,Virtus Entella
+8^ Giornata,Sat Nov 21 2020,Brescia Calcio,,Venezia
+8^ Giornata,Sat Nov 21 2020,Frosinone,,Cosenza Calcio
+8^ Giornata,Sat Nov 21 2020,LR Vicenza Virtus,,AC Chievo Verona
+8^ Giornata,Sat Nov 21 2020,Cittadella,,Empoli
+8^ Giornata,Sat Nov 21 2020,SPAL Ferrara,,Pescara
+8^ Giornata,Sat Nov 21 2020,US Lecce,,AC Reggiana
+8^ Giornata,Sat Nov 21 2020,Salernitana,,US Cremonese
+8^ Giornata,Sat Nov 21 2020,Pordenone Calcio,,SS Monza
+8^ Giornata,Sat Nov 21 2020,Reggina 1914,,AC Pisa
+9^ Giornata,Sat Nov 28 2020,Virtus Entella,,SPAL Ferrara
+10^ Giornata,Sat Dec 5 2020,SPAL Ferrara,,AC Pisa
+10^ Giornata,Sat Dec 5 2020,Salernitana,,Cittadella
+10^ Giornata,Sat Dec 5 2020,US Lecce,,Venezia
+10^ Giornata,Sat Dec 5 2020,US Cremonese,,Virtus Entella
+10^ Giornata,Sat Dec 5 2020,Ascoli,,Pescara
+10^ Giornata,Sat Dec 5 2020,Reggina 1914,,Brescia Calcio
+10^ Giornata,Sat Dec 5 2020,AC Reggiana,,SS Monza
+10^ Giornata,Sat Dec 5 2020,LR Vicenza Virtus,,Cosenza Calcio
+10^ Giornata,Sat Dec 5 2020,Frosinone,,AC Chievo Verona
+10^ Giornata,Sat Dec 5 2020,Pordenone Calcio,,Empoli
+11^ Giornata,Sat Dec 12 2020,Virtus Entella,,Empoli
+12^ Giornata,Tue Dec 15 2020,Pordenone Calcio,,Brescia Calcio
+12^ Giornata,Tue Dec 15 2020,SPAL Ferrara,,AC Chievo Verona
+12^ Giornata,Tue Dec 15 2020,Reggina 1914,,Venezia
+12^ Giornata,Tue Dec 15 2020,AC Pisa,,Pescara
+12^ Giornata,Tue Dec 15 2020,SS Monza,,Virtus Entella
+12^ Giornata,Tue Dec 15 2020,Empoli,,US Cremonese
+12^ Giornata,Tue Dec 15 2020,Ascoli,,Cosenza Calcio
+12^ Giornata,Tue Dec 15 2020,Salernitana,,US Lecce
+12^ Giornata,Tue Dec 15 2020,Cittadella,,LR Vicenza Virtus
+12^ Giornata,Tue Dec 15 2020,AC Reggiana,,Frosinone
+13^ Giornata,Sat Dec 19 2020,Brescia Calcio,,AC Reggiana
+13^ Giornata,Sat Dec 19 2020,US Lecce,,AC Pisa
+13^ Giornata,Sat Dec 19 2020,US Cremonese,,Cosenza Calcio
+13^ Giornata,Sat Dec 19 2020,Virtus Entella,,Pordenone Calcio
+13^ Giornata,Sat Dec 19 2020,LR Vicenza Virtus,,Ascoli
+13^ Giornata,Sat Dec 19 2020,Frosinone,,Salernitana
+13^ Giornata,Sat Dec 19 2020,Venezia,,SPAL Ferrara
+13^ Giornata,Sat Dec 19 2020,Pescara,,SS Monza
+13^ Giornata,Sat Dec 19 2020,AC Chievo Verona,,Empoli
+13^ Giornata,Sat Dec 19 2020,Reggina 1914,,Cittadella
+14^ Giornata,Tue Dec 22 2020,Pescara,,Brescia Calcio
+14^ Giornata,Tue Dec 22 2020,AC Pisa,,AC Chievo Verona
+14^ Giornata,Tue Dec 22 2020,Cittadella,,Frosinone
+14^ Giornata,Tue Dec 22 2020,Salernitana,,Virtus Entella
+14^ Giornata,Tue Dec 22 2020,SS Monza,,Ascoli
+14^ Giornata,Tue Dec 22 2020,SPAL Ferrara,,US Lecce
+14^ Giornata,Tue Dec 22 2020,Pordenone Calcio,,US Cremonese
+14^ Giornata,Tue Dec 22 2020,LR Vicenza Virtus,,Reggina 1914
+14^ Giornata,Tue Dec 22 2020,Empoli,,AC Reggiana
+14^ Giornata,Tue Dec 22 2020,Cosenza Calcio,,Venezia
+15^ Giornata,Sun Dec 27 2020,AC Chievo Verona,,Cittadella
+15^ Giornata,Sun Dec 27 2020,Ascoli,,SPAL Ferrara
+15^ Giornata,Sun Dec 27 2020,Brescia Calcio,,Empoli
+15^ Giornata,Sun Dec 27 2020,Cosenza Calcio,,AC Pisa
+15^ Giornata,Sun Dec 27 2020,Virtus Entella,,Pescara
+15^ Giornata,Sun Dec 27 2020,Frosinone,,Pordenone Calcio
+15^ Giornata,Sun Dec 27 2020,AC Reggiana,,Reggina 1914
+15^ Giornata,Sun Dec 27 2020,US Cremonese,,SS Monza
+15^ Giornata,Sun Dec 27 2020,US Lecce,,LR Vicenza Virtus
+15^ Giornata,Sun Dec 27 2020,Venezia,,Salernitana
+16^ Giornata,Wed Dec 30 2020,AC Pisa,,Frosinone
+16^ Giornata,Wed Dec 30 2020,Cittadella,,US Lecce
+16^ Giornata,Wed Dec 30 2020,AC Chievo Verona,,Venezia
+16^ Giornata,Wed Dec 30 2020,Pescara,,Cosenza Calcio
+16^ Giornata,Wed Dec 30 2020,Empoli,,Ascoli
+16^ Giornata,Wed Dec 30 2020,Pordenone Calcio,,AC Reggiana
+16^ Giornata,Wed Dec 30 2020,Reggina 1914,,US Cremonese
+16^ Giornata,Wed Dec 30 2020,SPAL Ferrara,,Brescia Calcio
+16^ Giornata,Wed Dec 30 2020,SS Monza,,Salernitana
+16^ Giornata,Wed Dec 30 2020,LR Vicenza Virtus,,Virtus Entella
+17^ Giornata,Sun Jan 3 2021,Ascoli,,Reggina 1914
+17^ Giornata,Sun Jan 3 2021,Cosenza Calcio,,Empoli
+17^ Giornata,Sun Jan 3 2021,Venezia,,AC Pisa
+17^ Giornata,Sun Jan 3 2021,Frosinone,,SPAL Ferrara
+17^ Giornata,Sun Jan 3 2021,AC Reggiana,,Pescara
+17^ Giornata,Sun Jan 3 2021,US Cremonese,,AC Chievo Verona
+17^ Giornata,Sun Jan 3 2021,US Lecce,,SS Monza
+17^ Giornata,Sun Jan 3 2021,Salernitana,,Pordenone Calcio
+17^ Giornata,Sun Jan 3 2021,Virtus Entella,,Cittadella
+17^ Giornata,Sun Jan 3 2021,Brescia Calcio,,LR Vicenza Virtus
+18^ Giornata,Sat Jan 16 2021,SS Monza,,Cosenza Calcio
+18^ Giornata,Sat Jan 16 2021,Cittadella,,Ascoli
+18^ Giornata,Sat Jan 16 2021,AC Pisa,,Brescia Calcio
+18^ Giornata,Sat Jan 16 2021,SPAL Ferrara,,AC Reggiana
+18^ Giornata,Sat Jan 16 2021,AC Chievo Verona,,Virtus Entella
+18^ Giornata,Sat Jan 16 2021,Pordenone Calcio,,Venezia
+18^ Giornata,Sat Jan 16 2021,LR Vicenza Virtus,,Frosinone
+18^ Giornata,Sat Jan 16 2021,Empoli,,Salernitana
+18^ Giornata,Sat Jan 16 2021,Pescara,,US Cremonese
+18^ Giornata,Sat Jan 16 2021,Reggina 1914,,US Lecce
+19^ Giornata,Sat Jan 23 2021,Virtus Entella,,AC Pisa
+19^ Giornata,Sat Jan 23 2021,Ascoli,,AC Chievo Verona
+19^ Giornata,Sat Jan 23 2021,Salernitana,,Pescara
+19^ Giornata,Sat Jan 23 2021,US Lecce,,Empoli
+19^ Giornata,Sat Jan 23 2021,US Cremonese,,SPAL Ferrara
+19^ Giornata,Sat Jan 23 2021,Brescia Calcio,,SS Monza
+19^ Giornata,Sat Jan 23 2021,Frosinone,,Reggina 1914
+19^ Giornata,Sat Jan 23 2021,Venezia,,Cittadella
+19^ Giornata,Sat Jan 23 2021,Cosenza Calcio,,Pordenone Calcio
+19^ Giornata,Sat Jan 23 2021,AC Reggiana,,LR Vicenza Virtus
+20^ Giornata,Sat Jan 30 2021,Virtus Entella,,Cosenza Calcio
+20^ Giornata,Sat Jan 30 2021,Cittadella,,US Cremonese
+20^ Giornata,Sat Jan 30 2021,Ascoli,,Brescia Calcio
+20^ Giornata,Sat Jan 30 2021,AC Chievo Verona,,Pescara
+20^ Giornata,Sat Jan 30 2021,Empoli,,Frosinone
+20^ Giornata,Sat Jan 30 2021,LR Vicenza Virtus,,Venezia
+20^ Giornata,Sat Jan 30 2021,Pordenone Calcio,,US Lecce
+20^ Giornata,Sat Jan 30 2021,Reggina 1914,,Salernitana
+20^ Giornata,Sat Jan 30 2021,SPAL Ferrara,,SS Monza
+20^ Giornata,Sat Jan 30 2021,AC Pisa,,AC Reggiana
+21^ Giornata,Sat Feb 6 2021,Cosenza Calcio,,SPAL Ferrara
+21^ Giornata,Sat Feb 6 2021,Brescia Calcio,,Cittadella
+21^ Giornata,Sat Feb 6 2021,US Cremonese,,AC Pisa
+21^ Giornata,Sat Feb 6 2021,SS Monza,,Empoli
+21^ Giornata,Sat Feb 6 2021,AC Reggiana,,Virtus Entella
+21^ Giornata,Sat Feb 6 2021,Pescara,,Reggina 1914
+21^ Giornata,Sat Feb 6 2021,Pordenone Calcio,,LR Vicenza Virtus
+21^ Giornata,Sat Feb 6 2021,Frosinone,,Venezia
+21^ Giornata,Sat Feb 6 2021,Salernitana,,AC Chievo Verona
+21^ Giornata,Sat Feb 6 2021,US Lecce,,Ascoli
+22^ Giornata,Tue Feb 9 2021,Ascoli,,Frosinone
+22^ Giornata,Tue Feb 9 2021,AC Pisa,,Salernitana
+22^ Giornata,Tue Feb 9 2021,AC Chievo Verona,,AC Reggiana
+22^ Giornata,Tue Feb 9 2021,Empoli,,Pescara
+22^ Giornata,Tue Feb 9 2021,Venezia,,US Cremonese
+22^ Giornata,Tue Feb 9 2021,LR Vicenza Virtus,,SS Monza
+22^ Giornata,Tue Feb 9 2021,Reggina 1914,,Virtus Entella
+22^ Giornata,Tue Feb 9 2021,Cittadella,,Cosenza Calcio
+22^ Giornata,Tue Feb 9 2021,US Lecce,,Brescia Calcio
+22^ Giornata,Tue Feb 9 2021,SPAL Ferrara,,Pordenone Calcio
+23^ Giornata,Sat Feb 13 2021,Salernitana,,LR Vicenza Virtus
+23^ Giornata,Sat Feb 13 2021,AC Reggiana,,Ascoli
+23^ Giornata,Sat Feb 13 2021,Pescara,,Venezia
+23^ Giornata,Sat Feb 13 2021,SS Monza,,AC Pisa
+23^ Giornata,Sat Feb 13 2021,US Cremonese,,US Lecce
+23^ Giornata,Sat Feb 13 2021,Pordenone Calcio,,Cittadella
+23^ Giornata,Sat Feb 13 2021,Virtus Entella,,Frosinone
+23^ Giornata,Sat Feb 13 2021,Brescia Calcio,,AC Chievo Verona
+23^ Giornata,Sat Feb 13 2021,SPAL Ferrara,,Empoli
+23^ Giornata,Sat Feb 13 2021,Cosenza Calcio,,Reggina 1914
+24^ Giornata,Sat Feb 20 2021,Brescia Calcio,,US Cremonese
+24^ Giornata,Sat Feb 20 2021,US Lecce,,Cosenza Calcio
+24^ Giornata,Sat Feb 20 2021,Reggina 1914,,Pordenone Calcio
+24^ Giornata,Sat Feb 20 2021,LR Vicenza Virtus,,SPAL Ferrara
+24^ Giornata,Sat Feb 20 2021,AC Chievo Verona,,SS Monza
+24^ Giornata,Sat Feb 20 2021,Venezia,,Virtus Entella
+24^ Giornata,Sat Feb 20 2021,AC Pisa,,Empoli
+24^ Giornata,Sat Feb 20 2021,Cittadella,,AC Reggiana
+24^ Giornata,Sat Feb 20 2021,Ascoli,,Salernitana
+24^ Giornata,Sat Feb 20 2021,Frosinone,,Pescara
+25^ Giornata,Sat Feb 27 2021,Empoli,,Venezia
+25^ Giornata,Sat Feb 27 2021,Virtus Entella,,Brescia Calcio
+25^ Giornata,Sat Feb 27 2021,US Cremonese,,Frosinone
+25^ Giornata,Sat Feb 27 2021,SS Monza,,Cittadella
+25^ Giornata,Sat Feb 27 2021,Pescara,,US Lecce
+25^ Giornata,Sat Feb 27 2021,Pordenone Calcio,,Ascoli
+25^ Giornata,Sat Feb 27 2021,AC Pisa,,LR Vicenza Virtus
+25^ Giornata,Sat Feb 27 2021,Cosenza Calcio,,AC Chievo Verona
+25^ Giornata,Sat Feb 27 2021,AC Reggiana,,Salernitana
+25^ Giornata,Sat Feb 27 2021,SPAL Ferrara,,Reggina 1914
+26^ Giornata,Tue Mar 2 2021,Cittadella,,Pescara
+26^ Giornata,Tue Mar 2 2021,Ascoli,,AC Pisa
+26^ Giornata,Tue Mar 2 2021,Brescia Calcio,,Cosenza Calcio
+26^ Giornata,Tue Mar 2 2021,AC Chievo Verona,,Pordenone Calcio
+26^ Giornata,Tue Mar 2 2021,Venezia,,AC Reggiana
+26^ Giornata,Tue Mar 2 2021,Frosinone,,SS Monza
+26^ Giornata,Tue Mar 2 2021,LR Vicenza Virtus,,US Cremonese
+26^ Giornata,Tue Mar 2 2021,Reggina 1914,,Empoli
+26^ Giornata,Tue Mar 2 2021,US Lecce,,Virtus Entella
+26^ Giornata,Tue Mar 2 2021,Salernitana,,SPAL Ferrara
+27^ Giornata,Sat Mar 6 2021,AC Pisa,,Reggina 1914
+27^ Giornata,Sat Mar 6 2021,AC Chievo Verona,,LR Vicenza Virtus
+27^ Giornata,Sat Mar 6 2021,Pescara,,SPAL Ferrara
+27^ Giornata,Sat Mar 6 2021,Empoli,,Cittadella
+27^ Giornata,Sat Mar 6 2021,Venezia,,Brescia Calcio
+27^ Giornata,Sat Mar 6 2021,AC Reggiana,,US Lecce
+27^ Giornata,Sat Mar 6 2021,SS Monza,,Pordenone Calcio
+27^ Giornata,Sat Mar 6 2021,US Cremonese,,Salernitana
+27^ Giornata,Sat Mar 6 2021,Virtus Entella,,Ascoli
+27^ Giornata,Sat Mar 6 2021,Cosenza Calcio,,Frosinone
+28^ Giornata,Sat Mar 13 2021,SPAL Ferrara,,Virtus Entella
+28^ Giornata,Sat Mar 13 2021,LR Vicenza Virtus,,Empoli
+28^ Giornata,Sat Mar 13 2021,Cittadella,,AC Pisa
+28^ Giornata,Sat Mar 13 2021,Salernitana,,Cosenza Calcio
+28^ Giornata,Sat Mar 13 2021,US Lecce,,AC Chievo Verona
+28^ Giornata,Sat Mar 13 2021,US Cremonese,,AC Reggiana
+28^ Giornata,Sat Mar 13 2021,Ascoli,,Venezia
+28^ Giornata,Sat Mar 13 2021,Reggina 1914,,SS Monza
+28^ Giornata,Sat Mar 13 2021,Pordenone Calcio,,Pescara
+28^ Giornata,Sat Mar 13 2021,Frosinone,,Brescia Calcio
+29^ Giornata,Tue Mar 16 2021,Cittadella,,Salernitana
+29^ Giornata,Tue Mar 16 2021,Brescia Calcio,,Reggina 1914
+29^ Giornata,Tue Mar 16 2021,AC Chievo Verona,,Frosinone
+29^ Giornata,Tue Mar 16 2021,AC Pisa,,SPAL Ferrara
+29^ Giornata,Tue Mar 16 2021,Virtus Entella,,US Cremonese
+29^ Giornata,Tue Mar 16 2021,Pescara,,Ascoli
+29^ Giornata,Tue Mar 16 2021,Empoli,,Pordenone Calcio
+29^ Giornata,Tue Mar 16 2021,Venezia,,US Lecce
+29^ Giornata,Tue Mar 16 2021,SS Monza,,AC Reggiana
+29^ Giornata,Tue Mar 16 2021,Cosenza Calcio,,LR Vicenza Virtus
+30^ Giornata,Sat Mar 20 2021,Ascoli,,US Cremonese
+30^ Giornata,Sat Mar 20 2021,Empoli,,Virtus Entella
+30^ Giornata,Sat Mar 20 2021,Frosinone,,US Lecce
+30^ Giornata,Sat Mar 20 2021,LR Vicenza Virtus,,Pescara
+30^ Giornata,Sat Mar 20 2021,SS Monza,,Venezia
+30^ Giornata,Sat Mar 20 2021,AC Reggiana,,Cosenza Calcio
+30^ Giornata,Sat Mar 20 2021,Reggina 1914,,AC Chievo Verona
+30^ Giornata,Sat Mar 20 2021,SPAL Ferrara,,Cittadella
+30^ Giornata,Sat Mar 20 2021,Salernitana,,Brescia Calcio
+30^ Giornata,Sat Mar 20 2021,Pordenone Calcio,,AC Pisa
+31^ Giornata,Thu Apr 1 2021,Brescia Calcio,,Pordenone Calcio
+31^ Giornata,Thu Apr 1 2021,Pescara,,AC Pisa
+31^ Giornata,Thu Apr 1 2021,Venezia,,Reggina 1914
+31^ Giornata,Thu Apr 1 2021,Frosinone,,AC Reggiana
+31^ Giornata,Thu Apr 1 2021,LR Vicenza Virtus,,Cittadella
+31^ Giornata,Thu Apr 1 2021,US Cremonese,,Empoli
+31^ Giornata,Thu Apr 1 2021,US Lecce,,Salernitana
+31^ Giornata,Thu Apr 1 2021,Virtus Entella,,SS Monza
+31^ Giornata,Thu Apr 1 2021,AC Chievo Verona,,SPAL Ferrara
+31^ Giornata,Thu Apr 1 2021,Cosenza Calcio,,Ascoli
+32^ Giornata,Mon Apr 5 2021,AC Pisa,,US Lecce
+32^ Giornata,Mon Apr 5 2021,Cittadella,,Reggina 1914
+32^ Giornata,Mon Apr 5 2021,Ascoli,,LR Vicenza Virtus
+32^ Giornata,Mon Apr 5 2021,SS Monza,,Pescara
+32^ Giornata,Mon Apr 5 2021,Empoli,,AC Chievo Verona
+32^ Giornata,Mon Apr 5 2021,Pordenone Calcio,,Virtus Entella
+32^ Giornata,Mon Apr 5 2021,AC Reggiana,,Brescia Calcio
+32^ Giornata,Mon Apr 5 2021,SPAL Ferrara,,Venezia
+32^ Giornata,Mon Apr 5 2021,Salernitana,,Frosinone
+32^ Giornata,Mon Apr 5 2021,Cosenza Calcio,,US Cremonese
+33^ Giornata,Sat Apr 10 2021,Ascoli,,SS Monza
+33^ Giornata,Sat Apr 10 2021,Brescia Calcio,,Pescara
+33^ Giornata,Sat Apr 10 2021,Virtus Entella,,Salernitana
+33^ Giornata,Sat Apr 10 2021,US Lecce,,SPAL Ferrara
+33^ Giornata,Sat Apr 10 2021,US Cremonese,,Pordenone Calcio
+33^ Giornata,Sat Apr 10 2021,Venezia,,Cosenza Calcio
+33^ Giornata,Sat Apr 10 2021,Reggina 1914,,LR Vicenza Virtus
+33^ Giornata,Sat Apr 10 2021,AC Reggiana,,Empoli
+33^ Giornata,Sat Apr 10 2021,Frosinone,,Cittadella
+33^ Giornata,Sat Apr 10 2021,AC Chievo Verona,,AC Pisa
+34^ Giornata,Sat Apr 17 2021,SS Monza,,US Cremonese
+34^ Giornata,Sat Apr 17 2021,AC Pisa,,Cosenza Calcio
+34^ Giornata,Sat Apr 17 2021,Cittadella,,AC Chievo Verona
+34^ Giornata,Sat Apr 17 2021,Pescara,,Virtus Entella
+34^ Giornata,Sat Apr 17 2021,Salernitana,,Venezia
+34^ Giornata,Sat Apr 17 2021,LR Vicenza Virtus,,US Lecce
+34^ Giornata,Sat Apr 17 2021,Pordenone Calcio,,Frosinone
+34^ Giornata,Sat Apr 17 2021,Reggina 1914,,AC Reggiana
+34^ Giornata,Sat Apr 17 2021,SPAL Ferrara,,Ascoli
+34^ Giornata,Sat Apr 17 2021,Empoli,,Brescia Calcio
+35^ Giornata,Tue Apr 20 2021,Cosenza Calcio,,Pescara
+35^ Giornata,Tue Apr 20 2021,Ascoli,,Empoli
+35^ Giornata,Tue Apr 20 2021,Brescia Calcio,,SPAL Ferrara
+35^ Giornata,Tue Apr 20 2021,Virtus Entella,,LR Vicenza Virtus
+35^ Giornata,Tue Apr 20 2021,Venezia,,AC Chievo Verona
+35^ Giornata,Tue Apr 20 2021,US Lecce,,Cittadella
+35^ Giornata,Tue Apr 20 2021,US Cremonese,,Reggina 1914
+35^ Giornata,Tue Apr 20 2021,AC Reggiana,,Pordenone Calcio
+35^ Giornata,Tue Apr 20 2021,Frosinone,,AC Pisa
+35^ Giornata,Tue Apr 20 2021,Salernitana,,SS Monza
+36^ Giornata,Sat Apr 24 2021,Empoli,,Cosenza Calcio
+36^ Giornata,Sat Apr 24 2021,AC Chievo Verona,,US Cremonese
+36^ Giornata,Sat Apr 24 2021,AC Pisa,,Venezia
+36^ Giornata,Sat Apr 24 2021,LR Vicenza Virtus,,Brescia Calcio
+36^ Giornata,Sat Apr 24 2021,Pordenone Calcio,,Salernitana
+36^ Giornata,Sat Apr 24 2021,Reggina 1914,,Ascoli
+36^ Giornata,Sat Apr 24 2021,SPAL Ferrara,,Frosinone
+36^ Giornata,Sat Apr 24 2021,SS Monza,,US Lecce
+36^ Giornata,Sat Apr 24 2021,Pescara,,AC Reggiana
+36^ Giornata,Sat Apr 24 2021,Cittadella,,Virtus Entella
+37^ Giornata,Sat May 1 2021,US Cremonese,,Pescara
+37^ Giornata,Sat May 1 2021,Ascoli,,Cittadella
+37^ Giornata,Sat May 1 2021,Virtus Entella,,AC Chievo Verona
+37^ Giornata,Sat May 1 2021,Cosenza Calcio,,SS Monza
+37^ Giornata,Sat May 1 2021,US Lecce,,Reggina 1914
+37^ Giornata,Sat May 1 2021,Brescia Calcio,,AC Pisa
+37^ Giornata,Sat May 1 2021,AC Reggiana,,SPAL Ferrara
+37^ Giornata,Sat May 1 2021,Frosinone,,LR Vicenza Virtus
+37^ Giornata,Sat May 1 2021,Venezia,,Pordenone Calcio
+37^ Giornata,Sat May 1 2021,Salernitana,,Empoli
+38^ Giornata,Fri May 7 2021,AC Chievo Verona,,Ascoli
+38^ Giornata,Fri May 7 2021,AC Pisa,,Virtus Entella
+38^ Giornata,Fri May 7 2021,Pescara,,Salernitana
+38^ Giornata,Fri May 7 2021,Empoli,,US Lecce
+38^ Giornata,Fri May 7 2021,LR Vicenza Virtus,,AC Reggiana
+38^ Giornata,Fri May 7 2021,Pordenone Calcio,,Cosenza Calcio
+38^ Giornata,Fri May 7 2021,Reggina 1914,,Frosinone
+38^ Giornata,Fri May 7 2021,SPAL Ferrara,,US Cremonese
+38^ Giornata,Fri May 7 2021,Cittadella,,Venezia
+38^ Giornata,Fri May 7 2021,SS Monza,,Brescia Calcio
+6^ Giornata,Sun Oct 31 2021,Cittadella,,SS Monza
+6^ Giornata,Sun Oct 31 2021,Ascoli,,Pordenone Calcio
+6^ Giornata,Sun Oct 31 2021,Brescia Calcio,,Virtus Entella
+6^ Giornata,Sun Oct 31 2021,AC Chievo Verona,,Cosenza Calcio
+6^ Giornata,Sun Oct 31 2021,Venezia,,Empoli
+6^ Giornata,Sun Oct 31 2021,Frosinone,,US Cremonese
+6^ Giornata,Sun Oct 31 2021,LR Vicenza Virtus,,AC Pisa
+6^ Giornata,Sun Oct 31 2021,Reggina 1914,,SPAL Ferrara
+6^ Giornata,Sun Oct 31 2021,US Lecce,,Pescara
+9^ Giornata,Sun Nov 28 2021,AC Pisa,,Cittadella
+9^ Giornata,Sun Nov 28 2021,Brescia Calcio,,Frosinone
+9^ Giornata,Sun Nov 28 2021,AC Chievo Verona,,US Lecce
+9^ Giornata,Sun Nov 28 2021,Cosenza Calcio,,Salernitana
+9^ Giornata,Sun Nov 28 2021,SS Monza,,Reggina 1914
+9^ Giornata,Sun Nov 28 2021,Empoli,,LR Vicenza Virtus
+9^ Giornata,Sun Nov 28 2021,Venezia,,Ascoli
+9^ Giornata,Sun Nov 28 2021,AC Reggiana,,US Cremonese
+9^ Giornata,Sun Nov 28 2021,Pescara,,Pordenone Calcio
+11^ Giornata,Sun Dec 12 2021,AC Pisa,,Pordenone Calcio
+11^ Giornata,Sun Dec 12 2021,Cittadella,,SPAL Ferrara
+11^ Giornata,Sun Dec 12 2021,Brescia Calcio,,Salernitana
+11^ Giornata,Sun Dec 12 2021,AC Chievo Verona,,Reggina 1914
+11^ Giornata,Sun Dec 12 2021,Cosenza Calcio,,AC Reggiana
+11^ Giornata,Sun Dec 12 2021,Pescara,,LR Vicenza Virtus
+11^ Giornata,Sun Dec 12 2021,Venezia,,SS Monza
+11^ Giornata,Sun Dec 12 2021,US Cremonese,,Ascoli
+11^ Giornata,Sun Dec 12 2021,US Lecce,,Frosinone

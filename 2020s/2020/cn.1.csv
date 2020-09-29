@@ -1,113 +1,113 @@
 Round,Date,Team 1,FT,Team 2
-1,Sat Jul 25 2020,Guangzhou Evergrande Taobao,,Shanghai Shenxin
-1,Sat Jul 25 2020,Wuhan Zall,,Qingdao Huanghai FC
-1,Sun Jul 26 2020,Dalian Yifang,,Shandong Luneng Taishan
-1,Sun Jul 26 2020,Hebei China Fortune,,Shijiazhuang Ever Bright
-1,Sun Jul 26 2020,Shenzhen FC,,Guangzhou R&F
-1,Sun Jul 26 2020,Henan Jianye,,Jiangsu Suning
-1,Sun Jul 26 2020,Chongqing Dangdai Lifan,,Beijing Sinobo Guoan
-1,Mon Jul 27 2020,Tianjin Tianhai,,Shanghai SIPG
-2,Thu Jul 30 2020,Shanghai Shenxin,,Shenzhen FC
-2,Thu Jul 30 2020,Guangzhou R&F,,Guangzhou Evergrande Taobao
-2,Fri Jul 31 2020,Jiangsu Suning,,Shandong Luneng Taishan
-2,Fri Jul 31 2020,Dalian Yifang,,Henan Jianye
-2,Sat Aug 1 2020,Beijing Sinobo Guoan,,Wuhan Zall
-2,Sat Aug 1 2020,Shijiazhuang Ever Bright,,Qingdao Huanghai FC
-2,Sun Aug 2 2020,Shanghai SIPG,,Hebei China Fortune
-2,Sun Aug 2 2020,Chongqing Dangdai Lifan,,Tianjin Tianhai
-3,Tue Aug 4 2020,Shenzhen FC,,Guangzhou Evergrande Taobao
-3,Tue Aug 4 2020,Jiangsu Suning,,Dalian Yifang
-3,Wed Aug 5 2020,Shandong Luneng Taishan,,Shanghai Shenxin
-3,Wed Aug 5 2020,Henan Jianye,,Guangzhou R&F
-3,Thu Aug 6 2020,Tianjin Tianhai,,Beijing Sinobo Guoan
-3,Thu Aug 6 2020,Qingdao Huanghai FC,,Shanghai SIPG
-3,Fri Aug 7 2020,Wuhan Zall,,Shijiazhuang Ever Bright
-3,Fri Aug 7 2020,Hebei China Fortune,,Chongqing Dangdai Lifan
-4,Sun Aug 9 2020,Guangzhou Evergrande Taobao,,Shandong Luneng Taishan
-4,Sun Aug 9 2020,Guangzhou R&F,,Jiangsu Suning
-4,Mon Aug 10 2020,Shanghai Shenxin,,Dalian Yifang
-4,Mon Aug 10 2020,Shenzhen FC,,Henan Jianye
-4,Tue Aug 11 2020,Shijiazhuang Ever Bright,,Tianjin Tianhai
-4,Tue Aug 11 2020,Chongqing Dangdai Lifan,,Qingdao Huanghai FC
-4,Wed Aug 12 2020,Shanghai SIPG,,Wuhan Zall
-4,Wed Aug 12 2020,Beijing Sinobo Guoan,,Hebei China Fortune
-5,Fri Aug 14 2020,Henan Jianye,,Guangzhou Evergrande Taobao
-5,Fri Aug 14 2020,Jiangsu Suning,,Shanghai Shenxin
-5,Sat Aug 15 2020,Shandong Luneng Taishan,,Shenzhen FC
-5,Sat Aug 15 2020,Dalian Yifang,,Guangzhou R&F
-5,Sun Aug 16 2020,Qingdao Huanghai FC,,Beijing Sinobo Guoan
-5,Sun Aug 16 2020,Shanghai SIPG,,Shijiazhuang Ever Bright
-5,Mon Aug 17 2020,Wuhan Zall,,Chongqing Dangdai Lifan
-5,Mon Aug 17 2020,Hebei China Fortune,,Tianjin Tianhai
-6,Wed Aug 19 2020,Shandong Luneng Taishan,,Henan Jianye
-6,Wed Aug 19 2020,Shanghai Shenxin,,Guangzhou R&F
-6,Thu Aug 20 2020,Guangzhou Evergrande Taobao,,Jiangsu Suning
-6,Thu Aug 20 2020,Shenzhen FC,,Dalian Yifang
-6,Fri Aug 21 2020,Hebei China Fortune,,Wuhan Zall
-6,Fri Aug 21 2020,Chongqing Dangdai Lifan,,Shijiazhuang Ever Bright
-6,Sat Aug 22 2020,Tianjin Tianhai,,Qingdao Huanghai FC
-6,Sat Aug 22 2020,Beijing Sinobo Guoan,,Shanghai SIPG
-7,Mon Aug 24 2020,Henan Jianye,,Shanghai Shenxin
-7,Mon Aug 24 2020,Jiangsu Suning,,Shenzhen FC
-7,Tue Aug 25 2020,Guangzhou R&F,,Shandong Luneng Taishan
-7,Tue Aug 25 2020,Dalian Yifang,,Guangzhou Evergrande Taobao
-7,Wed Aug 26 2020,Shanghai SIPG,,Chongqing Dangdai Lifan
-7,Wed Aug 26 2020,Wuhan Zall,,Tianjin Tianhai
-7,Thu Aug 27 2020,Shijiazhuang Ever Bright,,Beijing Sinobo Guoan
-7,Thu Aug 27 2020,Qingdao Huanghai FC,,Hebei China Fortune
-8,Sat Aug 29 2020,Guangzhou R&F,,Shenzhen FC
-8,Sat Aug 29 2020,Shandong Luneng Taishan,,Dalian Yifang
-8,Sun Aug 30 2020,Jiangsu Suning,,Henan Jianye
-8,Sun Aug 30 2020,Shanghai Shenxin,,Guangzhou Evergrande Taobao
-8,Mon Aug 31 2020,Shijiazhuang Ever Bright,,Hebei China Fortune
-8,Mon Aug 31 2020,Shanghai SIPG,,Tianjin Tianhai
-8,Tue Sep 1 2020,Qingdao Huanghai FC,,Wuhan Zall
-8,Tue Sep 1 2020,Beijing Sinobo Guoan,,Chongqing Dangdai Lifan
-9,Thu Sep 3 2020,Henan Jianye,,Dalian Yifang
-9,Thu Sep 3 2020,Shandong Luneng Taishan,,Jiangsu Suning
-9,Fri Sep 4 2020,Shenzhen FC,,Shanghai Shenxin
-9,Fri Sep 4 2020,Guangzhou Evergrande Taobao,,Guangzhou R&F
-9,Sat Sep 5 2020,Hebei China Fortune,,Shanghai SIPG
-9,Sat Sep 5 2020,Qingdao Huanghai FC,,Shijiazhuang Ever Bright
-9,Sun Sep 6 2020,Tianjin Tianhai,,Chongqing Dangdai Lifan
-9,Sun Sep 6 2020,Wuhan Zall,,Beijing Sinobo Guoan
-10,Tue Sep 8 2020,Guangzhou R&F,,Henan Jianye
-10,Tue Sep 8 2020,Dalian Yifang,,Jiangsu Suning
-10,Wed Sep 9 2020,Guangzhou Evergrande Taobao,,Shenzhen FC
-10,Wed Sep 9 2020,Shanghai Shenxin,,Shandong Luneng Taishan
-10,Thu Sep 10 2020,Beijing Sinobo Guoan,,Tianjin Tianhai
-10,Thu Sep 10 2020,Shanghai SIPG,,Qingdao Huanghai FC
-10,Fri Sep 11 2020,Chongqing Dangdai Lifan,,Hebei China Fortune
-10,Fri Sep 11 2020,Shijiazhuang Ever Bright,,Wuhan Zall
-11,Sun Sep 13 2020,Jiangsu Suning,,Guangzhou R&F
-11,Sun Sep 13 2020,Shandong Luneng Taishan,,Guangzhou Evergrande Taobao
-11,Mon Sep 14 2020,Henan Jianye,,Shenzhen FC
-11,Mon Sep 14 2020,Dalian Yifang,,Shanghai Shenxin
-11,Tue Sep 15 2020,Wuhan Zall,,Shanghai SIPG
-11,Tue Sep 15 2020,Hebei China Fortune,,Beijing Sinobo Guoan
-11,Wed Sep 16 2020,Qingdao Huanghai FC,,Chongqing Dangdai Lifan
-11,Wed Sep 16 2020,Tianjin Tianhai,,Shijiazhuang Ever Bright
-12,Sat Sep 19 2020,Guangzhou Evergrande Taobao,,Henan Jianye
-12,Sat Sep 19 2020,Shenzhen FC,,Shandong Luneng Taishan
-12,Sat Sep 19 2020,Shanghai Shenxin,,Jiangsu Suning
-12,Sat Sep 19 2020,Guangzhou R&F,,Dalian Yifang
-12,Sun Sep 20 2020,Beijing Sinobo Guoan,,Qingdao Huanghai FC
-12,Sun Sep 20 2020,Tianjin Tianhai,,Hebei China Fortune
-12,Sun Sep 20 2020,Chongqing Dangdai Lifan,,Wuhan Zall
-12,Sun Sep 20 2020,Shijiazhuang Ever Bright,,Shanghai SIPG
-13,Wed Sep 23 2020,Guangzhou R&F,,Shanghai Shenxin
-13,Wed Sep 23 2020,Dalian Yifang,,Shenzhen FC
-13,Wed Sep 23 2020,Henan Jianye,,Shandong Luneng Taishan
-13,Wed Sep 23 2020,Jiangsu Suning,,Guangzhou Evergrande Taobao
-13,Thu Sep 24 2020,Shijiazhuang Ever Bright,,Chongqing Dangdai Lifan
-13,Thu Sep 24 2020,Qingdao Huanghai FC,,Tianjin Tianhai
-13,Thu Sep 24 2020,Wuhan Zall,,Hebei China Fortune
-13,Thu Sep 24 2020,Shanghai SIPG,,Beijing Sinobo Guoan
-14,Sun Sep 27 2020,Shenzhen FC,,Jiangsu Suning
-14,Sun Sep 27 2020,Shanghai Shenxin,,Henan Jianye
+1,Sat Jul 25 2020,Guangzhou Evergrande Taobao,2-0,Shanghai Greenland Shenhua
+1,Sat Jul 25 2020,Wuhan Zall,2-0,Qingdao Huanghai FC
+1,Sun Jul 26 2020,Dalian Yifang,2-3,Shandong Luneng Taishan
+1,Sun Jul 26 2020,Shenzhen FC,3-0,Guangzhou R&F
+1,Sun Jul 26 2020,Hebei China Fortune,2-2,Shijiazhuang Ever Bright
+1,Sun Jul 26 2020,Henan Jianye,3-4,Jiangsu Suning
+1,Sun Jul 26 2020,Chongqing Dangdai Lifan,1-2,Beijing Sinobo Guoan
+1,Mon Jul 27 2020,Tianjin TEDA,1-3,Shanghai SIPG
+2,Thu Jul 30 2020,Shanghai Greenland Shenhua,3-2,Shenzhen FC
+2,Thu Jul 30 2020,Guangzhou R&F,0-5,Guangzhou Evergrande Taobao
+2,Fri Jul 31 2020,Jiangsu Suning,0-0,Shandong Luneng Taishan
+2,Fri Jul 31 2020,Dalian Yifang,1-1,Henan Jianye
+2,Sat Aug 1 2020,Beijing Sinobo Guoan,1-0,Wuhan Zall
+2,Sat Aug 1 2020,Shijiazhuang Ever Bright,2-2,Qingdao Huanghai FC
+2,Sun Aug 2 2020,Shanghai SIPG,4-0,Hebei China Fortune
+2,Sun Aug 2 2020,Chongqing Dangdai Lifan,2-2,Tianjin TEDA
+3,Tue Aug 4 2020,Shenzhen FC,1-3,Guangzhou Evergrande Taobao
+3,Tue Aug 4 2020,Jiangsu Suning,2-1,Dalian Yifang
+3,Wed Aug 5 2020,Shandong Luneng Taishan,0-1,Shanghai Greenland Shenhua
+3,Wed Aug 5 2020,Henan Jianye,1-1,Guangzhou R&F
+3,Thu Aug 6 2020,Tianjin TEDA,1-3,Beijing Sinobo Guoan
+3,Thu Aug 6 2020,Qingdao Huanghai FC,1-1,Shanghai SIPG
+3,Fri Aug 7 2020,Wuhan Zall,2-1,Shijiazhuang Ever Bright
+3,Fri Aug 7 2020,Hebei China Fortune,2-2,Chongqing Dangdai Lifan
+4,Sun Aug 9 2020,Guangzhou Evergrande Taobao,0-1,Shandong Luneng Taishan
+4,Sun Aug 9 2020,Guangzhou R&F,0-2,Jiangsu Suning
+4,Mon Aug 10 2020,Shanghai Greenland Shenhua,2-2,Dalian Yifang
+4,Mon Aug 10 2020,Shenzhen FC,1-2,Henan Jianye
+4,Tue Aug 11 2020,Shijiazhuang Ever Bright,3-0,Tianjin TEDA
+4,Tue Aug 11 2020,Chongqing Dangdai Lifan,0-0,Qingdao Huanghai FC
+4,Wed Aug 12 2020,Shanghai SIPG,2-1,Wuhan Zall
+4,Wed Aug 12 2020,Beijing Sinobo Guoan,3-1,Hebei China Fortune
+5,Fri Aug 14 2020,Henan Jianye,1-3,Guangzhou Evergrande Taobao
+5,Fri Aug 14 2020,Jiangsu Suning,0-1,Shanghai Greenland Shenhua
+5,Sat Aug 15 2020,Shandong Luneng Taishan,2-0,Shenzhen FC
+5,Sun Aug 16 2020,Dalian Yifang,0-1,Guangzhou R&F
+5,Sun Aug 16 2020,Qingdao Huanghai FC,3-3,Beijing Sinobo Guoan
+5,Sun Aug 16 2020,Shanghai SIPG,1-1,Shijiazhuang Ever Bright
+5,Mon Aug 17 2020,Wuhan Zall,2-0,Chongqing Dangdai Lifan
+5,Mon Aug 17 2020,Hebei China Fortune,2-0,Tianjin TEDA
+6,Wed Aug 19 2020,Shandong Luneng Taishan,2-1,Henan Jianye
+6,Wed Aug 19 2020,Shanghai Greenland Shenhua,2-3,Guangzhou R&F
+6,Thu Aug 20 2020,Guangzhou Evergrande Taobao,2-1,Jiangsu Suning
+6,Thu Aug 20 2020,Shenzhen FC,3-2,Dalian Yifang
+6,Fri Aug 21 2020,Hebei China Fortune,3-1,Wuhan Zall
+6,Fri Aug 21 2020,Chongqing Dangdai Lifan,1-0,Shijiazhuang Ever Bright
+6,Sat Aug 22 2020,Tianjin TEDA,0-2,Qingdao Huanghai FC
+6,Sat Aug 22 2020,Beijing Sinobo Guoan,1-2,Shanghai SIPG
+7,Mon Aug 24 2020,Jiangsu Suning,1-1,Shenzhen FC
+7,Tue Aug 25 2020,Guangzhou R&F,1-5,Shandong Luneng Taishan
+7,Tue Aug 25 2020,Dalian Yifang,2-2,Guangzhou Evergrande Taobao
+7,Wed Aug 26 2020,Henan Jianye,0-0,Shanghai Greenland Shenhua
+7,Wed Aug 26 2020,Shanghai SIPG,3-0,Chongqing Dangdai Lifan
+7,Wed Aug 26 2020,Wuhan Zall,2-1,Tianjin TEDA
+7,Thu Aug 27 2020,Shijiazhuang Ever Bright,2-2,Beijing Sinobo Guoan
+7,Thu Aug 27 2020,Qingdao Huanghai FC,1-2,Hebei China Fortune
+8,Sat Aug 29 2020,Guangzhou R&F,0-2,Shenzhen FC
+8,Sat Aug 29 2020,Shandong Luneng Taishan,0-1,Dalian Yifang
+8,Sun Aug 30 2020,Jiangsu Suning,5-2,Henan Jianye
+8,Sun Aug 30 2020,Shanghai Greenland Shenhua,1-4,Guangzhou Evergrande Taobao
+8,Mon Aug 31 2020,Shijiazhuang Ever Bright,3-1,Hebei China Fortune
+8,Mon Aug 31 2020,Shanghai SIPG,4-1,Tianjin TEDA
+8,Tue Sep 1 2020,Qingdao Huanghai FC,0-3,Wuhan Zall
+8,Tue Sep 1 2020,Beijing Sinobo Guoan,5-2,Chongqing Dangdai Lifan
+9,Thu Sep 3 2020,Henan Jianye,0-4,Dalian Yifang
+9,Thu Sep 3 2020,Shandong Luneng Taishan,0-1,Jiangsu Suning
+9,Fri Sep 4 2020,Shenzhen FC,0-0,Shanghai Greenland Shenhua
+9,Fri Sep 4 2020,Guangzhou Evergrande Taobao,2-1,Guangzhou R&F
+9,Sat Sep 5 2020,Hebei China Fortune,2-0,Shanghai SIPG
+9,Sat Sep 5 2020,Qingdao Huanghai FC,0-1,Shijiazhuang Ever Bright
+9,Sun Sep 6 2020,Tianjin TEDA,1-2,Chongqing Dangdai Lifan
+9,Sun Sep 6 2020,Wuhan Zall,2-2,Beijing Sinobo Guoan
+10,Tue Sep 8 2020,Guangzhou R&F,3-1,Henan Jianye
+10,Tue Sep 8 2020,Dalian Yifang,1-1,Jiangsu Suning
+10,Wed Sep 9 2020,Guangzhou Evergrande Taobao,2-0,Shenzhen FC
+10,Wed Sep 9 2020,Shanghai Greenland Shenhua,1-1,Shandong Luneng Taishan
+10,Thu Sep 10 2020,Beijing Sinobo Guoan,2-0,Tianjin TEDA
+10,Thu Sep 10 2020,Shanghai SIPG,2-1,Qingdao Huanghai FC
+10,Fri Sep 11 2020,Chongqing Dangdai Lifan,3-1,Hebei China Fortune
+10,Fri Sep 11 2020,Shijiazhuang Ever Bright,1-0,Wuhan Zall
+11,Sun Sep 13 2020,Jiangsu Suning,3-3,Guangzhou R&F
+11,Sun Sep 13 2020,Shandong Luneng Taishan,1-2,Guangzhou Evergrande Taobao
+11,Mon Sep 14 2020,Henan Jianye,1-3,Shenzhen FC
+11,Mon Sep 14 2020,Dalian Yifang,1-1,Shanghai Greenland Shenhua
+11,Tue Sep 15 2020,Wuhan Zall,1-2,Shanghai SIPG
+11,Tue Sep 15 2020,Hebei China Fortune,3-3,Beijing Sinobo Guoan
+11,Wed Sep 16 2020,Qingdao Huanghai FC,0-3,Chongqing Dangdai Lifan
+11,Wed Sep 16 2020,Tianjin TEDA,1-1,Shijiazhuang Ever Bright
+12,Mon Sep 21 2020,Guangzhou Evergrande Taobao,2-1,Henan Jianye
+12,Mon Sep 21 2020,Shenzhen FC,1-2,Shandong Luneng Taishan
+12,Mon Sep 21 2020,Shanghai Greenland Shenhua,0-0,Jiangsu Suning
+12,Mon Sep 21 2020,Guangzhou R&F,1-0,Dalian Yifang
+12,Tue Sep 22 2020,Beijing Sinobo Guoan,5-1,Qingdao Huanghai FC
+12,Tue Sep 22 2020,Tianjin TEDA,0-1,Hebei China Fortune
+12,Tue Sep 22 2020,Chongqing Dangdai Lifan,1-0,Wuhan Zall
+12,Tue Sep 22 2020,Shijiazhuang Ever Bright,0-1,Shanghai SIPG
+13,Thu Sep 24 2020,Henan Jianye,0-2,Shandong Luneng Taishan
+13,Thu Sep 24 2020,Jiangsu Suning,2-1,Guangzhou Evergrande Taobao
+13,Thu Sep 24 2020,Guangzhou R&F,0-2,Shanghai Greenland Shenhua
+13,Thu Sep 24 2020,Dalian Yifang,1-3,Shenzhen FC
+13,Fri Sep 25 2020,Qingdao Huanghai FC,3-0,Tianjin TEDA
+13,Fri Sep 25 2020,Shijiazhuang Ever Bright,1-4,Chongqing Dangdai Lifan
+13,Fri Sep 25 2020,Wuhan Zall,0-2,Hebei China Fortune
+13,Fri Sep 25 2020,Shanghai SIPG,1-0,Beijing Sinobo Guoan
 14,Sun Sep 27 2020,Shandong Luneng Taishan,,Guangzhou R&F
+14,Sun Sep 27 2020,Shanghai Greenland Shenhua,,Henan Jianye
+14,Sun Sep 27 2020,Shenzhen FC,,Jiangsu Suning
 14,Sun Sep 27 2020,Guangzhou Evergrande Taobao,,Dalian Yifang
 14,Mon Sep 28 2020,Beijing Sinobo Guoan,,Shijiazhuang Ever Bright
+14,Mon Sep 28 2020,Tianjin TEDA,,Wuhan Zall
 14,Mon Sep 28 2020,Hebei China Fortune,,Qingdao Huanghai FC
 14,Mon Sep 28 2020,Chongqing Dangdai Lifan,,Shanghai SIPG
-14,Mon Sep 28 2020,Tianjin Tianhai,,Wuhan Zall

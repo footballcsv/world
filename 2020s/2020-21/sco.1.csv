@@ -6,65 +6,65 @@ Regular Season,1,Sat Aug 1 2020,Saint Mirren FC,1-0,Livingston FC
 Regular Season,1,Sun Aug 2 2020,Celtic FC,5-1,Hamilton Academical FC
 Regular Season,1,Mon Aug 3 2020,Ross County FC,1-0,Motherwell FC
 Regular Season,2,Sat Aug 8 2020,Hamilton Academical FC,0-1,Ross County FC
-Regular Season,2,Sat Aug 8 2020,Livingston FC,1-4,Hibernian FC
 Regular Season,2,Sat Aug 8 2020,Motherwell FC,0-1,Dundee United
+Regular Season,2,Sat Aug 8 2020,Livingston FC,1-4,Hibernian FC
 Regular Season,2,Sun Aug 9 2020,Rangers FC,3-0,Saint Mirren FC
 Regular Season,2,Sun Aug 9 2020,Kilmarnock FC,1-1,Celtic FC
 Regular Season,3,Tue Aug 11 2020,Dundee United,0-1,Hibernian FC
 Regular Season,3,Wed Aug 12 2020,Ross County FC,2-2,Kilmarnock FC
 Regular Season,3,Wed Aug 12 2020,Rangers FC,3-0,St Johnstone FC
-Regular Season,3,Wed Aug 12 2020,Aberdeen FC,,Hamilton Academical FC
 Regular Season,3,Wed Aug 12 2020,Motherwell FC,2-2,Livingston FC
-Regular Season,3,Wed Aug 12 2020,Saint Mirren FC,,Celtic FC
+Regular Season,3,Wed Aug 12 2020,Aberdeen FC,,Hamilton Academical FC
+Regular Season,4,Sat Aug 15 2020,Ross County FC,1-2,Dundee United
 Regular Season,4,Sat Aug 15 2020,Hibernian FC,0-0,Motherwell FC
 Regular Season,4,Sat Aug 15 2020,Celtic FC,,Aberdeen FC
-Regular Season,4,Sat Aug 15 2020,Hamilton Academical FC,0-1,Saint Mirren FC
-Regular Season,4,Sat Aug 15 2020,Ross County FC,1-2,Dundee United
 Regular Season,4,Sat Aug 15 2020,Kilmarnock FC,1-2,St Johnstone FC
+Regular Season,4,Sat Aug 15 2020,Hamilton Academical FC,0-1,Saint Mirren FC
 Regular Season,4,Sun Aug 16 2020,Livingston FC,0-0,Rangers FC
 Regular Season,2,Thu Aug 20 2020,St Johnstone FC,0-1,Aberdeen FC
-Regular Season,5,Sat Aug 22 2020,Motherwell FC,0-1,Hamilton Academical FC
-Regular Season,5,Sat Aug 22 2020,Rangers FC,2-0,Kilmarnock FC
 Regular Season,5,Sat Aug 22 2020,Dundee United,0-1,Celtic FC
+Regular Season,5,Sat Aug 22 2020,Motherwell FC,0-1,Hamilton Academical FC
 Regular Season,5,Sat Aug 22 2020,Saint Mirren FC,1-1,Ross County FC
+Regular Season,5,Sat Aug 22 2020,Rangers FC,2-0,Kilmarnock FC
 Regular Season,5,Sun Aug 23 2020,Aberdeen FC,2-1,Livingston FC
 Regular Season,5,Sun Aug 23 2020,St Johnstone FC,0-1,Hibernian FC
 Regular Season,6,Sat Aug 29 2020,Kilmarnock FC,4-0,Dundee United
+Regular Season,6,Sat Aug 29 2020,Livingston FC,1-0,Ross County FC
 Regular Season,6,Sat Aug 29 2020,Hamilton Academical FC,0-2,Rangers FC
 Regular Season,6,Sat Aug 29 2020,St Johnstone FC,1-0,Saint Mirren FC
-Regular Season,6,Sat Aug 29 2020,Livingston FC,1-0,Ross County FC
-Regular Season,6,Sun Aug 30 2020,Hibernian FC,0-1,Aberdeen FC
 Regular Season,6,Sun Aug 30 2020,Celtic FC,3-0,Motherwell FC
-Regular Season,7,Sat Sep 12 2020,Aberdeen FC,,Kilmarnock FC
-Regular Season,7,Sat Sep 12 2020,Livingston FC,,Hamilton Academical FC
-Regular Season,7,Sat Sep 12 2020,Motherwell FC,,St Johnstone FC
-Regular Season,7,Sat Sep 12 2020,Rangers FC,,Dundee United
-Regular Season,7,Sat Sep 12 2020,Saint Mirren FC,,Hibernian FC
-Regular Season,7,Sat Sep 12 2020,Ross County FC,,Celtic FC
-Regular Season,8,Sat Sep 19 2020,Aberdeen FC,,Motherwell FC
-Regular Season,8,Sat Sep 19 2020,Celtic FC,,Livingston FC
-Regular Season,8,Sat Sep 19 2020,Dundee United,,Saint Mirren FC
-Regular Season,8,Sat Sep 19 2020,Hibernian FC,,Rangers FC
-Regular Season,8,Sat Sep 19 2020,Kilmarnock FC,,Hamilton Academical FC
-Regular Season,8,Sat Sep 19 2020,St Johnstone FC,,Ross County FC
-Regular Season,9,Sat Sep 26 2020,Celtic FC,,Hibernian FC
-Regular Season,9,Sat Sep 26 2020,Hamilton Academical FC,,Dundee United
-Regular Season,9,Sat Sep 26 2020,Saint Mirren FC,,Kilmarnock FC
-Regular Season,9,Sat Sep 26 2020,Motherwell FC,,Rangers FC
-Regular Season,9,Sat Sep 26 2020,Ross County FC,,Aberdeen FC
-Regular Season,9,Sat Sep 26 2020,Livingston FC,,St Johnstone FC
-Regular Season,10,Fri Oct 2 2020,Aberdeen FC,,Saint Mirren FC
+Regular Season,6,Sun Aug 30 2020,Hibernian FC,0-1,Aberdeen FC
+Regular Season,7,Sat Sep 12 2020,Motherwell FC,1-0,St Johnstone FC
+Regular Season,7,Sat Sep 12 2020,Aberdeen FC,1-0,Kilmarnock FC
+Regular Season,7,Sat Sep 12 2020,Livingston FC,1-2,Hamilton Academical FC
+Regular Season,7,Sat Sep 12 2020,Saint Mirren FC,0-3,Hibernian FC
+Regular Season,7,Sat Sep 12 2020,Rangers FC,4-0,Dundee United
+Regular Season,7,Sat Sep 12 2020,Ross County FC,0-5,Celtic FC
+Regular Season,3,Wed Sep 16 2020,Saint Mirren FC,1-2,Celtic FC
+Regular Season,8,Sat Sep 19 2020,Celtic FC,3-2,Livingston FC
+Regular Season,8,Sat Sep 19 2020,Dundee United,2-1,Saint Mirren FC
+Regular Season,8,Sat Sep 19 2020,St Johnstone FC,0-1,Ross County FC
+Regular Season,8,Sat Sep 19 2020,Kilmarnock FC,2-1,Hamilton Academical FC
+Regular Season,8,Sun Sep 20 2020,Aberdeen FC,0-3,Motherwell FC
+Regular Season,8,Sun Sep 20 2020,Hibernian FC,2-2,Rangers FC
+Regular Season,9,Sat Sep 26 2020,Hamilton Academical FC,1-1,Dundee United
+Regular Season,9,Sat Sep 26 2020,Livingston FC,2-0,St Johnstone FC
+Regular Season,9,Sat Sep 26 2020,Saint Mirren FC,0-1,Kilmarnock FC
+Regular Season,9,Sun Sep 27 2020,Motherwell FC,,Rangers FC
+Regular Season,9,Sun Sep 27 2020,Celtic FC,,Hibernian FC
+Regular Season,9,Sun Sep 27 2020,Ross County FC,,Aberdeen FC
 Regular Season,10,Fri Oct 2 2020,Dundee United,,Livingston FC
+Regular Season,10,Fri Oct 2 2020,Aberdeen FC,,Saint Mirren FC
 Regular Season,10,Fri Oct 2 2020,Hibernian FC,,Hamilton Academical FC
 Regular Season,10,Fri Oct 2 2020,Kilmarnock FC,,Motherwell FC
-Regular Season,10,Fri Oct 2 2020,Rangers FC,,Ross County FC
 Regular Season,10,Fri Oct 2 2020,St Johnstone FC,,Celtic FC
+Regular Season,10,Fri Oct 2 2020,Rangers FC,,Ross County FC
 Regular Season,11,Sat Oct 17 2020,Celtic FC,,Rangers FC
 Regular Season,11,Sat Oct 17 2020,Dundee United,,Aberdeen FC
 Regular Season,11,Sat Oct 17 2020,Hamilton Academical FC,,St Johnstone FC
 Regular Season,11,Sat Oct 17 2020,Livingston FC,,Kilmarnock FC
-Regular Season,11,Sat Oct 17 2020,Ross County FC,,Hibernian FC
 Regular Season,11,Sat Oct 17 2020,Saint Mirren FC,,Motherwell FC
+Regular Season,11,Sat Oct 17 2020,Ross County FC,,Hibernian FC
 Regular Season,12,Sat Oct 24 2020,Aberdeen FC,,Celtic FC
 Regular Season,12,Sat Oct 24 2020,Kilmarnock FC,,Hibernian FC
 Regular Season,12,Sat Oct 24 2020,Motherwell FC,,Ross County FC
@@ -72,11 +72,11 @@ Regular Season,12,Sat Oct 24 2020,Rangers FC,,Livingston FC
 Regular Season,12,Sat Oct 24 2020,St Johnstone FC,,Dundee United
 Regular Season,12,Sat Oct 24 2020,Saint Mirren FC,,Hamilton Academical FC
 Regular Season,13,Sat Oct 31 2020,Celtic FC,,Saint Mirren FC
-Regular Season,13,Sat Oct 31 2020,Dundee United,,Ross County FC
 Regular Season,13,Sat Oct 31 2020,Hamilton Academical FC,,Aberdeen FC
 Regular Season,13,Sat Oct 31 2020,Hibernian FC,,St Johnstone FC
-Regular Season,13,Sat Oct 31 2020,Kilmarnock FC,,Rangers FC
+Regular Season,13,Sat Oct 31 2020,Dundee United,,Ross County FC
 Regular Season,13,Sat Oct 31 2020,Livingston FC,,Motherwell FC
+Regular Season,13,Sat Oct 31 2020,Kilmarnock FC,,Rangers FC
 Regular Season,14,Fri Nov 6 2020,Aberdeen FC,,Hibernian FC
 Regular Season,14,Fri Nov 6 2020,Motherwell FC,,Celtic FC
 Regular Season,14,Fri Nov 6 2020,Rangers FC,,Hamilton Academical FC
