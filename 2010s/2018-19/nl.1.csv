@@ -1,18 +1,18 @@
 Round,Date,Team 1,FT,Team 2
 1,Fri Aug 10 2018,PEC Zwolle,2-3,SC Heerenveen
-1,Sat Aug 11 2018,Ajax Amsterdam,1-1,Heracles Almelo
 1,Sat Aug 11 2018,Willem II Tilburg,0-1,VVV Venlo
+1,Sat Aug 11 2018,Ajax Amsterdam,1-1,Heracles Almelo
 1,Sat Aug 11 2018,PSV Eindhoven,4-0,FC Utrecht
 1,Sat Aug 11 2018,SBV Excelsior Rotterdam,1-1,Fortuna Sittard
 1,Sun Aug 12 2018,ADO Den Haag,1-2,FC Emmen
-1,Sun Aug 12 2018,Vitesse Arnhem,5-1,FC Groningen
 1,Sun Aug 12 2018,BV De Graafschap,2-0,Feyenoord Rotterdam
+1,Sun Aug 12 2018,Vitesse Arnhem,5-1,FC Groningen
 1,Sun Aug 12 2018,AZ Alkmaar,5-0,NAC Breda
 2,Fri Aug 17 2018,FC Groningen,0-1,Willem II Tilburg
-2,Sat Aug 18 2018,NAC Breda,3-0,BV De Graafschap
 2,Sat Aug 18 2018,VVV Venlo,0-1,Ajax Amsterdam
-2,Sat Aug 18 2018,Heracles Almelo,4-2,ADO Den Haag
+2,Sat Aug 18 2018,NAC Breda,3-0,BV De Graafschap
 2,Sat Aug 18 2018,Fortuna Sittard,1-2,PSV Eindhoven
+2,Sat Aug 18 2018,Heracles Almelo,4-2,ADO Den Haag
 2,Sun Aug 19 2018,FC Utrecht,2-0,PEC Zwolle
 2,Sun Aug 19 2018,Feyenoord Rotterdam,3-0,SBV Excelsior Rotterdam
 2,Sun Aug 19 2018,FC Emmen,1-4,AZ Alkmaar
@@ -32,13 +32,13 @@ Round,Date,Team 1,FT,Team 2
 4,Sat Sep 1 2018,SBV Excelsior Rotterdam,2-4,ADO Den Haag
 4,Sat Sep 1 2018,Fortuna Sittard,1-1,FC Utrecht
 4,Sun Sep 2 2018,FC Groningen,0-1,PEC Zwolle
-4,Sun Sep 2 2018,Vitesse Arnhem,0-4,Ajax Amsterdam
 4,Sun Sep 2 2018,Heracles Almelo,3-2,AZ Alkmaar
+4,Sun Sep 2 2018,Vitesse Arnhem,0-4,Ajax Amsterdam
 4,Sun Sep 2 2018,Feyenoord Rotterdam,4-2,NAC Breda
-5,Sat Sep 15 2018,ADO Den Haag,0-7,PSV Eindhoven
 5,Sat Sep 15 2018,BV De Graafschap,1-2,VVV Venlo
-5,Sat Sep 15 2018,Ajax Amsterdam,3-0,FC Groningen
+5,Sat Sep 15 2018,ADO Den Haag,0-7,PSV Eindhoven
 5,Sat Sep 15 2018,Willem II Tilburg,2-2,SBV Excelsior Rotterdam
+5,Sat Sep 15 2018,Ajax Amsterdam,3-0,FC Groningen
 5,Sun Sep 16 2018,AZ Alkmaar,1-1,Feyenoord Rotterdam
 5,Sun Sep 16 2018,SC Heerenveen,3-5,Heracles Almelo
 5,Sun Sep 16 2018,FC Utrecht,1-2,FC Emmen
@@ -46,8 +46,8 @@ Round,Date,Team 1,FT,Team 2
 5,Sun Sep 16 2018,PEC Zwolle,0-2,Vitesse Arnhem
 6,Fri Sep 21 2018,Heracles Almelo,4-0,BV De Graafschap
 6,Sat Sep 22 2018,Fortuna Sittard,4-4,Willem II Tilburg
-6,Sat Sep 22 2018,VVV Venlo,3-0,NAC Breda
 6,Sat Sep 22 2018,SBV Excelsior Rotterdam,3-3,SC Heerenveen
+6,Sat Sep 22 2018,VVV Venlo,3-0,NAC Breda
 6,Sat Sep 22 2018,Vitesse Arnhem,1-1,ADO Den Haag
 6,Sun Sep 23 2018,Feyenoord Rotterdam,1-0,FC Utrecht
 6,Sun Sep 23 2018,FC Emmen,0-1,PEC Zwolle
@@ -64,20 +64,20 @@ Round,Date,Team 1,FT,Team 2
 7,Sun Sep 30 2018,Feyenoord Rotterdam,2-1,Vitesse Arnhem
 8,Fri Oct 5 2018,FC Utrecht,2-1,NAC Breda
 8,Sat Oct 6 2018,ADO Den Haag,1-0,FC Groningen
-8,Sat Oct 6 2018,PSV Eindhoven,4-0,VVV Venlo
 8,Sat Oct 6 2018,PEC Zwolle,2-0,SBV Excelsior Rotterdam
+8,Sat Oct 6 2018,PSV Eindhoven,4-0,VVV Venlo
 8,Sat Oct 6 2018,BV De Graafschap,0-5,SC Heerenveen
 8,Sun Oct 7 2018,FC Emmen,3-3,Fortuna Sittard
-8,Sun Oct 7 2018,Vitesse Arnhem,4-0,Heracles Almelo
 8,Sun Oct 7 2018,Willem II Tilburg,1-1,Feyenoord Rotterdam
+8,Sun Oct 7 2018,Vitesse Arnhem,4-0,Heracles Almelo
 8,Sun Oct 7 2018,Ajax Amsterdam,5-0,AZ Alkmaar
 9,Sat Oct 20 2018,PSV Eindhoven,6-0,FC Emmen
 9,Sat Oct 20 2018,SBV Excelsior Rotterdam,2-0,Vitesse Arnhem
 9,Sat Oct 20 2018,SC Heerenveen,0-4,Ajax Amsterdam
 9,Sat Oct 20 2018,FC Utrecht,2-1,AZ Alkmaar
 9,Sun Oct 21 2018,NAC Breda,2-2,Willem II Tilburg
-9,Sun Oct 21 2018,Feyenoord Rotterdam,3-0,PEC Zwolle
 9,Sun Oct 21 2018,Heracles Almelo,4-1,FC Groningen
+9,Sun Oct 21 2018,Feyenoord Rotterdam,3-0,PEC Zwolle
 9,Sun Oct 21 2018,VVV Venlo,2-0,ADO Den Haag
 9,Sun Oct 21 2018,Fortuna Sittard,3-1,BV De Graafschap
 10,Fri Oct 26 2018,FC Emmen,1-1,VVV Venlo
@@ -86,39 +86,39 @@ Round,Date,Team 1,FT,Team 2
 10,Sat Oct 27 2018,BV De Graafschap,4-1,SBV Excelsior Rotterdam
 10,Sat Oct 27 2018,PEC Zwolle,1-1,Heracles Almelo
 10,Sun Oct 28 2018,Vitesse Arnhem,2-1,Fortuna Sittard
-10,Sun Oct 28 2018,Ajax Amsterdam,3-0,Feyenoord Rotterdam
 10,Sun Oct 28 2018,Willem II Tilburg,0-1,FC Utrecht
+10,Sun Oct 28 2018,Ajax Amsterdam,3-0,Feyenoord Rotterdam
 10,Sun Oct 28 2018,AZ Alkmaar,2-3,SC Heerenveen
 11,Fri Nov 2 2018,SBV Excelsior Rotterdam,2-4,FC Groningen
-11,Sat Nov 3 2018,NAC Breda,2-1,Heracles Almelo
 11,Sat Nov 3 2018,PSV Eindhoven,1-0,Vitesse Arnhem
-11,Sat Nov 3 2018,Ajax Amsterdam,2-0,Willem II Tilburg
+11,Sat Nov 3 2018,NAC Breda,2-1,Heracles Almelo
 11,Sat Nov 3 2018,AZ Alkmaar,1-0,BV De Graafschap
+11,Sat Nov 3 2018,Ajax Amsterdam,2-0,Willem II Tilburg
 11,Sun Nov 4 2018,SC Heerenveen,1-1,FC Emmen
-11,Sun Nov 4 2018,FC Utrecht,3-0,ADO Den Haag
 11,Sun Nov 4 2018,Fortuna Sittard,3-0,PEC Zwolle
+11,Sun Nov 4 2018,FC Utrecht,3-0,ADO Den Haag
 12,Fri Nov 9 2018,PEC Zwolle,2-3,Willem II Tilburg
 12,Sat Nov 10 2018,FC Emmen,2-0,NAC Breda
-12,Sat Nov 10 2018,Vitesse Arnhem,2-1,FC Utrecht
 12,Sat Nov 10 2018,BV De Graafschap,1-4,PSV Eindhoven
+12,Sat Nov 10 2018,Vitesse Arnhem,2-1,FC Utrecht
 12,Sat Nov 10 2018,VVV Venlo,3-2,Fortuna Sittard
 12,Sun Nov 11 2018,FC Groningen,2-0,SC Heerenveen
 12,Sun Nov 11 2018,ADO Den Haag,0-1,AZ Alkmaar
 12,Sun Nov 11 2018,SBV Excelsior Rotterdam,1-7,Ajax Amsterdam
 12,Sun Nov 11 2018,Heracles Almelo,0-2,Feyenoord Rotterdam
-13,Sat Nov 24 2018,PEC Zwolle,2-3,ADO Den Haag
 13,Sat Nov 24 2018,NAC Breda,0-3,Ajax Amsterdam
-13,Sat Nov 24 2018,PSV Eindhoven,3-0,SC Heerenveen
+13,Sat Nov 24 2018,PEC Zwolle,2-3,ADO Den Haag
 13,Sat Nov 24 2018,Fortuna Sittard,3-0,Heracles Almelo
+13,Sat Nov 24 2018,PSV Eindhoven,3-0,SC Heerenveen
 13,Sun Nov 25 2018,FC Emmen,1-2,SBV Excelsior Rotterdam
-13,Sun Nov 25 2018,Feyenoord Rotterdam,1-0,FC Groningen
-13,Sun Nov 25 2018,FC Utrecht,5-0,BV De Graafschap
 13,Sun Nov 25 2018,Willem II Tilburg,1-3,Vitesse Arnhem
+13,Sun Nov 25 2018,FC Utrecht,5-0,BV De Graafschap
+13,Sun Nov 25 2018,Feyenoord Rotterdam,1-0,FC Groningen
 13,Sun Nov 25 2018,VVV Venlo,2-2,AZ Alkmaar
 14,Fri Nov 30 2018,SBV Excelsior Rotterdam,3-3,FC Utrecht
 14,Sat Dec 1 2018,Vitesse Arnhem,1-1,FC Emmen
-14,Sat Dec 1 2018,AZ Alkmaar,0-2,Willem II Tilburg
 14,Sat Dec 1 2018,BV De Graafschap,0-2,PEC Zwolle
+14,Sat Dec 1 2018,AZ Alkmaar,0-2,Willem II Tilburg
 14,Sat Dec 1 2018,SC Heerenveen,3-1,Fortuna Sittard
 14,Sun Dec 2 2018,Ajax Amsterdam,5-1,ADO Den Haag
 14,Sun Dec 2 2018,Feyenoord Rotterdam,2-1,PSV Eindhoven
@@ -136,8 +136,8 @@ Round,Date,Team 1,FT,Team 2
 15,Sun Dec 9 2018,NAC Breda,2-1,Vitesse Arnhem
 16,Fri Dec 14 2018,Willem II Tilburg,0-3,ADO Den Haag
 16,Sat Dec 15 2018,PEC Zwolle,0-0,NAC Breda
-16,Sat Dec 15 2018,AZ Alkmaar,2-1,SBV Excelsior Rotterdam
 16,Sat Dec 15 2018,Heracles Almelo,0-4,PSV Eindhoven
+16,Sat Dec 15 2018,AZ Alkmaar,2-1,SBV Excelsior Rotterdam
 16,Sat Dec 15 2018,Vitesse Arnhem,2-1,VVV Venlo
 16,Sun Dec 16 2018,SC Heerenveen,2-3,FC Utrecht
 16,Sun Dec 16 2018,Ajax Amsterdam,8-0,BV De Graafschap
@@ -154,8 +154,8 @@ Round,Date,Team 1,FT,Team 2
 17,Sun Dec 23 2018,FC Emmen,0-2,Willem II Tilburg
 18,Fri Jan 18 2019,Vitesse Arnhem,3-2,SBV Excelsior Rotterdam
 18,Sat Jan 19 2019,AZ Alkmaar,3-0,FC Utrecht
-18,Sat Jan 19 2019,ADO Den Haag,2-4,VVV Venlo
 18,Sat Jan 19 2019,PEC Zwolle,3-1,Feyenoord Rotterdam
+18,Sat Jan 19 2019,ADO Den Haag,2-4,VVV Venlo
 18,Sat Jan 19 2019,FC Groningen,3-0,Heracles Almelo
 18,Sun Jan 20 2019,Willem II Tilburg,2-0,NAC Breda
 18,Sun Jan 20 2019,BV De Graafschap,5-1,Fortuna Sittard
@@ -167,23 +167,23 @@ Round,Date,Team 1,FT,Team 2
 19,Sat Jan 26 2019,PSV Eindhoven,2-1,FC Groningen
 19,Sat Jan 26 2019,VVV Venlo,2-3,FC Emmen
 19,Sun Jan 27 2019,Fortuna Sittard,2-1,Vitesse Arnhem
-19,Sun Jan 27 2019,Feyenoord Rotterdam,6-2,Ajax Amsterdam
 19,Sun Jan 27 2019,FC Utrecht,0-1,Willem II Tilburg
+19,Sun Jan 27 2019,Feyenoord Rotterdam,6-2,Ajax Amsterdam
 19,Sun Jan 27 2019,SC Heerenveen,0-2,AZ Alkmaar
 20,Fri Feb 1 2019,BV De Graafschap,3-0,NAC Breda
 20,Sat Feb 2 2019,Vitesse Arnhem,2-2,SC Heerenveen
-20,Sat Feb 2 2019,Ajax Amsterdam,6-0,VVV Venlo
 20,Sat Feb 2 2019,Willem II Tilburg,1-2,FC Groningen
+20,Sat Feb 2 2019,Ajax Amsterdam,6-0,VVV Venlo
 20,Sat Feb 2 2019,AZ Alkmaar,5-0,FC Emmen
 20,Sun Feb 3 2019,SBV Excelsior Rotterdam,2-1,Feyenoord Rotterdam
-20,Sun Feb 3 2019,PSV Eindhoven,5-0,Fortuna Sittard
 20,Sun Feb 3 2019,PEC Zwolle,4-3,FC Utrecht
+20,Sun Feb 3 2019,PSV Eindhoven,5-0,Fortuna Sittard
 20,Sun Feb 3 2019,ADO Den Haag,2-0,Heracles Almelo
 21,Fri Feb 8 2019,NAC Breda,0-3,AZ Alkmaar
-21,Sat Feb 9 2019,SC Heerenveen,1-1,PEC Zwolle
 21,Sat Feb 9 2019,Heracles Almelo,1-0,Ajax Amsterdam
-21,Sat Feb 9 2019,Feyenoord Rotterdam,4-0,BV De Graafschap
+21,Sat Feb 9 2019,SC Heerenveen,1-1,PEC Zwolle
 21,Sat Feb 9 2019,VVV Venlo,2-1,Willem II Tilburg
+21,Sat Feb 9 2019,Feyenoord Rotterdam,4-0,BV De Graafschap
 21,Sun Feb 10 2019,Fortuna Sittard,4-1,SBV Excelsior Rotterdam
 21,Sun Feb 10 2019,FC Groningen,2-1,Vitesse Arnhem
 21,Sun Feb 10 2019,FC Emmen,3-2,ADO Den Haag
@@ -194,8 +194,8 @@ Round,Date,Team 1,FT,Team 2
 22,Sat Feb 16 2019,Heracles Almelo,6-0,Fortuna Sittard
 22,Sat Feb 16 2019,Vitesse Arnhem,3-2,Willem II Tilburg
 22,Sun Feb 17 2019,Ajax Amsterdam,5-0,NAC Breda
-22,Sun Feb 17 2019,FC Groningen,1-0,Feyenoord Rotterdam
 22,Sun Feb 17 2019,SBV Excelsior Rotterdam,2-1,FC Emmen
+22,Sun Feb 17 2019,FC Groningen,1-0,Feyenoord Rotterdam
 22,Sun Feb 17 2019,BV De Graafschap,0-1,FC Utrecht
 23,Fri Feb 22 2019,VVV Venlo,0-1,Heracles Almelo
 23,Sat Feb 23 2019,FC Utrecht,0-0,SBV Excelsior Rotterdam
@@ -216,12 +216,12 @@ Round,Date,Team 1,FT,Team 2
 24,Sun Mar 3 2019,Feyenoord Rotterdam,4-0,FC Emmen
 25,Fri Mar 8 2019,FC Utrecht,0-0,FC Groningen
 25,Sat Mar 9 2019,VVV Venlo,1-0,SBV Excelsior Rotterdam
-25,Sat Mar 9 2019,PSV Eindhoven,2-0,NAC Breda
 25,Sat Mar 9 2019,ADO Den Haag,2-3,SC Heerenveen
+25,Sat Mar 9 2019,PSV Eindhoven,2-0,NAC Breda
 25,Sat Mar 9 2019,Willem II Tilburg,3-2,BV De Graafschap
 25,Sun Mar 10 2019,PEC Zwolle,0-0,AZ Alkmaar
-25,Sun Mar 10 2019,Vitesse Arnhem,1-1,Feyenoord Rotterdam
 25,Sun Mar 10 2019,FC Emmen,1-1,Heracles Almelo
+25,Sun Mar 10 2019,Vitesse Arnhem,1-1,Feyenoord Rotterdam
 25,Sun Mar 10 2019,Ajax Amsterdam,4-0,Fortuna Sittard
 24,Wed Mar 13 2019,Ajax Amsterdam,2-1,PEC Zwolle
 26,Fri Mar 15 2019,Fortuna Sittard,3-1,FC Emmen
@@ -233,11 +233,11 @@ Round,Date,Team 1,FT,Team 2
 26,Sun Mar 17 2019,AZ Alkmaar,1-0,Ajax Amsterdam
 26,Sun Mar 17 2019,FC Groningen,1-0,ADO Den Haag
 26,Sun Mar 17 2019,SBV Excelsior Rotterdam,0-2,PEC Zwolle
-27,Sat Mar 30 2019,ADO Den Haag,3-3,Vitesse Arnhem
 27,Sat Mar 30 2019,Willem II Tilburg,3-2,Fortuna Sittard
+27,Sat Mar 30 2019,ADO Den Haag,3-3,Vitesse Arnhem
 27,Sat Mar 30 2019,BV De Graafschap,1-2,Heracles Almelo
-27,Sat Mar 30 2019,AZ Alkmaar,1-0,FC Groningen
 27,Sat Mar 30 2019,SC Heerenveen,1-0,SBV Excelsior Rotterdam
+27,Sat Mar 30 2019,AZ Alkmaar,1-0,FC Groningen
 27,Sun Mar 31 2019,NAC Breda,1-1,VVV Venlo
 27,Sun Mar 31 2019,FC Utrecht,3-2,Feyenoord Rotterdam
 27,Sun Mar 31 2019,PEC Zwolle,3-0,FC Emmen
@@ -246,8 +246,8 @@ Round,Date,Team 1,FT,Team 2
 28,Tue Apr 2 2019,Heracles Almelo,3-4,Willem II Tilburg
 28,Tue Apr 2 2019,FC Groningen,1-0,BV De Graafschap
 28,Wed Apr 3 2019,VVV Venlo,2-6,FC Utrecht
-28,Wed Apr 3 2019,Fortuna Sittard,0-0,ADO Den Haag
 28,Wed Apr 3 2019,SBV Excelsior Rotterdam,1-2,NAC Breda
+28,Wed Apr 3 2019,Fortuna Sittard,0-0,ADO Den Haag
 28,Wed Apr 3 2019,FC Emmen,2-5,Ajax Amsterdam
 28,Thu Apr 4 2019,PSV Eindhoven,4-0,PEC Zwolle
 28,Thu Apr 4 2019,Feyenoord Rotterdam,3-0,SC Heerenveen
@@ -257,8 +257,8 @@ Round,Date,Team 1,FT,Team 2
 29,Sat Apr 6 2019,BV De Graafschap,1-1,AZ Alkmaar
 29,Sat Apr 6 2019,Heracles Almelo,1-0,NAC Breda
 29,Sun Apr 7 2019,FC Emmen,2-0,SC Heerenveen
-29,Sun Apr 7 2019,VVV Venlo,0-3,Feyenoord Rotterdam
 29,Sun Apr 7 2019,PEC Zwolle,5-0,Fortuna Sittard
+29,Sun Apr 7 2019,VVV Venlo,0-3,Feyenoord Rotterdam
 29,Sun Apr 7 2019,Vitesse Arnhem,3-3,PSV Eindhoven
 30,Fri Apr 12 2019,NAC Breda,1-1,FC Emmen
 30,Sat Apr 13 2019,AZ Alkmaar,2-3,ADO Den Haag
@@ -287,21 +287,21 @@ Round,Date,Team 1,FT,Team 2
 32,Thu Apr 25 2019,ADO Den Haag,3-1,SBV Excelsior Rotterdam
 32,Thu Apr 25 2019,Willem II Tilburg,0-3,PSV Eindhoven
 32,Mon Apr 29 2019,PEC Zwolle,3-2,FC Groningen
-34,Sun May 12 2019,Ajax Amsterdam,4-1,FC Utrecht
-34,Sun May 12 2019,Feyenoord Rotterdam,0-2,ADO Den Haag
-34,Sun May 12 2019,AZ Alkmaar,1-0,PSV Eindhoven
 34,Sun May 12 2019,SC Heerenveen,2-1,NAC Breda
 34,Sun May 12 2019,Vitesse Arnhem,6-1,BV De Graafschap
-34,Sun May 12 2019,Heracles Almelo,4-5,SBV Excelsior Rotterdam
 34,Sun May 12 2019,FC Groningen,3-0,Fortuna Sittard
+34,Sun May 12 2019,Ajax Amsterdam,4-1,FC Utrecht
 34,Sun May 12 2019,PEC Zwolle,2-4,VVV Venlo
 34,Sun May 12 2019,Willem II Tilburg,2-3,FC Emmen
-33,Wed May 15 2019,PSV Eindhoven,3-1,Heracles Almelo
-33,Wed May 15 2019,FC Utrecht,3-1,SC Heerenveen
-33,Wed May 15 2019,NAC Breda,0-0,PEC Zwolle
+34,Sun May 12 2019,AZ Alkmaar,1-0,PSV Eindhoven
+34,Sun May 12 2019,Feyenoord Rotterdam,0-2,ADO Den Haag
+34,Sun May 12 2019,Heracles Almelo,4-5,SBV Excelsior Rotterdam
+33,Wed May 15 2019,FC Emmen,1-0,FC Groningen
 33,Wed May 15 2019,ADO Den Haag,6-2,Willem II Tilburg
 33,Wed May 15 2019,VVV Venlo,1-3,Vitesse Arnhem
-33,Wed May 15 2019,Fortuna Sittard,1-4,Feyenoord Rotterdam
 33,Wed May 15 2019,BV De Graafschap,1-4,Ajax Amsterdam
 33,Wed May 15 2019,SBV Excelsior Rotterdam,4-2,AZ Alkmaar
-33,Wed May 15 2019,FC Emmen,1-0,FC Groningen
+33,Wed May 15 2019,Fortuna Sittard,1-4,Feyenoord Rotterdam
+33,Wed May 15 2019,PSV Eindhoven,3-1,Heracles Almelo
+33,Wed May 15 2019,NAC Breda,0-0,PEC Zwolle
+33,Wed May 15 2019,FC Utrecht,3-1,SC Heerenveen
