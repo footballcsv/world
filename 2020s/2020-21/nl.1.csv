@@ -18,22 +18,22 @@ Round,Date,Team 1,FT,Team 2
 2,Sun Sep 20 2020,Ajax Amsterdam,3-0,RKC Waalwijk
 3,Fri Sep 25 2020,FC Twente,3-1,FC Groningen
 3,Sat Sep 26 2020,PEC Zwolle,4-0,Sparta Rotterdam
-3,Sat Sep 26 2020,Fortuna Sittard,,AZ Alkmaar
-3,Sat Sep 26 2020,SC Heerenveen,,VVV Venlo
-3,Sat Sep 26 2020,Ajax Amsterdam,,Vitesse Arnhem
-3,Sun Sep 27 2020,Feyenoord Rotterdam,,ADO Den Haag
-3,Sun Sep 27 2020,FC Utrecht,,RKC Waalwijk
-3,Sun Sep 27 2020,Heracles Almelo,,PSV Eindhoven
-3,Sun Sep 27 2020,FC Emmen,,Willem II Tilburg
-4,Fri Oct 2 2020,FC Utrecht,,SC Heerenveen
-4,Sat Oct 3 2020,Vitesse Arnhem,,Heracles Almelo
+3,Sat Sep 26 2020,Fortuna Sittard,3-3,AZ Alkmaar
+3,Sat Sep 26 2020,SC Heerenveen,1-0,VVV Venlo
+3,Sat Sep 26 2020,Ajax Amsterdam,2-1,Vitesse Arnhem
+3,Sun Sep 27 2020,Feyenoord Rotterdam,4-2,ADO Den Haag
+3,Sun Sep 27 2020,FC Utrecht,3-1,RKC Waalwijk
+3,Sun Sep 27 2020,Heracles Almelo,1-1,PSV Eindhoven
+3,Sun Sep 27 2020,FC Emmen,1-1,Willem II Tilburg
+4,Fri Oct 2 2020,FC Utrecht,1-1,SC Heerenveen
+4,Sat Oct 3 2020,VVV Venlo,1-2,ADO Den Haag
+4,Sat Oct 3 2020,FC Twente,1-1,FC Emmen
+4,Sat Oct 3 2020,Vitesse Arnhem,3-0,Heracles Almelo
 4,Sat Oct 3 2020,RKC Waalwijk,,PEC Zwolle
-4,Sat Oct 3 2020,VVV Venlo,,ADO Den Haag
-4,Sat Oct 3 2020,FC Twente,,FC Emmen
-4,Sun Oct 4 2020,FC Groningen,,Ajax Amsterdam
-4,Sun Oct 4 2020,Willem II Tilburg,,Feyenoord Rotterdam
-4,Sun Oct 4 2020,Sparta Rotterdam,,AZ Alkmaar
-4,Sun Oct 4 2020,PSV Eindhoven,,Fortuna Sittard
+4,Sun Oct 4 2020,FC Groningen,1-0,Ajax Amsterdam
+4,Sun Oct 4 2020,Willem II Tilburg,1-4,Feyenoord Rotterdam
+4,Sun Oct 4 2020,Sparta Rotterdam,4-4,AZ Alkmaar
+4,Sun Oct 4 2020,PSV Eindhoven,2-0,Fortuna Sittard
 5,Sat Oct 17 2020,Ajax Amsterdam,,SC Heerenveen
 5,Sat Oct 17 2020,Heracles Almelo,,RKC Waalwijk
 5,Sat Oct 17 2020,Willem II Tilburg,,FC Twente

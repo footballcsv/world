@@ -6,29 +6,29 @@ Round,Date,Team 1,FT,Team 2
 1^ Giornata,Sun Sep 20 2020,US Sassuolo Calcio,1-1,Cagliari Calcio
 1^ Giornata,Sun Sep 20 2020,Juventus,3-0,UC Sampdoria
 1^ Giornata,Mon Sep 21 2020,AC Milan,2-0,Bologna FC
-2^ Giornata,Sat Sep 26 2020,Torino FC,,Atalanta Bergamo
-2^ Giornata,Sat Sep 26 2020,UC Sampdoria,,Benevento
-2^ Giornata,Sat Sep 26 2020,Cagliari Calcio,,SS Lazio
-2^ Giornata,Sat Sep 26 2020,FC Internazionale Milano,,ACF Fiorentina
-2^ Giornata,Sun Sep 27 2020,Spezia,,US Sassuolo Calcio
-2^ Giornata,Sun Sep 27 2020,Hellas Verona,,Udinese Calcio
-2^ Giornata,Sun Sep 27 2020,SSC Napoli,,Genoa CFC
-2^ Giornata,Sun Sep 27 2020,FC Crotone,,AC Milan
-2^ Giornata,Sun Sep 27 2020,AS Roma,,Juventus
-2^ Giornata,Mon Sep 28 2020,Bologna FC,,Parma
-1^ Giornata,Wed Sep 30 2020,Udinese Calcio,,Spezia
-1^ Giornata,Wed Sep 30 2020,Benevento,,FC Internazionale Milano
-1^ Giornata,Wed Sep 30 2020,SS Lazio,,Atalanta Bergamo
-3^ Giornata,Fri Oct 2 2020,ACF Fiorentina,,UC Sampdoria
-3^ Giornata,Sat Oct 3 2020,US Sassuolo Calcio,,FC Crotone
+2^ Giornata,Sat Sep 26 2020,Torino FC,2-4,Atalanta Bergamo
+2^ Giornata,Sat Sep 26 2020,UC Sampdoria,2-3,Benevento
+2^ Giornata,Sat Sep 26 2020,Cagliari Calcio,0-2,SS Lazio
+2^ Giornata,Sat Sep 26 2020,FC Internazionale Milano,4-3,ACF Fiorentina
+2^ Giornata,Sun Sep 27 2020,Spezia,1-4,US Sassuolo Calcio
+2^ Giornata,Sun Sep 27 2020,Hellas Verona,1-0,Udinese Calcio
+2^ Giornata,Sun Sep 27 2020,FC Crotone,0-2,AC Milan
+2^ Giornata,Sun Sep 27 2020,SSC Napoli,6-0,Genoa CFC
+2^ Giornata,Sun Sep 27 2020,AS Roma,2-2,Juventus
+2^ Giornata,Mon Sep 28 2020,Bologna FC,4-1,Parma
+1^ Giornata,Wed Sep 30 2020,Udinese Calcio,0-2,Spezia
+1^ Giornata,Wed Sep 30 2020,Benevento,2-5,FC Internazionale Milano
+1^ Giornata,Wed Sep 30 2020,SS Lazio,1-4,Atalanta Bergamo
+3^ Giornata,Fri Oct 2 2020,ACF Fiorentina,1-2,UC Sampdoria
+3^ Giornata,Sat Oct 3 2020,US Sassuolo Calcio,4-1,FC Crotone
+3^ Giornata,Sat Oct 3 2020,Udinese Calcio,0-1,AS Roma
 3^ Giornata,Sat Oct 3 2020,Genoa CFC,,Torino FC
-3^ Giornata,Sat Oct 3 2020,Udinese Calcio,,AS Roma
-3^ Giornata,Sun Oct 4 2020,Atalanta Bergamo,,Cagliari Calcio
-3^ Giornata,Sun Oct 4 2020,Parma,,Hellas Verona
-3^ Giornata,Sun Oct 4 2020,SS Lazio,,FC Internazionale Milano
-3^ Giornata,Sun Oct 4 2020,Benevento,,Bologna FC
-3^ Giornata,Sun Oct 4 2020,AC Milan,,Spezia
+3^ Giornata,Sun Oct 4 2020,Atalanta Bergamo,5-2,Cagliari Calcio
+3^ Giornata,Sun Oct 4 2020,Benevento,1-0,Bologna FC
 3^ Giornata,Sun Oct 4 2020,Juventus,,SSC Napoli
+3^ Giornata,Sun Oct 4 2020,SS Lazio,1-1,FC Internazionale Milano
+3^ Giornata,Sun Oct 4 2020,Parma,1-0,Hellas Verona
+3^ Giornata,Sun Oct 4 2020,AC Milan,3-0,Spezia
 4^ Giornata,Sat Oct 17 2020,SSC Napoli,,Atalanta Bergamo
 4^ Giornata,Sat Oct 17 2020,FC Internazionale Milano,,AC Milan
 4^ Giornata,Sat Oct 17 2020,UC Sampdoria,,SS Lazio
