@@ -22,123 +22,123 @@ Round,Date,Team 1,FT,Team 2
 3^ Giornata,Fri Oct 2 2020,ACF Fiorentina,1-2,UC Sampdoria
 3^ Giornata,Sat Oct 3 2020,US Sassuolo Calcio,4-1,FC Crotone
 3^ Giornata,Sat Oct 3 2020,Udinese Calcio,0-1,AS Roma
-3^ Giornata,Sat Oct 3 2020,Genoa CFC,,Torino FC
+3^ Giornata,Sun Oct 4 2020,Juventus,3-0,SSC Napoli
 3^ Giornata,Sun Oct 4 2020,Atalanta Bergamo,5-2,Cagliari Calcio
 3^ Giornata,Sun Oct 4 2020,Benevento,1-0,Bologna FC
-3^ Giornata,Sun Oct 4 2020,Juventus,,SSC Napoli
 3^ Giornata,Sun Oct 4 2020,SS Lazio,1-1,FC Internazionale Milano
 3^ Giornata,Sun Oct 4 2020,Parma,1-0,Hellas Verona
 3^ Giornata,Sun Oct 4 2020,AC Milan,3-0,Spezia
-4^ Giornata,Sat Oct 17 2020,SSC Napoli,,Atalanta Bergamo
-4^ Giornata,Sat Oct 17 2020,FC Internazionale Milano,,AC Milan
-4^ Giornata,Sat Oct 17 2020,UC Sampdoria,,SS Lazio
-4^ Giornata,Sat Oct 17 2020,FC Crotone,,Juventus
-4^ Giornata,Sun Oct 18 2020,Bologna FC,,US Sassuolo Calcio
-4^ Giornata,Sun Oct 18 2020,Spezia,,ACF Fiorentina
-4^ Giornata,Sun Oct 18 2020,Torino FC,,Cagliari Calcio
+4^ Giornata,Sat Oct 17 2020,SSC Napoli,4-1,Atalanta Bergamo
+4^ Giornata,Sat Oct 17 2020,UC Sampdoria,3-0,SS Lazio
+4^ Giornata,Sat Oct 17 2020,FC Internazionale Milano,1-2,AC Milan
+4^ Giornata,Sat Oct 17 2020,FC Crotone,1-1,Juventus
+4^ Giornata,Sun Oct 18 2020,Bologna FC,3-4,US Sassuolo Calcio
+4^ Giornata,Sun Oct 18 2020,Torino FC,2-3,Cagliari Calcio
+4^ Giornata,Sun Oct 18 2020,Spezia,2-2,ACF Fiorentina
 4^ Giornata,Sun Oct 18 2020,Udinese Calcio,,Parma
 4^ Giornata,Sun Oct 18 2020,AS Roma,,Benevento
 4^ Giornata,Mon Oct 19 2020,Hellas Verona,,Genoa CFC
-5^ Giornata,Sun Oct 25 2020,Atalanta Bergamo,,UC Sampdoria
-5^ Giornata,Sun Oct 25 2020,Benevento,,SSC Napoli
+5^ Giornata,Fri Oct 23 2020,US Sassuolo Calcio,,Torino FC
+5^ Giornata,Sat Oct 24 2020,Atalanta Bergamo,,UC Sampdoria
+5^ Giornata,Sat Oct 24 2020,Genoa CFC,,FC Internazionale Milano
+5^ Giornata,Sat Oct 24 2020,SS Lazio,,Bologna FC
 5^ Giornata,Sun Oct 25 2020,Cagliari Calcio,,FC Crotone
-5^ Giornata,Sun Oct 25 2020,ACF Fiorentina,,Udinese Calcio
-5^ Giornata,Sun Oct 25 2020,Genoa CFC,,FC Internazionale Milano
-5^ Giornata,Sun Oct 25 2020,Juventus,,Hellas Verona
-5^ Giornata,Sun Oct 25 2020,SS Lazio,,Bologna FC
 5^ Giornata,Sun Oct 25 2020,Parma,,Spezia
-5^ Giornata,Sun Oct 25 2020,US Sassuolo Calcio,,Torino FC
+5^ Giornata,Sun Oct 25 2020,Benevento,,SSC Napoli
+5^ Giornata,Sun Oct 25 2020,ACF Fiorentina,,Udinese Calcio
+5^ Giornata,Sun Oct 25 2020,Juventus,,Hellas Verona
 5^ Giornata,Sun Oct 25 2020,AC Milan,,AS Roma
-6^ Giornata,Sun Nov 1 2020,Bologna FC,,Cagliari Calcio
-6^ Giornata,Sun Nov 1 2020,FC Crotone,,Atalanta Bergamo
-6^ Giornata,Sun Nov 1 2020,FC Internazionale Milano,,Parma
-6^ Giornata,Sun Nov 1 2020,SSC Napoli,,US Sassuolo Calcio
-6^ Giornata,Sun Nov 1 2020,AS Roma,,ACF Fiorentina
+6^ Giornata,Sat Oct 31 2020,FC Crotone,,Atalanta Bergamo
+6^ Giornata,Sat Oct 31 2020,FC Internazionale Milano,,Parma
+6^ Giornata,Sat Oct 31 2020,Bologna FC,,Cagliari Calcio
+6^ Giornata,Sun Nov 1 2020,Udinese Calcio,,AC Milan
 6^ Giornata,Sun Nov 1 2020,Spezia,,Juventus
 6^ Giornata,Sun Nov 1 2020,Torino FC,,SS Lazio
-6^ Giornata,Sun Nov 1 2020,Udinese Calcio,,AC Milan
-6^ Giornata,Sun Nov 1 2020,Hellas Verona,,Benevento
+6^ Giornata,Sun Nov 1 2020,AS Roma,,ACF Fiorentina
+6^ Giornata,Sun Nov 1 2020,SSC Napoli,,US Sassuolo Calcio
 6^ Giornata,Sun Nov 1 2020,UC Sampdoria,,Genoa CFC
-7^ Giornata,Sun Nov 8 2020,Atalanta Bergamo,,FC Internazionale Milano
-7^ Giornata,Sun Nov 8 2020,Benevento,,Spezia
-7^ Giornata,Sun Nov 8 2020,Bologna FC,,SSC Napoli
-7^ Giornata,Sun Nov 8 2020,Cagliari Calcio,,UC Sampdoria
-7^ Giornata,Sun Nov 8 2020,Genoa CFC,,AS Roma
+6^ Giornata,Mon Nov 2 2020,Hellas Verona,,Benevento
+3^ Giornata,Wed Nov 4 2020,Genoa CFC,,Torino FC
+7^ Giornata,Fri Nov 6 2020,US Sassuolo Calcio,,Udinese Calcio
+7^ Giornata,Sat Nov 7 2020,Cagliari Calcio,,UC Sampdoria
+7^ Giornata,Sat Nov 7 2020,Benevento,,Spezia
+7^ Giornata,Sat Nov 7 2020,Parma,,ACF Fiorentina
 7^ Giornata,Sun Nov 8 2020,SS Lazio,,Juventus
-7^ Giornata,Sun Nov 8 2020,AC Milan,,Hellas Verona
-7^ Giornata,Sun Nov 8 2020,Parma,,ACF Fiorentina
-7^ Giornata,Sun Nov 8 2020,US Sassuolo Calcio,,Udinese Calcio
+7^ Giornata,Sun Nov 8 2020,Atalanta Bergamo,,FC Internazionale Milano
+7^ Giornata,Sun Nov 8 2020,Genoa CFC,,AS Roma
 7^ Giornata,Sun Nov 8 2020,Torino FC,,FC Crotone
-8^ Giornata,Sun Nov 22 2020,FC Crotone,,SS Lazio
+7^ Giornata,Sun Nov 8 2020,Bologna FC,,SSC Napoli
+7^ Giornata,Sun Nov 8 2020,AC Milan,,Hellas Verona
+8^ Giornata,Sat Nov 21 2020,FC Crotone,,SS Lazio
+8^ Giornata,Sat Nov 21 2020,Spezia,,Atalanta Bergamo
+8^ Giornata,Sat Nov 21 2020,Juventus,,Cagliari Calcio
 8^ Giornata,Sun Nov 22 2020,ACF Fiorentina,,Benevento
 8^ Giornata,Sun Nov 22 2020,FC Internazionale Milano,,Torino FC
-8^ Giornata,Sun Nov 22 2020,Juventus,,Cagliari Calcio
-8^ Giornata,Sun Nov 22 2020,SSC Napoli,,AC Milan
-8^ Giornata,Sun Nov 22 2020,AS Roma,,Parma
 8^ Giornata,Sun Nov 22 2020,UC Sampdoria,,Bologna FC
-8^ Giornata,Sun Nov 22 2020,Spezia,,Atalanta Bergamo
-8^ Giornata,Sun Nov 22 2020,Udinese Calcio,,Genoa CFC
 8^ Giornata,Sun Nov 22 2020,Hellas Verona,,US Sassuolo Calcio
-9^ Giornata,Sun Nov 29 2020,Atalanta Bergamo,,Hellas Verona
-9^ Giornata,Sun Nov 29 2020,Benevento,,Juventus
-9^ Giornata,Sun Nov 29 2020,Bologna FC,,FC Crotone
-9^ Giornata,Sun Nov 29 2020,Cagliari Calcio,,Spezia
-9^ Giornata,Sun Nov 29 2020,Genoa CFC,,Parma
+8^ Giornata,Sun Nov 22 2020,AS Roma,,Parma
+8^ Giornata,Sun Nov 22 2020,Udinese Calcio,,Genoa CFC
+8^ Giornata,Sun Nov 22 2020,SSC Napoli,,AC Milan
+9^ Giornata,Sat Nov 28 2020,US Sassuolo Calcio,,FC Internazionale Milano
+9^ Giornata,Sat Nov 28 2020,Benevento,,Juventus
+9^ Giornata,Sat Nov 28 2020,Atalanta Bergamo,,Hellas Verona
 9^ Giornata,Sun Nov 29 2020,SS Lazio,,Udinese Calcio
+9^ Giornata,Sun Nov 29 2020,Bologna FC,,FC Crotone
 9^ Giornata,Sun Nov 29 2020,AC Milan,,ACF Fiorentina
+9^ Giornata,Sun Nov 29 2020,Cagliari Calcio,,Spezia
 9^ Giornata,Sun Nov 29 2020,SSC Napoli,,AS Roma
-9^ Giornata,Sun Nov 29 2020,US Sassuolo Calcio,,FC Internazionale Milano
-9^ Giornata,Sun Nov 29 2020,Torino FC,,UC Sampdoria
-10^ Giornata,Sun Dec 6 2020,FC Crotone,,SSC Napoli
-10^ Giornata,Sun Dec 6 2020,ACF Fiorentina,,Genoa CFC
-10^ Giornata,Sun Dec 6 2020,FC Internazionale Milano,,Bologna FC
-10^ Giornata,Sun Dec 6 2020,Juventus,,Torino FC
-10^ Giornata,Sun Dec 6 2020,Parma,,Benevento
-10^ Giornata,Sun Dec 6 2020,AS Roma,,US Sassuolo Calcio
-10^ Giornata,Sun Dec 6 2020,UC Sampdoria,,AC Milan
-10^ Giornata,Sun Dec 6 2020,Spezia,,SS Lazio
-10^ Giornata,Sun Dec 6 2020,Udinese Calcio,,Atalanta Bergamo
+9^ Giornata,Mon Nov 30 2020,Torino FC,,UC Sampdoria
+9^ Giornata,Mon Nov 30 2020,Genoa CFC,,Parma
+10^ Giornata,Sat Dec 5 2020,Spezia,,SS Lazio
+10^ Giornata,Sat Dec 5 2020,Juventus,,Torino FC
+10^ Giornata,Sat Dec 5 2020,FC Internazionale Milano,,Bologna FC
 10^ Giornata,Sun Dec 6 2020,Hellas Verona,,Cagliari Calcio
-11^ Giornata,Sun Dec 13 2020,Atalanta Bergamo,,ACF Fiorentina
-11^ Giornata,Sun Dec 13 2020,Bologna FC,,AS Roma
+10^ Giornata,Sun Dec 6 2020,Udinese Calcio,,Atalanta Bergamo
+10^ Giornata,Sun Dec 6 2020,AS Roma,,US Sassuolo Calcio
+10^ Giornata,Sun Dec 6 2020,Parma,,Benevento
+10^ Giornata,Sun Dec 6 2020,FC Crotone,,SSC Napoli
+10^ Giornata,Sun Dec 6 2020,UC Sampdoria,,AC Milan
+10^ Giornata,Mon Dec 7 2020,ACF Fiorentina,,Genoa CFC
+11^ Giornata,Fri Dec 11 2020,US Sassuolo Calcio,,Benevento
+11^ Giornata,Sat Dec 12 2020,FC Crotone,,Spezia
+11^ Giornata,Sat Dec 12 2020,Torino FC,,Udinese Calcio
+11^ Giornata,Sat Dec 12 2020,SS Lazio,,Hellas Verona
 11^ Giornata,Sun Dec 13 2020,Cagliari Calcio,,FC Internazionale Milano
-11^ Giornata,Sun Dec 13 2020,FC Crotone,,Spezia
-11^ Giornata,Sun Dec 13 2020,Genoa CFC,,Juventus
-11^ Giornata,Sun Dec 13 2020,SS Lazio,,Hellas Verona
-11^ Giornata,Sun Dec 13 2020,AC Milan,,Parma
 11^ Giornata,Sun Dec 13 2020,SSC Napoli,,UC Sampdoria
-11^ Giornata,Sun Dec 13 2020,US Sassuolo Calcio,,Benevento
-11^ Giornata,Sun Dec 13 2020,Torino FC,,Udinese Calcio
-12^ Giornata,Wed Dec 16 2020,Benevento,,SS Lazio
-12^ Giornata,Wed Dec 16 2020,ACF Fiorentina,,US Sassuolo Calcio
-12^ Giornata,Wed Dec 16 2020,Genoa CFC,,AC Milan
-12^ Giornata,Wed Dec 16 2020,FC Internazionale Milano,,SSC Napoli
+11^ Giornata,Sun Dec 13 2020,Bologna FC,,AS Roma
+11^ Giornata,Sun Dec 13 2020,Atalanta Bergamo,,ACF Fiorentina
+11^ Giornata,Sun Dec 13 2020,Genoa CFC,,Juventus
+11^ Giornata,Sun Dec 13 2020,AC Milan,,Parma
+12^ Giornata,Tue Dec 15 2020,Udinese Calcio,,FC Crotone
+12^ Giornata,Tue Dec 15 2020,Benevento,,SS Lazio
 12^ Giornata,Wed Dec 16 2020,Juventus,,Atalanta Bergamo
-12^ Giornata,Wed Dec 16 2020,Parma,,Cagliari Calcio
-12^ Giornata,Wed Dec 16 2020,AS Roma,,Torino FC
-12^ Giornata,Wed Dec 16 2020,Spezia,,Bologna FC
-12^ Giornata,Wed Dec 16 2020,Udinese Calcio,,FC Crotone
+12^ Giornata,Wed Dec 16 2020,FC Internazionale Milano,,SSC Napoli
 12^ Giornata,Wed Dec 16 2020,Hellas Verona,,UC Sampdoria
-13^ Giornata,Sun Dec 20 2020,Atalanta Bergamo,,AS Roma
-13^ Giornata,Sun Dec 20 2020,Benevento,,Genoa CFC
-13^ Giornata,Sun Dec 20 2020,Cagliari Calcio,,Udinese Calcio
-13^ Giornata,Sun Dec 20 2020,ACF Fiorentina,,Hellas Verona
-13^ Giornata,Sun Dec 20 2020,FC Internazionale Milano,,Spezia
-13^ Giornata,Sun Dec 20 2020,SS Lazio,,SSC Napoli
-13^ Giornata,Sun Dec 20 2020,Parma,,Juventus
-13^ Giornata,Sun Dec 20 2020,UC Sampdoria,,FC Crotone
-13^ Giornata,Sun Dec 20 2020,US Sassuolo Calcio,,AC Milan
+12^ Giornata,Wed Dec 16 2020,ACF Fiorentina,,US Sassuolo Calcio
+12^ Giornata,Wed Dec 16 2020,Parma,,Cagliari Calcio
+12^ Giornata,Wed Dec 16 2020,Genoa CFC,,AC Milan
+12^ Giornata,Wed Dec 16 2020,Spezia,,Bologna FC
+12^ Giornata,Thu Dec 17 2020,AS Roma,,Torino FC
+13^ Giornata,Sat Dec 19 2020,ACF Fiorentina,,Hellas Verona
+13^ Giornata,Sat Dec 19 2020,UC Sampdoria,,FC Crotone
+13^ Giornata,Sat Dec 19 2020,Parma,,Juventus
 13^ Giornata,Sun Dec 20 2020,Torino FC,,Bologna FC
-14^ Giornata,Wed Dec 23 2020,Bologna FC,,Atalanta Bergamo
-14^ Giornata,Wed Dec 23 2020,FC Crotone,,Parma
-14^ Giornata,Wed Dec 23 2020,Juventus,,ACF Fiorentina
-14^ Giornata,Wed Dec 23 2020,AC Milan,,SS Lazio
+13^ Giornata,Sun Dec 20 2020,US Sassuolo Calcio,,AC Milan
+13^ Giornata,Sun Dec 20 2020,Cagliari Calcio,,Udinese Calcio
+13^ Giornata,Sun Dec 20 2020,Benevento,,Genoa CFC
+13^ Giornata,Sun Dec 20 2020,FC Internazionale Milano,,Spezia
+13^ Giornata,Sun Dec 20 2020,Atalanta Bergamo,,AS Roma
+13^ Giornata,Sun Dec 20 2020,SS Lazio,,SSC Napoli
+14^ Giornata,Tue Dec 22 2020,FC Crotone,,Parma
+14^ Giornata,Tue Dec 22 2020,Juventus,,ACF Fiorentina
+14^ Giornata,Wed Dec 23 2020,Hellas Verona,,FC Internazionale Milano
 14^ Giornata,Wed Dec 23 2020,SSC Napoli,,Torino FC
-14^ Giornata,Wed Dec 23 2020,AS Roma,,Cagliari Calcio
+14^ Giornata,Wed Dec 23 2020,AC Milan,,SS Lazio
+14^ Giornata,Wed Dec 23 2020,Bologna FC,,Atalanta Bergamo
+14^ Giornata,Wed Dec 23 2020,Udinese Calcio,,Benevento
 14^ Giornata,Wed Dec 23 2020,UC Sampdoria,,US Sassuolo Calcio
 14^ Giornata,Wed Dec 23 2020,Spezia,,Genoa CFC
-14^ Giornata,Wed Dec 23 2020,Udinese Calcio,,Benevento
-14^ Giornata,Wed Dec 23 2020,Hellas Verona,,FC Internazionale Milano
+14^ Giornata,Wed Dec 23 2020,AS Roma,,Cagliari Calcio
 15^ Giornata,Sun Jan 3 2021,Atalanta Bergamo,,US Sassuolo Calcio
 15^ Giornata,Sun Jan 3 2021,Benevento,,AC Milan
 15^ Giornata,Sun Jan 3 2021,Cagliari Calcio,,SSC Napoli
