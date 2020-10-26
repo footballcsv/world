@@ -35,19 +35,19 @@ Round,Date,Team 1,FT,Team 2
 4^ Giornata,Sun Oct 18 2020,Bologna FC,3-4,US Sassuolo Calcio
 4^ Giornata,Sun Oct 18 2020,Torino FC,2-3,Cagliari Calcio
 4^ Giornata,Sun Oct 18 2020,Spezia,2-2,ACF Fiorentina
-4^ Giornata,Sun Oct 18 2020,Udinese Calcio,,Parma
-4^ Giornata,Sun Oct 18 2020,AS Roma,,Benevento
-4^ Giornata,Mon Oct 19 2020,Hellas Verona,,Genoa CFC
-5^ Giornata,Fri Oct 23 2020,US Sassuolo Calcio,,Torino FC
-5^ Giornata,Sat Oct 24 2020,Atalanta Bergamo,,UC Sampdoria
-5^ Giornata,Sat Oct 24 2020,Genoa CFC,,FC Internazionale Milano
-5^ Giornata,Sat Oct 24 2020,SS Lazio,,Bologna FC
-5^ Giornata,Sun Oct 25 2020,Cagliari Calcio,,FC Crotone
-5^ Giornata,Sun Oct 25 2020,Parma,,Spezia
-5^ Giornata,Sun Oct 25 2020,Benevento,,SSC Napoli
-5^ Giornata,Sun Oct 25 2020,ACF Fiorentina,,Udinese Calcio
+4^ Giornata,Sun Oct 18 2020,Udinese Calcio,3-2,Parma
+4^ Giornata,Sun Oct 18 2020,AS Roma,5-2,Benevento
+4^ Giornata,Mon Oct 19 2020,Hellas Verona,0-0,Genoa CFC
+5^ Giornata,Fri Oct 23 2020,US Sassuolo Calcio,3-3,Torino FC
+5^ Giornata,Sat Oct 24 2020,Atalanta Bergamo,1-3,UC Sampdoria
+5^ Giornata,Sat Oct 24 2020,Genoa CFC,0-2,FC Internazionale Milano
+5^ Giornata,Sat Oct 24 2020,SS Lazio,2-1,Bologna FC
+5^ Giornata,Sun Oct 25 2020,Cagliari Calcio,4-2,FC Crotone
+5^ Giornata,Sun Oct 25 2020,Parma,2-2,Spezia
+5^ Giornata,Sun Oct 25 2020,Benevento,1-2,SSC Napoli
+5^ Giornata,Sun Oct 25 2020,ACF Fiorentina,3-2,Udinese Calcio
 5^ Giornata,Sun Oct 25 2020,Juventus,,Hellas Verona
-5^ Giornata,Sun Oct 25 2020,AC Milan,,AS Roma
+5^ Giornata,Mon Oct 26 2020,AC Milan,,AS Roma
 6^ Giornata,Sat Oct 31 2020,FC Crotone,,Atalanta Bergamo
 6^ Giornata,Sat Oct 31 2020,FC Internazionale Milano,,Parma
 6^ Giornata,Sat Oct 31 2020,Bologna FC,,Cagliari Calcio
@@ -139,16 +139,16 @@ Round,Date,Team 1,FT,Team 2
 14^ Giornata,Wed Dec 23 2020,UC Sampdoria,,US Sassuolo Calcio
 14^ Giornata,Wed Dec 23 2020,Spezia,,Genoa CFC
 14^ Giornata,Wed Dec 23 2020,AS Roma,,Cagliari Calcio
+15^ Giornata,Sun Jan 3 2021,FC Internazionale Milano,,FC Crotone
 15^ Giornata,Sun Jan 3 2021,Atalanta Bergamo,,US Sassuolo Calcio
-15^ Giornata,Sun Jan 3 2021,Benevento,,AC Milan
 15^ Giornata,Sun Jan 3 2021,Cagliari Calcio,,SSC Napoli
 15^ Giornata,Sun Jan 3 2021,ACF Fiorentina,,Bologna FC
-15^ Giornata,Sun Jan 3 2021,Genoa CFC,,SS Lazio
-15^ Giornata,Sun Jan 3 2021,FC Internazionale Milano,,FC Crotone
-15^ Giornata,Sun Jan 3 2021,Juventus,,Udinese Calcio
+15^ Giornata,Sun Jan 3 2021,Spezia,,Hellas Verona
 15^ Giornata,Sun Jan 3 2021,Parma,,Torino FC
 15^ Giornata,Sun Jan 3 2021,AS Roma,,UC Sampdoria
-15^ Giornata,Sun Jan 3 2021,Spezia,,Hellas Verona
+15^ Giornata,Sun Jan 3 2021,Genoa CFC,,SS Lazio
+15^ Giornata,Sun Jan 3 2021,Benevento,,AC Milan
+15^ Giornata,Sun Jan 3 2021,Juventus,,Udinese Calcio
 16^ Giornata,Wed Jan 6 2021,Atalanta Bergamo,,Parma
 16^ Giornata,Wed Jan 6 2021,Bologna FC,,Udinese Calcio
 16^ Giornata,Wed Jan 6 2021,Cagliari Calcio,,Benevento
