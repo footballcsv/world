@@ -23,16 +23,16 @@ Round,Date,Team 1,FT,Team 2
 3^ Giornata,Sat Oct 17 2020,Pordenone Calcio,3-3,SPAL Ferrara
 3^ Giornata,Sat Oct 17 2020,Cosenza Calcio,1-1,Cittadella
 3^ Giornata,Sat Oct 17 2020,SS Monza,,LR Vicenza Virtus
-3^ Giornata,Sat Oct 17 2020,AC Reggiana,0-1,AC Chievo Verona
 3^ Giornata,Sat Oct 17 2020,Salernitana,4-1,AC Pisa
 3^ Giornata,Sat Oct 17 2020,US Cremonese,0-0,Venezia
+3^ Giornata,Sat Oct 17 2020,AC Reggiana,0-1,AC Chievo Verona
 3^ Giornata,Sat Oct 17 2020,Virtus Entella,1-1,Reggina 1914
 3^ Giornata,Sat Oct 17 2020,Pescara,1-2,Empoli
 3^ Giornata,Sat Oct 17 2020,Frosinone,1-0,Ascoli
-4^ Giornata,Tue Oct 20 2020,AC Chievo Verona,1-0,Brescia Calcio
-4^ Giornata,Tue Oct 20 2020,Cittadella,2-0,Pordenone Calcio
 4^ Giornata,Tue Oct 20 2020,Ascoli,2-1,AC Reggiana
+4^ Giornata,Tue Oct 20 2020,Cittadella,2-0,Pordenone Calcio
 4^ Giornata,Tue Oct 20 2020,AC Pisa,1-1,SS Monza
+4^ Giornata,Tue Oct 20 2020,AC Chievo Verona,1-0,Brescia Calcio
 4^ Giornata,Tue Oct 20 2020,Empoli,2-1,SPAL Ferrara
 4^ Giornata,Tue Oct 20 2020,Venezia,4-0,Pescara
 4^ Giornata,Tue Oct 20 2020,Frosinone,0-0,Virtus Entella
@@ -40,30 +40,30 @@ Round,Date,Team 1,FT,Team 2
 4^ Giornata,Tue Oct 20 2020,Reggina 1914,0-0,Cosenza Calcio
 4^ Giornata,Wed Oct 21 2020,US Lecce,2-2,US Cremonese
 5^ Giornata,Fri Oct 23 2020,Empoli,3-1,AC Pisa
-5^ Giornata,Sat Oct 24 2020,SPAL Ferrara,3-2,LR Vicenza Virtus
 5^ Giornata,Sat Oct 24 2020,AC Reggiana,,Cittadella
 5^ Giornata,Sat Oct 24 2020,Pordenone Calcio,2-2,Reggina 1914
-5^ Giornata,Sat Oct 24 2020,SS Monza,1-2,AC Chievo Verona
+5^ Giornata,Sat Oct 24 2020,SPAL Ferrara,3-2,LR Vicenza Virtus
 5^ Giornata,Sat Oct 24 2020,Salernitana,1-0,Ascoli
+5^ Giornata,Sat Oct 24 2020,SS Monza,1-2,AC Chievo Verona
 5^ Giornata,Sat Oct 24 2020,Pescara,0-2,Frosinone
-5^ Giornata,Sun Oct 25 2020,Cosenza Calcio,1-1,US Lecce
 5^ Giornata,Sun Oct 25 2020,US Cremonese,,Brescia Calcio
-6^ Giornata,Sat Oct 31 2020,LR Vicenza Virtus,,AC Pisa
-6^ Giornata,Sat Oct 31 2020,AC Chievo Verona,,Cosenza Calcio
+5^ Giornata,Sun Oct 25 2020,Cosenza Calcio,1-1,US Lecce
 6^ Giornata,Sat Oct 31 2020,Cittadella,,SS Monza
-6^ Giornata,Sat Oct 31 2020,Salernitana,,AC Reggiana
-6^ Giornata,Sat Oct 31 2020,Venezia,,Empoli
 6^ Giornata,Sat Oct 31 2020,Brescia Calcio,,Virtus Entella
 6^ Giornata,Sat Oct 31 2020,Ascoli,,Pordenone Calcio
+6^ Giornata,Sat Oct 31 2020,Salernitana,,AC Reggiana
+6^ Giornata,Sat Oct 31 2020,LR Vicenza Virtus,,AC Pisa
+6^ Giornata,Sat Oct 31 2020,Venezia,,Empoli
+6^ Giornata,Sat Oct 31 2020,AC Chievo Verona,,Cosenza Calcio
 6^ Giornata,Sun Nov 1 2020,Reggina 1914,,SPAL Ferrara
 6^ Giornata,Sun Nov 1 2020,Frosinone,,US Cremonese
 6^ Giornata,Mon Nov 2 2020,US Lecce,,Pescara
 7^ Giornata,Fri Nov 6 2020,SPAL Ferrara,,Salernitana
-7^ Giornata,Sat Nov 7 2020,AC Pisa,,Ascoli
 7^ Giornata,Sat Nov 7 2020,Cosenza Calcio,,Brescia Calcio
+7^ Giornata,Sat Nov 7 2020,AC Pisa,,Ascoli
 7^ Giornata,Sat Nov 7 2020,Pordenone Calcio,,AC Chievo Verona
-7^ Giornata,Sat Nov 7 2020,SS Monza,,Frosinone
 7^ Giornata,Sat Nov 7 2020,US Cremonese,,LR Vicenza Virtus
+7^ Giornata,Sat Nov 7 2020,SS Monza,,Frosinone
 7^ Giornata,Sat Nov 7 2020,Empoli,,Reggina 1914
 7^ Giornata,Sun Nov 8 2020,Pescara,,Cittadella
 7^ Giornata,Sun Nov 8 2020,AC Reggiana,,Venezia
@@ -74,11 +74,11 @@ Round,Date,Team 1,FT,Team 2
 8^ Giornata,Sat Nov 21 2020,Cittadella,,Empoli
 8^ Giornata,Sat Nov 21 2020,Frosinone,,Cosenza Calcio
 8^ Giornata,Sat Nov 21 2020,LR Vicenza Virtus,,AC Chievo Verona
-8^ Giornata,Sat Nov 21 2020,Pordenone Calcio,,SS Monza
 8^ Giornata,Sat Nov 21 2020,Salernitana,,US Cremonese
+8^ Giornata,Sat Nov 21 2020,Reggina 1914,,AC Pisa
 8^ Giornata,Sat Nov 21 2020,SPAL Ferrara,,Pescara
 8^ Giornata,Sat Nov 21 2020,US Lecce,,AC Reggiana
-8^ Giornata,Sat Nov 21 2020,Reggina 1914,,AC Pisa
+8^ Giornata,Sat Nov 21 2020,Pordenone Calcio,,SS Monza
 9^ Giornata,Sat Nov 28 2020,Virtus Entella,,SPAL Ferrara
 10^ Giornata,Sat Dec 5 2020,Reggina 1914,,Brescia Calcio
 10^ Giornata,Sat Dec 5 2020,US Lecce,,Venezia

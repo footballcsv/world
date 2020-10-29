@@ -46,8 +46,8 @@ Round,Date,Team 1,FT,Team 2
 5^ Giornata,Sun Oct 25 2020,Parma,2-2,Spezia
 5^ Giornata,Sun Oct 25 2020,Benevento,1-2,SSC Napoli
 5^ Giornata,Sun Oct 25 2020,ACF Fiorentina,3-2,Udinese Calcio
-5^ Giornata,Sun Oct 25 2020,Juventus,,Hellas Verona
-5^ Giornata,Mon Oct 26 2020,AC Milan,,AS Roma
+5^ Giornata,Sun Oct 25 2020,Juventus,1-1,Hellas Verona
+5^ Giornata,Mon Oct 26 2020,AC Milan,3-3,AS Roma
 6^ Giornata,Sat Oct 31 2020,FC Crotone,,Atalanta Bergamo
 6^ Giornata,Sat Oct 31 2020,FC Internazionale Milano,,Parma
 6^ Giornata,Sat Oct 31 2020,Bologna FC,,Cagliari Calcio
@@ -149,26 +149,26 @@ Round,Date,Team 1,FT,Team 2
 15^ Giornata,Sun Jan 3 2021,Genoa CFC,,SS Lazio
 15^ Giornata,Sun Jan 3 2021,Benevento,,AC Milan
 15^ Giornata,Sun Jan 3 2021,Juventus,,Udinese Calcio
+16^ Giornata,Wed Jan 6 2021,Cagliari Calcio,,Benevento
 16^ Giornata,Wed Jan 6 2021,Atalanta Bergamo,,Parma
 16^ Giornata,Wed Jan 6 2021,Bologna FC,,Udinese Calcio
-16^ Giornata,Wed Jan 6 2021,Cagliari Calcio,,Benevento
 16^ Giornata,Wed Jan 6 2021,FC Crotone,,AS Roma
-16^ Giornata,Wed Jan 6 2021,SS Lazio,,ACF Fiorentina
-16^ Giornata,Wed Jan 6 2021,AC Milan,,Juventus
-16^ Giornata,Wed Jan 6 2021,SSC Napoli,,Spezia
+16^ Giornata,Wed Jan 6 2021,Torino FC,,Hellas Verona
 16^ Giornata,Wed Jan 6 2021,UC Sampdoria,,FC Internazionale Milano
 16^ Giornata,Wed Jan 6 2021,US Sassuolo Calcio,,Genoa CFC
-16^ Giornata,Wed Jan 6 2021,Torino FC,,Hellas Verona
-17^ Giornata,Sun Jan 10 2021,Benevento,,Atalanta Bergamo
+16^ Giornata,Wed Jan 6 2021,SS Lazio,,ACF Fiorentina
+16^ Giornata,Wed Jan 6 2021,SSC Napoli,,Spezia
+16^ Giornata,Wed Jan 6 2021,AC Milan,,Juventus
+17^ Giornata,Sat Jan 9 2021,AS Roma,,FC Internazionale Milano
+17^ Giornata,Sun Jan 10 2021,Juventus,,US Sassuolo Calcio
 17^ Giornata,Sun Jan 10 2021,ACF Fiorentina,,Cagliari Calcio
 17^ Giornata,Sun Jan 10 2021,Genoa CFC,,Bologna FC
-17^ Giornata,Sun Jan 10 2021,Juventus,,US Sassuolo Calcio
+17^ Giornata,Sun Jan 10 2021,Hellas Verona,,FC Crotone
 17^ Giornata,Sun Jan 10 2021,AC Milan,,Torino FC
 17^ Giornata,Sun Jan 10 2021,Parma,,SS Lazio
-17^ Giornata,Sun Jan 10 2021,AS Roma,,FC Internazionale Milano
 17^ Giornata,Sun Jan 10 2021,Spezia,,UC Sampdoria
 17^ Giornata,Sun Jan 10 2021,Udinese Calcio,,SSC Napoli
-17^ Giornata,Sun Jan 10 2021,Hellas Verona,,FC Crotone
+17^ Giornata,Sun Jan 10 2021,Benevento,,Atalanta Bergamo
 18^ Giornata,Sun Jan 17 2021,Atalanta Bergamo,,Genoa CFC
 18^ Giornata,Sun Jan 17 2021,Bologna FC,,Hellas Verona
 18^ Giornata,Sun Jan 17 2021,Cagliari Calcio,,AC Milan
