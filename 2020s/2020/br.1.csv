@@ -15,10 +15,10 @@ Rodada 29,Fri Jan 10 2020,Sport Recife,,Palmeiras SP
 Rodada 29,Fri Jan 10 2020,São Paulo FC,,Santos SP
 Rodada 29,Fri Jan 10 2020,RB Bragantino,,Atlético MG
 Rodada 29,Fri Jan 10 2020,Fortaleza EC,,Grêmio RS
-Rodada 29,Fri Jan 10 2020,Coritiba PR,,Atlético PR
-Rodada 29,Fri Jan 10 2020,Internacional Porto Alegre,,Goiás EC
-Rodada 29,Fri Jan 10 2020,Flamengo RJ,,Ceára SC
 Rodada 29,Fri Jan 10 2020,Atlético GO,,EC Bahia
+Rodada 29,Fri Jan 10 2020,Coritiba PR,,Atlético PR
+Rodada 29,Fri Jan 10 2020,Flamengo RJ,,Ceára SC
+Rodada 29,Fri Jan 10 2020,Internacional Porto Alegre,,Goiás EC
 Rodada 30,Fri Jan 17 2020,Goiás EC,,Flamengo RJ
 Rodada 30,Fri Jan 17 2020,Santos SP,,Botafogo RJ
 Rodada 30,Fri Jan 17 2020,Atlético PR,,São Paulo FC
@@ -171,9 +171,9 @@ Rodada 6,Mon Aug 31 2020,Grêmio RS,,Goiás EC
 Rodada 7,Wed Sep 2 2020,Ceára SC,1-0,Fortaleza EC
 Rodada 7,Wed Sep 2 2020,Goiás EC,1-2,Corinthians SP
 Rodada 7,Wed Sep 2 2020,Fluminense RJ,1-1,Atlético GO
+Rodada 7,Wed Sep 2 2020,EC Bahia,3-5,Flamengo RJ
 Rodada 7,Wed Sep 2 2020,Atlético PR,1-1,RB Bragantino
 Rodada 7,Wed Sep 2 2020,Botafogo RJ,0-0,Coritiba PR
-Rodada 7,Wed Sep 2 2020,EC Bahia,3-5,Flamengo RJ
 Rodada 7,Wed Sep 2 2020,Santos SP,2-2,CR Vasco da Gama
 Rodada 7,Wed Sep 2 2020,Palmeiras SP,1-1,Internacional Porto Alegre
 Rodada 7,Thu Sep 3 2020,Grêmio RS,1-2,Sport Recife
@@ -186,26 +186,26 @@ Rodada 8,Sun Sep 6 2020,Internacional Porto Alegre,2-2,EC Bahia
 Rodada 8,Sun Sep 6 2020,São Paulo FC,3-1,Fluminense RJ
 Rodada 8,Sun Sep 6 2020,CR Vasco da Gama,1-0,Atlético PR
 Rodada 8,Sun Sep 6 2020,Atlético GO,1-1,Grêmio RS
-Rodada 8,Sun Sep 6 2020,Sport Recife,2-1,Goiás EC
 Rodada 8,Sun Sep 6 2020,Coritiba PR,0-1,Atlético MG
+Rodada 8,Sun Sep 6 2020,Sport Recife,2-1,Goiás EC
 Rodada 9,Wed Sep 9 2020,Atlético PR,1-1,Botafogo RJ
 Rodada 9,Wed Sep 9 2020,Goiás EC,3-3,Coritiba PR
 Rodada 9,Wed Sep 9 2020,Fortaleza EC,1-0,Sport Recife
 Rodada 9,Wed Sep 9 2020,São Paulo FC,1-1,RB Bragantino
 Rodada 9,Wed Sep 9 2020,Santos SP,3-1,Atlético MG
 Rodada 9,Wed Sep 9 2020,Fluminense RJ,1-2,Flamengo RJ
-Rodada 9,Thu Sep 10 2020,EC Bahia,0-2,Grêmio RS
 Rodada 9,Thu Sep 10 2020,Internacional Porto Alegre,2-0,Ceára SC
 Rodada 9,Thu Sep 10 2020,Corinthians SP,0-2,Palmeiras SP
+Rodada 9,Thu Sep 10 2020,EC Bahia,0-2,Grêmio RS
 Rodada 9,Thu Sep 10 2020,CR Vasco da Gama,1-2,Atlético GO
 Rodada 10,Sat Sep 12 2020,Atlético PR,1-0,Coritiba PR
 Rodada 10,Sat Sep 12 2020,Santos SP,2-2,São Paulo FC
 Rodada 10,Sun Sep 13 2020,Grêmio RS,1-1,Fortaleza EC
 Rodada 10,Sun Sep 13 2020,Fluminense RJ,2-1,Corinthians SP
-Rodada 10,Sun Sep 13 2020,Goiás EC,1-0,Internacional Porto Alegre
+Rodada 10,Sun Sep 13 2020,Ceára SC,2-0,Flamengo RJ
 Rodada 10,Sun Sep 13 2020,Atlético MG,2-1,RB Bragantino
 Rodada 10,Sun Sep 13 2020,EC Bahia,0-1,Atlético GO
-Rodada 10,Sun Sep 13 2020,Ceára SC,2-0,Flamengo RJ
+Rodada 10,Sun Sep 13 2020,Goiás EC,1-0,Internacional Porto Alegre
 Rodada 10,Sun Sep 13 2020,Palmeiras SP,2-2,Sport Recife
 Rodada 10,Sun Sep 13 2020,Botafogo RJ,2-3,CR Vasco da Gama
 Rodada 11,Wed Sep 16 2020,Corinthians SP,3-2,EC Bahia
@@ -226,22 +226,22 @@ Rodada 12,Sun Sep 27 2020,Ceára SC,2-2,Goiás EC
 Rodada 12,Sun Sep 27 2020,Atlético GO,1-1,Botafogo RJ
 Rodada 12,Sun Sep 27 2020,Santos SP,1-1,Fortaleza EC
 Rodada 12,Mon Sep 28 2020,Fluminense RJ,4-0,Coritiba PR
-Rodada 1,Wed Sep 30 2020,Corinthians SP,0-0,Atlético GO
 Rodada 1,Wed Sep 30 2020,Botafogo RJ,1-2,EC Bahia
+Rodada 1,Wed Sep 30 2020,Corinthians SP,0-0,Atlético GO
 Rodada 13,Sat Oct 3 2020,Grêmio RS,1-1,Internacional Porto Alegre
 Rodada 13,Sat Oct 3 2020,Palmeiras SP,2-1,Ceára SC
 Rodada 13,Sat Oct 3 2020,RB Bragantino,0-0,Corinthians SP
 Rodada 13,Sun Oct 4 2020,Botafogo RJ,1-1,Fluminense RJ
-Rodada 13,Sun Oct 4 2020,Flamengo RJ,3-1,Atlético PR
 Rodada 13,Sun Oct 4 2020,Coritiba PR,1-1,São Paulo FC
+Rodada 13,Sun Oct 4 2020,Flamengo RJ,3-1,Atlético PR
 Rodada 13,Sun Oct 4 2020,Goiás EC,2-3,Santos SP
 Rodada 13,Sun Oct 4 2020,EC Bahia,1-2,Sport Recife
 Rodada 13,Sun Oct 4 2020,Fortaleza EC,0-0,Atlético GO
 Rodada 13,Sun Oct 4 2020,Atlético MG,4-1,CR Vasco da Gama
 Rodada 14,Wed Oct 7 2020,Corinthians SP,1-1,Santos SP
-Rodada 14,Wed Oct 7 2020,Grêmio RS,2-1,Coritiba PR
-Rodada 14,Wed Oct 7 2020,Flamengo RJ,3-0,Sport Recife
 Rodada 14,Wed Oct 7 2020,EC Bahia,3-0,CR Vasco da Gama
+Rodada 14,Wed Oct 7 2020,Flamengo RJ,3-0,Sport Recife
+Rodada 14,Wed Oct 7 2020,Grêmio RS,2-1,Coritiba PR
 Rodada 14,Wed Oct 7 2020,Goiás EC,2-4,Fluminense RJ
 Rodada 14,Wed Oct 7 2020,São Paulo FC,3-0,Atlético GO
 Rodada 14,Wed Oct 7 2020,Botafogo RJ,2-1,Palmeiras SP
@@ -249,13 +249,13 @@ Rodada 14,Wed Oct 7 2020,Fortaleza EC,2-1,Atlético MG
 Rodada 14,Thu Oct 8 2020,Atlético PR,0-0,Ceára SC
 Rodada 14,Thu Oct 8 2020,RB Bragantino,0-2,Internacional Porto Alegre
 Rodada 15,Sat Oct 10 2020,CR Vasco da Gama,1-2,Flamengo RJ
-Rodada 15,Sat Oct 10 2020,Coritiba PR,0-0,Fortaleza EC
 Rodada 15,Sat Oct 10 2020,Palmeiras SP,0-2,São Paulo FC
+Rodada 15,Sat Oct 10 2020,Coritiba PR,0-0,Fortaleza EC
 Rodada 15,Sat Oct 10 2020,Atlético MG,3-0,Goiás EC
-Rodada 15,Sun Oct 11 2020,Santos SP,2-1,Grêmio RS
 Rodada 15,Sun Oct 11 2020,Fluminense RJ,1-0,EC Bahia
-Rodada 15,Sun Oct 11 2020,Atlético GO,2-1,RB Bragantino
+Rodada 15,Sun Oct 11 2020,Santos SP,2-1,Grêmio RS
 Rodada 15,Sun Oct 11 2020,Sport Recife,1-2,Botafogo RJ
+Rodada 15,Sun Oct 11 2020,Atlético GO,2-1,RB Bragantino
 Rodada 15,Sun Oct 11 2020,Ceára SC,2-1,Corinthians SP
 Rodada 15,Sun Oct 11 2020,Internacional Porto Alegre,2-1,Atlético PR
 Rodada 11,Tue Oct 13 2020,Flamengo RJ,2-1,Goiás EC
@@ -270,8 +270,8 @@ Rodada 16,Thu Oct 15 2020,Flamengo RJ,1-1,RB Bragantino
 Rodada 16,Fri Oct 16 2020,CR Vasco da Gama,,Fortaleza EC
 Rodada 16,Fri Oct 16 2020,Goiás EC,1-1,EC Bahia
 Rodada 17,Sat Oct 17 2020,Fluminense RJ,2-2,Ceára SC
-Rodada 17,Sat Oct 17 2020,Atlético GO,1-1,Atlético PR
 Rodada 17,Sat Oct 17 2020,Coritiba PR,1-2,Santos SP
+Rodada 17,Sat Oct 17 2020,Atlético GO,1-1,Atlético PR
 Rodada 17,Sat Oct 17 2020,São Paulo FC,0-0,Grêmio RS
 Rodada 17,Sun Oct 18 2020,Corinthians SP,1-5,Flamengo RJ
 Rodada 17,Sun Oct 18 2020,Internacional Porto Alegre,2-0,CR Vasco da Gama
@@ -283,62 +283,62 @@ Rodada 18,Wed Oct 21 2020,CR Vasco da Gama,1-2,Corinthians SP
 Rodada 18,Sat Oct 24 2020,RB Bragantino,2-0,Goiás EC
 Rodada 18,Sat Oct 24 2020,Ceára SC,2-1,Coritiba PR
 Rodada 18,Sat Oct 24 2020,Atlético MG,0-0,Sport Recife
-Rodada 18,Sun Oct 25 2020,EC Bahia,,Fortaleza EC
 Rodada 18,Sun Oct 25 2020,São Paulo FC,,Botafogo RJ
-Rodada 18,Sun Oct 25 2020,Atlético GO,0-3,Palmeiras SP
+Rodada 18,Sun Oct 25 2020,EC Bahia,,Fortaleza EC
 Rodada 18,Sun Oct 25 2020,Fluminense RJ,3-1,Santos SP
-Rodada 18,Sun Oct 25 2020,Atlético PR,1-2,Grêmio RS
+Rodada 18,Sun Oct 25 2020,Atlético GO,0-3,Palmeiras SP
 Rodada 18,Sun Oct 25 2020,Internacional Porto Alegre,2-2,Flamengo RJ
-Rodada 19,Sat Oct 31 2020,Botafogo RJ,,Ceára SC
-Rodada 19,Sat Oct 31 2020,Coritiba PR,,Atlético GO
-Rodada 19,Sat Oct 31 2020,Corinthians SP,,Internacional Porto Alegre
-Rodada 19,Sat Oct 31 2020,Fortaleza EC,,Fluminense RJ
-Rodada 19,Sun Nov 1 2020,Sport Recife,,Atlético PR
-Rodada 19,Sun Nov 1 2020,Flamengo RJ,,São Paulo FC
-Rodada 19,Sun Nov 1 2020,Santos SP,,EC Bahia
-Rodada 19,Sun Nov 1 2020,Goiás EC,,CR Vasco da Gama
+Rodada 18,Sun Oct 25 2020,Atlético PR,1-2,Grêmio RS
+Rodada 19,Sat Oct 31 2020,Botafogo RJ,2-2,Ceára SC
+Rodada 19,Sat Oct 31 2020,Corinthians SP,1-0,Internacional Porto Alegre
+Rodada 19,Sat Oct 31 2020,Coritiba PR,1-0,Atlético GO
+Rodada 19,Sat Oct 31 2020,Fortaleza EC,0-1,Fluminense RJ
+Rodada 19,Sun Nov 1 2020,Flamengo RJ,1-4,São Paulo FC
+Rodada 19,Sun Nov 1 2020,Sport Recife,1-0,Atlético PR
+Rodada 19,Sun Nov 1 2020,Santos SP,3-1,EC Bahia
+Rodada 19,Sun Nov 1 2020,Goiás EC,1-1,CR Vasco da Gama
 Rodada 19,Mon Nov 2 2020,Palmeiras SP,,Atlético MG
 Rodada 19,Mon Nov 2 2020,Grêmio RS,,RB Bragantino
-Rodada 20,Sat Nov 7 2020,São Paulo FC,,Goiás EC
-Rodada 20,Sat Nov 7 2020,EC Bahia,,Botafogo RJ
 Rodada 20,Sat Nov 7 2020,Atlético PR,,Fortaleza EC
-Rodada 20,Sat Nov 7 2020,Atlético MG,,Flamengo RJ
+Rodada 20,Sat Nov 7 2020,São Paulo FC,,Goiás EC
 Rodada 20,Sat Nov 7 2020,Atlético GO,,Corinthians SP
 Rodada 20,Sun Nov 8 2020,CR Vasco da Gama,,Palmeiras SP
 Rodada 20,Sun Nov 8 2020,Internacional Porto Alegre,,Coritiba PR
+Rodada 20,Sun Nov 8 2020,Atlético MG,,Flamengo RJ
+Rodada 20,Sun Nov 8 2020,EC Bahia,,Botafogo RJ
 Rodada 20,Sun Nov 8 2020,RB Bragantino,,Santos SP
-Rodada 20,Sun Nov 8 2020,Ceára SC,,Sport Recife
 Rodada 20,Sun Nov 8 2020,Fluminense RJ,,Grêmio RS
-Rodada 21,Sat Nov 14 2020,Sport Recife,,CR Vasco da Gama
-Rodada 21,Sat Nov 14 2020,Fortaleza EC,,São Paulo FC
-Rodada 21,Sat Nov 14 2020,Palmeiras SP,,Fluminense RJ
-Rodada 21,Sat Nov 14 2020,Botafogo RJ,,RB Bragantino
-Rodada 21,Sat Nov 14 2020,Corinthians SP,,Atlético MG
+Rodada 20,Sun Nov 8 2020,Ceára SC,,Sport Recife
 Rodada 21,Sat Nov 14 2020,Santos SP,,Internacional Porto Alegre
+Rodada 21,Sat Nov 14 2020,Sport Recife,,CR Vasco da Gama
 Rodada 21,Sat Nov 14 2020,Goiás EC,,Atlético PR
-Rodada 21,Sat Nov 14 2020,Flamengo RJ,,Atlético GO
+Rodada 21,Sat Nov 14 2020,Fortaleza EC,,São Paulo FC
+Rodada 21,Sat Nov 14 2020,Corinthians SP,,Atlético MG
 Rodada 21,Sat Nov 14 2020,Grêmio RS,,Ceára SC
 Rodada 21,Sat Nov 14 2020,Coritiba PR,,EC Bahia
-Rodada 22,Sun Nov 22 2020,Internacional Porto Alegre,,Fluminense RJ
-Rodada 22,Sun Nov 22 2020,Goiás EC,,Palmeiras SP
-Rodada 22,Sun Nov 22 2020,Sport Recife,,Atlético GO
-Rodada 22,Sun Nov 22 2020,Atlético PR,,Santos SP
-Rodada 22,Sun Nov 22 2020,Ceára SC,,Atlético MG
-Rodada 22,Sun Nov 22 2020,Corinthians SP,,Grêmio RS
-Rodada 22,Sun Nov 22 2020,RB Bragantino,,EC Bahia
-Rodada 22,Sun Nov 22 2020,Flamengo RJ,,Coritiba PR
-Rodada 22,Sun Nov 22 2020,Botafogo RJ,,Fortaleza EC
+Rodada 21,Sat Nov 14 2020,Palmeiras SP,,Fluminense RJ
+Rodada 21,Sat Nov 14 2020,Flamengo RJ,,Atlético GO
+Rodada 21,Mon Nov 16 2020,Botafogo RJ,,RB Bragantino
+Rodada 22,Sat Nov 21 2020,Atlético PR,,Santos SP
+Rodada 22,Sat Nov 21 2020,Flamengo RJ,,Coritiba PR
+Rodada 22,Sat Nov 21 2020,Goiás EC,,Palmeiras SP
 Rodada 22,Sun Nov 22 2020,São Paulo FC,,CR Vasco da Gama
-Rodada 23,Sat Nov 28 2020,Grêmio RS,,Flamengo RJ
-Rodada 23,Sat Nov 28 2020,EC Bahia,,São Paulo FC
+Rodada 22,Sun Nov 22 2020,Ceára SC,,Atlético MG
+Rodada 22,Sun Nov 22 2020,Internacional Porto Alegre,,Fluminense RJ
+Rodada 22,Sun Nov 22 2020,RB Bragantino,,EC Bahia
+Rodada 22,Sun Nov 22 2020,Botafogo RJ,,Fortaleza EC
+Rodada 22,Sun Nov 22 2020,Corinthians SP,,Grêmio RS
+Rodada 22,Mon Nov 23 2020,Sport Recife,,Atlético GO
+Rodada 23,Sat Nov 28 2020,Atlético MG,,Botafogo RJ
 Rodada 23,Sat Nov 28 2020,Fortaleza EC,,Goiás EC
+Rodada 23,Sat Nov 28 2020,EC Bahia,,São Paulo FC
 Rodada 23,Sat Nov 28 2020,Fluminense RJ,,RB Bragantino
 Rodada 23,Sat Nov 28 2020,Coritiba PR,,Corinthians SP
 Rodada 23,Sat Nov 28 2020,Atlético GO,,Internacional Porto Alegre
 Rodada 23,Sat Nov 28 2020,Santos SP,,Sport Recife
 Rodada 23,Sat Nov 28 2020,Palmeiras SP,,Atlético PR
 Rodada 23,Sat Nov 28 2020,CR Vasco da Gama,,Ceára SC
-Rodada 23,Sat Nov 28 2020,Atlético MG,,Botafogo RJ
+Rodada 23,Sat Nov 28 2020,Grêmio RS,,Flamengo RJ
 Rodada 24,Sun Dec 6 2020,Botafogo RJ,,Flamengo RJ
 Rodada 24,Sun Dec 6 2020,Grêmio RS,,CR Vasco da Gama
 Rodada 24,Sun Dec 6 2020,Santos SP,,Palmeiras SP
@@ -350,15 +350,15 @@ Rodada 24,Sun Dec 6 2020,Fluminense RJ,,Atlético PR
 Rodada 24,Sun Dec 6 2020,EC Bahia,,Ceára SC
 Rodada 24,Sun Dec 6 2020,Atlético GO,,Goiás EC
 Rodada 25,Sun Dec 13 2020,CR Vasco da Gama,,Fluminense RJ
+Rodada 25,Sun Dec 13 2020,Internacional Porto Alegre,,Botafogo RJ
 Rodada 25,Sun Dec 13 2020,Corinthians SP,,São Paulo FC
-Rodada 25,Sun Dec 13 2020,Ceára SC,,Atlético GO
 Rodada 25,Sun Dec 13 2020,Flamengo RJ,,Santos SP
 Rodada 25,Sun Dec 13 2020,Atlético PR,,Atlético MG
 Rodada 25,Sun Dec 13 2020,Goiás EC,,Grêmio RS
 Rodada 25,Sun Dec 13 2020,Palmeiras SP,,EC Bahia
 Rodada 25,Sun Dec 13 2020,Sport Recife,,Coritiba PR
 Rodada 25,Sun Dec 13 2020,RB Bragantino,,Fortaleza EC
-Rodada 25,Sun Dec 13 2020,Internacional Porto Alegre,,Botafogo RJ
+Rodada 25,Sun Dec 13 2020,Ceára SC,,Atlético GO
 Rodada 26,Sun Dec 20 2020,Atlético GO,,Fluminense RJ
 Rodada 26,Sun Dec 20 2020,Coritiba PR,,Botafogo RJ
 Rodada 26,Sun Dec 20 2020,Internacional Porto Alegre,,Palmeiras SP
