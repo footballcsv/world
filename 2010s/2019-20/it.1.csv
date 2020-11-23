@@ -1,112 +1,112 @@
 Round,Date,Team 1,FT,Team 2
 1^ Giornata,Sat Aug 24 2019,Parma,0-1,Juventus
 1^ Giornata,Sat Aug 24 2019,ACF Fiorentina,3-4,SSC Napoli
-1^ Giornata,Sun Aug 25 2019,UC Sampdoria,0-3,SS Lazio
-1^ Giornata,Sun Aug 25 2019,AS Roma,3-3,Genoa CFC
 1^ Giornata,Sun Aug 25 2019,Udinese Calcio,1-0,AC Milan
 1^ Giornata,Sun Aug 25 2019,Cagliari Calcio,0-1,Brescia Calcio
-1^ Giornata,Sun Aug 25 2019,Torino FC,2-1,US Sassuolo Calcio
 1^ Giornata,Sun Aug 25 2019,Hellas Verona,1-1,Bologna FC
+1^ Giornata,Sun Aug 25 2019,Torino FC,2-1,US Sassuolo Calcio
+1^ Giornata,Sun Aug 25 2019,UC Sampdoria,0-3,SS Lazio
 1^ Giornata,Sun Aug 25 2019,SPAL Ferrara,2-3,Atalanta Bergamo
+1^ Giornata,Sun Aug 25 2019,AS Roma,3-3,Genoa CFC
 1^ Giornata,Mon Aug 26 2019,FC Internazionale Milano,4-0,US Lecce
 2^ Giornata,Fri Aug 30 2019,Bologna FC,1-0,SPAL Ferrara
 2^ Giornata,Sat Aug 31 2019,AC Milan,1-0,Brescia Calcio
 2^ Giornata,Sat Aug 31 2019,Juventus,4-3,SSC Napoli
-2^ Giornata,Sun Sep 1 2019,US Lecce,0-1,Hellas Verona
 2^ Giornata,Sun Sep 1 2019,SS Lazio,1-1,AS Roma
-2^ Giornata,Sun Sep 1 2019,Atalanta Bergamo,2-3,Torino FC
 2^ Giornata,Sun Sep 1 2019,Cagliari Calcio,1-2,FC Internazionale Milano
-2^ Giornata,Sun Sep 1 2019,Genoa CFC,2-1,ACF Fiorentina
-2^ Giornata,Sun Sep 1 2019,US Sassuolo Calcio,4-1,UC Sampdoria
 2^ Giornata,Sun Sep 1 2019,Udinese Calcio,1-3,Parma
+2^ Giornata,Sun Sep 1 2019,Genoa CFC,2-1,ACF Fiorentina
+2^ Giornata,Sun Sep 1 2019,Atalanta Bergamo,2-3,Torino FC
+2^ Giornata,Sun Sep 1 2019,US Sassuolo Calcio,4-1,UC Sampdoria
+2^ Giornata,Sun Sep 1 2019,US Lecce,0-1,Hellas Verona
 3^ Giornata,Sat Sep 14 2019,ACF Fiorentina,0-0,Juventus
 3^ Giornata,Sat Sep 14 2019,SSC Napoli,2-0,UC Sampdoria
 3^ Giornata,Sat Sep 14 2019,FC Internazionale Milano,1-0,Udinese Calcio
-3^ Giornata,Sun Sep 15 2019,Hellas Verona,0-1,AC Milan
 3^ Giornata,Sun Sep 15 2019,Genoa CFC,1-2,Atalanta Bergamo
 3^ Giornata,Sun Sep 15 2019,Brescia Calcio,3-4,Bologna FC
+3^ Giornata,Sun Sep 15 2019,Parma,1-3,Cagliari Calcio
 3^ Giornata,Sun Sep 15 2019,SPAL Ferrara,2-1,SS Lazio
 3^ Giornata,Sun Sep 15 2019,AS Roma,4-2,US Sassuolo Calcio
-3^ Giornata,Sun Sep 15 2019,Parma,1-3,Cagliari Calcio
+3^ Giornata,Sun Sep 15 2019,Hellas Verona,0-1,AC Milan
 3^ Giornata,Mon Sep 16 2019,Torino FC,1-2,US Lecce
 4^ Giornata,Fri Sep 20 2019,Cagliari Calcio,3-1,Genoa CFC
 4^ Giornata,Sat Sep 21 2019,Udinese Calcio,0-1,Brescia Calcio
 4^ Giornata,Sat Sep 21 2019,Juventus,2-1,Hellas Verona
 4^ Giornata,Sat Sep 21 2019,AC Milan,0-2,FC Internazionale Milano
 4^ Giornata,Sun Sep 22 2019,US Sassuolo Calcio,3-0,SPAL Ferrara
-4^ Giornata,Sun Sep 22 2019,UC Sampdoria,1-0,Torino FC
 4^ Giornata,Sun Sep 22 2019,Bologna FC,1-2,AS Roma
+4^ Giornata,Sun Sep 22 2019,UC Sampdoria,1-0,Torino FC
 4^ Giornata,Sun Sep 22 2019,US Lecce,1-4,SSC Napoli
-4^ Giornata,Sun Sep 22 2019,SS Lazio,2-0,Parma
 4^ Giornata,Sun Sep 22 2019,Atalanta Bergamo,2-2,ACF Fiorentina
+4^ Giornata,Sun Sep 22 2019,SS Lazio,2-0,Parma
 5^ Giornata,Tue Sep 24 2019,Hellas Verona,0-0,Udinese Calcio
 5^ Giornata,Tue Sep 24 2019,Brescia Calcio,1-2,Juventus
-5^ Giornata,Wed Sep 25 2019,FC Internazionale Milano,1-0,SS Lazio
-5^ Giornata,Wed Sep 25 2019,SSC Napoli,0-1,Cagliari Calcio
 5^ Giornata,Wed Sep 25 2019,AS Roma,0-2,Atalanta Bergamo
 5^ Giornata,Wed Sep 25 2019,ACF Fiorentina,2-1,UC Sampdoria
-5^ Giornata,Wed Sep 25 2019,Parma,1-0,US Sassuolo Calcio
 5^ Giornata,Wed Sep 25 2019,Genoa CFC,0-0,Bologna FC
+5^ Giornata,Wed Sep 25 2019,FC Internazionale Milano,1-0,SS Lazio
+5^ Giornata,Wed Sep 25 2019,SSC Napoli,0-1,Cagliari Calcio
+5^ Giornata,Wed Sep 25 2019,Parma,1-0,US Sassuolo Calcio
 5^ Giornata,Wed Sep 25 2019,SPAL Ferrara,1-3,US Lecce
 5^ Giornata,Thu Sep 26 2019,Torino FC,2-1,AC Milan
-6^ Giornata,Sat Sep 28 2019,UC Sampdoria,1-3,FC Internazionale Milano
 6^ Giornata,Sat Sep 28 2019,Juventus,2-0,SPAL Ferrara
+6^ Giornata,Sat Sep 28 2019,UC Sampdoria,1-3,FC Internazionale Milano
 6^ Giornata,Sat Sep 28 2019,US Sassuolo Calcio,1-4,Atalanta Bergamo
 6^ Giornata,Sun Sep 29 2019,SSC Napoli,2-1,Brescia Calcio
 6^ Giornata,Sun Sep 29 2019,SS Lazio,4-0,Genoa CFC
-6^ Giornata,Sun Sep 29 2019,Udinese Calcio,1-0,Bologna FC
 6^ Giornata,Sun Sep 29 2019,US Lecce,0-1,AS Roma
+6^ Giornata,Sun Sep 29 2019,Udinese Calcio,1-0,Bologna FC
 6^ Giornata,Sun Sep 29 2019,Cagliari Calcio,1-1,Hellas Verona
 6^ Giornata,Sun Sep 29 2019,AC Milan,1-3,ACF Fiorentina
 6^ Giornata,Mon Sep 30 2019,Parma,3-2,Torino FC
-7^ Giornata,Sat Oct 5 2019,Hellas Verona,2-0,UC Sampdoria
 7^ Giornata,Sat Oct 5 2019,SPAL Ferrara,1-0,Parma
+7^ Giornata,Sat Oct 5 2019,Hellas Verona,2-0,UC Sampdoria
 7^ Giornata,Sat Oct 5 2019,Genoa CFC,1-2,AC Milan
-7^ Giornata,Sun Oct 6 2019,FC Internazionale Milano,1-2,Juventus
-7^ Giornata,Sun Oct 6 2019,AS Roma,1-1,Cagliari Calcio
+7^ Giornata,Sun Oct 6 2019,ACF Fiorentina,1-0,Udinese Calcio
 7^ Giornata,Sun Oct 6 2019,Atalanta Bergamo,3-1,US Lecce
 7^ Giornata,Sun Oct 6 2019,Bologna FC,2-2,SS Lazio
+7^ Giornata,Sun Oct 6 2019,AS Roma,1-1,Cagliari Calcio
 7^ Giornata,Sun Oct 6 2019,Torino FC,0-0,SSC Napoli
-7^ Giornata,Sun Oct 6 2019,ACF Fiorentina,1-0,Udinese Calcio
+7^ Giornata,Sun Oct 6 2019,FC Internazionale Milano,1-2,Juventus
 8^ Giornata,Sat Oct 19 2019,SS Lazio,3-3,Atalanta Bergamo
 8^ Giornata,Sat Oct 19 2019,SSC Napoli,2-0,Hellas Verona
 8^ Giornata,Sat Oct 19 2019,Juventus,2-1,Bologna FC
-8^ Giornata,Sun Oct 20 2019,AC Milan,2-2,US Lecce
 8^ Giornata,Sun Oct 20 2019,US Sassuolo Calcio,3-4,FC Internazionale Milano
-8^ Giornata,Sun Oct 20 2019,UC Sampdoria,0-0,AS Roma
-8^ Giornata,Sun Oct 20 2019,Cagliari Calcio,2-0,SPAL Ferrara
-8^ Giornata,Sun Oct 20 2019,Parma,5-1,Genoa CFC
 8^ Giornata,Sun Oct 20 2019,Udinese Calcio,1-0,Torino FC
+8^ Giornata,Sun Oct 20 2019,Cagliari Calcio,2-0,SPAL Ferrara
+8^ Giornata,Sun Oct 20 2019,UC Sampdoria,0-0,AS Roma
+8^ Giornata,Sun Oct 20 2019,Parma,5-1,Genoa CFC
+8^ Giornata,Sun Oct 20 2019,AC Milan,2-2,US Lecce
 8^ Giornata,Mon Oct 21 2019,Brescia Calcio,0-0,ACF Fiorentina
 9^ Giornata,Fri Oct 25 2019,Hellas Verona,0-1,US Sassuolo Calcio
 9^ Giornata,Sat Oct 26 2019,US Lecce,1-1,Juventus
 9^ Giornata,Sat Oct 26 2019,FC Internazionale Milano,2-2,Parma
 9^ Giornata,Sat Oct 26 2019,Genoa CFC,3-1,Brescia Calcio
 9^ Giornata,Sun Oct 27 2019,Bologna FC,2-1,UC Sampdoria
-9^ Giornata,Sun Oct 27 2019,Atalanta Bergamo,7-1,Udinese Calcio
 9^ Giornata,Sun Oct 27 2019,Torino FC,1-1,Cagliari Calcio
+9^ Giornata,Sun Oct 27 2019,Atalanta Bergamo,7-1,Udinese Calcio
 9^ Giornata,Sun Oct 27 2019,SPAL Ferrara,1-1,SSC Napoli
-9^ Giornata,Sun Oct 27 2019,ACF Fiorentina,1-2,SS Lazio
 9^ Giornata,Sun Oct 27 2019,AS Roma,2-1,AC Milan
+9^ Giornata,Sun Oct 27 2019,ACF Fiorentina,1-2,SS Lazio
 10^ Giornata,Tue Oct 29 2019,Parma,0-1,Hellas Verona
 10^ Giornata,Tue Oct 29 2019,Brescia Calcio,1-2,FC Internazionale Milano
-10^ Giornata,Wed Oct 30 2019,SS Lazio,4-0,Torino FC
-10^ Giornata,Wed Oct 30 2019,Juventus,2-1,Genoa CFC
 10^ Giornata,Wed Oct 30 2019,SSC Napoli,2-2,Atalanta Bergamo
-10^ Giornata,Wed Oct 30 2019,Udinese Calcio,0-4,AS Roma
-10^ Giornata,Wed Oct 30 2019,US Sassuolo Calcio,1-2,ACF Fiorentina
 10^ Giornata,Wed Oct 30 2019,Cagliari Calcio,3-2,Bologna FC
+10^ Giornata,Wed Oct 30 2019,Udinese Calcio,0-4,AS Roma
+10^ Giornata,Wed Oct 30 2019,Juventus,2-1,Genoa CFC
+10^ Giornata,Wed Oct 30 2019,SS Lazio,4-0,Torino FC
 10^ Giornata,Wed Oct 30 2019,UC Sampdoria,1-1,US Lecce
+10^ Giornata,Wed Oct 30 2019,US Sassuolo Calcio,1-2,ACF Fiorentina
 10^ Giornata,Thu Oct 31 2019,AC Milan,1-0,SPAL Ferrara
-11^ Giornata,Sat Nov 2 2019,Bologna FC,1-2,FC Internazionale Milano
 11^ Giornata,Sat Nov 2 2019,AS Roma,2-1,SSC Napoli
+11^ Giornata,Sat Nov 2 2019,Bologna FC,1-2,FC Internazionale Milano
 11^ Giornata,Sat Nov 2 2019,Torino FC,0-1,Juventus
 11^ Giornata,Sun Nov 3 2019,Atalanta Bergamo,0-2,Cagliari Calcio
 11^ Giornata,Sun Nov 3 2019,Genoa CFC,1-3,Udinese Calcio
-11^ Giornata,Sun Nov 3 2019,Hellas Verona,2-1,Brescia Calcio
-11^ Giornata,Sun Nov 3 2019,AC Milan,1-2,SS Lazio
-11^ Giornata,Sun Nov 3 2019,ACF Fiorentina,1-1,Parma
 11^ Giornata,Sun Nov 3 2019,US Lecce,2-2,US Sassuolo Calcio
+11^ Giornata,Sun Nov 3 2019,Hellas Verona,2-1,Brescia Calcio
+11^ Giornata,Sun Nov 3 2019,ACF Fiorentina,1-1,Parma
+11^ Giornata,Sun Nov 3 2019,AC Milan,1-2,SS Lazio
 11^ Giornata,Mon Nov 4 2019,SPAL Ferrara,0-1,UC Sampdoria
 12^ Giornata,Fri Nov 8 2019,US Sassuolo Calcio,3-1,Bologna FC
 12^ Giornata,Sat Nov 9 2019,Brescia Calcio,0-4,Torino FC
@@ -114,27 +114,27 @@ Round,Date,Team 1,FT,Team 2
 12^ Giornata,Sat Nov 9 2019,SSC Napoli,0-0,Genoa CFC
 12^ Giornata,Sun Nov 10 2019,Cagliari Calcio,5-2,ACF Fiorentina
 12^ Giornata,Sun Nov 10 2019,SS Lazio,4-2,US Lecce
-12^ Giornata,Sun Nov 10 2019,Udinese Calcio,0-0,SPAL Ferrara
 12^ Giornata,Sun Nov 10 2019,UC Sampdoria,0-0,Atalanta Bergamo
-12^ Giornata,Sun Nov 10 2019,Juventus,1-0,AC Milan
+12^ Giornata,Sun Nov 10 2019,Udinese Calcio,0-0,SPAL Ferrara
 12^ Giornata,Sun Nov 10 2019,Parma,2-0,AS Roma
-13^ Giornata,Sat Nov 23 2019,Torino FC,0-3,FC Internazionale Milano
-13^ Giornata,Sat Nov 23 2019,AC Milan,1-1,SSC Napoli
+12^ Giornata,Sun Nov 10 2019,Juventus,1-0,AC Milan
 13^ Giornata,Sat Nov 23 2019,Atalanta Bergamo,1-3,Juventus
+13^ Giornata,Sat Nov 23 2019,AC Milan,1-1,SSC Napoli
+13^ Giornata,Sat Nov 23 2019,Torino FC,0-3,FC Internazionale Milano
 13^ Giornata,Sun Nov 24 2019,Bologna FC,2-2,Parma
-13^ Giornata,Sun Nov 24 2019,UC Sampdoria,2-1,Udinese Calcio
-13^ Giornata,Sun Nov 24 2019,Hellas Verona,1-0,ACF Fiorentina
 13^ Giornata,Sun Nov 24 2019,US Sassuolo Calcio,1-2,SS Lazio
+13^ Giornata,Sun Nov 24 2019,Hellas Verona,1-0,ACF Fiorentina
 13^ Giornata,Sun Nov 24 2019,AS Roma,3-0,Brescia Calcio
+13^ Giornata,Sun Nov 24 2019,UC Sampdoria,2-1,Udinese Calcio
 13^ Giornata,Mon Nov 25 2019,US Lecce,2-2,Cagliari Calcio
 13^ Giornata,Mon Nov 25 2019,SPAL Ferrara,1-1,Genoa CFC
 14^ Giornata,Sat Nov 30 2019,Brescia Calcio,0-3,Atalanta Bergamo
 14^ Giornata,Sat Nov 30 2019,Genoa CFC,0-1,Torino FC
 14^ Giornata,Sat Nov 30 2019,ACF Fiorentina,0-1,US Lecce
 14^ Giornata,Sun Dec 1 2019,Juventus,2-2,US Sassuolo Calcio
-14^ Giornata,Sun Dec 1 2019,FC Internazionale Milano,2-1,SPAL Ferrara
 14^ Giornata,Sun Dec 1 2019,SS Lazio,3-0,Udinese Calcio
 14^ Giornata,Sun Dec 1 2019,Parma,0-1,AC Milan
+14^ Giornata,Sun Dec 1 2019,FC Internazionale Milano,2-1,SPAL Ferrara
 14^ Giornata,Sun Dec 1 2019,SSC Napoli,1-2,Bologna FC
 14^ Giornata,Sun Dec 1 2019,Hellas Verona,1-3,AS Roma
 14^ Giornata,Mon Dec 2 2019,Cagliari Calcio,4-3,UC Sampdoria
@@ -143,54 +143,54 @@ Round,Date,Team 1,FT,Team 2
 15^ Giornata,Sat Dec 7 2019,Udinese Calcio,1-1,SSC Napoli
 15^ Giornata,Sat Dec 7 2019,SS Lazio,3-1,Juventus
 15^ Giornata,Sun Dec 8 2019,US Lecce,2-2,Genoa CFC
-15^ Giornata,Sun Dec 8 2019,Bologna FC,2-3,AC Milan
-15^ Giornata,Sun Dec 8 2019,US Sassuolo Calcio,2-2,Cagliari Calcio
 15^ Giornata,Sun Dec 8 2019,SPAL Ferrara,0-1,Brescia Calcio
-15^ Giornata,Sun Dec 8 2019,UC Sampdoria,0-1,Parma
+15^ Giornata,Sun Dec 8 2019,US Sassuolo Calcio,2-2,Cagliari Calcio
 15^ Giornata,Sun Dec 8 2019,Torino FC,2-1,ACF Fiorentina
+15^ Giornata,Sun Dec 8 2019,UC Sampdoria,0-1,Parma
+15^ Giornata,Sun Dec 8 2019,Bologna FC,2-3,AC Milan
 16^ Giornata,Sat Dec 14 2019,Brescia Calcio,3-0,US Lecce
 16^ Giornata,Sat Dec 14 2019,SSC Napoli,1-2,Parma
 16^ Giornata,Sat Dec 14 2019,Genoa CFC,0-1,UC Sampdoria
-16^ Giornata,Sun Dec 15 2019,Juventus,3-1,Udinese Calcio
 16^ Giornata,Sun Dec 15 2019,Hellas Verona,3-3,Torino FC
-16^ Giornata,Sun Dec 15 2019,ACF Fiorentina,1-1,FC Internazionale Milano
+16^ Giornata,Sun Dec 15 2019,Juventus,3-1,Udinese Calcio
 16^ Giornata,Sun Dec 15 2019,Bologna FC,2-1,Atalanta Bergamo
-16^ Giornata,Sun Dec 15 2019,AS Roma,3-1,SPAL Ferrara
 16^ Giornata,Sun Dec 15 2019,AC Milan,0-0,US Sassuolo Calcio
+16^ Giornata,Sun Dec 15 2019,AS Roma,3-1,SPAL Ferrara
+16^ Giornata,Sun Dec 15 2019,ACF Fiorentina,1-1,FC Internazionale Milano
 16^ Giornata,Mon Dec 16 2019,Cagliari Calcio,1-2,SS Lazio
-7^ Giornata,Wed Dec 18 2019,Brescia Calcio,0-2,US Sassuolo Calcio
 17^ Giornata,Wed Dec 18 2019,UC Sampdoria,1-2,Juventus
+7^ Giornata,Wed Dec 18 2019,Brescia Calcio,0-2,US Sassuolo Calcio
 17^ Giornata,Fri Dec 20 2019,ACF Fiorentina,1-4,AS Roma
 17^ Giornata,Sat Dec 21 2019,Udinese Calcio,2-1,Cagliari Calcio
 17^ Giornata,Sat Dec 21 2019,FC Internazionale Milano,4-0,Genoa CFC
 17^ Giornata,Sat Dec 21 2019,Torino FC,1-2,SPAL Ferrara
 17^ Giornata,Sun Dec 22 2019,Atalanta Bergamo,5-0,AC Milan
-17^ Giornata,Sun Dec 22 2019,US Sassuolo Calcio,1-2,SSC Napoli
-17^ Giornata,Sun Dec 22 2019,US Lecce,2-3,Bologna FC
 17^ Giornata,Sun Dec 22 2019,Parma,1-1,Brescia Calcio
+17^ Giornata,Sun Dec 22 2019,US Lecce,2-3,Bologna FC
+17^ Giornata,Sun Dec 22 2019,US Sassuolo Calcio,1-2,SSC Napoli
 18^ Giornata,Sun Jan 5 2020,Brescia Calcio,1-2,SS Lazio
-18^ Giornata,Sun Jan 5 2020,AS Roma,0-2,Torino FC
-18^ Giornata,Sun Jan 5 2020,Genoa CFC,2-1,US Sassuolo Calcio
 18^ Giornata,Sun Jan 5 2020,SPAL Ferrara,0-2,Hellas Verona
+18^ Giornata,Sun Jan 5 2020,Genoa CFC,2-1,US Sassuolo Calcio
+18^ Giornata,Sun Jan 5 2020,AS Roma,0-2,Torino FC
 18^ Giornata,Mon Jan 6 2020,Bologna FC,1-1,ACF Fiorentina
 18^ Giornata,Mon Jan 6 2020,Juventus,4-0,Cagliari Calcio
 18^ Giornata,Mon Jan 6 2020,AC Milan,0-0,UC Sampdoria
 18^ Giornata,Mon Jan 6 2020,Atalanta Bergamo,5-0,Parma
-18^ Giornata,Mon Jan 6 2020,SSC Napoli,1-3,FC Internazionale Milano
 18^ Giornata,Mon Jan 6 2020,US Lecce,0-1,Udinese Calcio
+18^ Giornata,Mon Jan 6 2020,SSC Napoli,1-3,FC Internazionale Milano
 19^ Giornata,Sat Jan 11 2020,Cagliari Calcio,0-2,AC Milan
-19^ Giornata,Sat Jan 11 2020,FC Internazionale Milano,1-1,Atalanta Bergamo
 19^ Giornata,Sat Jan 11 2020,SS Lazio,1-0,SSC Napoli
-19^ Giornata,Sun Jan 12 2020,AS Roma,1-2,Juventus
+19^ Giornata,Sat Jan 11 2020,FC Internazionale Milano,1-1,Atalanta Bergamo
+19^ Giornata,Sun Jan 12 2020,Udinese Calcio,3-0,US Sassuolo Calcio
 19^ Giornata,Sun Jan 12 2020,ACF Fiorentina,1-0,SPAL Ferrara
 19^ Giornata,Sun Jan 12 2020,UC Sampdoria,5-1,Brescia Calcio
 19^ Giornata,Sun Jan 12 2020,Torino FC,1-0,Bologna FC
 19^ Giornata,Sun Jan 12 2020,Hellas Verona,2-1,Genoa CFC
-19^ Giornata,Sun Jan 12 2020,Udinese Calcio,3-0,US Sassuolo Calcio
+19^ Giornata,Sun Jan 12 2020,AS Roma,1-2,Juventus
 19^ Giornata,Mon Jan 13 2020,Parma,2-0,US Lecce
 20^ Giornata,Sat Jan 18 2020,SS Lazio,5-1,UC Sampdoria
-20^ Giornata,Sat Jan 18 2020,SSC Napoli,0-2,ACF Fiorentina
 20^ Giornata,Sat Jan 18 2020,US Sassuolo Calcio,2-1,Torino FC
+20^ Giornata,Sat Jan 18 2020,SSC Napoli,0-2,ACF Fiorentina
 20^ Giornata,Sun Jan 19 2020,AC Milan,3-2,Udinese Calcio
 20^ Giornata,Sun Jan 19 2020,Bologna FC,1-1,Hellas Verona
 20^ Giornata,Sun Jan 19 2020,Brescia Calcio,2-2,Cagliari Calcio
@@ -199,24 +199,24 @@ Round,Date,Team 1,FT,Team 2
 20^ Giornata,Sun Jan 19 2020,Juventus,2-1,Parma
 20^ Giornata,Mon Jan 20 2020,Atalanta Bergamo,1-2,SPAL Ferrara
 21^ Giornata,Fri Jan 24 2020,Brescia Calcio,0-1,AC Milan
-21^ Giornata,Sat Jan 25 2020,Torino FC,0-7,Atalanta Bergamo
-21^ Giornata,Sat Jan 25 2020,ACF Fiorentina,0-0,Genoa CFC
 21^ Giornata,Sat Jan 25 2020,SPAL Ferrara,1-3,Bologna FC
+21^ Giornata,Sat Jan 25 2020,ACF Fiorentina,0-0,Genoa CFC
+21^ Giornata,Sat Jan 25 2020,Torino FC,0-7,Atalanta Bergamo
 21^ Giornata,Sun Jan 26 2020,FC Internazionale Milano,1-1,Cagliari Calcio
-21^ Giornata,Sun Jan 26 2020,SSC Napoli,2-1,Juventus
-21^ Giornata,Sun Jan 26 2020,UC Sampdoria,0-0,US Sassuolo Calcio
 21^ Giornata,Sun Jan 26 2020,Hellas Verona,3-0,US Lecce
-21^ Giornata,Sun Jan 26 2020,AS Roma,1-1,SS Lazio
 21^ Giornata,Sun Jan 26 2020,Parma,2-0,Udinese Calcio
+21^ Giornata,Sun Jan 26 2020,UC Sampdoria,0-0,US Sassuolo Calcio
+21^ Giornata,Sun Jan 26 2020,AS Roma,1-1,SS Lazio
+21^ Giornata,Sun Jan 26 2020,SSC Napoli,2-1,Juventus
 22^ Giornata,Sat Feb 1 2020,Bologna FC,2-1,Brescia Calcio
 22^ Giornata,Sat Feb 1 2020,Cagliari Calcio,2-2,Parma
 22^ Giornata,Sat Feb 1 2020,US Sassuolo Calcio,4-2,AS Roma
-22^ Giornata,Sun Feb 2 2020,SS Lazio,5-1,SPAL Ferrara
 22^ Giornata,Sun Feb 2 2020,Juventus,3-0,ACF Fiorentina
 22^ Giornata,Sun Feb 2 2020,AC Milan,1-1,Hellas Verona
-22^ Giornata,Sun Feb 2 2020,Udinese Calcio,0-2,FC Internazionale Milano
-22^ Giornata,Sun Feb 2 2020,US Lecce,4-0,Torino FC
 22^ Giornata,Sun Feb 2 2020,Atalanta Bergamo,2-2,Genoa CFC
+22^ Giornata,Sun Feb 2 2020,SS Lazio,5-1,SPAL Ferrara
+22^ Giornata,Sun Feb 2 2020,US Lecce,4-0,Torino FC
+22^ Giornata,Sun Feb 2 2020,Udinese Calcio,0-2,FC Internazionale Milano
 22^ Giornata,Mon Feb 3 2020,UC Sampdoria,2-4,SSC Napoli
 17^ Giornata,Wed Feb 5 2020,SS Lazio,0-0,Hellas Verona
 23^ Giornata,Fri Feb 7 2020,AS Roma,2-3,Bologna FC
@@ -227,13 +227,13 @@ Round,Date,Team 1,FT,Team 2
 23^ Giornata,Sun Feb 9 2020,SSC Napoli,2-3,US Lecce
 23^ Giornata,Sun Feb 9 2020,Genoa CFC,1-0,Cagliari Calcio
 23^ Giornata,Sun Feb 9 2020,Brescia Calcio,1-1,Udinese Calcio
-23^ Giornata,Sun Feb 9 2020,FC Internazionale Milano,4-2,AC Milan
 23^ Giornata,Sun Feb 9 2020,Parma,0-1,SS Lazio
+23^ Giornata,Sun Feb 9 2020,FC Internazionale Milano,4-2,AC Milan
 24^ Giornata,Sat Feb 15 2020,US Lecce,2-1,SPAL Ferrara
 24^ Giornata,Sat Feb 15 2020,Bologna FC,0-3,Genoa CFC
 24^ Giornata,Sat Feb 15 2020,Atalanta Bergamo,2-1,AS Roma
-24^ Giornata,Sun Feb 16 2020,Juventus,2-0,Brescia Calcio
 24^ Giornata,Sun Feb 16 2020,Udinese Calcio,0-0,Hellas Verona
+24^ Giornata,Sun Feb 16 2020,Juventus,2-0,Brescia Calcio
 24^ Giornata,Sun Feb 16 2020,UC Sampdoria,1-5,ACF Fiorentina
 24^ Giornata,Sun Feb 16 2020,US Sassuolo Calcio,0-1,Parma
 24^ Giornata,Sun Feb 16 2020,Cagliari Calcio,0-1,SSC Napoli
@@ -249,133 +249,133 @@ Round,Date,Team 1,FT,Team 2
 26^ Giornata,Sat Feb 29 2020,SSC Napoli,2-1,Torino FC
 26^ Giornata,Sun Mar 1 2020,US Lecce,2-7,Atalanta Bergamo
 26^ Giornata,Sun Mar 1 2020,Cagliari Calcio,3-4,AS Roma
-26^ Giornata,Sun Mar 8 2020,AC Milan,1-2,Genoa CFC
 26^ Giornata,Sun Mar 8 2020,Parma,0-1,SPAL Ferrara
 26^ Giornata,Sun Mar 8 2020,UC Sampdoria,2-1,Hellas Verona
-26^ Giornata,Sun Mar 8 2020,Juventus,2-0,FC Internazionale Milano
+26^ Giornata,Sun Mar 8 2020,AC Milan,1-2,Genoa CFC
 26^ Giornata,Sun Mar 8 2020,Udinese Calcio,0-0,ACF Fiorentina
+26^ Giornata,Sun Mar 8 2020,Juventus,2-0,FC Internazionale Milano
 26^ Giornata,Mon Mar 9 2020,US Sassuolo Calcio,3-0,Brescia Calcio
 25^ Giornata,Sat Jun 20 2020,Torino FC,1-1,Parma
 25^ Giornata,Sat Jun 20 2020,Hellas Verona,2-1,Cagliari Calcio
-25^ Giornata,Sun Jun 21 2020,FC Internazionale Milano,2-1,UC Sampdoria
 25^ Giornata,Sun Jun 21 2020,Atalanta Bergamo,4-1,US Sassuolo Calcio
-27^ Giornata,Mon Jun 22 2020,Bologna FC,0-2,Juventus
-27^ Giornata,Mon Jun 22 2020,US Lecce,1-4,AC Milan
+25^ Giornata,Sun Jun 21 2020,FC Internazionale Milano,2-1,UC Sampdoria
 27^ Giornata,Mon Jun 22 2020,ACF Fiorentina,1-1,Brescia Calcio
-27^ Giornata,Tue Jun 23 2020,Genoa CFC,1-4,Parma
+27^ Giornata,Mon Jun 22 2020,US Lecce,1-4,AC Milan
+27^ Giornata,Mon Jun 22 2020,Bologna FC,0-2,Juventus
 27^ Giornata,Tue Jun 23 2020,SPAL Ferrara,0-1,Cagliari Calcio
-27^ Giornata,Tue Jun 23 2020,Torino FC,1-0,Udinese Calcio
 27^ Giornata,Tue Jun 23 2020,Hellas Verona,0-2,SSC Napoli
+27^ Giornata,Tue Jun 23 2020,Genoa CFC,1-4,Parma
+27^ Giornata,Tue Jun 23 2020,Torino FC,1-0,Udinese Calcio
 27^ Giornata,Wed Jun 24 2020,FC Internazionale Milano,3-3,US Sassuolo Calcio
-27^ Giornata,Wed Jun 24 2020,AS Roma,2-1,UC Sampdoria
 27^ Giornata,Wed Jun 24 2020,Atalanta Bergamo,3-2,SS Lazio
-28^ Giornata,Fri Jun 26 2020,Juventus,,US Lecce
-28^ Giornata,Sat Jun 27 2020,Brescia Calcio,,Genoa CFC
-28^ Giornata,Sat Jun 27 2020,Cagliari Calcio,,Torino FC
-28^ Giornata,Sat Jun 27 2020,SS Lazio,,ACF Fiorentina
-28^ Giornata,Sun Jun 28 2020,AC Milan,,AS Roma
-28^ Giornata,Sun Jun 28 2020,SSC Napoli,,SPAL Ferrara
-28^ Giornata,Sun Jun 28 2020,Udinese Calcio,,Atalanta Bergamo
-28^ Giornata,Sun Jun 28 2020,Parma,,FC Internazionale Milano
-28^ Giornata,Sun Jun 28 2020,US Sassuolo Calcio,,Hellas Verona
-28^ Giornata,Sun Jun 28 2020,UC Sampdoria,,Bologna FC
-29^ Giornata,Tue Jun 30 2020,Torino FC,,SS Lazio
-29^ Giornata,Tue Jun 30 2020,Genoa CFC,,Juventus
-29^ Giornata,Wed Jul 1 2020,Bologna FC,,Cagliari Calcio
-29^ Giornata,Wed Jul 1 2020,FC Internazionale Milano,,Brescia Calcio
-29^ Giornata,Wed Jul 1 2020,ACF Fiorentina,,US Sassuolo Calcio
-29^ Giornata,Wed Jul 1 2020,Hellas Verona,,Parma
-29^ Giornata,Wed Jul 1 2020,US Lecce,,UC Sampdoria
-29^ Giornata,Wed Jul 1 2020,SPAL Ferrara,,AC Milan
-29^ Giornata,Thu Jul 2 2020,Atalanta Bergamo,,SSC Napoli
-29^ Giornata,Thu Jul 2 2020,AS Roma,,Udinese Calcio
-30^ Giornata,Sat Jul 4 2020,Juventus,,Torino FC
-30^ Giornata,Sat Jul 4 2020,US Sassuolo Calcio,,US Lecce
-30^ Giornata,Sat Jul 4 2020,SS Lazio,,AC Milan
-30^ Giornata,Sun Jul 5 2020,FC Internazionale Milano,,Bologna FC
-30^ Giornata,Sun Jul 5 2020,Parma,,ACF Fiorentina
-30^ Giornata,Sun Jul 5 2020,Udinese Calcio,,Genoa CFC
-30^ Giornata,Sun Jul 5 2020,UC Sampdoria,,SPAL Ferrara
-30^ Giornata,Sun Jul 5 2020,SSC Napoli,,AS Roma
-30^ Giornata,Sun Jul 5 2020,Brescia Calcio,,Hellas Verona
-30^ Giornata,Sun Jul 5 2020,Cagliari Calcio,,Atalanta Bergamo
-31^ Giornata,Tue Jul 7 2020,US Lecce,,SS Lazio
-31^ Giornata,Tue Jul 7 2020,AC Milan,,Juventus
-31^ Giornata,Wed Jul 8 2020,Bologna FC,,US Sassuolo Calcio
-31^ Giornata,Wed Jul 8 2020,ACF Fiorentina,,Cagliari Calcio
-31^ Giornata,Wed Jul 8 2020,AS Roma,,Parma
-31^ Giornata,Wed Jul 8 2020,Atalanta Bergamo,,UC Sampdoria
-31^ Giornata,Wed Jul 8 2020,Torino FC,,Brescia Calcio
-31^ Giornata,Wed Jul 8 2020,Genoa CFC,,SSC Napoli
-31^ Giornata,Thu Jul 9 2020,SPAL Ferrara,,Udinese Calcio
-31^ Giornata,Thu Jul 9 2020,Hellas Verona,,FC Internazionale Milano
-32^ Giornata,Sat Jul 11 2020,SS Lazio,,US Sassuolo Calcio
-32^ Giornata,Sat Jul 11 2020,Brescia Calcio,,AS Roma
-32^ Giornata,Sat Jul 11 2020,Juventus,,Atalanta Bergamo
-32^ Giornata,Sun Jul 12 2020,SSC Napoli,,AC Milan
-32^ Giornata,Sun Jul 12 2020,ACF Fiorentina,,Hellas Verona
-32^ Giornata,Sun Jul 12 2020,Parma,,Bologna FC
-32^ Giornata,Sun Jul 12 2020,Udinese Calcio,,UC Sampdoria
-32^ Giornata,Sun Jul 12 2020,Cagliari Calcio,,US Lecce
-32^ Giornata,Sun Jul 12 2020,Genoa CFC,,SPAL Ferrara
-32^ Giornata,Mon Jul 13 2020,FC Internazionale Milano,,Torino FC
-33^ Giornata,Tue Jul 14 2020,Atalanta Bergamo,,Brescia Calcio
-33^ Giornata,Wed Jul 15 2020,UC Sampdoria,,Cagliari Calcio
-33^ Giornata,Wed Jul 15 2020,AC Milan,,Parma
-33^ Giornata,Wed Jul 15 2020,Bologna FC,,SSC Napoli
-33^ Giornata,Wed Jul 15 2020,Udinese Calcio,,SS Lazio
-33^ Giornata,Wed Jul 15 2020,US Lecce,,ACF Fiorentina
-33^ Giornata,Wed Jul 15 2020,AS Roma,,Hellas Verona
-33^ Giornata,Wed Jul 15 2020,US Sassuolo Calcio,,Juventus
-33^ Giornata,Thu Jul 16 2020,SPAL Ferrara,,FC Internazionale Milano
-33^ Giornata,Thu Jul 16 2020,Torino FC,,Genoa CFC
-34^ Giornata,Sat Jul 18 2020,Hellas Verona,,Atalanta Bergamo
-34^ Giornata,Sat Jul 18 2020,Cagliari Calcio,,US Sassuolo Calcio
-34^ Giornata,Sat Jul 18 2020,AC Milan,,Bologna FC
-34^ Giornata,Sun Jul 19 2020,AS Roma,,FC Internazionale Milano
-34^ Giornata,Sun Jul 19 2020,Parma,,UC Sampdoria
-34^ Giornata,Sun Jul 19 2020,ACF Fiorentina,,Torino FC
-34^ Giornata,Sun Jul 19 2020,Genoa CFC,,US Lecce
-34^ Giornata,Sun Jul 19 2020,Brescia Calcio,,SPAL Ferrara
-34^ Giornata,Sun Jul 19 2020,SSC Napoli,,Udinese Calcio
-34^ Giornata,Mon Jul 20 2020,Juventus,,SS Lazio
-35^ Giornata,Tue Jul 21 2020,Atalanta Bergamo,,Bologna FC
-35^ Giornata,Tue Jul 21 2020,US Sassuolo Calcio,,AC Milan
-35^ Giornata,Wed Jul 22 2020,FC Internazionale Milano,,ACF Fiorentina
-35^ Giornata,Wed Jul 22 2020,Parma,,SSC Napoli
-35^ Giornata,Wed Jul 22 2020,US Lecce,,Brescia Calcio
-35^ Giornata,Wed Jul 22 2020,Torino FC,,Hellas Verona
-35^ Giornata,Wed Jul 22 2020,SPAL Ferrara,,AS Roma
-35^ Giornata,Wed Jul 22 2020,UC Sampdoria,,Genoa CFC
-35^ Giornata,Thu Jul 23 2020,Udinese Calcio,,Juventus
-35^ Giornata,Thu Jul 23 2020,SS Lazio,,Cagliari Calcio
-36^ Giornata,Sun Jul 26 2020,Juventus,,UC Sampdoria
-36^ Giornata,Sun Jul 26 2020,SSC Napoli,,US Sassuolo Calcio
-36^ Giornata,Sun Jul 26 2020,AS Roma,,ACF Fiorentina
-36^ Giornata,Sun Jul 26 2020,AC Milan,,Atalanta Bergamo
-36^ Giornata,Sun Jul 26 2020,Cagliari Calcio,,Udinese Calcio
-36^ Giornata,Sun Jul 26 2020,Bologna FC,,US Lecce
-36^ Giornata,Sun Jul 26 2020,Genoa CFC,,FC Internazionale Milano
-36^ Giornata,Sun Jul 26 2020,Brescia Calcio,,Parma
-36^ Giornata,Sun Jul 26 2020,Hellas Verona,,SS Lazio
-36^ Giornata,Sun Jul 26 2020,SPAL Ferrara,,Torino FC
-37^ Giornata,Wed Jul 29 2020,FC Internazionale Milano,,SSC Napoli
-37^ Giornata,Wed Jul 29 2020,ACF Fiorentina,,Bologna FC
-37^ Giornata,Wed Jul 29 2020,SS Lazio,,Brescia Calcio
-37^ Giornata,Wed Jul 29 2020,Parma,,Atalanta Bergamo
-37^ Giornata,Wed Jul 29 2020,Udinese Calcio,,US Lecce
-37^ Giornata,Wed Jul 29 2020,UC Sampdoria,,AC Milan
-37^ Giornata,Wed Jul 29 2020,Cagliari Calcio,,Juventus
-37^ Giornata,Wed Jul 29 2020,Torino FC,,AS Roma
-37^ Giornata,Wed Jul 29 2020,Hellas Verona,,SPAL Ferrara
-37^ Giornata,Wed Jul 29 2020,US Sassuolo Calcio,,Genoa CFC
-38^ Giornata,Sun Aug 2 2020,Juventus,,AS Roma
-38^ Giornata,Sun Aug 2 2020,SSC Napoli,,SS Lazio
-38^ Giornata,Sun Aug 2 2020,AC Milan,,Cagliari Calcio
-38^ Giornata,Sun Aug 2 2020,Atalanta Bergamo,,FC Internazionale Milano
-38^ Giornata,Sun Aug 2 2020,Bologna FC,,Torino FC
-38^ Giornata,Sun Aug 2 2020,Genoa CFC,,Hellas Verona
-38^ Giornata,Sun Aug 2 2020,Brescia Calcio,,UC Sampdoria
-38^ Giornata,Sun Aug 2 2020,US Sassuolo Calcio,,Udinese Calcio
-38^ Giornata,Sun Aug 2 2020,SPAL Ferrara,,ACF Fiorentina
-38^ Giornata,Sun Aug 2 2020,US Lecce,,Parma
+27^ Giornata,Wed Jun 24 2020,AS Roma,2-1,UC Sampdoria
+28^ Giornata,Fri Jun 26 2020,Juventus,4-0,US Lecce
+28^ Giornata,Sat Jun 27 2020,Brescia Calcio,2-2,Genoa CFC
+28^ Giornata,Sat Jun 27 2020,Cagliari Calcio,4-2,Torino FC
+28^ Giornata,Sat Jun 27 2020,SS Lazio,2-1,ACF Fiorentina
+28^ Giornata,Sun Jun 28 2020,AC Milan,2-0,AS Roma
+28^ Giornata,Sun Jun 28 2020,UC Sampdoria,1-2,Bologna FC
+28^ Giornata,Sun Jun 28 2020,Udinese Calcio,2-3,Atalanta Bergamo
+28^ Giornata,Sun Jun 28 2020,US Sassuolo Calcio,3-3,Hellas Verona
+28^ Giornata,Sun Jun 28 2020,SSC Napoli,3-1,SPAL Ferrara
+28^ Giornata,Sun Jun 28 2020,Parma,1-2,FC Internazionale Milano
+29^ Giornata,Tue Jun 30 2020,Torino FC,1-2,SS Lazio
+29^ Giornata,Tue Jun 30 2020,Genoa CFC,1-3,Juventus
+29^ Giornata,Wed Jul 1 2020,Bologna FC,1-1,Cagliari Calcio
+29^ Giornata,Wed Jul 1 2020,FC Internazionale Milano,6-0,Brescia Calcio
+29^ Giornata,Wed Jul 1 2020,SPAL Ferrara,2-2,AC Milan
+29^ Giornata,Wed Jul 1 2020,US Lecce,1-2,UC Sampdoria
+29^ Giornata,Wed Jul 1 2020,ACF Fiorentina,1-3,US Sassuolo Calcio
+29^ Giornata,Wed Jul 1 2020,Hellas Verona,3-2,Parma
+29^ Giornata,Thu Jul 2 2020,Atalanta Bergamo,2-0,SSC Napoli
+29^ Giornata,Thu Jul 2 2020,AS Roma,0-2,Udinese Calcio
+30^ Giornata,Sat Jul 4 2020,Juventus,4-1,Torino FC
+30^ Giornata,Sat Jul 4 2020,US Sassuolo Calcio,4-2,US Lecce
+30^ Giornata,Sat Jul 4 2020,SS Lazio,0-3,AC Milan
+30^ Giornata,Sun Jul 5 2020,FC Internazionale Milano,1-2,Bologna FC
+30^ Giornata,Sun Jul 5 2020,Cagliari Calcio,0-1,Atalanta Bergamo
+30^ Giornata,Sun Jul 5 2020,Parma,1-2,ACF Fiorentina
+30^ Giornata,Sun Jul 5 2020,Udinese Calcio,2-2,Genoa CFC
+30^ Giornata,Sun Jul 5 2020,UC Sampdoria,3-0,SPAL Ferrara
+30^ Giornata,Sun Jul 5 2020,Brescia Calcio,2-0,Hellas Verona
+30^ Giornata,Sun Jul 5 2020,SSC Napoli,2-1,AS Roma
+31^ Giornata,Tue Jul 7 2020,US Lecce,2-1,SS Lazio
+31^ Giornata,Tue Jul 7 2020,AC Milan,4-2,Juventus
+31^ Giornata,Wed Jul 8 2020,Genoa CFC,1-2,SSC Napoli
+31^ Giornata,Wed Jul 8 2020,ACF Fiorentina,0-0,Cagliari Calcio
+31^ Giornata,Wed Jul 8 2020,Bologna FC,1-2,US Sassuolo Calcio
+31^ Giornata,Wed Jul 8 2020,AS Roma,2-1,Parma
+31^ Giornata,Wed Jul 8 2020,Atalanta Bergamo,2-0,UC Sampdoria
+31^ Giornata,Wed Jul 8 2020,Torino FC,3-1,Brescia Calcio
+31^ Giornata,Thu Jul 9 2020,SPAL Ferrara,0-3,Udinese Calcio
+31^ Giornata,Thu Jul 9 2020,Hellas Verona,2-2,FC Internazionale Milano
+32^ Giornata,Sat Jul 11 2020,SS Lazio,1-2,US Sassuolo Calcio
+32^ Giornata,Sat Jul 11 2020,Brescia Calcio,0-3,AS Roma
+32^ Giornata,Sat Jul 11 2020,Juventus,2-2,Atalanta Bergamo
+32^ Giornata,Sun Jul 12 2020,Genoa CFC,2-0,SPAL Ferrara
+32^ Giornata,Sun Jul 12 2020,Parma,2-2,Bologna FC
+32^ Giornata,Sun Jul 12 2020,ACF Fiorentina,1-1,Hellas Verona
+32^ Giornata,Sun Jul 12 2020,Cagliari Calcio,0-0,US Lecce
+32^ Giornata,Sun Jul 12 2020,Udinese Calcio,1-3,UC Sampdoria
+32^ Giornata,Sun Jul 12 2020,SSC Napoli,2-2,AC Milan
+32^ Giornata,Mon Jul 13 2020,FC Internazionale Milano,3-1,Torino FC
+33^ Giornata,Tue Jul 14 2020,Atalanta Bergamo,6-2,Brescia Calcio
+33^ Giornata,Wed Jul 15 2020,AC Milan,3-1,Parma
+33^ Giornata,Wed Jul 15 2020,UC Sampdoria,3-0,Cagliari Calcio
+33^ Giornata,Wed Jul 15 2020,Bologna FC,1-1,SSC Napoli
+33^ Giornata,Wed Jul 15 2020,Udinese Calcio,0-0,SS Lazio
+33^ Giornata,Wed Jul 15 2020,AS Roma,2-1,Hellas Verona
+33^ Giornata,Wed Jul 15 2020,US Lecce,1-3,ACF Fiorentina
+33^ Giornata,Wed Jul 15 2020,US Sassuolo Calcio,3-3,Juventus
+33^ Giornata,Thu Jul 16 2020,Torino FC,3-0,Genoa CFC
+33^ Giornata,Thu Jul 16 2020,SPAL Ferrara,0-4,FC Internazionale Milano
+34^ Giornata,Sat Jul 18 2020,Hellas Verona,1-1,Atalanta Bergamo
+34^ Giornata,Sat Jul 18 2020,Cagliari Calcio,1-1,US Sassuolo Calcio
+34^ Giornata,Sat Jul 18 2020,AC Milan,5-1,Bologna FC
+34^ Giornata,Sun Jul 19 2020,Parma,2-3,UC Sampdoria
+34^ Giornata,Sun Jul 19 2020,SSC Napoli,2-1,Udinese Calcio
+34^ Giornata,Sun Jul 19 2020,Brescia Calcio,2-1,SPAL Ferrara
+34^ Giornata,Sun Jul 19 2020,ACF Fiorentina,2-0,Torino FC
+34^ Giornata,Sun Jul 19 2020,Genoa CFC,2-1,US Lecce
+34^ Giornata,Sun Jul 19 2020,AS Roma,2-2,FC Internazionale Milano
+34^ Giornata,Mon Jul 20 2020,Juventus,2-1,SS Lazio
+35^ Giornata,Tue Jul 21 2020,Atalanta Bergamo,1-0,Bologna FC
+35^ Giornata,Tue Jul 21 2020,US Sassuolo Calcio,1-2,AC Milan
+35^ Giornata,Wed Jul 22 2020,Parma,2-1,SSC Napoli
+35^ Giornata,Wed Jul 22 2020,SPAL Ferrara,1-6,AS Roma
+35^ Giornata,Wed Jul 22 2020,US Lecce,3-1,Brescia Calcio
+35^ Giornata,Wed Jul 22 2020,UC Sampdoria,1-2,Genoa CFC
+35^ Giornata,Wed Jul 22 2020,FC Internazionale Milano,0-0,ACF Fiorentina
+35^ Giornata,Wed Jul 22 2020,Torino FC,1-1,Hellas Verona
+35^ Giornata,Thu Jul 23 2020,Udinese Calcio,2-1,Juventus
+35^ Giornata,Thu Jul 23 2020,SS Lazio,2-1,Cagliari Calcio
+36^ Giornata,Fri Jul 24 2020,AC Milan,1-1,Atalanta Bergamo
+36^ Giornata,Sat Jul 25 2020,Brescia Calcio,1-2,Parma
+36^ Giornata,Sat Jul 25 2020,Genoa CFC,0-3,FC Internazionale Milano
+36^ Giornata,Sat Jul 25 2020,SSC Napoli,2-0,US Sassuolo Calcio
+36^ Giornata,Sun Jul 26 2020,Bologna FC,3-2,US Lecce
+36^ Giornata,Sun Jul 26 2020,Hellas Verona,1-5,SS Lazio
+36^ Giornata,Sun Jul 26 2020,AS Roma,2-1,ACF Fiorentina
+36^ Giornata,Sun Jul 26 2020,Cagliari Calcio,0-1,Udinese Calcio
+36^ Giornata,Sun Jul 26 2020,SPAL Ferrara,1-1,Torino FC
+36^ Giornata,Sun Jul 26 2020,Juventus,2-0,UC Sampdoria
+37^ Giornata,Tue Jul 28 2020,Parma,1-2,Atalanta Bergamo
+37^ Giornata,Tue Jul 28 2020,FC Internazionale Milano,2-0,SSC Napoli
+37^ Giornata,Wed Jul 29 2020,Udinese Calcio,1-2,US Lecce
+37^ Giornata,Wed Jul 29 2020,US Sassuolo Calcio,5-0,Genoa CFC
+37^ Giornata,Wed Jul 29 2020,Hellas Verona,3-0,SPAL Ferrara
+37^ Giornata,Wed Jul 29 2020,UC Sampdoria,1-4,AC Milan
+37^ Giornata,Wed Jul 29 2020,SS Lazio,2-0,Brescia Calcio
+37^ Giornata,Wed Jul 29 2020,Torino FC,2-3,AS Roma
+37^ Giornata,Wed Jul 29 2020,Cagliari Calcio,2-0,Juventus
+37^ Giornata,Wed Jul 29 2020,ACF Fiorentina,4-0,Bologna FC
+38^ Giornata,Sat Aug 1 2020,Brescia Calcio,1-1,UC Sampdoria
+38^ Giornata,Sat Aug 1 2020,Atalanta Bergamo,0-2,FC Internazionale Milano
+38^ Giornata,Sat Aug 1 2020,AC Milan,3-0,Cagliari Calcio
+38^ Giornata,Sat Aug 1 2020,SSC Napoli,3-1,SS Lazio
+38^ Giornata,Sat Aug 1 2020,Juventus,1-3,AS Roma
+38^ Giornata,Sun Aug 2 2020,SPAL Ferrara,1-3,ACF Fiorentina
+38^ Giornata,Sun Aug 2 2020,Genoa CFC,3-0,Hellas Verona
+38^ Giornata,Sun Aug 2 2020,US Lecce,3-4,Parma
+38^ Giornata,Sun Aug 2 2020,Bologna FC,1-1,Torino FC
+38^ Giornata,Sun Aug 2 2020,US Sassuolo Calcio,0-1,Udinese Calcio
